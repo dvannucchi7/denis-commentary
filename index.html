@@ -212,7 +212,7 @@ const BOOKS = [
  ["iii-john","3 John","Epistola III Joannis",1],["jude","Jude","Epistola Judæ",1],["revelation-of-john","Apocalypse","Apocalypsis Joannis",22]
 ];
 const NT_START = 46;               // index of Matthew
-const COMMENTARY_BOOKS = ["genesis"]; // books with commentary files loaded so far
+const COMMENTARY_BOOKS = ["genesis", "exodus"]; // books with commentary files loaded so far
 const TR_LABEL = { drc: "Douay-Rheims (Challoner)" };
 
 // ---------- State & helpers ----------
@@ -382,7 +382,7 @@ async function renderCommentary() {
   const arts = comm && comm.chapters[state.ch];
   if (!arts) {
     el.innerHTML = `<div class="card empty">No commentary loaded for this chapter yet.${
-      comm ? "" : "<br><span style='font-size:15px'>In this prototype, commentary is loaded for Genesis 30–31 (marked ✠).</span>"}</div>`;
+      comm ? "" : "<br><span style='font-size:15px'>Chapters with commentary are marked ✠ in the menus.</span>"}</div>`;
     return;
   }
   el.innerHTML = arts.map((a, ai) => {

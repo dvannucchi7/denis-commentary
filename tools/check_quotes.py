@@ -55,7 +55,7 @@ def check(book):
                 a, b = p["v"]
                 if not (1 <= a <= b <= nverses):
                     problems.append(f"{where} para {i+1}: verse tag {a}-{b} is outside the chapter (1-{nverses})")
-                if prev_end is not None and a > prev_end + 1:
+                if prev_end is not None and a > prev_end + 1 and not p.get("gap_ok"):
                     problems.append(f"{where} para {i+1}: gap in verse tags ({prev_end} -> {a}); fine only if Denis skips on purpose")
                 prev_end = max(prev_end or 0, b)
                 for ref, dr, _vul in Q.findall(p.get("en", "")):

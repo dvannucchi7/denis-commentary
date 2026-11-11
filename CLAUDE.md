@@ -69,7 +69,8 @@ How they display (do not change without Dave asking):
   not explicitly discussed (e.g. 4–8, 9–13, not 4, 9).
 - Repeat or overlap only where he really does: a verse split across two paragraphs, a digression
   that dwells on one verse (Lyra on *teraphim* at 31:19), or going back to a verse.
-- Gaps are fine only where Denis himself jumps out of order. Judge each section.
+- Gaps are fine only where Denis himself jumps out of order or deliberately skips. Mark such a paragraph
+  with `"gap_ok": true` so `check_quotes.py` accepts it (e.g. Exodus 20, Art. XLI goes from v. 12 to v. 21).
 
 ## Translation style
 
@@ -83,6 +84,19 @@ How they display (do not change without Dave asking):
 - The English article title goes in `title_en`.
 
 ## Getting the Latin text
+
+Scans (Dave supplies the PDFs; the workspace cannot download from archive.org or Google Books):
+- t. I (Genesis–Exodus 19): archive.org `operaomniainunum01deni`. Text layer is unusable and some
+  areas are faded. PDF page = printed page + 106 around Genesis 30 (PDF 451 = p. 345).
+- t. II (Exodus 20 onward): Google scan `doctorisecstati00unkngoog`. Clean and dark. PDF 14 = p. 1.
+  The scan repeats some pages (PDF 23–31 and 37–39 repeat earlier ones); PDF 31 (p. 10) is garbled,
+  use PDF 39. Always map PDF pages to printed pages before assembling.
+
+Tools: `tools/ocr_columns.py` (cuts each page at the gutter, drops running head and marginal notes,
+OCRs each column with Tesseract's Latin model) and `tools/assemble.py` (joins columns, removes running
+heads and gutter letters A–D, rejoins hyphenated words). Article titles span both columns, so find them
+with a full-page OCR pass. The printed text sets scripture quotations in italics, which helps in
+spotting lemmata.
 
 The printed volumes have two columns per page. Plain text extracted from the scans mixes the two
 columns line by line; the letters A–D in the gutter mark quarters of the page. Prefer cutting each page
