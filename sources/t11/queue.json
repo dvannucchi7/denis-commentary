@@ -463,8 +463,9 @@
     277,
     286
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T21:13:24Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-12T21:13:24Z",
+   "note": "Published. PDF 284 (p. 264): a crease or stain at the foot of both columns. Left column: one or two lines lost after 'Verumtamen, quantumcumque diu' (v. 22; probably 'duraret, non posset Dei propositum'), marked […] with a translator's note; right column: the line after 'Fecit signa magna, ita' restored from Apoc 13:13 ('ut etiam ignem faceret de cælo descendere in terram'). Check both against the scan. Also: data/bible/drc Matthew 24:27 reads 'cowling' for 'coming' (typo in the Douay-Rheims source)."
   },
   {
    "id": "matthew-39",
