@@ -566,8 +566,9 @@
     347,
     352
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T21:41:21Z"
+   "status": "done",
+   "claimed": "2026-11-12T21:41:21Z",
+   "note": "Many margin notes here only send the reader to the Matthew commentary; they are given as references only (Matt 3:3, 3:4, 3:11, 3:16, 4:2, 4:18, 8:2, 8:14, 8:16), the verse chosen from the passage where the margin numerals were unreadable. Ecclus 39:6 and Matt 8:16 from unread margin notes."
   },
   {
    "id": "mark-02",
