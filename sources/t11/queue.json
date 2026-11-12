@@ -132,8 +132,9 @@
     90,
     96
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T14:50:44Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-12T14:50:44Z",
+   "note": "Translated and published, but one line at the foot of each column on PDF 93 (p. 73) is unreadable in the OCR; marked […] in 5:42 (after 'quia beati', surely Acts 20:35) and 5:43 (after 'Non quæres ei bona;', a quotation ending '...eorum non deleatur', probably Jer 18:23). Please check the scan. Also: Art. XI runs on from 5:38 to 6:4, so it is stored in two parts (chapter 5, vv. 38-48, and chapter 6, vv. 1-4, both as Art. XI, each with a note)."
   },
   {
    "id": "matthew-12",
