@@ -340,8 +340,8 @@
     197,
     206
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T17:56:03Z"
+   "status": "done",
+   "note": "Published (Matthew 15:1-38, Art. XXVIII). On PDF 199-201 the OCR read some margin notes into the text column (e.g. 'Is. xi, 4', 'Ps. lxxi, 4', 'II Cor. xii, 14', 'Jer. ii, 21', 'Joann. vi, 66'); these were used for the references and removed from the Latin, so recheck lists them as no-margin. Unread/misread margin, tags kept: Is 26:10 (Denis quotes the Septuagint), Ps 9:2 (with Ps 110:1, 137:1)."
   },
   {
    "id": "matthew-29",
