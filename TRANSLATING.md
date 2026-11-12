@@ -10,7 +10,7 @@ the procedure.
 1. **Pick the work, and keep going.** Note the time when the run starts (`date -u`). Work through the
    queues in order: `sources/t11/queue.json` first, then `sources/t12/queue.json`. Take the first item
    whose status is `"todo"`, or `"in-progress"` with a `claimed` time more than 2 hours old (an
-   abandoned run). **Claim it before starting:** set `"status": "in-progress"` and
+   abandoned run). Skip `"needs-margins"` items until their margins have been read (see step 5). **Claim it before starting:** set `"status": "in-progress"` and
    `"claimed": "<UTC time>"`, commit ("Claim matthew-10"), `git pull --rebase origin main`, push. If the
    push fails or someone else claimed it meanwhile, pull and take the next item. Then translate it.
    **Publish each article as soon as it is finished** (steps 6–8), then go straight on to the next item.
@@ -31,22 +31,36 @@ the procedure.
    one at chapter boundaries. Print the chapter with `python3 tools/verses.py --chapter matthew 5`.
    Split the article into paragraphs where Denis moves to a new lemma or a new section, and tag each
    paragraph with its verse range (continuous, per `CLAUDE.md`).
-5. **Find the quotations, then translate.** Run both finders before translating:
-   - `python3 tools/margins.py <vol> <id> <chapter>` lists the references printed in the margins of
-     the article's pages, in reading order, each beside the Latin line it belongs to. The printed
-     edition cites the source of nearly every quotation there; the book is almost always read
-     right, the small numerals less so, so each reference has been checked against the Vulgate:
-     `printed` (fits), `corrected` (numerals misread; a verse of that book matched the Latin) or
-     `allusion?` (no clear match: an allusion, a free quotation, or a misread: check it). Bare verse
-     numbers in the margin show where each verse of the chapter begins, which helps with the verse
-     tags. Ignore notes on the first and last pages that belong to the neighbouring articles.
-   - `python3 tools/find_quotes.py <article.txt> <book> <chapter>` lists the runs of words that match
-     the chapter being treated and, after that, the rest of the Bible.
-   Between them they identify nearly every quotation; settle any doubt with
-   `python3 tools/verses.py "Ps 26:13" "Rom 12:1" …` (for a margin reference, look within the book it
-   names). Gospel parallels: the margin says which Gospel Denis means.
-   Translate each paragraph into the `en` field, in the agreed style, marking every direct quotation of
-   Scripture. **Write the markers in shorthand; do not copy out the wording:**
+5. **References come from the margins only (Dave's rule).** The printed edition gives the source of
+   each quotation in the margin; that is the only place a run takes references from.
+   - `python3 tools/margins.py <vol> <id> <chapter>` lists the margin references of the article's
+     pages, in reading order, each beside the Latin line it belongs to. Ignore notes on the first and
+     last pages that belong to the neighbouring articles. Bare verse numbers in the margin show where
+     each verse of the chapter treated begins (use them for the verse tags).
+   - **Tag a quotation from outside the chapter treated only where the margin gives a reference
+     for it.** Do not search the article against the Vulgate for other quotations (do not use the
+     whole-Bible part of `find_quotes.py`), and do not add references the margin does not give. A
+     quotation with no margin reference stays plain text, untagged.
+   - **For each margin reference, work out the verse.** The book is almost always read right, the
+     small numerals often not. Look the verse up with `python3 tools/verses.py "Ps 26:13" …` and
+     confirm it against the Latin beside the note; if the numerals were misread, find the verse within
+     the book the margin names. The tool's `corrected` entries are only suggestions: check them (they
+     can be wrong where the printed reference was right). `allusion?` means no clear match: if Denis
+     only alludes, do not tag it.
+   - **If there is any confusion, add a note in the article** at that place, as a translator's note
+     in square brackets, saying what the margin prints and what is uncertain, e.g. "[the margin gives
+     Ecclus. xx, 32; Denis's wording is closer to Ecclus 41:17]" or "[the margin reference is
+     unreadable; the words are those of Is 66:1]". Tag the verse that best fits, or leave the
+     quotation untagged if none does.
+   - Lemmata (Denis quoting the chapter he is treating) are still marked as before, as `C:V`. Find
+     them by reading the article alongside the chapter (`python3 tools/verses.py --chapter …`) and the
+     margin's verse numbers, not by matching the article against the Vulgate.
+   - **If the margins of the article's pages have not been read yet** (`margins.py` prints "margins
+     of PDF … not read yet"), do not translate it: set its status to `"needs-margins"` with a note
+     giving the PDF pages, push, and take the next item. Reading margins needs the scan PDF, which
+     runs do not have; Dave reads them (`python3 tools/margins.py read <vol> <pdf> <first> <last>`).
+   Translate each paragraph into the `en` field, in the agreed style, marking the quotations as above.
+   **Write the markers in shorthand; do not copy out the wording:**
    `[[Ps 44:8|hath anointed … fellows|Unxit te … tuis]]`: the reference, then two or three words from
    the start and end of the quoted part in the Douay-Rheims, then the same in Denis's Latin. `*` means
    the whole verse (`[[5:3|*|*]]`). `tools/add_article.py` fills in the exact Douay-Rheims and the Latin

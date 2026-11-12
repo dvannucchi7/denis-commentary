@@ -54,8 +54,12 @@ Articles are sorted by number in the app automatically, but keep them in order i
 - The Douay-Rheims wording must be copied exactly from `data/bible/drc` (only the part Denis
   quotes). The Vulgate wording is the matching Clementine Latin; the Latin view uses it to find and
   colour the quotation in Denis's own text.
-- Every direct quotation of scripture gets a marker, including the lemmata (the bits of the verse
-  Denis quotes before glossing them). Allusions and paraphrases do not.
+- Lemmata (the bits of the chapter treated that Denis quotes before glossing them) get a marker.
+- A quotation from anywhere else gets a marker **only where the printed margin gives a reference
+  for it** (Dave's rule; see `TRANSLATING.md` step 5). The run works out which verse the margin means;
+  it does not search the text against the Vulgate for other quotations. Where the margin reference is
+  unclear or does not fit, a bracketed translator's note at that place says so. Allusions and
+  paraphrases do not get markers.
 
 How they display (do not change without Dave asking):
 - quotation from the chapter being treated: *italic*, normal ink, no reference shown
@@ -108,7 +112,8 @@ Scans (Dave supplies the PDFs; the workspace cannot download from archive.org or
 
 Translation runs follow `TRANSLATING.md` (procedure) with `tools/verses.py` (Douay-Rheims + Vulgate
 lookup; Vulgate text is in `sources/vulgate/`, not shown in the app), `tools/find_quotes.py` (finds
-runs of words in an article that match the Vulgate chapter, to catch lemmata and quotations) and
+runs of words in an article that match the Vulgate; no longer used for references, which come from the
+margins only) and
 `tools/add_article.py` (expands shorthand quotation markers with `tools/expand_quotes.py`, merges a
 finished article and switches the book on in the app).
 `tools/cut_articles.py <vol>` pre-cuts queued articles from the OCR pages. `tools/margins.py` reads the
