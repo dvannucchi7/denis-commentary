@@ -190,13 +190,14 @@
    "id": "matthew-16",
    "book": "matthew",
    "art": 16,
-   "chapter_guess": 7,
+   "chapter_guess": 8,
    "pages": [
     119,
     124
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T15:10:17Z"
+   "status": "done",
+   "claimed": "2026-11-12T15:10:17Z",
+   "note": "No pre-cut article file; assembled from PDF 118-124. Covers Matthew 8:1-13 (pp. 98-104)."
   },
   {
    "id": "matthew-17",
