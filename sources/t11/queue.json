@@ -220,8 +220,9 @@
     128,
     141
    ],
-   "status": "todo",
-   "note": "PDF 136 OCR is partly garbled (woman with the issue of blood, Jairus messengers): may need needs-scan"
+   "status": "in-progress",
+   "note": "PDF 136 OCR is partly garbled (woman with the issue of blood, Jairus messengers): may need needs-scan",
+   "claimed": "2026-11-12T16:43:17Z"
   },
   {
    "id": "matthew-19",
