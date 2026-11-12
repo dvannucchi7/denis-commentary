@@ -529,7 +529,7 @@
    ],
    "status": "done",
    "claimed": "2026-11-12T21:27:01Z",
-   "note": "No margin note read (kept, word for word): 1 Thess 2:16 (margin read as 'I Thess. ii, 16' misread). Gen 49:31 given for the margin 'Gen. xlix, 29-31' (read as Gen 21:9); Ps 68:22 for 'Dederunt in escam meam fel' (margin unclear)."
+   "note": "No margin note read (kept, word for word): 1 Thess 2:16 (margin printed 'I Thess. , 16', read as Osee 1:16). Gen 49:31 given for the margin 'Gen. xlix, 29-31' (read as Gen 21:9); Ps 68:22 for 'Dederunt in escam meam fel' (margin unclear)."
   },
   {
    "id": "matthew-44",
@@ -540,7 +540,8 @@
     327,
     336
    ],
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-12T21:32:08Z"
   },
   {
    "id": "matthew-45",
