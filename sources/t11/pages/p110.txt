@@ -1,8 +1,14 @@
+=====HEADING=====
+ARTICULUS XV
+
 =====LEFT=====
-ARTIC
 
-EXPLANATIO CAPITULI SEPTIMI : ?
+=====RIGHT=====
 
+=====HEADING=====
+EXPLANATIO CAPITULI SEPTIMI : NOLITE JUDICARE, UT NON JUDICEMINI.
+
+=====LEFT=====
 N presentis capituli exordio prohibet
 
 Dominus judicare. Nolte, inquiens, 72
@@ -47,10 +53,6 @@ Secundo, ut procedat ex auctoritate prae
 sidentis : quia judicare homo non debet.
 
 =====RIGHT=====
-LUS XV
-
-LITE JUDICARE, UT NON JUDICEMINI.
-
 A nisi subjectum. Tertio, ut proferatur se-
 cundum rectam rationem prudentia. Si
 primum horum defuerit, vocatur judici-

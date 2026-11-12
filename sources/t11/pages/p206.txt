@@ -1,6 +1,7 @@
-=====LEFT=====
-ARTICU.:
+=====HEADING=====
+ARTICULUS XXIX
 
+=====LEFT=====
 EXPOSITIO CAPITULI SEXTIDECIMI : ET
 
 T dimissa turba, quam in fine prace-
@@ -48,8 +49,6 @@ bus. Talis autem dispositio signum est fu-
 ture serenitatis, quia vapores subtiles ac
 
 =====RIGHT=====
-US XXIX
-
 IMISSA TURBA, ASGENDIT IN NAVICULAM.
 
 ! modici sunt, qui non resolvuntur in plu-

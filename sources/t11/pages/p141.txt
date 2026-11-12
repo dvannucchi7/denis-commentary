@@ -1,9 +1,9 @@
+=====HEADING=====
+ARTICULUS XIX
+ELUGCIDATIO CAPITULI DECIMI : ET CONVOCATIS DUODECIM DISCIPULIS SUIS,
+DEDIT JLLIS POTESTATEM, ETC.
+
 =====LEFT=====
-ARTICI
-
-ELUCIDATIO CAPITULI DECIMI : ET
-DEDIT ILLIS I
-
 OSTQUAM Christus docuit se rogan-
 
 dum ut mitteret operarios jn messerr
@@ -47,11 +47,6 @@ et quia non aliter crederetur illitteratis
 ac idiotis.
 
 =====RIGHT=====
-LUS XIX
-
-JNVOCATIS DUODECIM DISCIPULIS SUIS,
-TESTATEM, ETC.
-
 A Duodecim autem Apostolorum nomina
 sunt hec. Ponit Evangelista nomina Apo-
 stolorum, ne alii pseudoapostoli recipe-

@@ -1,8 +1,14 @@
+=====HEADING=====
+ARTICULUS IV
+
 =====LEFT=====
-ARTIC
 
-DECLARATIO CAPITULI QUARTI ; !
+=====RIGHT=====
 
+=====HEADING=====
+DECLARATIO CAPITULI QUARTI ;: ET ITERUM COEPIT DOCERE AD MARE.
+
+=====LEFT=====
 | T iterum coepit docere ad mare, ut
 
 aquam sapientiz salutaris juxta maris
@@ -62,10 +68,6 @@ quemadmodum si jacíat homo agricola se-
 hes. i,
 
 =====RIGHT=====
-LUS IV
-
-' ITERUM COEPIT DOCERE AD MARE.
-
 i mat, et exsurgat homo ille zocte ac die,
 ete., hoe est eongruis horis diei et noctis,
 ad videndum negotia sua. Juxta litteralem

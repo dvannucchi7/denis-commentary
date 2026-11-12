@@ -1,11 +1,14 @@
 =====LEFT=====
-ENARRATIO IN
 
+=====RIGHT=====
+
+=====HEADING=====
+ENARRATIO IN EVANGELIUM
+
+=====LEFT=====
 SECUNDUM
 
 T. 11.
 
 =====RIGHT=====
-EVANGELIUM
-
-MATTH /EUM
+MATT H EUM

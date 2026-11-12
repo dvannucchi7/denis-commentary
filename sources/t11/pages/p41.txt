@@ -1,8 +1,14 @@
+=====HEADING=====
+ARTICULUS IV
+
 =====LEFT=====
-ARTIC
 
-ELUCIDATIO CAPITULI SECUNDI : Q
+=====RIGHT=====
 
+=====HEADING=====
+ELUCIDATIO CAPITULI SECUNDI : QUUM ERGO NATUS ESSET JESUS, ETC.
+
+=====LEFT=====
 ESCRIPTA Christi generatione prece-
 
 denti capitulo, nunc ejus apparitio seu
@@ -47,10 +53,6 @@ ablatum fuit sceptrum, hoc est dominium.
 de Juda, et dux de ejus prosapia, certum
 
 =====RIGHT=====
-LUS
-
-UM ERGO NATUS ESSET JESUS, ETC.
-
 C est Christum tune advenisse, qui est ex-
 spectatio gentium, prout in Aggxo habe-
 tur : Veniet Desideratus cunctis gentibus.

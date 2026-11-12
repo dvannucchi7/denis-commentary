@@ -1,6 +1,7 @@
-=====LEFT=====
-ARTICI
+=====HEADING=====
+ARTICULUS IX
 
+=====LEFT=====
 ELUCIDATIO CAPITULI QUINTI : VIDENS A
 
 UONIAM Dominus noster Jesus Chri-
@@ -46,8 +47,6 @@ aliquem, seeundum Hieronymum ; non ir
 montem Oliveti, ut aliqui putaverunt. Cur
 
 =====RIGHT=====
-LUS IX
-
 TEM JESUS TURBAS, ASGENDIT IN MONTEM.
 
 i autem in montem ascenderit, dictum est.

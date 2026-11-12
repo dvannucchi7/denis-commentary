@@ -1,8 +1,14 @@
+=====HEADING=====
+ARTICULUS VI
+
 =====LEFT=====
-ARTICU
 
-EXPOSITIO CAPITULT TERTII ; IN DI
+=====RIGHT=====
 
+=====HEADING=====
+EXPOSITIO CAPITULI TERTII : IN DIEBUS AUTEM ILLIS VENIT JOANNES.
+
+=====LEFT=====
 RACTATURUS beatissimus Evangeli- /
 sta in sequentibus de conversatione,
 doctrina atque miraculis Christi, primo de
@@ -37,7 +43,7 @@ tur. Appropinquabit enim regnum colo-
 rum, id est, jam in proximo est ut janua
 patri:&; aperiatur per Christum, ut gratia
 et veritas fiat per Salvatorem, ut beatitudo
-ccelestis condonetur electis. Christus nam-
+ecelestis condonetur electis. Christus nam-
 que per suam passionem regnum caelorum
 aperuit. Regnum ergo colorum vocatur D
 patria, vel premium electorum, seu tri-
@@ -45,10 +51,6 @@ umphans Ecclesia. Hoc regnum primum
 publice praedicatum est a Joanne. In veteri
 
 =====RIGHT=====
-,US VI
-
-BUS AUTEM ILLIS VENIT JOANNES.
-
 etenim Testamento promittebantur bona
 terrena aperte, celestia vero quasi im-
 plieite.

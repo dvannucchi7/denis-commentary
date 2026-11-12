@@ -1,8 +1,15 @@
+=====HEADING=====
+ARTICULUS XIII
+
 =====LEFT=====
-ARTICULI
+-—
 
-EXPOSITIO ORATIONIS DO?
+=====RIGHT=====
 
+=====HEADING=====
+EXPOSITIO ORATIONIS DOMINIC/IE ; PATER NOSTER.
+
+=====LEFT=====
 E hujus Orationis expositione, laude À
 
 et efficacia, tanta jam a sanctis atque
@@ -47,10 +54,6 @@ et etiam ideo, ut sciamus quod Deus sit
 universale bonum, apud quem non est
 
 =====RIGHT=====
-JS XIII
-
-NICE : PATER NOSTER.
-
 )ersonarum acceptio, qui bonum commu-
 |e diligit et requirit. Secundum Chry--
 ostomum, libenter exaudit Deus precem,

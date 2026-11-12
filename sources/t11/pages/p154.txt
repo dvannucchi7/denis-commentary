@@ -1,9 +1,16 @@
+=====HEADING=====
+ARTICULUS XXI
+
 =====LEFT=====
-ARTICUI
-
 ELUCIDATIO CAPITULI UNDECIMI : JOANNES
-IN VIN
 
+=====RIGHT=====
+AUTEM QUUM AUDISSET OPERA CHRISTI
+
+=====HEADING=====
+IN VINCULIS.
+
+=====LEFT=====
 ECITATA eruditione ac missione Apo- A
 
 stolorum, consequenter agitur de Pre-
@@ -47,11 +54,6 @@ verba Joannis dupliciter posse intelligi :
 Primo sie : 7», de quo talia audio, es qu
 
 =====RIGHT=====
-XXI
-
-AUTEM QUUM AUDISSET OPERA CHRISTI
-LIS.
-
 ^enturus es, hoe est, prenuntiatus seu
 prophetatus es esse futurus? hoc est, an
 iu es Christus quem Propheta cecinerunt

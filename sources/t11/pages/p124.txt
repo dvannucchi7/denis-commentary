@@ -1,6 +1,7 @@
-=====LEFT=====
-ARTICU
+=====HEADING=====
+ARTICULUS XVII
 
+=====LEFT=====
 PROSECUTIO EXPOSITIONIS: PRESENTIS CAPITI
 
 ECITATIS duobus miraculis in sexu
@@ -47,8 +48,6 @@ licet Christo, »nultos de monta habentes, i
 est daemoniacos ; et ejéciebat spiritus ma-
 
 =====RIGHT=====
-,US XVIH
-
 l1: ET QUUM VENISSET JESUS IN DOMUM PETRI.
 
 A lignos ab obsessis corporibus, verbo, id

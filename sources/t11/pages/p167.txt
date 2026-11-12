@@ -4,11 +4,20 @@ laudis et gloriz, sed in vera et voluntaria
 humilitate consistit, quam Dominus Jesus
 ab utero matris usque ad supplicium eru-
 
-ARTICUI
+=====RIGHT=====
+| eis, pro omni fortitudine elegit et docuit.
+Et denuo : Tota, inquit, victoria Salvatoris,
+qua et diabolum stravit et mundum, humi-
+litate est concepta, humilitate confecta.
 
+=====HEADING=====
+ARTICULUS XXIII
+
+=====LEFT=====
 EXPLANATIO CAPITULI DUODEGCIMI : IN ILL(
 
-TN illo tempore, quum dieta et facta
+N iilo tempore, quum dieta et facta
+
 sunt prz:einducta, abiit Jesus sabbato, id
 est septima die hebdomads, qui celebris
 fuit apud Judaeos, per sata, id est per fru-
@@ -38,6 +47,7 @@ licet eis facere sabbatis, scilicet spicas vel-
 lere et eonfrieare. Moyses enim precepit
 in Exodo, ut filii Israel prepararent ciba-
 ria, non in sabbato, sed in die precedenti.
+
 At ille, videlicet Christus, déxit eis, ex-
 eusando discipulos suos, et quodammodo
 exponendo praeceptum : ANoz legístis (pri-
@@ -45,13 +55,6 @@ mo Regum): quod utique legistis, vel le-
 gere aut scire debuistis; quid fecerit Da-
 
 =====RIGHT=====
-| eis, pro omni fortitudine elegit et docuit.
-Et denuo : Tota, inquit, victoria Salvatoris,
-qua et diabolum stravit et mundum, humi-
-litate est concepta, humilitate confecta.
-
-US XXIII
-
 TEMPORE, ABIIT JESUS SABBATO PER SATA.
 
 ) vid, quando esurtit, fugiens a facie Saul,
@@ -62,7 +65,7 @@ lum Domini, in Nobe urbe sacerdotum, e/
 panes propositionis, id est panes qui die
 sabbati ponebantur calidi super mensam
 in tabernaculo, pro usu sacerdotum, co;ne-
-dit,tam ipse quam socii ejus necessitate
+dit, tam ipse quam socii ejus necessitate
 famis compulsi : quos dedit ei Achimelech
 pontifex, quoniam panes laicos non habe-
 bat ad manum ; quos panes zn licebat ei,
@@ -89,6 +92,6 @@ communis, non propria.
 
 Denique Pharisei non reprehendebant
 discipulos Christi, de hoe quod spicas vel-
-lebant et manducabant (quia hoe licuit
+lebant et manducabant (quia hoc licuit
 eis, juxta illud quod in Deuteronomio scri-
 ptum est : Si intraveris segetem amici tul,

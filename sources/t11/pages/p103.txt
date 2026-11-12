@@ -1,8 +1,14 @@
+=====HEADING=====
+ARTICULUS XIV
+
 =====LEFT=====
-ARTICU
 
-DECLARATIO RESIDU/E PARTIS PRZ
+=====RIGHT=====
 
+=====HEADING=====
+DECLARATIO RESIDU/E PARTIS PR/ESENTIS CAPITULI : QUUM JEJUNATIS.
+
+=====LEFT=====
 UUM jejunatis, nolite fieri sicut hy-
 pocrita tristes. Jejunium est actus
 abstinentiz, qu: est pars temperantis. Est
@@ -45,10 +51,6 @@ saneti ac Jejunantes putentur. Aliqui ver
 non jejunant, et tamen ficta exterminatio
 
 =====RIGHT=====
-,US XIV
-
-ENTIS CAPITULI : QUUM JEJUNATIS.
-
 | ne vultus jejunare se simulant. Sunt enim
 quatuor species hypocrisis : prima, qua
 homo se fingit habere vel facere quod
@@ -66,7 +68,7 @@ merito dicitur, Simulatores et callidi pro-
 vocant iram Dei. Deus namque est ipsa
 veritas ; totum autem negotium hypocrita-
 rum falsitati innititur. Exterminant igitur
-facies, 4t pareant, id est videantur, Aomi-
+facies, «t pareant, id est videantur, Aomi-
 nibus jejunantes, non ad edificationem
 intuentium, sed ad propriam laudem. 47ez
 dico vobis, quia receperunt mercedem su-
@@ -74,7 +76,7 @@ am :quas modica est, quoniam gaudium
 hypocrite ad instar puncti.
 Tu autem, quum jejunas. Consuetudo
 ( Seripture est, sepe mutare personam, tem-
-pus, vel numerum : sic modo a plurali ad
+pus, vel numerum : sie modo a plurali ad
 singulare descenditur. Tu autem, o fidelis,
 quieumque sis ille, quum jejunas, «wage
 caput tuum, et faciem tuam lava, id est,

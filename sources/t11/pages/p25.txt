@@ -1,10 +1,21 @@
 =====LEFT=====
 SECUNDUM
 
-ARTICUL
+=====RIGHT=====
+MATTHEUM
 
-EXPOSITIO PRIMI CAPITULI : L|
+=====HEADING=====
+ARTICULUS PRIMUS
 
+=====LEFT=====
+M 110
+
+=====RIGHT=====
+
+=====HEADING=====
+EXPOSITIO PRIMI CAPITULI : LIBER GENERATIONIS JESU CHRISTI.
+
+=====LEFT=====
 IBER generationis Jesu Christi, filii
 
 David, filii Abraham. Sicut in. Prolo-
@@ -34,22 +45,16 @@ zarenum non esse Messiam seu Christum,
 eo quod a Nazareth urbe Galilzs fuerat
 oriundus ; Seriptura vero praedixit Chri-
 stum de Bethlehem Juda et semine Da-
-vid venturum. Hine enim principes Ju.
+vid venturum. Hine enim principes Ju
 deorum locuti sunt Nicodemo : Numquid
 
 =====RIGHT=====
-MATTHEUM
-
-S PRIMUS
-
-ER GENERATIONIS JESU CHRISTI.
-
 ia Galilea venit Christus ? nonne Scri-
 ptura dicit, quia ex semine David, et de
 Bethlehem castello, ubi erat David, venit
 Christus ?
 
-Declarans ergo Matthaeus Jesum esse fi-
+Declarans ergo Mattheus Jesum esse fi-
 lium David, sic orsus est : Liber genera-
 tionis Jesu Christi, id est, liber presens a
 generatione Christi intitulatur.Solent enim
@@ -73,7 +78,7 @@ cerdos magnus; plures quoque vocati sunt
 Christi, per quamdam participationem et
 
  nuneupationem, imperfectamque rationem,
-videlieet, quoniam populum Israel tempo-
+videlicet, quoniam populum Israel tempo-
 raliter seu corporaliter, vel dispositive et
-solum instrumentaliter. liberaverunt, et
+solum instrumentaliter liberaverunt, et
 oleo sancto uncti fuerunt corporaliter, vel

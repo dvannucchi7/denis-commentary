@@ -1,15 +1,30 @@
 =====LEFT=====
-vid exclusive «sque ad transmigrationem
+vid exclusive usque ad. transmigrationem 4
 Babylonis, videlicet usque ad primum Je-
 choniam inclusive, fuerunt generationes
 quatuordecim, loquendo de generationibus
 hie enumeratis, videlicet omissis tribus ge-
 nerationibus przdictis propter causam in-
 
-* ARTIC
+=====RIGHT=====
+ductam ; e£ a transmigratione Babylonis,
+id est a secundo Jechonia inclusive, «sque
+ad Christum inclusive, fuerunt genera-
+tiones quatuordecim : ita ut quartadecima
+zeneratio in Christo compleatur. Hoc pla-
+num est numeranti personas prasceriptas.
 
-DETERMINATIO DUBIORUM CO
+=====HEADING=====
+*- ARTICULUS II
 
+=====LEFT=====
+
+=====RIGHT=====
+
+=====HEADING=====
+DETERMINATIO DUBIORUM CONCERNENTIUM LOCUM ISTUM.
+
+=====LEFT=====
 IFFICULTATEM interea facit lectori I
 
 in primis, quod beatissimi evangeli-
@@ -45,17 +60,6 @@ hoe aliqui dieunt, quod quando aliquis
 non habuit nisi unam prolem ex conjuge
 
 =====RIGHT=====
-ductam ; e£ a transmigratione Babylonis,
-id est a secundo Jechonia inclusive, «sque
-ad Christum inclusive, fuerunt genera-
-tiones quatuordecim : ita ut quartadecima
-zeneratio in Christo compleatur. Hoc pla-
-num est numeranti personas prasceriptas.
-
-LUS II
-
-JERNENTIUM LOCUM ISTUM.
-
 sua, non reputabatur semen relinquere, et
 sic propinquus seu frater ipsius cum uxo-
 re sua contrahere potuit, ac si nullum
@@ -76,7 +80,7 @@ lai. Respondent aliqui, quod Salathiel
 iio nomine nuneupabatur Phadaia. Sed
 10e non videtur, quum loco praallegato,
 n quo filii Jechonie describuntur, inter
-Salathiel et Phadaiam alius medius nomi-
+jalathiel et Phadaiam alius medius nomi-
 1etur. Ideo alii dieunt, quod Zorobabel fi-
 ius Salathiel fuit alius ab isto Zorobabel
 ilio Phadais.

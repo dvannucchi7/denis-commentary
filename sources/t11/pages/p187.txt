@@ -1,9 +1,17 @@
+=====HEADING=====
+ARTICULUS XXVI
+
 =====LEFT=====
-ARTICU.
+DPogee-— ww
 
-PROSECUTIO EXPOSITIONIS PRJESENTIS
-TUNG DIMISSIS TUR
 
+=====RIGHT=====
+
+=====HEADING=====
+PROSECUTIO EXPOSITIONIS PR/JESENTIS CAPITULI, AB EO LOCO QUO DICITUR :
+TUNG DIMISSIS TURBIS, VENIT IN DOMUM.
+
+=====LEFT=====
 UNC, videlicet prescripto sermone ad
 
 populum eirca mare habito ac finito,
@@ -47,11 +55,6 @@ gate in horreum meum. Hucusque textus
 parabol».Quam Christus exponens, adjecit:
 
 =====RIGHT=====
-US XXVI
-
-CAPITULI, AB EO LOCO QUO DICITUR :
-IS, VENIT IN DOMUM.
-
 i Qui seminat bonum semen, est. Filius
 hominis, hoc est, per hominem bonum se-
 men serentem intelligitur Christus. Ager

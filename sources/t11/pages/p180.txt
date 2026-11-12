@@ -1,9 +1,15 @@
+=====HEADING=====
+ARTICULUS XXV
+
 =====LEFT=====
-ARTICL
 
-EXPOSITIO CAPITULI TERTIIDECIMI :
-SEDEBAT
+=====RIGHT=====
 
+=====HEADING=====
+EXPOSITIO CAPITULI TERTIIDECIMI : IN ILLO DIE EXIENS JESUS DE DOMO,
+SEDEBAT SECUS MARE.
+
+=====LEFT=====
 [s illo die exiens Jesus de domo. Si pru
 denter pensemus verba evangelistarun
 Lucs et Marci, compellimur hoec loco acei
@@ -47,11 +53,6 @@ Joannis, Exivi a Patre, et veni in mun-
 dum; et in Psalmo, A summo ecelo egres-
 
 =====RIGHT=====
-LUS XXV
-
-IN ILLO DIE EXIENS JESUS DE DOMO,
-SECUS MARE.
-
 À sio ejus. Vel, exiit de utero Virginis, appa-
 rendo in mundo, secundum illud : lpse
 lanquam sponsus procedens de thalamo

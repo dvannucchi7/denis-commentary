@@ -1,9 +1,15 @@
+=====HEADING=====
+ARTICULUS VIII
+
 =====LEFT=====
-ARTICUI
 
-PROSECUTIO EXPOSITIONIS HUJUS CAPITU
-QUUM AUTEM A
+=====RIGHT=====
 
+=====HEADING=====
+PROSECUTIO EXPOSITIONIS HUJUS CAPITULI QUARTI, AB EO LOCO QUO DICITUR :
+QUUM AUTEM AUDISSET JESUS.
+
+=====LEFT=====
 ECITATA Domini Salvatoris tentatio- A
 
 ne, prosequitur Evangelista"ordinem
@@ -47,11 +53,6 @@ cerarent, eo quod illieitas nuptias Herodis
 ae Herodiadis inerepasset ; secessit i Ga-
 
 =====RIGHT=====
-US VIII
-
-QUARTI, AB EO LOCO QUO DICITUR :
-JISSET JESUS.
-
 ila, 1d est, a loco quo captus est Joan-
 es se elongavit, cedens furori Herodis, ne
 'eecideretur ab eo, secundum Chrysosto-
