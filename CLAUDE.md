@@ -70,8 +70,11 @@ How they display (do not change without Dave asking):
 - quotation from the chapter being treated: *italic*, normal ink, no reference shown
 - other Old Testament (including other chapters of the same book): **blue**, with reference
 - New Testament: **red**, with reference
-- verse tags ("vv. 4–7"): red; verse numbers of the chapter text and the ✠ under the chapter title: red
-  in a New Testament chapter, blue in an Old Testament one (also the verse number in an OT reference layer)
+- the theme follows the testament (Dave): in a New Testament book the accent colour is red, in an Old
+  Testament book blue: verse numbers, the ✠ under the title, verse tags ("vv. 4–7"), article numbers, the
+  tapped-verse tint, hover/focus outlines (CSS: `--rubric` is the accent; `body.ot-book` sets it to `--ot`).
+  Quotations keep their own colours whatever the theme (OT blue `--ot`, NT red `--nt`), and so does the AI
+  notice (red). A reference layer takes the colour of the verse it shows (`.layer.ot-ref` / `.nt-ref`).
 
 ## Verse tags (`v` on each paragraph)
 
