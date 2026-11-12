@@ -799,8 +799,9 @@
     402,
     413
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T22:15:25Z"
+   "status": "done",
+   "claimed": "2026-11-12T22:15:25Z",
+   "note": "Article runs PDF 403-413 (pp. 383-393). The first line of its heading is unreadable in the OCR (PDF 403): title given as '[…] In mense autem sexto, missus est angelus Gabriel', with a note; fill from the scan. Several margin numerals misread and taken from the sense (e.g. 'Ps. v, 7' = Ps 2:7; 'Eccli. xvvi' = Ecclus 46:1; 'Num. xiii, 9, 17'); the list of prophets at 1:33 (Ezech. xxxiv; Jer.; Zach.) is only partly legible. No margin note read (kept): Is 11:1, 1 Tim 1:15, Is 4:2."
   },
   {
    "id": "luke-04",
