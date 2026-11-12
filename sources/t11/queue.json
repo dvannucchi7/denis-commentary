@@ -746,8 +746,9 @@
     371,
     374
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T21:59:22Z"
+   "status": "done",
+   "claimed": "2026-11-12T21:59:22Z",
+   "note": "Article XV treats Mark 15 (chapter_guess said 14), PDF 372-374 (pp. 352-354). John margin numerals misread and taken from the sense: 'xvii, 12' = John 18:12, 'xs, 24' = John 18:24, 'xix, 5' = John 19:38 (note in the article). Also: data/bible/drc Mark 15:39 reads 'given up the ghost. said' (stray full stop in the Douay-Rheims source)."
   },
   {
    "id": "mark-16",
