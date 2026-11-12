@@ -212,9 +212,8 @@
     353,
     355
    ],
-   "status": "in-progress",
-   "note": "margins of PDF 353-355 not read yet",
-   "claimed": "2026-11-12T16:41:47Z"
+   "status": "done",
+   "note": "Margin notes misread by OCR, references kept from the Latin: Is 42:4 (margin read 'xia, 4'), Matt 17:5 (read 'xvii, 9'), 1 Cor 2:8 (read as Mark). 'Matth. xi, 10-13' tagged as Matt 12:10 with a note. Matt 9:14 margin on p. 333 belongs to Art. II."
   }
  ]
 }
