@@ -603,8 +603,9 @@
     354,
     356
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T21:44:48Z"
+   "status": "done",
+   "claimed": "2026-11-12T21:44:48Z",
+   "note": "Margin notes misread by the reader and corrected from the sense: 'Matt, 3-23' = Matt 13:3 (note in the article), 'Ps. xliii, 23', 'Phil. iii, 20'; 'Eph. iii, 17' (unread) given as reference only."
   },
   {
    "id": "mark-05",
