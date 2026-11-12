@@ -10,6 +10,8 @@ the procedure.
 1. **Pick the work.** Open `sources/t11/queue.json` (or whichever volume is in progress) and take the
    first item with `"status": "todo"`. Do one article; if it was short (a page or two, as most of Mark
    is) and the run still has room, do the next one too. Never leave an article half done.
+   **Publish each article as soon as it is finished** (steps 6–8), before starting the next, so the
+   site gains every article the moment it is done.
 2. **Get the Latin.** The OCR text of each PDF page is in `sources/t11/pages/p<NNN>.txt` (left column,
    then right column). Read the pages listed in the item's `pages` range. The article starts at its
    heading (`ARTICULUS …` followed by its title; the heading spans both columns, so in the column text it
