@@ -169,6 +169,7 @@
   .v.has-comm { cursor: pointer; transition: background-color .2s; }
   @media (hover: hover) { .v.has-comm:hover { background: var(--chip); } }
   .vchip.active { background: var(--rubric); color: #fff; border-color: var(--rubric); }
+  .v.tapped { background: var(--rubric-soft); }   /* in focus view: the verse the reader tapped, among the others shown */
   .comm-head .seg { align-self: center; }
   .lang-note { font-family: var(--sans); font-size: 12px; color: var(--muted); margin-top: 8px; font-style: italic; }
   .art-body .src { font-family: var(--sans); font-size: 12px; color: var(--muted); margin-top: 18px; }
@@ -195,6 +196,7 @@
   .vchip.static { cursor: default; }
   @media (hover: hover) { .vchip.static:hover { background: transparent; } }
   .layer-open { background: none; border: 0; padding: 0; font: inherit; color: var(--rubric); cursor: pointer; }
+  .layer-open.ot { color: var(--ot); }
   .layer-x { z-index: 27; }
   body.layered .layer-x { display: grid; }
 
@@ -554,6 +556,27 @@ function markActive(f) {
     if (chip) chip.classList.add("active");
   }
 }
+// Focus from a tapped verse: the comments most closely on that verse come first (the narrowest verse
+// range: a comment on v. 6 or vv. 6-7 before one on vv. 1-12). Every comment is still shown.
+function focusOrder(f) {
+  const span = el => { const [a, b] = el.querySelector(".vchip").dataset.v.split("-").map(Number); return b - a; };
+  const sortIn = (parent, els, key) => {
+    const after = els.length ? els[els.length - 1].nextSibling : null;
+    els.slice().sort((x, y) => key(x) - key(y) || 0).forEach(el => parent.insertBefore(el, after));
+  };
+  document.querySelectorAll("#commentary details.art").forEach(d => {
+    const ps = [...d.querySelectorAll(".art-body > .para")];
+    const rank = p => (f && f.tapped && f.items.has(d.dataset.ai + ":" + p.dataset.pi)) ? span(p) * 1000 + +p.dataset.pi : 1e9 + +p.dataset.pi;
+    if (ps.length) sortIn(ps[0].parentNode, ps, f && f.tapped ? rank : p => +p.dataset.pi);
+    d.dataset.rank = f && f.tapped ? Math.min(...ps.map(rank)) : 0;
+  });
+  const arts = [...document.querySelectorAll("#commentary > details.art")];
+  if (arts.length) sortIn(arts[0].parentNode, arts, f && f.tapped ? d => (+d.dataset.rank) * 100 + +d.dataset.ai : d => +d.dataset.ai);
+}
+function markTapped(f) {
+  document.querySelectorAll(".v.tapped").forEach(el => el.classList.remove("tapped"));
+  if (f && f.tapped && f.b > f.a) { const el = document.getElementById("v" + f.tapped); if (el) el.classList.add("tapped"); }
+}
 function scrollToFocus() {
   const head = $("header.bar").offsetHeight;
   const target = $("#text").getBoundingClientRect().top + window.scrollY - head - 14;
@@ -563,6 +586,7 @@ async function applyFocus(animate) {
   const f = state.focus; if (!f) return;
   if (!animate) {                       // re-render while already focused (e.g. English/Latin switch)
     focusTargets().forEach(el => el.classList.add("gone", "fading"));
+    focusOrder(f); markTapped(f);
     markActive(f); placeFocusX(); document.body.classList.add("focusing");
     return;
   }
@@ -582,6 +606,7 @@ async function applyFocus(animate) {
   const onScreen = before > 0 && before < window.innerHeight;
   focusTargets(true);                   // now open the articles involved
   hide.forEach(el => el.classList.add("gone"));
+  focusOrder(f); markTapped(f);
   scrollToFocus();
   const shift = before - anchor.getBoundingClientRect().top;
   text.style.transition = "none";
@@ -614,6 +639,7 @@ async function clearFocus() {
   document.querySelectorAll(".vchip.active").forEach(c => c.classList.remove("active"));
   document.querySelectorAll(".gone").forEach(el => el.classList.remove("gone"));
   document.querySelectorAll(".fading").forEach(el => el.classList.remove("fading"));
+  focusOrder(null); markTapped(null);
   const back = document.querySelector(f.anchor.sel);
   if (back) {
     const top = back.getBoundingClientRect().top + window.scrollY - f.anchor.offset;
@@ -622,11 +648,11 @@ async function clearFocus() {
   await nextFrame();
   $("main").classList.remove("dip");
 }
-async function startFocus(items, anchorSel) {
+async function startFocus(items, anchorSel, tapped = null) {
   const comm = await commFile(state.book), arts = comm.chapters[state.ch];
-  const key = [...items].sort().join("|");
+  const key = [...items].sort().join("|") + "@" + tapped;
   if (state.focus) {
-    const same = [...state.focus.items].sort().join("|") === key;
+    const same = [...state.focus.items].sort().join("|") + "@" + state.focus.tapped === key;
     await clearFocus();
     if (same) return;
     await wait(60);
@@ -640,7 +666,7 @@ async function startFocus(items, anchorSel) {
   const anchorEl = document.querySelector(anchorSel);
   const wasOpen = {};
   document.querySelectorAll("#commentary details.art").forEach(d => { wasOpen[d.dataset.ai] = d.open; });
-  state.focus = { a, b, items: new Set(items), arts: nums, wasOpen,
+  state.focus = { a, b, items: new Set(items), arts: nums, wasOpen, tapped,
                   anchor: { sel: anchorSel, offset: anchorEl ? anchorEl.getBoundingClientRect().top : 120 } };
   applyFocus(true);
 }
@@ -653,7 +679,7 @@ async function focusOnVerse(v) {
   const comm = await commFile(state.book); const arts = comm && comm.chapters[state.ch]; if (!arts) return;
   const items = [];
   arts.forEach((art, ai) => art.paras.forEach((p, pi) => { if (v >= p.v[0] && v <= p.v[1]) items.push(`${ai}:${pi}`); }));
-  if (items.length) startFocus(items, `#v${v}`);
+  if (items.length) startFocus(items, `#v${v}`, v);
 }
 // mark the verses that have commentary so they look (and act) tappable
 async function markVerses() {
@@ -686,7 +712,7 @@ async function layerHTML(r) {
   const verseCard = `<section class="card scripture layer-verse">
       <div class="layer-ref">${esc(refLabel(r))}</div>
       <p>${verse ? `<span class="v"><sup>${r.v}</sup>${esc(verse)}</span>` : `<i>This verse is not in the text.</i>`}</p>
-      <div class="src">${TR_LABEL.drc} · <button class="layer-open" data-open="${r.book}:${r.ch}:${r.v}">Open ${esc(b[1])} ${r.ch} ›</button></div>
+      <div class="src">${TR_LABEL.drc} · <button class="layer-open${bookIdx(r.book) < bookIdx("matthew") ? " ot" : ""}" data-open="${r.book}:${r.ch}:${r.v}">Open ${esc(b[1])} ${r.ch} ›</button></div>
     </section>`;
   const commCards = found.length ? found.map(([a, ps]) => `<div class="card layer-art">
       <div class="layer-art-head"><span class="art-num">ART. ${a.num}</span>

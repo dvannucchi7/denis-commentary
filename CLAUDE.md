@@ -159,11 +159,15 @@ separately, by `tools/margins.py`.
   small gap; header and title blurred; the background fades out where it stands, then the selected verses glide up
   into place and the commentary rises in beneath them (leaving: the column dips briefly and returns);
   a small × (or Esc) returns the reader to where they were, with articles opened/closed as before.
+  When focus view comes from a tapped verse and shows more verses than that one, the tapped verse is tinted
+  light red. Its comments are ordered most specific first (the narrowest verse range: v. 6 or vv. 6–7 before
+  vv. 1–12), across and within articles; all of them are still shown, and the order is restored on leaving.
 - Reference layers: tapping a blue or red quotation (or its reference) in the commentary, in the chapter or
   in focus view, opens a layer over the page with that verse and Denis's comments on it (from that book's
   commentary file, when there is one; otherwise the verse alone with "not in the app yet"). References inside
   a layer open further layers; × (or Esc) goes back one layer, and what was underneath is unchanged.
-  "Open <chapter> ›" leaves the layers and goes to that chapter, focused on the verse if it has commentary.
+  "Open <chapter> ›" (blue for an Old Testament reference, red for the New) leaves the layers and goes to
+  that chapter, focused on the verse if it has commentary.
   References are resolved with `ABBR` in `index.html` (keep in step with `tools/check_quotes.py`).
 - Search covers all commentary (English, or Latin when the Latin view is on); a result opens that
   comment in focus view.
