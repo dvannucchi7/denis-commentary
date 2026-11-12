@@ -152,8 +152,9 @@
     98,
     103
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T15:59:36Z"
+   "status": "done",
+   "claimed": "2026-11-12T15:59:36Z",
+   "note": "Tags without a read note all have an unread/misread note beside them, except Luke 11:3 repeated in para 12 (kept). Para 1: unread 'Is. x, 23' beside the 'verbum abbrevians' quotation, which Denis gives in St Paul's form (Rom 9:28 tag kept, Is 10:23 added). 'Rom. v, 11' beside 'no respect of persons' read as Rom 2:11. 'Exod. vii, ix-xiv' (hardening Pharao) given as Ex 7:1 (chapter only)."
   },
   {
    "id": "matthew-14",
