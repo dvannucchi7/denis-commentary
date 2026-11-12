@@ -515,8 +515,9 @@
     311,
     321
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T22:06:31Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-12T22:06:31Z",
+   "note": "Published (taken over from an abandoned claim of 19:56). PDF 321 (p. 301): the foot of both columns is garbled in the OCR. Restored from the margin reader's line text: left 'dum Joannem, prima negatio Petri fuit in'. Still lost, marked […] with translator's notes: left, one line before '…videntur, quod, ut mihi apparet, ceteris omnibus difficilius solvitur'; right, a line after 'Sed nec hoc dicere' and one or two lines between 'in describendo trinam negationem' and 'capitulationem'. Fill from the scan. Also: the edition's bracketed '[Ecce nunc audistis blasphemiam.]' (v. 65) is tagged with a note; data/bible/drc John 18:10 reads 'thee servant' (typo in the Douay-Rheims source)."
   },
   {
    "id": "matthew-43",
