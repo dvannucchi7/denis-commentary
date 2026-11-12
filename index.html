@@ -196,14 +196,14 @@
   .vchip.static { cursor: default; }
   @media (hover: hover) { .vchip.static:hover { background: transparent; } }
   .layer-open { background: none; border: 0; padding: 0; font: inherit; color: var(--rubric); cursor: pointer; }
-  .layer-open.ot { color: var(--ot); }
+  .layer-open.ot, .layer-ref.ot { color: var(--ot); }
   .layer-x { z-index: 27; }
   body.layered .layer-x { display: grid; }
 
   .empty { padding: 26px; text-align: center; color: var(--muted); font-style: italic; }
   .loading { padding: 40px; text-align: center; color: var(--muted); font-family: var(--sans); font-size: 14px; }
   footer { font-family: var(--sans); font-size: 12px; color: var(--muted); text-align: center; margin-top: 50px; }
-  .ai-notice { font-size: 13px; font-weight: 600; letter-spacing: .06em; line-height: 1.5; color: var(--rubric); max-width: 560px; margin: 0 auto 12px; }
+  .ai-notice { font-size: 11.5px; font-weight: 600; letter-spacing: .06em; line-height: 1.5; color: var(--rubric); max-width: 560px; margin: 0 auto 12px; }
 
   @media (max-width: 640px) {
     body { font-size: 18px; }
@@ -274,7 +274,7 @@
   <section id="commentary"></section>
 
   <footer>
-    <div class="ai-notice">COMMENTARY TRANSLATED USING ARTIFICIAL INTELLIGENCE AND HAS NOT BEEN REVIEWED BY A COMPETENT AUTHORITY</div>
+    <div class="ai-notice">COMMENTARY HAS BEEN TRANSLATED USING ARTIFICIAL INTELLIGENCE AND HAS NOT BEEN REVIEWED BY A COMPETENT AUTHORITY</div>
     Douay-Rheims (Challoner), public domain. Commentary from the Montreuil edition of the <i>Opera Omnia</i>; English translation made for this site.
   </footer>
 </main>
@@ -556,22 +556,32 @@ function markActive(f) {
     if (chip) chip.classList.add("active");
   }
 }
-// Focus from a tapped verse: the comments most closely on that verse come first (the narrowest verse
-// range: a comment on v. 6 or vv. 6-7 before one on vv. 1-12). Every comment is still shown.
+// Focus from a tapped verse: the comments most closely on that verse come first (one or two verses, e.g.
+// v. 6 or vv. 6-7, or failing that the narrowest range shown); everything else follows in Denis's own order.
+// Every comment is still shown; leaving focus puts the page back in order.
 function focusOrder(f) {
-  const span = el => { const [a, b] = el.querySelector(".vchip").dataset.v.split("-").map(Number); return b - a; };
-  const sortIn = (parent, els, key) => {
-    const after = els.length ? els[els.length - 1].nextSibling : null;
-    els.slice().sort((x, y) => key(x) - key(y) || 0).forEach(el => parent.insertBefore(el, after));
-  };
-  document.querySelectorAll("#commentary details.art").forEach(d => {
-    const ps = [...d.querySelectorAll(".art-body > .para")];
-    const rank = p => (f && f.tapped && f.items.has(d.dataset.ai + ":" + p.dataset.pi)) ? span(p) * 1000 + +p.dataset.pi : 1e9 + +p.dataset.pi;
-    if (ps.length) sortIn(ps[0].parentNode, ps, f && f.tapped ? rank : p => +p.dataset.pi);
-    d.dataset.rank = f && f.tapped ? Math.min(...ps.map(rank)) : 0;
-  });
+  const span = p => { const [a, b] = p.querySelector(".vchip").dataset.v.split("-").map(Number); return b - a; };
   const arts = [...document.querySelectorAll("#commentary > details.art")];
-  if (arts.length) sortIn(arts[0].parentNode, arts, f && f.tapped ? d => (+d.dataset.rank) * 100 + +d.dataset.ai : d => +d.dataset.ai);
+  const kept = [];
+  if (f && f.tapped) arts.forEach(d => d.querySelectorAll(".art-body > .para").forEach(p => {
+    if (f.items.has(d.dataset.ai + ":" + p.dataset.pi)) kept.push(p);
+  }));
+  const limit = kept.length ? Math.max(1, Math.min(...kept.map(span))) : -1;
+  const first = new Set(kept.filter(p => span(p) <= limit));
+  // priority comments: narrowest first, then in Denis's order; all others: Denis's order
+  const pkey = p => first.has(p) ? span(p) * 10000 + +p.dataset.pi : 1e8 + +p.dataset.pi;
+  const sortIn = (els, key) => {
+    if (!els.length) return;
+    const parent = els[0].parentNode, after = els[els.length - 1].nextSibling;
+    els.slice().sort((x, y) => key(x) - key(y)).forEach(el => parent.insertBefore(el, after));
+  };
+  arts.forEach(d => {
+    const ps = [...d.querySelectorAll(".art-body > .para")];
+    sortIn(ps, pkey);
+    const best = ps.filter(p => first.has(p)).map(p => span(p));
+    d.dataset.rank = best.length ? Math.min(...best) : 1e4;
+  });
+  sortIn(arts, d => (+d.dataset.rank) * 1000 + +d.dataset.ai);
 }
 function markTapped(f) {
   document.querySelectorAll(".v.tapped").forEach(el => el.classList.remove("tapped"));
@@ -710,7 +720,7 @@ async function layerHTML(r) {
   });
   const la = state.lang === "la";
   const verseCard = `<section class="card scripture layer-verse">
-      <div class="layer-ref">${esc(refLabel(r))}</div>
+      <div class="layer-ref${bookIdx(r.book) < bookIdx("matthew") ? " ot" : ""}">${esc(refLabel(r))}</div>
       <p>${verse ? `<span class="v"><sup>${r.v}</sup>${esc(verse)}</span>` : `<i>This verse is not in the text.</i>`}</p>
       <div class="src">${TR_LABEL.drc} · <button class="layer-open${bookIdx(r.book) < bookIdx("matthew") ? " ot" : ""}" data-open="${r.book}:${r.ch}:${r.v}">Open ${esc(b[1])} ${r.ch} ›</button></div>
     </section>`;
@@ -824,6 +834,12 @@ $("#text").addEventListener("click", e => {
   focusOnVerse(+v.id.slice(1));
 });
 $("#unfocus").addEventListener("click", clearFocus);
+// in focus view, a tap anywhere outside the bubbles (the verse card and the comments) goes back, like the ×
+document.addEventListener("click", e => {
+  if (!state.focus || layers.length || !$("#searchPanel").hidden) return;
+  if (e.target.closest(".card, #layers, #layerX, #searchPanel, #searchBtn, #unfocus")) return;
+  clearFocus();
+});
 $("#layerX").addEventListener("click", closeLayer);
 $("#layers").addEventListener("click", e => {
   const r = refTarget(e); if (r) return openLayer(r);

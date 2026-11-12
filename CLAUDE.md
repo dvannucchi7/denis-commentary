@@ -149,8 +149,8 @@ separately, by `tools/margins.py`.
   Testament (red) — each in its own style; hidden in focus view.
 - Icon: Petrus Christus, Portrait of a Carthusian (1446), cropped to the face — apple-touch-icon.png
   (Safari Favorites / Home Screen), favicon-32.png, icon-192/512.png, manifest.webmanifest.
-- Footer: the notice "COMMENTARY TRANSLATED USING ARTIFICIAL INTELLIGENCE AND HAS NOT BEEN REVIEWED BY A
-  COMPETENT AUTHORITY" (Dave's wording; keep it), then the source line. No per-chapter draft markers.
+- Footer: the notice "COMMENTARY HAS BEEN TRANSLATED USING ARTIFICIAL INTELLIGENCE AND HAS NOT BEEN REVIEWED BY A
+  COMPETENT AUTHORITY" (Dave's wording; keep it; small red capitals), then the source line. No per-chapter draft markers.
 - Header: book and chapter menus (✠ marks those with commentary) and a search button. No site title.
 - Chapter title with ‹ › arrows on either side; swipe left/right on phones to change chapter.
 - The app reopens on the last chapter read (stored in the reader's browser).
@@ -158,15 +158,18 @@ separately, by `tools/margins.py`.
   those verses and the matching comments (each under its article number and title), in two bubbles with a
   small gap; header and title blurred; the background fades out where it stands, then the selected verses glide up
   into place and the commentary rises in beneath them (leaving: the column dips briefly and returns);
-  a small × (or Esc) returns the reader to where they were, with articles opened/closed as before.
+  a small × (or Esc, or a tap anywhere outside the bubbles) returns the reader to where they were, with
+  articles opened/closed as before.
   When focus view comes from a tapped verse and shows more verses than that one, the tapped verse is tinted
-  light red. Its comments are ordered most specific first (the narrowest verse range: v. 6 or vv. 6–7 before
-  vv. 1–12), across and within articles; all of them are still shown, and the order is restored on leaving.
+  light red. The comments most specific to it come first (those on one or two verses, e.g. v. 6 or vv. 6–7,
+  or failing that the narrowest range shown; narrowest first), then all the others in Denis's own order;
+  all of them are still shown, and the page order is restored on leaving.
 - Reference layers: tapping a blue or red quotation (or its reference) in the commentary, in the chapter or
   in focus view, opens a layer over the page with that verse and Denis's comments on it (from that book's
   commentary file, when there is one; otherwise the verse alone with "not in the app yet"). References inside
   a layer open further layers; × (or Esc) goes back one layer, and what was underneath is unchanged.
-  "Open <chapter> ›" (blue for an Old Testament reference, red for the New) leaves the layers and goes to
+  The layer's heading and "Open <chapter> ›" are blue for an Old Testament reference, red for the New;
+  "Open <chapter> ›" leaves the layers and goes to
   that chapter, focused on the verse if it has commentary.
   References are resolved with `ABBR` in `index.html` (keep in step with `tools/check_quotes.py`).
 - Search covers all commentary (English, or Latin when the Latin view is on); a result opens that
