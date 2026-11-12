@@ -7,17 +7,22 @@ the procedure.
 
 ## Steps
 
-1. **Pick the work.** Open `sources/t11/queue.json` (or whichever volume is in progress) and take the
-   first item with `"status": "todo"`. Do one article; if it was short (a page or two, as most of Mark
-   is) and the run still has room, do the next one too. Never leave an article half done.
-   **Publish each article as soon as it is finished** (steps 6–8), before starting the next, so the
-   site gains every article the moment it is done.
-2. **Get the Latin.** The OCR text of each PDF page is in `sources/t11/pages/p<NNN>.txt` (left column,
-   then right column). Read the pages listed in the item's `pages` range. The article starts at its
-   heading (`ARTICULUS …` followed by its title; the heading spans both columns, so in the column text it
-   is split into fragments such as `ARTICU` / `US XII`) and ends where the next article's heading begins.
-   Running heads, page numbers and the gutter letters A–D are noise. `tools/assemble.py OUT.txt pages…`
-   joins pages and removes most of that noise.
+1. **Pick the work, and keep going.** Note the time when the run starts (`date -u`). Work through the
+   queues in order: `sources/t11/queue.json` first, then `sources/t12/queue.json`. Take the first item
+   whose status is `"todo"`, or `"in-progress"` with a `claimed` time more than 2 hours old (an
+   abandoned run). **Claim it before starting:** set `"status": "in-progress"` and
+   `"claimed": "<UTC time>"`, commit ("Claim matthew-10"), `git pull --rebase origin main`, push. If the
+   push fails or someone else claimed it meanwhile, pull and take the next item. Then translate it.
+   **Publish each article as soon as it is finished** (steps 6–8), then go straight on to the next item.
+   Keep going until about **45 minutes** after the run started; do not begin a new article after about
+   40 minutes. Never leave an article half done: if you must stop mid-article, set it back to `"todo"`
+   and push, so the next run takes it.
+2. **Get the Latin.** If `sources/<vol>/articles/<id>.txt` exists, start from it: it is that article's
+   OCR text already cut at the article headings and joined in reading order. Otherwise read the OCR
+   pages `sources/<vol>/pages/p<NNN>.txt` in the item's `pages` range (sections marked LEFT / RIGHT /
+   HEADING, in reading order). The article starts at its heading (`ARTICULUS …` and its title) and ends
+   where the next article's heading begins. `tools/assemble.py OUT.txt pages…` joins pages and removes
+   running heads, page numbers and the gutter letters A–D.
 3. **Clean the Latin.** Put it in reading order (left column, then right, page by page), rejoin words
    broken across lines, and correct obvious OCR slips (e.g. `eum`→`cum`, `seript`→`script`, `prae`→`præ`,
    commas read as full stops). Do not rewrite Denis's Latin; when unsure, keep what is printed.
@@ -26,7 +31,9 @@ the procedure.
    one at chapter boundaries. Print the chapter with `python3 tools/verses.py --chapter matthew 5`.
    Split the article into paragraphs where Denis moves to a new lemma or a new section, and tag each
    paragraph with its verse range (continuous, per `CLAUDE.md`).
-5. **Translate** each paragraph into the `en` field, in the agreed style. Mark every direct quotation of
+5. **Translate** each paragraph (before you start, `python3 tools/find_quotes.py <article.txt> <book>
+   <chapter>` lists the places where Denis quotes the chapter, with the Douay-Rheims and Vulgate wording
+   ready to paste; check them, and look up any other quotations yourself) into the `en` field, in the agreed style. Mark every direct quotation of
    Scripture with `[[ref|Douay-Rheims wording|Vulgate wording]]`. Look up every reference with
    `python3 tools/verses.py "Ps 26:13" "Rom 12:1" …` and copy the Douay-Rheims words exactly (only the
    part Denis quotes). In a Gospel, a quotation from the chapter being treated is `C:V`; from another
