@@ -500,8 +500,9 @@
     298,
     312
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T19:47:52Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-12T19:47:52Z",
+   "note": "Published. PDF 304 (p. 284): the last line of each column is unreadable in the OCR. Left column, after 'ungere pretioso unguen-' (v. 13, spiritual anointing; something like 'unguento … utramque'); right column, after 'Promisit enim quod tra-' (v. 15; probably 'traderet eis Christum … mutantes con-silium'). Both marked […] with a translator's note; fill from the scan. Also: PDF 306 margin 'II Par. xxxv, 18' for 'Non fuit tale Phase a diebus judicum' (wording is 4 Kings 23:22; note added); Mark 14:27 added as reference only (margin read as Mark 14:21)."
   },
   {
    "id": "matthew-42",
