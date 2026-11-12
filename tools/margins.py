@@ -241,8 +241,9 @@ def resolve(book, ch, vs, ctx):
     for v in vs[:1]:
         fits = [(get(c, v), c) for c in cands]
         fits = [f for f in fits if f[0] >= 2]
-        if fits:
-            s_, c_ = max(fits, key=lambda f: (f[0], f[1] == ch))
+        if fits:                                  # the plain reading wins whenever it fits at all
+            main = [f for f in fits if f[1] == ch]
+            s_, c_ = main[0] if main else max(fits)
             return c_, v, s_, "printed"
     # 2. the printed verse in a neighbouring chapter (the chapter numeral misread)
     if ch and vs:
@@ -314,6 +315,11 @@ def article(vol, item_id, chapter=None, quiet=False):
             continue
         book, ch, vs = pr
         c, v, s, how = resolve(book, ch, vs, it_["ctx"])
+        if how == "allusion" and book in ("i-john", "ii-john", "iii-john"):
+            # a stray mark before "Joann." is read as "I": try the Gospel when the Epistle does not fit
+            c2, v2, s2, how2 = resolve("john", ch, vs, it_["ctx"])
+            if how2 != "allusion" or (ch and ch > 5):
+                book, c, v, s, how = "john", c2, v2, s2, how2
         prev = (book, c)
         kind = {"printed": "printed", "near": "corrected", "book": "corrected", "allusion": "allusion?"}[how]
         more = f"-{vs[-1]}" if how == "printed" and len(vs) > 1 and vs[-1] > v else ""
