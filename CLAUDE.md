@@ -167,8 +167,10 @@ separately, by `tools/margins.py`.
   applied by a small script in <head> before the page is drawn); with no choice saved, the phone's setting
   decides (CSS `:root[data-theme]` and `prefers-color-scheme`).
 - Chapter title with ‹ › arrows on either side; swipe left/right on phones to change chapter.
-- Under the chapter's ✠ a small "Commentary ↓" link (only when the chapter has commentary) scrolls to the
-  commentary; "↑ Text" at the end of the References line scrolls back up. Both hidden in focus view.
+- A floating button at the bottom right (`#jumpBtn`; on wide screens in the margin just right of the column)
+  stays in place while scrolling: "Commentary ↓" while the reader is in the chapter text, "↑ Text" once in
+  the commentary; it scrolls there. Hidden on chapters without commentary, in focus view, over layers, search
+  and the home screen. (Dave: on the right, present while scrolling either section)
 - Reading column at most 720px wide (about 72 characters a line on a computer). Commentary paragraphs are
   justified on wide screens, flush-left on phones (≤600px), where the article number sits above its title.
 - The app reopens on the last chapter read (stored in the reader's browser).
