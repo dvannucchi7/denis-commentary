@@ -169,8 +169,9 @@
     102,
     110
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T15:01:21Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-12T15:01:21Z",
+   "note": "Translated and published. On PDF 108 (p. 88) the last line of each column is garbled in the OCR: in 6:32 after 'Cujus ineffabilis pietas incompre-' a line is missing (marked […]); in 6:33 'ac [instrumentalia, sine quibus spiritualis con]versatio' is a conjecture from the garbled letters. Please check the scan."
   },
   {
    "id": "matthew-15",
