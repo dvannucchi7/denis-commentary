@@ -20,8 +20,9 @@
     32,
     36
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T15:42:19Z"
+   "status": "done",
+   "claimed": "2026-11-12T15:42:19Z",
+   "note": "Margin references from PDF 32 above the heading belong to Art. I and were left out. Numerals read as: 'Luc. ii, 31' -> Luke 3:31; 'I Par. xvi, 17' -> 1 Par 18:17 (kept tag); 'Prov. iv, 4' -> Prov 4:4; 'Ibid. 17, 18' -> 1 Par 3:17-18; 'Luc. i, 97, 63' -> Luke 1:57, 63; Num 36:6-9 marked at 36:6 and 36:8. Unread note 'II Reg. xi(i), 5' beside Bethsabee's first son (PDF 34) left untagged: 2 Kings 11:5 or 12:15?"
   },
   {
    "id": "matthew-03",
