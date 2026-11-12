@@ -176,6 +176,7 @@
   /* ---------- Reference layers (tap a quoted reference) ---------- */
   .ref-link { cursor: pointer; border-radius: 3px; }
   .cite.ref-link { text-decoration: underline dotted; text-underline-offset: 2px; }
+  .cite.here { color: var(--muted); margin-left: 2px; }
   @media (hover: hover) { .ref-link:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; } }
   .ref-link:focus-visible { outline: 2px solid color-mix(in srgb, var(--rubric) 50%, transparent); outline-offset: 1px; }
   .layers { position: fixed; inset: 0; z-index: 25; overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain;
@@ -417,6 +418,12 @@ function refAttrs(ref, ctx) {
 const refLabel = r => `${BOOKS[bookIdx(r.book)][1]} ${r.ch}:${r.v}`;
 function quoteSpan(ref, text, ctx = state) {
   const k = quoteKind(ref, ctx);
+  // a reference with no quoted words ([[ref||]]): the margin points to a passage Denis tells or alludes to
+  if (!text) {
+    const r = resolveRef(ref, ctx); if (!r) return "";
+    const label = k === "here" ? `v. ${r.v}` : (/^\d+:\d+$/.test(ref) ? BOOKS[bookIdx(ctx.book)][1] + " " + ref : ref);
+    return `<span class="cite ${k} ref-link"${refAttrs(ref, ctx)}>(${esc(label)})</span>`;
+  }
   if (k === "here") return `<span class="scr here">${esc(text)}</span>`;
   const label = /^\d+:\d+$/.test(ref) ? BOOKS[bookIdx(ctx.book)][1] + " " + ref : ref;
   const go = refAttrs(ref, ctx);

@@ -8,7 +8,8 @@ the procedure.
 ## Steps
 
 1. **Pick the work, and keep going.** Note the time when the run starts (`date -u`). Work through the
-   queues in order: `sources/t11/queue.json` first, then `sources/t12/queue.json`. Take the first item
+   queues in order: first the re-checks in `sources/t11/recheck.json` (see "Re-checking a published
+   article" below), then `sources/t11/queue.json`, then `sources/t12/queue.json`. Take the first item
    whose status is `"todo"`, or `"in-progress"` with a `claimed` time more than 2 hours old (an
    abandoned run). Skip `"needs-margins"` items until their margins have been read (see step 5). **Claim it before starting:** set `"status": "in-progress"` and
    `"claimed": "<UTC time>"`, commit ("Claim matthew-10"), `git pull --rebase origin main`, push. If the
@@ -45,8 +46,13 @@ the procedure.
      small numerals often not. Look the verse up with `python3 tools/verses.py "Ps 26:13" …` and
      confirm it against the Latin beside the note; if the numerals were misread, find the verse within
      the book the margin names. The tool's `corrected` entries are only suggestions: check them (they
-     can be wrong where the printed reference was right). `allusion?` means no clear match: if Denis
-     only alludes, do not tag it.
+     can be wrong where the printed reference was right). `allusion?` means the Latin beside it does not
+     match the verse word for word: usually an allusion or a story told in Denis's own words (a
+     reference-only marker, below), sometimes a misread reference (find the right verse in that book).
+   - **Where Denis quotes the words, tag the quotation; where he does not** (he retells a story, names
+     a person or event, or alludes), put a reference-only marker after the clause the margin note
+     stands beside: `…went out to the king of Babylon[[4 Kings 24:12||]]`. Every margin reference that
+     belongs to the article ends up as one or the other.
    - **If there is any confusion, add a note in the article** at that place, as a translator's note
      in square brackets, saying what the margin prints and what is uncertain, e.g. "[the margin gives
      Ecclus. xx, 32; Denis's wording is closer to Ecclus 41:17]" or "[the margin reference is
@@ -79,6 +85,37 @@ the procedure.
    attention, e.g. unreadable text), delete the work file, commit with a message naming the article
    (e.g. "Add Matthew 5, Art. IX"), then `git pull --rebase origin main` (someone else may have pushed
    meanwhile) and push to `main`. The site updates within a few minutes.
+
+## Re-checking a published article
+
+Articles published before the margin rule (step 5) are brought into line with it, in the order of
+`sources/t11/recheck.json` (Matthew from Art. I, then Mark). Claim, time limits and publishing are as in
+steps 1 and 8 (commit "Re-check Matthew 1, Art. I"). Skip `"needs-margins"` items.
+
+1. `python3 tools/recheck.py t11 <id>` compares each paragraph's references from outside the chapter
+   treated with the margin references beside it. If it says margins are not read for some pages, set
+   the item to `"needs-margins"` (note the PDF pages) and take the next one.
+2. `python3 tools/recheck.py --export t11 <id>` writes the article to `work/<id>-ch<N>.json` (two files if
+   it runs over two chapters). Edit the `en` fields there:
+   - `ok`: nothing to do.
+   - `differs`: the margin names the same book but another verse. Work out which is right from the
+     Latin (the margin's numerals are often misread; the tool's reading of them can be wrong too) and
+     fix the reference; if it stays unclear, add a bracketed note.
+   - `no-margin`: tagged, but no margin reference for that book beside it. First look at the `unread`
+     and oddly read notes beside the same paragraph (a misread book name, e.g. "1 Mach" for
+     *Malach.*); if one of them is its reference, keep the tag. Otherwise remove the tag and keep the
+     words as plain text (replace `[[ref|words|Latin]]` by `words`).
+   - `untagged`: a margin reference with no tag. Find the place from the Latin beside it. If Denis quotes
+     the words, tag them; if not, add a reference-only marker `[[ref||]]` after that clause. If no verse
+     of that book fits, add a bracketed note giving the margin's reading.
+   - `unread`: an unreadable margin note: see what Denis quotes or tells there and treat it as above if
+     the verse can be found with confidence; otherwise leave it.
+   Leave lemmata (quotations of the chapter treated) and the translation itself as they are.
+3. Merge each work file with `python3 tools/add_article.py work/<id>-ch<N>.json` (it replaces the
+   article), run `tools/recheck.py` again (what is left should be only what you decided to leave), then
+   `python3 tools/check_quotes.py` (0 problems) and check the chapter in the app.
+4. Set the item to `"done"` in `recheck.json` (with a `"note"` for anything Dave should see), delete the
+   work files, commit, pull, push.
 
 If a page's OCR is too damaged to read with confidence, translate what is clear, put `[…]` where text
 is missing, set the item's status to `"needs-scan"` with a note giving the PDF page, and move on.

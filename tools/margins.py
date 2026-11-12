@@ -259,16 +259,19 @@ def resolve(book, ch, vs, ctx):
     return ch, (vs[0] if vs else None), 0, "allusion"
 
 
-def article(vol, item_id, chapter=None):
+def article(vol, item_id, chapter=None, quiet=False):
     global cur_book, cur_ch
     q = json.load(open(os.path.join(ROOT, "sources", vol, "queue.json")))
     item = next(i for i in q["items"] if i["id"] == item_id)
     cur_book, cur_ch = item["book"], int(chapter or item.get("chapter_guess") or 0)
-    raw = []
+    raw, missing = [], []
+    article.missing = missing
     for p in range(item["pages"][0], item["pages"][1] + 1):
         f = os.path.join(ROOT, "sources", vol, "margins", f"p{p}.json")
         if not os.path.exists(f):
-            print(f"(margins of PDF {p} not read yet)"); continue
+            missing.append(p)
+            if not quiet: print(f"(margins of PDF {p} not read yet)")
+            continue
         raw += json.load(open(f))
     # group margin lines into references: join continuations, split at ";"
     out = []
@@ -289,25 +292,35 @@ def article(vol, item_id, chapter=None):
                     if piece.strip(): out.append(dict(it, raw=piece.strip(), cont=k > 0))
     out.sort(key=lambda r: (r["page"], r["side"], r["y"]))
 
-    print(f"Marginal references, {item_id} (PDF {item['pages'][0]}-{item['pages'][1]}; column L then R on each page)")
+    rows = []          # what is printed, also returned for tools/recheck.py
+    if not quiet:
+        print(f"Marginal references, {item_id} (PDF {item['pages'][0]}-{item['pages'][1]}; column L then R on each page)")
     prev, page = None, None
     for it_ in out:
         raw_ = it_["raw"].strip(" .")
         if it_["page"] != page:
-            page = it_["page"]; print(f"-- PDF {page}")
+            page = it_["page"]
+            if not quiet: print(f"-- PDF {page}")
+        row = dict(page=it_["page"], side=it_["side"], beside=it_["beside"], ctx=it_.get("ctx", ""), printed=raw_)
         if re.fullmatch(r"\d{1,2}", raw_):
-            print(f"   {it_['side']}  verse {raw_} begins: {it_['beside'][:60]}"); continue
+            rows.append(dict(row, kind="verse", verse=int(raw_)))
+            if not quiet: print(f"   {it_['side']}  verse {raw_} begins: {it_['beside'][:60]}")
+            continue
         if re.search(r"sec\.?\s*Hebr", raw_, re.I) or len(raw_) < 4: continue
         pr = parse(raw_, prev, cur_ch)
         if not pr or not pr[0]:
-            print(f"   {it_['side']}  [unread: {raw_!r}] beside: {it_['beside'][:60]}"); continue
+            rows.append(dict(row, kind="unread"))
+            if not quiet: print(f"   {it_['side']}  [unread: {raw_!r}] beside: {it_['beside'][:60]}")
+            continue
         book, ch, vs = pr
         c, v, s, how = resolve(book, ch, vs, it_["ctx"])
         prev = (book, c)
         kind = {"printed": "printed", "near": "corrected", "book": "corrected", "allusion": "allusion?"}[how]
         more = f"-{vs[-1]}" if how == "printed" and len(vs) > 1 and vs[-1] > v else ""
         ref = f"{REV[book]} {c}:{v}{more}" if v else f"{REV[book]} {c}"
-        print(f"   {it_['side']}  {ref:<16} {kind:<10} (printed: {raw_})  beside: {it_['beside'][:60]}")
+        rows.append(dict(row, kind=kind, ref=ref, book=book, ch=c, v=v))
+        if not quiet: print(f"   {it_['side']}  {ref:<16} {kind:<10} (printed: {raw_})  beside: {it_['beside'][:60]}")
+    return rows
 
 if __name__ == "__main__":
     a = sys.argv[1:]

@@ -1,0 +1,191 @@
+{
+ "what": "Re-check published articles against the printed margins (TRANSLATING.md, 'Re-checking a published article'). Work in order.",
+ "items": [
+  {
+   "id": "matthew-01",
+   "book": "matthew",
+   "art": 1,
+   "pages": [
+    25,
+    33
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-02",
+   "book": "matthew",
+   "art": 2,
+   "pages": [
+    32,
+    36
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-03",
+   "book": "matthew",
+   "art": 3,
+   "pages": [
+    35,
+    41
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-04",
+   "book": "matthew",
+   "art": 4,
+   "pages": [
+    40,
+    46
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-05",
+   "book": "matthew",
+   "art": 5,
+   "pages": [
+    45,
+    52
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-06",
+   "book": "matthew",
+   "art": 6,
+   "pages": [
+    51,
+    60
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-07",
+   "book": "matthew",
+   "art": 7,
+   "pages": [
+    59,
+    67
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-08",
+   "book": "matthew",
+   "art": 8,
+   "pages": [
+    66,
+    71
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-09",
+   "book": "matthew",
+   "art": 9,
+   "pages": [
+    70,
+    79
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-10",
+   "book": "matthew",
+   "art": 10,
+   "pages": [
+    78,
+    91
+   ],
+   "status": "needs-margins",
+   "note": "margins of some of these pages (PDF 87-111) not read yet"
+  },
+  {
+   "id": "matthew-11",
+   "book": "matthew",
+   "art": 11,
+   "pages": [
+    90,
+    96
+   ],
+   "status": "needs-margins",
+   "note": "margins of some of these pages (PDF 87-111) not read yet"
+  },
+  {
+   "id": "matthew-12",
+   "book": "matthew",
+   "art": 12,
+   "pages": [
+    95,
+    99
+   ],
+   "status": "needs-margins",
+   "note": "margins of some of these pages (PDF 87-111) not read yet"
+  },
+  {
+   "id": "matthew-13",
+   "book": "matthew",
+   "art": 13,
+   "pages": [
+    98,
+    103
+   ],
+   "status": "needs-margins",
+   "note": "margins of some of these pages (PDF 87-111) not read yet"
+  },
+  {
+   "id": "matthew-14",
+   "book": "matthew",
+   "art": 14,
+   "pages": [
+    102,
+    110
+   ],
+   "status": "needs-margins",
+   "note": "margins of some of these pages (PDF 87-111) not read yet"
+  },
+  {
+   "id": "matthew-15",
+   "book": "matthew",
+   "art": 15,
+   "pages": [
+    109,
+    120
+   ],
+   "status": "needs-margins",
+   "note": "margins of some of these pages (PDF 87-111) not read yet"
+  },
+  {
+   "id": "matthew-16",
+   "book": "matthew",
+   "art": 16,
+   "pages": [
+    119,
+    124
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-17",
+   "book": "matthew",
+   "art": 17,
+   "pages": [
+    123,
+    129
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-03",
+   "book": "mark",
+   "art": 3,
+   "pages": [
+    353,
+    355
+   ],
+   "status": "todo"
+  }
+ ]
+}

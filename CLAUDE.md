@@ -54,12 +54,16 @@ Articles are sorted by number in the app automatically, but keep them in order i
 - The Douay-Rheims wording must be copied exactly from `data/bible/drc` (only the part Denis
   quotes). The Vulgate wording is the matching Clementine Latin; the Latin view uses it to find and
   colour the quotation in Denis's own text.
+- A margin reference that points to a passage without Denis quoting its words (a story he retells, an
+  allusion) gets a reference-only marker with both wordings empty, `[[4 Kings 24:12||]]`, written straight
+  after the clause it belongs to (no space). It shows as a small tappable reference, "(4 Kings 24:12)"; a
+  reference to the chapter treated shows as "(v. 16)".
 - Lemmata (the bits of the chapter treated that Denis quotes before glossing them) get a marker.
 - A quotation from anywhere else gets a marker **only where the printed margin gives a reference
   for it** (Dave's rule; see `TRANSLATING.md` step 5). The run works out which verse the margin means;
   it does not search the text against the Vulgate for other quotations. Where the margin reference is
-  unclear or does not fit, a bracketed translator's note at that place says so. Allusions and
-  paraphrases do not get markers.
+  unclear or does not fit, a bracketed translator's note at that place says so. Allusions, paraphrases
+  and stories with a margin reference get a reference-only marker (below); without one, nothing.
 
 How they display (do not change without Dave asking):
 - quotation from the chapter being treated: *italic*, normal ink, no reference shown
@@ -118,7 +122,8 @@ margins only) and
 finished article and switches the book on in the app).
 `tools/cut_articles.py <vol>` pre-cuts queued articles from the OCR pages. `tools/margins.py` reads the
 marginal references (book, chapter, verse of each quotation, and the verse numbers of the chapter
-treated) into `sources/<vol>/margins/`, and lists them per article for the runs.
+treated) into `sources/<vol>/margins/`, and lists them per article for the runs. `tools/recheck.py` compares a published
+article's references with its margins (`sources/t11/recheck.json` is the re-check queue).
 
 Tools: `tools/ocr_columns.py` (cuts each page at the gutter, drops running head and marginal notes,
 OCRs each column with Tesseract's Latin model) and `tools/assemble.py` (joins columns, removes running
