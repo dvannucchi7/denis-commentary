@@ -42,9 +42,10 @@
     border-bottom: 1px solid var(--rule);
   }
   .bar-inner { max-width: 880px; margin: 0 auto; padding: 10px 18px; display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; }
-  .brand { font-family: var(--serif); font-size: 18px; font-weight: 600; letter-spacing: .02em; margin-right: auto; white-space: nowrap; }
-  .brand span { color: var(--rubric); }
-  .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .controls { display: flex; gap: 8px; align-items: center; width: 100%; }
+  .icon-btn { margin-left: auto; background: var(--paper); border: 1px solid var(--rule); border-radius: 8px; width: 36px; height: 34px;
+              display: grid; place-items: center; cursor: pointer; color: var(--muted); padding: 0; flex: 0 0 auto; }
+  .icon-btn:hover { color: var(--ink); }
   select, button { font-family: var(--sans); font-size: 14px; color: var(--ink); }
   select {
     appearance: none; -webkit-appearance: none;
@@ -102,28 +103,46 @@
   .scr.here { font-style: italic; }
   .scr.nt, .cite.nt { color: var(--rubric); }
   .scr.ot, .cite.ot { color: var(--ot); }
+  .tn { font-family: Georgia, serif; font-style: italic; font-size: 11px; line-height: 1; color: var(--muted); background: transparent;
+        border: 1px solid var(--rule); border-radius: 50%; width: 16px; height: 16px; padding: 0; margin: 0 1px 0 3px;
+        vertical-align: 4px; cursor: pointer; display: inline-grid; place-items: center; }
+  .tn[aria-expanded="true"] { color: var(--paper); background: var(--muted); border-color: var(--muted); }
+  .tn-body { font-family: var(--sans); font-size: 13px; color: var(--muted); background: var(--chip); border-radius: 6px;
+             padding: 1px 7px; margin: 0 2px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
   .cite { font-family: var(--sans); font-size: 11px; margin-left: 4px; white-space: nowrap; }
   .key { font-family: var(--sans); font-size: 12px; color: var(--muted); margin: -10px 0 18px; display: flex; flex-wrap: wrap; gap: 4px 14px; }
   .key i { font-family: var(--serif); font-size: 15px; color: var(--ink); }
   .key .nt { color: var(--rubric); } .key .ot { color: var(--ot); }
 
+  /* ---------- Search ---------- */
+  .search-panel { position: fixed; inset: 0; z-index: 30; background: var(--bg); overflow-y: auto; -webkit-overflow-scrolling: touch; }
+  .search-inner { max-width: 880px; margin: 0 auto; padding: 12px 18px 60px; }
+  .search-row { display: flex; gap: 8px; position: sticky; top: 0; background: var(--bg); padding: 4px 0 10px; }
+  #q { flex: 1; min-width: 0; font-family: var(--sans); font-size: 16px; color: var(--ink); background: var(--paper);
+       border: 1px solid var(--rule); border-radius: 10px; padding: 9px 12px; outline: none; }
+  #q::-webkit-search-cancel-button { -webkit-appearance: none; display: none; }
+  #q:focus { border-color: color-mix(in srgb, var(--rubric) 45%, var(--rule)); }
+  #searchClose { margin-left: 0; height: 40px; width: 40px; font-size: 22px; }
+  .search-meta { font-family: var(--sans); font-size: 12px; color: var(--muted); margin: 0 2px 12px; }
+  .res { display: block; width: 100%; text-align: left; background: var(--paper); border: 1px solid var(--rule); border-radius: 12px;
+         padding: 12px 14px; margin-bottom: 8px; cursor: pointer; font-family: var(--serif); font-size: 16px; line-height: 1.5; color: var(--ink); }
+  .res:hover { border-color: color-mix(in srgb, var(--rubric) 35%, var(--rule)); }
+  .res .where { font-family: var(--sans); font-size: 12px; font-weight: 600; color: var(--rubric); margin-bottom: 3px; }
+  .res mark { background: var(--hl); color: inherit; border-radius: 3px; padding: 0 1px; }
+
   /* ---------- Focus view ---------- */
   .fadeable { transition: opacity .35s ease; }
-  header.bar .bar-inner, .chapter-head, .comm-head, details.art > summary { transition: filter .35s ease, opacity .35s ease; }
-  body.focusing header.bar .bar-inner, body.focusing .chapter-head, body.focusing .comm-head,
-  body.focusing details.art > summary { filter: blur(2.5px); opacity: .35; pointer-events: none; user-select: none; }
+  header.bar .bar-inner, .chapter-head { transition: filter .35s ease, opacity .35s ease; }
+  body.focusing header.bar .bar-inner, body.focusing .chapter-head { filter: blur(2.5px); opacity: .35; pointer-events: none; user-select: none; }
   .fading { opacity: 0; }
   .gone { display: none !important; }
-  .focusbar {
-    position: sticky; top: 64px; z-index: 9; display: none; align-items: center; gap: 12px;
-    background: var(--paper); border: 1px solid var(--rule); border-radius: 12px; box-shadow: var(--shadow);
-    padding: 8px 8px 8px 16px; margin: 0 0 16px; font-family: var(--sans); font-size: 13px; color: var(--muted);
+  .focus-x {
+    position: fixed; z-index: 20; display: none; width: 38px; height: 38px; border-radius: 50%;
+    border: 1px solid var(--rule); background: var(--paper); box-shadow: 0 2px 10px rgba(0,0,0,.15);
+    font-size: 22px; line-height: 1; color: var(--ink); cursor: pointer; place-items: center; padding: 0 0 2px;
   }
-  .focusbar.on { display: flex; }
-  .focusbar b { color: var(--ink); font-weight: 600; }
-  .focusbar .x { margin-left: auto; display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--rule); background: var(--bg); border-radius: 8px; padding: 6px 10px; cursor: pointer; font-size: 13px; color: var(--ink); }
-  .focusbar .x { white-space: nowrap; }
-  .focusbar .x span { font-size: 16px; line-height: 1; }
+  body.focusing .focus-x { display: grid; }
+  body.focusing #commentary { margin-top: 12px; }
   .v.has-comm { cursor: pointer; transition: background-color .2s; }
   @media (hover: hover) { .v.has-comm:hover { background: var(--chip); } }
   .vchip.active { background: var(--rubric); color: #fff; border-color: var(--rubric); }
@@ -138,9 +157,7 @@
   @media (max-width: 640px) {
     body { font-size: 18px; }
     .bar-inner { padding: 8px 12px; gap: 6px; }
-    .brand { width: 100%; font-size: 16px; }
-    .controls { width: 100%; gap: 6px; }
-    .controls { flex-wrap: nowrap; }
+    .controls { gap: 6px; }
     #book { flex: 1 1 auto; min-width: 0; max-width: none; }
     #chapter { flex: 0 0 auto; }
     .scripture { padding: 20px 18px; }
@@ -154,13 +171,26 @@
 <body>
 <header class="bar">
   <div class="bar-inner">
-    <div class="brand">Scriptura <span>&amp;</span> Enarratio</div>
     <div class="controls">
       <select id="book" aria-label="Book"></select>
       <select id="chapter" aria-label="Chapter"></select>
+      <button class="icon-btn" id="searchBtn" aria-label="Search the commentary" title="Search the commentary">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+      </button>
     </div>
   </div>
 </header>
+
+<div class="search-panel" id="searchPanel" hidden>
+  <div class="search-inner">
+    <div class="search-row">
+      <input id="q" type="search" placeholder="Search the commentary…" autocomplete="off" spellcheck="false" aria-label="Search the commentary">
+      <button class="icon-btn" id="searchClose" aria-label="Close search">×</button>
+    </div>
+    <div class="search-meta" id="searchMeta">Searches the English, or the Latin when the commentary is set to Latin.</div>
+    <div id="results"></div>
+  </div>
+</div>
 
 <main>
   <div class="chapter-head">
@@ -171,7 +201,7 @@
     </div>
     <div class="ornament">✠</div>
   </div>
-  <div class="focusbar" id="focusbar" role="status"><span id="focuslabel"></span><button class="x" id="unfocus" title="Back to the full chapter (Esc)"><span>×</span> Full chapter</button></div>
+  <button class="focus-x" id="unfocus" aria-label="Back to the full chapter" title="Back to the full chapter (Esc)">×</button>
   <section class="card scripture single" id="text"><div class="loading">Loading…</div></section>
 
   <div class="comm-head"><h2>Commentary</h2><div class="rule"></div>
@@ -318,14 +348,21 @@ function quoteSpan(ref, text) {
   return `<span class="scr ${k}">${esc(text)}</span><span class="cite ${k}">(${esc(label)})</span>`;
 }
 
+// translator's notes are written in [square brackets] in the data; show them as a small tap-to-open marker
+// ("[…]" for missing text and short fragments like "epulan[di]" are left as they are)
+function notesHTML(html) {
+  return html.replace(/ ?\[([^\]]{4,})\]/g, (m, body) =>
+    `<button class="tn" aria-expanded="false" aria-label="Translator's note" title="Translator's note">i</button>` +
+    `<span class="tn-body" hidden>${body}</span>`);
+}
 function paraHTML(p) {
   if (state.lang === "en" && p.en) {
     let out = "", last = 0;
     for (const m of p.en.matchAll(QRE)) {
-      out += esc(p.en.slice(last, m.index)) + quoteSpan(m[1], m[2]);
+      out += notesHTML(esc(p.en.slice(last, m.index))) + quoteSpan(m[1], m[2]);
       last = m.index + m[0].length;
     }
-    return out + esc(p.en.slice(last));
+    return out + notesHTML(esc(p.en.slice(last)));
   }
   return latinHTML(p);
 }
@@ -413,12 +450,13 @@ async function renderCommentary() {
 function focusTargets() {
   const f = state.focus, hide = [];
   document.querySelectorAll("#text [id^=v]").forEach(el => { const n = +el.id.slice(1); if (n < f.a || n > f.b) hide.push(el); });
-  hide.push(...document.querySelectorAll("#text .src, .chapter-head .ornament, .comm-sub, .key, footer"));
+  hide.push(...document.querySelectorAll("#text .src, .chapter-head .ornament, .comm-head, .comm-sub, .key, footer"));
   document.querySelectorAll("#commentary details.art").forEach(d => {
     const ai = d.dataset.ai;
     const keep = [...d.querySelectorAll(".para")].filter(p => f.items.has(ai + ":" + p.dataset.pi));
     if (!keep.length) { hide.push(d); return; }
     d.open = true;
+    hide.push(d.querySelector("summary"));
     d.querySelectorAll(".para").forEach(p => { if (!keep.includes(p)) hide.push(p); });
     hide.push(...d.querySelectorAll(".note, .lang-note, .art-body > .src"));
   });
@@ -428,11 +466,7 @@ function applyFocus(animate) {
   const f = state.focus; if (!f) return;
   const hide = focusTargets();
   hide.forEach(el => el.classList.add("fadeable"));
-  const b = BOOKS[bookIdx(state.book)][1];
-  const arts = f.arts.length > 1 ? `Arts. ${f.arts.join(", ")}` : `Art. ${f.arts[0]}`;
-  $("#focuslabel").innerHTML = `Showing <b>${esc(b)} ${state.ch}:${f.a}${f.b > f.a ? "–" + f.b : ""}</b> with ${esc(arts)}`;
-  $("#focusbar").style.top = ($("header.bar").offsetHeight + 8) + "px";
-  $("#focusbar").classList.add("on");
+  placeFocusX();
   document.body.classList.add("focusing");
   document.querySelectorAll(".vchip.active").forEach(c => c.classList.remove("active"));
   for (const k of f.items) {
@@ -445,15 +479,21 @@ function applyFocus(animate) {
   setTimeout(() => {
     hide.forEach(el => el.classList.add("gone"));
     // scroll just far enough that the focused verses sit right under the header + focus bar
-    const head = $("header.bar").offsetHeight, bar = $("#focusbar").offsetHeight;
-    const target = $("#text").getBoundingClientRect().top + window.scrollY - head - bar - 24;
+    const head = $("header.bar").offsetHeight;
+    const target = $("#text").getBoundingClientRect().top + window.scrollY - head - 14;
     window.scrollTo({ top: Math.max(0, target), behavior: "smooth" });
   }, 350);
 }
+// the little × sits at the top right of the reading column, just under the header
+function placeFocusX() {
+  const x = $("#unfocus"), col = $("main").getBoundingClientRect();
+  x.style.top = ($("header.bar").offsetHeight + 10) + "px";
+  x.style.right = Math.max(10, window.innerWidth - col.right + 8) + "px";
+}
+window.addEventListener("resize", () => { if (state.focus) placeFocusX(); });
 function clearFocus() {
   if (!state.focus) return;
   const f = state.focus; state.focus = null;
-  $("#focusbar").classList.remove("on");
   document.body.classList.remove("focusing");
   // articles go back to how the reader had them (opened or collapsed)
   document.querySelectorAll("#commentary details.art").forEach(d => { d.open = !!f.wasOpen[d.dataset.ai]; });
@@ -515,17 +555,18 @@ async function markVerses() {
 
 async function go(book, ch, push = true) {
   const changedBook = book !== state.book || !$("#chapter").options.length;
-  if (state.focus) { state.focus = null; $("#focusbar").classList.remove("on"); document.body.classList.remove("focusing"); }
+  if (state.focus) { state.focus = null; document.body.classList.remove("focusing"); }
   state.book = book; state.ch = ch;
   if (changedBook) await buildChapterSelect();
   syncControls();
   if (push) { const h = `#${book}-${ch}`; if (location.hash !== h) history.replaceState(null, "", h); }
+  try { localStorage.setItem("last", `${book}-${ch}`); } catch (e) {}
   await Promise.all([renderText(), renderCommentary()]);
   markVerses();
 }
 
-function fromHash() {
-  const m = location.hash.match(/^#([a-z0-9-]+)-(\d+)$/);
+function fromHash(h = location.hash) {
+  const m = h.match(/^#([a-z0-9-]+)-(\d+)$/);
   if (!m) return null;
   const i = bookIdx(m[1]); if (i < 0) return null;
   const ch = Math.min(Math.max(1, +m[2]), BOOKS[i][3]);
@@ -535,21 +576,15 @@ function fromHash() {
 // ---------- Events ----------
 $("#book").addEventListener("change", e => go(e.target.value, 1));
 $("#chapter").addEventListener("change", e => { go(state.book, +e.target.value); window.scrollTo({ top: 0 }); });
-$("#prev").addEventListener("click", () => {
-  let i = bookIdx(state.book);
-  if (state.ch > 1) go(state.book, state.ch - 1); else if (i > 0) go(BOOKS[i-1][0], BOOKS[i-1][3]);
-  window.scrollTo({ top: 0 });
-});
-$("#next").addEventListener("click", () => {
-  let i = bookIdx(state.book);
-  if (state.ch < BOOKS[i][3]) go(state.book, state.ch + 1); else if (i < BOOKS.length - 1) go(BOOKS[i+1][0], 1);
-  window.scrollTo({ top: 0 });
-});
+$("#prev").addEventListener("click", () => prevChapter());
+$("#next").addEventListener("click", () => nextChapter());
 document.querySelectorAll("[data-lang]").forEach(b => b.addEventListener("click", async () => {
   state.lang = b.dataset.lang; try { localStorage.setItem("lang", state.lang); } catch (e) {}
   syncControls(); await renderCommentary(); applyFocus(false);
 }));
 $("#commentary").addEventListener("click", e => {
+  const n = e.target.closest(".tn");
+  if (n) { const body = n.nextElementSibling, open = body.hidden; body.hidden = !open; n.setAttribute("aria-expanded", open); return; }
   const c = e.target.closest(".vchip"); if (!c) return;
   focusOnPara(+c.closest("details.art").dataset.ai, +c.closest(".para").dataset.pi);
 });
@@ -559,11 +594,106 @@ $("#text").addEventListener("click", e => {
   focusOnVerse(+v.id.slice(1));
 });
 $("#unfocus").addEventListener("click", clearFocus);
-document.addEventListener("keydown", e => { if (e.key === "Escape") clearFocus(); });
+
+// ---------- Search across all the commentary ----------
+// spelling-insensitive: case, accents, æ/ae, œ/oe, j/i and v/u are ignored; keeps a map back to the original text
+function normWithMap(s) {
+  let n = "", map = [];
+  for (let i = 0; i < s.length; i++) {
+    let c = s[i].toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+    if (c === "æ" || c === "œ") c = "e";
+    else if ((c === "e") && /[ao]/i.test(s[i - 1] || "") && n.length && "ao".includes(n[n.length - 1]) ) { n = n.slice(0, -1); map.pop(); c = "e"; }
+    else if (c === "j") c = "i"; else if (c === "v") c = "u";
+    for (const ch of c) { n += ch; map.push(i); }
+  }
+  return [n, map];
+}
+const normQ = q => normWithMap(q)[0];
+let INDEX = null;
+async function buildIndex() {
+  const out = [];
+  for (const id of COMMENTARY_BOOKS) {
+    const c = await commFile(id); if (!c) continue;
+    for (const [ch, arts] of Object.entries(c.chapters)) arts.forEach((a, ai) => a.paras.forEach((p, pi) => {
+      const en = (p.en || "").replace(QRE, (m, ref, dr) => dr);
+      out.push({ id, ch: +ch, ai, pi, num: a.num, v: p.v, en, enN: normQ(en), la: p.t, laN: normQ(p.t) });
+    }));
+  }
+  out.sort((x, y) => bookIdx(x.id) - bookIdx(y.id) || x.ch - y.ch || x.ai - y.ai || x.pi - y.pi);
+  return out;
+}
+function snippet(src, terms) {
+  const [n, map] = normWithMap(src);
+  const first = Math.min(...terms.map(t => n.indexOf(t)).filter(i => i >= 0));
+  let a = Math.max(0, map[first] - 90), b = Math.min(src.length, map[first] + 170);
+  while (a > 0 && src[a - 1] !== " ") a--;
+  while (b < src.length && src[b] !== " ") b++;
+  const piece = src.slice(a, b), [pn, pmap] = normWithMap(piece);
+  const marks = [];
+  for (const t of terms) { let i = pn.indexOf(t); while (i >= 0) { marks.push([pmap[i], pmap[i + t.length - 1] + 1]); i = pn.indexOf(t, i + t.length); } }
+  marks.sort((x, y) => x[0] - y[0]);
+  let out = "", last = 0;
+  for (const [x, y] of marks) { if (x < last) continue; out += esc(piece.slice(last, x)) + "<mark>" + esc(piece.slice(x, y)) + "</mark>"; last = y; }
+  return (a > 0 ? "… " : "") + out + esc(piece.slice(last)) + (b < src.length ? " …" : "");
+}
+async function runSearch() {
+  const q = $("#q").value.trim(), terms = normQ(q).split(/\s+/).filter(t => t.length >= 2);
+  const meta = $("#searchMeta"), box = $("#results");
+  if (!terms.length) { box.innerHTML = ""; meta.textContent = "Searches the English, or the Latin when the commentary is set to Latin."; return; }
+  if (!INDEX) { meta.textContent = "Loading…"; INDEX = await buildIndex(); }
+  const la = state.lang === "la";
+  const hits = INDEX.filter(e => terms.every(t => (la ? e.laN : e.enN).includes(t)));
+  meta.textContent = `${hits.length} passage${hits.length === 1 ? "" : "s"}${la ? " (Latin)" : ""}` + (hits.length > 200 ? " — showing the first 200" : "");
+  box.innerHTML = hits.slice(0, 200).map((e, k) => {
+    const v = e.v[0] === e.v[1] ? `v. ${e.v[0]}` : `vv. ${e.v[0]}–${e.v[1]}`;
+    return `<button class="res" data-k="${k}"><div class="where">${esc(BOOKS[bookIdx(e.id)][1])} ${e.ch} · Art. ${esc(e.num)} · ${v}</div>${snippet(la ? e.la : e.en, terms)}</button>`;
+  }).join("");
+  box.onclick = async ev => {
+    const r = ev.target.closest(".res"); if (!r) return;
+    const e = hits[+r.dataset.k];
+    closeSearch();
+    if (e.id !== state.book || e.ch !== state.ch) await go(e.id, e.ch); else clearFocus();
+    const d = document.querySelector(`details.art[data-ai="${e.ai}"]`); if (d) d.open = true;
+    const para = document.querySelector(`details.art[data-ai="${e.ai}"] .para[data-pi="${e.pi}"]`);
+    if (para) para.scrollIntoView({ block: "center" });
+    focusOnPara(e.ai, e.pi);
+  };
+}
+let searchTimer;
+function openSearch() { $("#searchPanel").hidden = false; document.body.style.overflow = "hidden"; setTimeout(() => $("#q").focus(), 30); if ($("#q").value) runSearch(); }
+function closeSearch() { $("#searchPanel").hidden = true; document.body.style.overflow = ""; }
+$("#searchBtn").addEventListener("click", openSearch);
+$("#searchClose").addEventListener("click", closeSearch);
+$("#q").addEventListener("input", () => { clearTimeout(searchTimer); searchTimer = setTimeout(runSearch, 150); });
+function prevChapter() {
+  const i = bookIdx(state.book);
+  if (state.ch > 1) go(state.book, state.ch - 1); else if (i > 0) go(BOOKS[i-1][0], BOOKS[i-1][3]); else return;
+  window.scrollTo({ top: 0 });
+}
+function nextChapter() {
+  const i = bookIdx(state.book);
+  if (state.ch < BOOKS[i][3]) go(state.book, state.ch + 1); else if (i < BOOKS.length - 1) go(BOOKS[i+1][0], 1); else return;
+  window.scrollTo({ top: 0 });
+}
+let touch = null;
+$("main").addEventListener("touchstart", e => {
+  if (e.touches.length !== 1 || state.focus || !$("#searchPanel").hidden) { touch = null; return; }
+  touch = { x: e.touches[0].clientX, y: e.touches[0].clientY, t: Date.now() };
+}, { passive: true });
+$("main").addEventListener("touchend", e => {
+  if (!touch) return;
+  const dx = e.changedTouches[0].clientX - touch.x, dy = e.changedTouches[0].clientY - touch.y, dt = Date.now() - touch.t;
+  touch = null;
+  if (dt > 700 || Math.abs(dx) < 70 || Math.abs(dx) < 2 * Math.abs(dy)) return;   // a quick, clearly sideways swipe
+  if (String(window.getSelection() || "").length) return;
+  dx < 0 ? nextChapter() : prevChapter();
+}, { passive: true });
+document.addEventListener("keydown", e => { if (e.key === "Escape") { if (!$("#searchPanel").hidden) closeSearch(); else clearFocus(); } });
 window.addEventListener("hashchange", () => { const r = fromHash(); if (r && (r[0] !== state.book || r[1] !== state.ch)) go(r[0], r[1], false); });
 
 buildBookSelect();
-const start = fromHash() || ["genesis", 30];
+let saved = null; try { saved = localStorage.getItem("last"); } catch (e) {}
+const start = fromHash() || (saved && fromHash("#" + saved)) || ["genesis", 30];
 go(start[0], start[1]);
 </script>
 </body>

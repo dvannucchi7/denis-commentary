@@ -81,6 +81,9 @@ How they display (do not change without Dave asking):
   technical theological terms (e.g. "officious lie [that is, a lie told to avert harm, not a malicious one]")
   and wordplay lost in English (e.g. *virga* = "rod", where the Douay-Rheims has "sceptre").
   Dave likes these notes.
+  In the app, a bracketed note shows as a small "i" marker the reader taps to open; "[…]" (missing
+  text) and short fragments like "epulan[di]" are not treated as notes. Write notes as at least four
+  characters inside the brackets.
 - The English article title goes in `title_en`.
 
 ## Getting the Latin text
@@ -103,6 +106,17 @@ columns line by line; the letters A–D in the gutter mark quarters of the page.
 image at the gutter and OCR-ing each column separately, then checking the reading order by the sense.
 Strip running heads, page numbers and marginal references (keep Denis's inline references such as
 "(Ps. lxxxiv, 9)"); join words hyphenated across lines.
+
+## Interface features (for reference when changing index.html)
+
+- Header: book and chapter menus (✠ marks those with commentary) and a search button. No site title.
+- Chapter title with ‹ › arrows on either side; swipe left/right on phones to change chapter.
+- The app reopens on the last chapter read (stored in the reader's browser).
+- Articles start collapsed. Tapping a verse, or a verse tag in the commentary, opens focus view: only
+  those verses and the matching comments, in two bubbles with a small gap; header and title blurred;
+  a small × (or Esc) returns the reader to where they were, with articles opened/closed as before.
+- Search covers all commentary (English, or Latin when the Latin view is on); a result opens that
+  comment in focus view.
 
 ## Before committing
 
