@@ -553,8 +553,9 @@
     335,
     344
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T21:37:10Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-12T21:37:10Z",
+   "note": "Published. PDF 337 (p. 317): one line lost at the foot of each column. Left column, after 'Sed nume-' (v. 5): restored as 'Sed numerus minor non excludit majorem, et major includit minorem' from the garbled letters and Denis's own phrase on 24:1 (note in the article); right column, after 'eam intrabitis.' (v. 7): lost, ending '…sionem' (probably 'Ibi eum videbitis … ascensionem'), marked […] with a note. Check both against the scan. No margin note read (kept): Is 8:18, Ps 21:23, Ps 15:10; references only for the Easter appearances (Luke 24:13, 34, 36, 50; John 20:26; 21:1; Acts 1:4), whose margin notes are garbled."
   },
   {
    "id": "mark-01",
