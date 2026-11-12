@@ -220,9 +220,8 @@
     128,
     141
    ],
-   "status": "in-progress",
-   "note": "PDF 136 OCR is partly garbled (woman with the issue of blood, Jairus messengers): may need needs-scan",
-   "claimed": "2026-11-12T16:43:17Z"
+   "status": "needs-scan",
+   "note": "Published (Matthew 9, Art. XVIII, all of ch. 9). PDF 136 (p. 116) is partly unreadable in the OCR: gaps marked […] at the end of the Eusebius statue story (v. 20), in v. 21 (one line), at the end of v. 22 (two lines, margin Deut. xxx, 4) and in the messengers' words to Jairus (v. 23). Please check against the scan. Tags whose margin note was unread or misread: Ps 84:9, 1 Cor 2:11 (margin read 'II Cor. i, 11'), Rom 8:30, Rom 10:3, Gal 4:4, 4 Kings 13:21, 3 Kings 17:21, 4 Kings 4:33; 1 Tim 1:15 (margin read as Luke 19:10). John 20:22 tagged where the margin prints xx, 23 (note in text)."
   },
   {
    "id": "matthew-19",
