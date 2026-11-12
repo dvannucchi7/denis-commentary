@@ -487,8 +487,9 @@
     290,
     299
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T19:41:23Z"
+   "status": "done",
+   "claimed": "2026-11-12T19:41:23Z",
+   "note": "Margin reads checked by hand: PDF 293 'Ibid. xxiv, 42' taken as Matt 24:42 (reference only); PDF 297 Ps lxxviii / xciv, 7 / xcix, 3 at 'Nos autem populus ejus' (tagged Ps 99:3, others reference-only, with a note); PDF 294 II Tim 1:8 given for 'Collabora gratiae Dei' (Vulgate: collabora Evangelio; note added)."
   },
   {
    "id": "matthew-41",
