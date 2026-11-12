@@ -668,8 +668,9 @@
     360,
     365
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T21:49:26Z"
+   "status": "done",
+   "claimed": "2026-11-12T21:49:26Z",
+   "note": "The title lemma ('Et dicebat illis: Amen dico vobis, quia sunt quidam') is Mark 8:39 in the Vulgate numbering; the article treats 9:1-49. No margin note read (kept, word for word): 2 Tim 3:12 (margin read as 'II Tim. iii, 12' misread). Wis 6:1 added as reference only for 'Melior est discretio quam vires' (no margin note read; check)."
   },
   {
    "id": "mark-10",
