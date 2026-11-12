@@ -164,7 +164,7 @@
     border: 1px solid var(--rule); background: var(--paper); box-shadow: 0 2px 10px rgba(0,0,0,.15);
     font-size: 22px; line-height: 1; color: var(--ink); cursor: pointer; place-items: center; padding: 0 0 2px;
   }
-  body.focusing .focus-x { display: grid; }
+  body.focusing .focus-x:not(.layer-x) { display: grid; }
   body.focusing #commentary { margin-top: 12px; }
   .v.has-comm { cursor: pointer; transition: background-color .2s; }
   @media (hover: hover) { .v.has-comm:hover { background: var(--chip); } }
@@ -172,6 +172,30 @@
   .comm-head .seg { align-self: center; }
   .lang-note { font-family: var(--sans); font-size: 12px; color: var(--muted); margin-top: 8px; font-style: italic; }
   .art-body .src { font-family: var(--sans); font-size: 12px; color: var(--muted); margin-top: 18px; }
+
+  /* ---------- Reference layers (tap a quoted reference) ---------- */
+  .ref-link { cursor: pointer; border-radius: 3px; }
+  .cite.ref-link { text-decoration: underline dotted; text-underline-offset: 2px; }
+  @media (hover: hover) { .ref-link:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; } }
+  .ref-link:focus-visible { outline: 2px solid color-mix(in srgb, var(--rubric) 50%, transparent); outline-offset: 1px; }
+  .layers { position: fixed; inset: 0; z-index: 25; overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain;
+            background: color-mix(in srgb, var(--bg) 84%, transparent);
+            backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); opacity: 0; transition: opacity .25s ease; }
+  .layers.shown { opacity: 1; }
+  .layer { transition: opacity .25s ease, transform .35s cubic-bezier(.2, .75, .25, 1); }
+  .layer.entering { opacity: 0; transform: translateY(16px); }
+  .layer.under { display: none; }
+  .layer-inner { max-width: 880px; margin: 0 auto; padding: 62px 18px 80px; }
+  .layer-ref { font-family: var(--sans); font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--rubric); margin-bottom: 8px; }
+  .layer-verse { margin-bottom: 12px; }
+  .layer-art { margin-bottom: 12px; overflow: hidden; }
+  .layer-art-head { padding: 12px 20px; display: flex; gap: 14px; align-items: center; }
+  .layer-art .art-body { padding-top: 2px; }
+  .vchip.static { cursor: default; }
+  @media (hover: hover) { .vchip.static:hover { background: transparent; } }
+  .layer-open { background: none; border: 0; padding: 0; font: inherit; color: var(--rubric); cursor: pointer; }
+  .layer-x { z-index: 27; }
+  body.layered .layer-x { display: grid; }
 
   .empty { padding: 26px; text-align: center; color: var(--muted); font-style: italic; }
   .loading { padding: 40px; text-align: center; color: var(--muted); font-family: var(--sans); font-size: 14px; }
@@ -221,6 +245,8 @@
   </div>
 </div>
 
+<div class="layers" id="layers" hidden></div>
+
 <main>
   <div class="chapter-head">
     <div class="title-row">
@@ -231,6 +257,7 @@
     <div class="ornament">✠</div>
   </div>
   <button class="focus-x" id="unfocus" aria-label="Back to the full chapter" title="Back to the full chapter (Esc)">×</button>
+  <button class="focus-x layer-x" id="layerX" aria-label="Back" title="Back (Esc)">×</button>
   <section class="card scripture single" id="text"><div class="loading">Loading…</div></section>
 
   <div class="comm-head"><h2>Commentary</h2><div class="rule"></div>
@@ -367,17 +394,33 @@ const QRE = /\[\[([^|\]]+)\|([^|\]]*)\|([^\]]*)\]\]/g;
 
 const NT_ABBR = ["Matt","Mark","Luke","John","Acts","Rom","1 Cor","2 Cor","Gal","Eph","Phil","Col","1 Thess","2 Thess",
   "1 Tim","2 Tim","Tit","Philem","Heb","Jas","1 Pet","2 Pet","1 John","2 John","3 John","Jude","Apoc"];
+// reference abbreviations (Douay names, Vulgate numbering) -> book file id; keep in step with ABBR in tools/check_quotes.py
+const ABBR = {"Gen":"genesis","Ex":"exodus","Lev":"leviticus","Num":"numbers","Deut":"deuteronomy","Jos":"joshua","Judg":"judges","Ruth":"ruth","1 Kings":"i-samuel","2 Kings":"ii-samuel","3 Kings":"i-kings","4 Kings":"ii-kings","1 Par":"i-chronicles","2 Par":"ii-chronicles","1 Esd":"ezra","2 Esd":"nehemiah","Tob":"tobit","Jdt":"judith","Esth":"esther","Job":"job","Ps":"psalms","Prov":"proverbs","Eccles":"ecclesiastes","Cant":"song-of-solomon","Wis":"wisdom","Ecclus":"sirach","Is":"isaiah","Jer":"jeremiah","Lam":"lamentations","Bar":"baruch","Ezech":"ezekiel","Dan":"daniel","Osee":"hosea","Joel":"joel","Amos":"amos","Abd":"obadiah","Jon":"jonah","Mich":"micah","Nah":"nahum","Hab":"habakkuk","Soph":"zephaniah","Agg":"haggai","Zach":"zechariah","Mal":"malachi","1 Mach":"i-maccabees","2 Mach":"ii-maccabees","Matt":"matthew","Mark":"mark","Luke":"luke","John":"john","Acts":"acts","Rom":"romans","1 Cor":"i-corinthians","2 Cor":"ii-corinthians","Gal":"galatians","Eph":"ephesians","Phil":"philippians","Col":"colossians","1 Thess":"i-thessalonians","2 Thess":"ii-thessalonians","1 Tim":"i-timothy","2 Tim":"ii-timothy","Tit":"titus","Philem":"philemon","Heb":"hebrews","Jas":"james","1 Pet":"i-peter","2 Pet":"ii-peter","1 John":"i-john","2 John":"ii-john","3 John":"iii-john","Jude":"jude","Apoc":"revelation-of-john"};
+// a quotation is rendered relative to the chapter it is commented in (ctx): the page itself, or a reference layer
+// "C:V" with a book id, or null if the reference can't be read
+function resolveRef(ref, ctx = state) {
+  const m = ref.match(/^(.*?)\s*(\d+):(\d+)$/); if (!m) return null;
+  const book = m[1] ? ABBR[m[1]] : ctx.book;
+  return book ? { book, ch: +m[2], v: +m[3] } : null;
+}
 // "here" = the chapter being treated; otherwise "ot" or "nt"
-function quoteKind(ref) {
+function quoteKind(ref, ctx = state) {
   const m = ref.match(/^(.*?)\s*(\d+):(\d+)$/); if (!m) return "ot";
-  if (!m[1]) return +m[2] === state.ch ? "here" : (bookIdx(state.book) >= NT_START ? "nt" : "ot");
+  if (!m[1]) return +m[2] === ctx.ch ? "here" : (bookIdx(ctx.book) >= NT_START ? "nt" : "ot");
   return NT_ABBR.includes(m[1]) ? "nt" : "ot";
 }
-function quoteSpan(ref, text) {
-  const k = quoteKind(ref);
+// attributes that make a quotation and its reference tappable: they open that verse in a reference layer
+function refAttrs(ref, ctx) {
+  const r = resolveRef(ref, ctx);
+  return r ? ` data-go="${r.book}:${r.ch}:${r.v}" role="link" tabindex="0" title="Open ${esc(refLabel(r))}"` : "";
+}
+const refLabel = r => `${BOOKS[bookIdx(r.book)][1]} ${r.ch}:${r.v}`;
+function quoteSpan(ref, text, ctx = state) {
+  const k = quoteKind(ref, ctx);
   if (k === "here") return `<span class="scr here">${esc(text)}</span>`;
-  const label = /^\d+:\d+$/.test(ref) ? BOOKS[bookIdx(state.book)][1] + " " + ref : ref;
-  return `<span class="scr ${k}">${esc(text)}</span><span class="cite ${k}">(${esc(label)})</span>`;
+  const label = /^\d+:\d+$/.test(ref) ? BOOKS[bookIdx(ctx.book)][1] + " " + ref : ref;
+  const go = refAttrs(ref, ctx);
+  return `<span class="scr ${k}${go ? " ref-link" : ""}"${go}>${esc(text)}</span><span class="cite ${k}${go ? " ref-link" : ""}"${go}>(${esc(label)})</span>`;
 }
 
 // translator's notes are written in [square brackets] in the data; show them as a small tap-to-open marker
@@ -387,16 +430,16 @@ function notesHTML(html) {
     `<button class="tn" aria-expanded="false" aria-label="Translator's note" title="Translator's note">i</button>` +
     `<span class="tn-body" hidden>${body}</span>`);
 }
-function paraHTML(p) {
+function paraHTML(p, ctx = state) {
   if (state.lang === "en" && p.en) {
     let out = "", last = 0;
     for (const m of p.en.matchAll(QRE)) {
-      out += notesHTML(esc(p.en.slice(last, m.index))) + quoteSpan(m[1], m[2]);
+      out += notesHTML(esc(p.en.slice(last, m.index))) + quoteSpan(m[1], m[2], ctx);
       last = m.index + m[0].length;
     }
     return out + notesHTML(esc(p.en.slice(last)));
   }
-  return latinHTML(p);
+  return latinHTML(p, ctx);
 }
 
 // Latin view: find Denis's quotations in his own Latin by matching the Vulgate wording
@@ -410,7 +453,7 @@ function tokens(s) {
   while ((m = re.exec(s))) out.push({ w: normWord(m[0]), a: m.index, b: m.index + m[0].length });
   return out;
 }
-function latinHTML(p) {
+function latinHTML(p, ctx = state) {
   const src = p.t, tk = tokens(src);
   const hits = []; let from = 0;
   for (const m of (p.en || "").matchAll(QRE)) {
@@ -442,7 +485,8 @@ function latinHTML(p) {
   }
   let out = "", last = 0;
   for (const [a, b, ref] of hits) {
-    out += esc(src.slice(last, a)) + `<span class="scr ${quoteKind(ref)}">${esc(src.slice(a, b))}</span>`;
+    const k = quoteKind(ref, ctx), go = k === "here" ? "" : refAttrs(ref, ctx);
+    out += esc(src.slice(last, a)) + `<span class="scr ${k}${go ? " ref-link" : ""}"${go}>${esc(src.slice(a, b))}</span>`;
     last = b;
   }
   return out + esc(src.slice(last));
@@ -616,9 +660,98 @@ async function markVerses() {
   });
 }
 
+// ---------- Reference layers: tap a quoted reference to open that verse with Denis's own comments on it ----------
+// Layers stack on top of whatever is showing (the chapter or its focus view), which stays as it was underneath.
+// A reference tapped inside a layer opens another layer on top; × (or Esc) goes back one layer at a time.
+// Verses whose book has no commentary yet show the verse alone; their comments appear as the books are added.
+const layers = [];
+async function layerHTML(r) {
+  const b = BOOKS[bookIdx(r.book)], ctx = { book: r.book, ch: r.ch };
+  let verse = null;
+  try { verse = (await load(bibleFile("drc", r.book)))[r.ch - 1][r.v - 1]; } catch (e) {}
+  const comm = await commFile(r.book).catch(() => null);
+  const found = [];
+  ((comm && comm.chapters[r.ch]) || []).forEach(a => {
+    const ps = a.paras.filter(p => r.v >= p.v[0] && r.v <= p.v[1]);
+    if (ps.length) found.push([a, ps]);
+  });
+  const la = state.lang === "la";
+  const verseCard = `<section class="card scripture layer-verse">
+      <div class="layer-ref">${esc(refLabel(r))}</div>
+      <p>${verse ? `<span class="v"><sup>${r.v}</sup>${esc(verse)}</span>` : `<i>This verse is not in the text.</i>`}</p>
+      <div class="src">${TR_LABEL.drc} · <button class="layer-open" data-open="${r.book}:${r.ch}:${r.v}">Open ${esc(b[1])} ${r.ch} ›</button></div>
+    </section>`;
+  const commCards = found.length ? found.map(([a, ps]) => `<div class="card layer-art">
+      <div class="layer-art-head"><span class="art-num">ART. ${a.num}</span>
+        <span class="art-title"${la ? ' lang="la"' : ""}>${esc(!la && a.title_en ? a.title_en : a.title)}</span></div>
+      <div class="art-body">
+        ${ps.map(p => `<div class="para"><p${la || !p.en ? ' lang="la"' : ""}><span class="vchip static">${vLabel(p.v)}</span>${paraHTML(p, ctx)}</p></div>`).join("")}
+        <div class="src">${esc(comm.work)} · ${esc(a.pages)}</div>
+      </div></div>`).join("")
+    : `<div class="card empty layer-none">${comm ? "Bl. Denis's commentary on this verse is not in the app yet." : `Bl. Denis's commentary on ${esc(b[1])} is not in the app yet.`}</div>`;
+  return verseCard + commCards;
+}
+function placeLayerX() {
+  const x = $("#layerX"), col = $("main").getBoundingClientRect();
+  x.style.top = "12px";
+  x.style.right = Math.max(10, window.innerWidth - col.right + 8) + "px";
+}
+async function openLayer(r) {
+  const box = $("#layers"), el = document.createElement("div");
+  el.className = "layer entering";
+  el.innerHTML = `<div class="layer-inner">${await layerHTML(r)}</div>`;
+  const top = layers[layers.length - 1];
+  if (top) { top.scroll = box.scrollTop; top.el.classList.add("under"); }
+  else { box.hidden = false; document.body.classList.add("layered"); document.body.style.overflow = "hidden"; placeLayerX(); }
+  box.appendChild(el); layers.push({ el, r, scroll: 0 });
+  box.scrollTop = 0;
+  $("#layerX").title = layers.length > 1 ? `Back to ${refLabel(layers[layers.length - 2].r)} (Esc)` : "Back (Esc)";
+  await nextFrame();
+  box.classList.add("shown"); el.classList.remove("entering");
+}
+async function closeLayer() {
+  const top = layers.pop(); if (!top) return;
+  const box = $("#layers");
+  top.el.classList.add("entering");
+  if (!layers.length) box.classList.remove("shown");
+  await wait(220); top.el.remove();
+  const below = layers[layers.length - 1];
+  if (below) {
+    below.el.classList.remove("under"); box.scrollTop = below.scroll;
+    $("#layerX").title = layers.length > 1 ? `Back to ${refLabel(layers[layers.length - 2].r)} (Esc)` : "Back (Esc)";
+  } else { box.hidden = true; document.body.classList.remove("layered"); document.body.style.overflow = ""; }
+}
+function closeAllLayers() {
+  layers.splice(0).forEach(l => l.el.remove());
+  const box = $("#layers"); box.hidden = true; box.classList.remove("shown");
+  document.body.classList.remove("layered"); document.body.style.overflow = "";
+}
+// "Open <chapter>": leave the layers and read that chapter, focused on the verse if Denis comments on it
+async function openChapterAt(r) {
+  closeAllLayers();
+  await go(r.book, r.ch);
+  const comm = await commFile(r.book).catch(() => null);
+  const covered = ((comm && comm.chapters[r.ch]) || []).some(a => a.paras.some(p => r.v >= p.v[0] && r.v <= p.v[1]));
+  if (covered) return focusOnVerse(r.v);
+  const el = document.getElementById("v" + r.v);
+  if (el) el.scrollIntoView({ block: "center" });
+}
+// a tap (or Enter) on a quotation or its reference
+function refTarget(e) {
+  const t = e.target.closest(".ref-link"); if (!t) return null;
+  if (String(window.getSelection() || "").length) return null;   // not while selecting text to copy
+  const [book, ch, v] = t.dataset.go.split(":");
+  return { book, ch: +ch, v: +v };
+}
+
 async function go(book, ch, push = true) {
+  if (layers.length) closeAllLayers();
   const changedBook = book !== state.book || !$("#chapter").options.length;
-  if (state.focus) { state.focus = null; document.body.classList.remove("focusing"); }
+  if (state.focus) {                    // leaving a focused chapter (e.g. "Open …" from a reference layer): undo the focus
+    state.focus = null; document.body.classList.remove("focusing");
+    document.querySelectorAll(".gone, .fading").forEach(el => el.classList.remove("gone", "fading"));
+    $("#text").classList.remove("bare", "glide"); $("#commentary").classList.remove("away");
+  }
   state.book = book; state.ch = ch;
   if (changedBook) await buildChapterSelect();
   syncControls();
@@ -646,6 +779,7 @@ document.querySelectorAll("[data-lang]").forEach(b => b.addEventListener("click"
   syncControls(); await renderCommentary(); applyFocus(false);
 }));
 $("#commentary").addEventListener("click", e => {
+  const r = refTarget(e); if (r) return openLayer(r);
   const n = e.target.closest(".tn");
   if (n) { const body = n.nextElementSibling, open = body.hidden; body.hidden = !open; n.setAttribute("aria-expanded", open); return; }
   const c = e.target.closest(".vchip"); if (!c) return;
@@ -657,6 +791,20 @@ $("#text").addEventListener("click", e => {
   focusOnVerse(+v.id.slice(1));
 });
 $("#unfocus").addEventListener("click", clearFocus);
+$("#layerX").addEventListener("click", closeLayer);
+$("#layers").addEventListener("click", e => {
+  const r = refTarget(e); if (r) return openLayer(r);
+  const o = e.target.closest(".layer-open");
+  if (o) { const [book, ch, v] = o.dataset.open.split(":"); return openChapterAt({ book, ch: +ch, v: +v }); }
+  const n = e.target.closest(".tn");
+  if (n) { const body = n.nextElementSibling, open = body.hidden; body.hidden = !open; n.setAttribute("aria-expanded", open); }
+});
+document.addEventListener("keydown", e => {
+  if (e.key !== "Enter" && e.key !== " ") return;
+  if (!e.target.classList || !e.target.classList.contains("ref-link")) return;
+  e.preventDefault(); openLayer(refTarget(e));
+});
+window.addEventListener("resize", () => { if (layers.length) placeLayerX(); });
 
 // ---------- Search across all the commentary ----------
 // spelling-insensitive: case, accents, æ/ae, œ/oe, j/i and v/u are ignored; keeps a map back to the original text
@@ -751,7 +899,7 @@ $("main").addEventListener("touchend", e => {
   if (String(window.getSelection() || "").length) return;
   dx < 0 ? nextChapter() : prevChapter();
 }, { passive: true });
-document.addEventListener("keydown", e => { if (e.key === "Escape") { if (!$("#searchPanel").hidden) closeSearch(); else clearFocus(); } });
+document.addEventListener("keydown", e => { if (e.key === "Escape") { if (!$("#searchPanel").hidden) closeSearch(); else if (layers.length) closeLayer(); else clearFocus(); } });
 window.addEventListener("hashchange", () => { const r = fromHash(); if (r && (r[0] !== state.book || r[1] !== state.ch)) go(r[0], r[1], false); });
 
 buildBookSelect();
