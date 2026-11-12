@@ -31,15 +31,26 @@ the procedure.
    one at chapter boundaries. Print the chapter with `python3 tools/verses.py --chapter matthew 5`.
    Split the article into paragraphs where Denis moves to a new lemma or a new section, and tag each
    paragraph with its verse range (continuous, per `CLAUDE.md`).
-5. **Translate** each paragraph (before you start, `python3 tools/find_quotes.py <article.txt> <book>
-   <chapter>` lists the places where Denis quotes the chapter, with the Douay-Rheims and Vulgate wording
-   ready to paste; check them, and look up any other quotations yourself) into the `en` field, in the agreed style. Mark every direct quotation of
-   Scripture with `[[ref|Douay-Rheims wording|Vulgate wording]]`. Look up every reference with
-   `python3 tools/verses.py "Ps 26:13" "Rom 12:1" …` and copy the Douay-Rheims words exactly (only the
-   part Denis quotes). In a Gospel, a quotation from the chapter being treated is `C:V`; from another
-   Gospel it is `Matt`/`Mark`/`Luke`/`John C:V` (shown red); from the Old Testament, blue.
+5. **Find the quotations, then translate.** First run `python3 tools/find_quotes.py <article.txt>
+   <book> <chapter>`. It lists, in order, where Denis quotes the chapter being treated, and then where
+   he quotes **anywhere else in the Bible**, with the reference already in marker form. (The printed
+   edition gave references in the margins, which the OCR drops, so this list is how you identify
+   sources.) It finds about nine in ten; check each hit (a short stock phrase may be a coincidence;
+   with Gospel parallels choose the one Denis means) and look up anything it misses (short or freely
+   worded quotations) with `python3 tools/verses.py "Ps 26:13" "Rom 12:1" …`.
+   Translate each paragraph into the `en` field, in the agreed style, marking every direct quotation of
+   Scripture. **Write the markers in shorthand; do not copy out the wording:**
+   `[[Ps 44:8|hath anointed … fellows|Unxit te … tuis]]`: the reference, then two or three words from
+   the start and end of the quoted part in the Douay-Rheims, then the same in Denis's Latin. `*` means
+   the whole verse (`[[5:3|*|*]]`). `tools/add_article.py` fills in the exact Douay-Rheims and the Latin
+   (Denis's own wording where he quotes a variant) and stops with a message if an anchor is not found
+   or is ambiguous; then add a word or two, or write that side out in full (always allowed). A quotation
+   running over two verses gets one marker per verse. In a Gospel, a quotation from the chapter being
+   treated is `C:V`; from another Gospel it is `Matt`/`Mark`/`Luke`/`John C:V` (shown red); from the Old
+   Testament, blue.
 6. **Write the article** as a work file (`work/<id>.json`, format at the top of `tools/add_article.py`)
-   and merge it: `python3 tools/add_article.py work/<id>.json`. This also switches the book on in the app.
+   and merge it: `python3 tools/add_article.py work/<id>.json`. It first expands the shorthand markers
+   (if it stops on an anchor, fix that marker and run it again); it also switches the book on in the app.
 7. **Check.** `python3 tools/check_quotes.py` must report 0 problems. Fix any quotation that does not
    match the Douay-Rheims, and any gap in the verse tags (or mark a real skip with `"gap_ok": true`).
    Then serve the app (`python3 -m http.server`) and confirm the chapter opens and the article shows.

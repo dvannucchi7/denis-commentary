@@ -109,7 +109,8 @@ Scans (Dave supplies the PDFs; the workspace cannot download from archive.org or
 Translation runs follow `TRANSLATING.md` (procedure) with `tools/verses.py` (Douay-Rheims + Vulgate
 lookup; Vulgate text is in `sources/vulgate/`, not shown in the app), `tools/find_quotes.py` (finds
 runs of words in an article that match the Vulgate chapter, to catch lemmata and quotations) and
-`tools/add_article.py` (merges a finished article and switches the book on in the app).
+`tools/add_article.py` (expands shorthand quotation markers with `tools/expand_quotes.py`, merges a
+finished article and switches the book on in the app).
 `tools/cut_articles.py <vol>` pre-cuts queued articles from the OCR pages.
 
 Tools: `tools/ocr_columns.py` (cuts each page at the gutter, drops running head and marginal notes,

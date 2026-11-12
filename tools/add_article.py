@@ -11,6 +11,7 @@ The work file holds one article:
   "note": "(optional)",
   "paras": [ {"v": [1, 6], "t": "Latin…", "en": "English with [[ref|DR|Vulgate]] markers…"}, … ]
 }
+Shorthand quotation markers ([[ref|start … end|start … end]], or *) are expanded first (tools/expand_quotes.py).
 An article already in the file with the same number and chapter is replaced (so a run can be redone).
 """
 import json, os, re, sys
@@ -23,6 +24,9 @@ def rom(s):
         v = R[c]; n += -v if i + 1 < len(s) and R[s[i + 1]] > v else v
     return n
 
+sys.path.insert(0, os.path.join(ROOT, "tools"))
+from expand_quotes import expand_work  # fills in shorthand [[ref|start … end|start … end]] markers
+expand_work(sys.argv[1])
 art = json.load(open(sys.argv[1]))
 book, ch = art.pop("book"), str(art.pop("chapter"))
 work, source = art.pop("work"), art.pop("source")
