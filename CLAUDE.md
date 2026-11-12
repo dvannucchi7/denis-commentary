@@ -162,7 +162,10 @@ separately, by `tools/margins.py`.
   (Safari Favorites / Home Screen), favicon-32.png, icon-192/512.png, manifest.webmanifest.
 - Footer: the notice "COMMENTARY HAS BEEN TRANSLATED USING ARTIFICIAL INTELLIGENCE AND HAS NOT BEEN REVIEWED BY A
   COMPETENT AUTHORITY" (Dave's wording; keep it; small red capitals), then the source line. No per-chapter draft markers.
-- Header: book and chapter menus (✠ marks those with commentary) and a search button. No site title.
+- Header: book and chapter menus (✠ marks those with commentary), a sun/moon button and a search button.
+  No site title. The sun/moon button switches light/dark and remembers the choice (`localStorage.theme`,
+  applied by a small script in <head> before the page is drawn); with no choice saved, the phone's setting
+  decides (CSS `:root[data-theme]` and `prefers-color-scheme`).
 - Chapter title with ‹ › arrows on either side; swipe left/right on phones to change chapter.
 - The app reopens on the last chapter read (stored in the reader's browser).
 - Articles start collapsed. Tapping a verse, or a verse tag in the commentary, opens focus view: only

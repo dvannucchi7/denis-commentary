@@ -14,6 +14,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#f6f1e7">
+<script>try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -36,12 +37,22 @@
     --serif: "EB Garamond", Garamond, Georgia, serif;
     --sans: Inter, system-ui, -apple-system, Segoe UI, sans-serif;
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
+  /* light or dark: the reader's choice (sun/moon button, saved), otherwise the phone's setting */
+  :root { color-scheme: light; }
+  :root[data-theme="dark"] {
       --bg: #1b1916; --paper: #23201c; --ink: #ebe4d8; --muted: #a39887;
       --rule: #3a342d; --rubric: #e0846f; --rubric-soft: #3a2621; --hl: #4a3f1f; --ot: #8db4ea;
       --ot-soft: #1f2a3b; --nt: #e0846f; --nt-soft: #3a2621;
       --chip: #312c26; --shadow: none;
+      color-scheme: dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #1b1916; --paper: #23201c; --ink: #ebe4d8; --muted: #a39887;
+      --rule: #3a342d; --rubric: #e0846f; --rubric-soft: #3a2621; --hl: #4a3f1f; --ot: #8db4ea;
+      --ot-soft: #1f2a3b; --nt: #e0846f; --nt-soft: #3a2621;
+      --chip: #312c26; --shadow: none;
+      color-scheme: dark;
     }
   }
   * { box-sizing: border-box; }
@@ -60,6 +71,7 @@
   .icon-btn { margin-left: auto; background: var(--paper); border: 1px solid var(--rule); border-radius: 8px; width: 36px; height: 34px;
               display: grid; place-items: center; cursor: pointer; color: var(--muted); padding: 0; flex: 0 0 auto; }
   .icon-btn:hover { color: var(--ink); }
+  #themeBtn + #searchBtn { margin-left: 0; }
   select, button { font-family: var(--sans); font-size: 14px; color: var(--ink); }
   select {
     appearance: none; -webkit-appearance: none;
@@ -283,6 +295,7 @@
     <div class="controls">
       <select id="book" aria-label="Book"></select>
       <select id="chapter" aria-label="Chapter"></select>
+      <button class="icon-btn" id="themeBtn" aria-label="Dark mode" title="Dark mode"></button>
       <button class="icon-btn" id="searchBtn" aria-label="Search the commentary" title="Search the commentary">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
       </button>
@@ -1009,6 +1022,26 @@ buildBookSelect();
 let saved = null; try { saved = localStorage.getItem("last"); } catch (e) {}
 const start = fromHash() || (saved && fromHash("#" + saved)) || ["genesis", 30];
 go(start[0], start[1]);
+
+// ---------- Light / dark ----------
+const MOON = `<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>`;
+const SUN = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></svg>`;
+const darkQuery = matchMedia("(prefers-color-scheme: dark)");
+const currentTheme = () => document.documentElement.dataset.theme || (darkQuery.matches ? "dark" : "light");
+function paintTheme() {
+  const dark = currentTheme() === "dark", b = $("#themeBtn");
+  b.innerHTML = dark ? SUN : MOON;
+  b.title = dark ? "Light mode" : "Dark mode"; b.setAttribute("aria-label", b.title);
+  document.querySelector('meta[name="theme-color"]').content = dark ? "#1b1916" : "#f6f1e7";
+}
+$("#themeBtn").addEventListener("click", () => {
+  const next = currentTheme() === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  try { localStorage.setItem("theme", next); } catch (e) {}
+  paintTheme();
+});
+darkQuery.addEventListener("change", paintTheme);
+paintTheme();
 
 // ---------- Home ----------
 $("#readBtn").addEventListener("click", () => {
