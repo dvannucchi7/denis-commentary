@@ -164,8 +164,9 @@
     102,
     110
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T16:00:19Z"
+   "status": "done",
+   "claimed": "2026-11-12T16:00:19Z",
+   "note": "No margin note read (kept): 1 Cor 7:32 (para 20). Para 5: margin 'Coloss. iii, 5' beside 'idolorum servitus', which are Eph 5:5's words (Eph tag kept, Col 3:5 added, note). Para 20: retagged Jos 22:27 -> 22:24 per the margin; Denis's words are 22:24's, so the old note about a missing negative was dropped. Two '[cf. …]' notes turned into reference markers (Ecclus 34:23, Heb 11:13). The margin notes on 1 Cor 2:15 / 11:31 (PDF 104?) seem to belong to Art. XV."
   },
   {
    "id": "matthew-15",
