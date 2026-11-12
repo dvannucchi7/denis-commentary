@@ -59,9 +59,10 @@ Articles are sorted by number in the app automatically, but keep them in order i
   after the clause it belongs to (no space). It shows as a small tappable reference, "(4 Kings 24:12)"; a
   reference to the chapter treated shows as "(v. 16)".
 - Lemmata (the bits of the chapter treated that Denis quotes before glossing them) get a marker.
-- A quotation from anywhere else gets a marker **only where the printed margin gives a reference
-  for it** (Dave's rule; see `TRANSLATING.md` step 5). The run works out which verse the margin means;
-  it does not search the text against the Vulgate for other quotations. Where the margin reference is
+- A quotation from anywhere else gets a marker where the printed margin gives a reference for it
+  (Dave's rule; see `TRANSLATING.md` step 5), and also where it is obvious though the margin reader
+  missed it (Denis names the source, or quotes word for word at length; `tools/recheck.py` lists these
+  so none is missed). Short or loose phrases with no margin note are not hunted for. Where the margin reference is
   unclear or does not fit, a bracketed translator's note at that place says so. Allusions, paraphrases
   and stories with a margin reference get a reference-only marker (below); without one, nothing.
 

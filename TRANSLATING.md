@@ -38,10 +38,17 @@ the procedure.
      pages, in reading order, each beside the Latin line it belongs to. Ignore notes on the first and
      last pages that belong to the neighbouring articles. Bare verse numbers in the margin show where
      each verse of the chapter treated begins (use them for the verse tags).
-   - **Tag a quotation from outside the chapter treated only where the margin gives a reference
-     for it.** Do not search the article against the Vulgate for other quotations (do not use the
-     whole-Bible part of `find_quotes.py`), and do not add references the margin does not give. A
-     quotation with no margin reference stays plain text, untagged.
+   - **References come from the margin, but obvious quotations must not be missed** (Dave). Take
+     every reference the margin gives. Then also tag any *obvious* quotation the margin reader did not
+     catch: one Denis introduces with its source ("as the Apostle says", "in the Psalm", "Isaias:"),
+     or one that is word for word at length. To make sure none is missed, run
+     `python3 tools/recheck.py <vol> <id>` on the merged article (step 7): it lists `obvious` runs of 6
+     or more words matching a verse anywhere in the Vulgate, and `lemma?` runs of 4 or more words of
+     the chapter treated, that are not yet tagged. Tag each one that is a real quotation (pick the
+     verse Denis names where the words occur in several places). Do not go fishing for short or loose
+     phrases (the old whole-Bible part of `find_quotes.py` is not used): anything that is neither in the
+     margin nor obvious stays plain text. A margin note citing only a chapter (Gen. xlix) is given as
+     verse 1 of that chapter.
    - **For each margin reference, work out the verse.** The book is almost always read right, the
      small numerals often not. Look the verse up with `python3 tools/verses.py "Ps 26:13" …` and
      confirm it against the Latin beside the note; if the numerals were misread, find the verse within
@@ -80,7 +87,8 @@ the procedure.
    (if it stops on an anchor, fix that marker and run it again); it also switches the book on in the app.
 7. **Check.** `python3 tools/check_quotes.py` must report 0 problems. Fix any quotation that does not
    match the Douay-Rheims, and any gap in the verse tags (or mark a real skip with `"gap_ok": true`).
-   Then serve the app (`python3 -m http.server`) and confirm the chapter opens and the article shows.
+   Run `python3 tools/recheck.py <vol> <id>` and deal with every `obvious`, `lemma?`, `untagged` and
+   `differs` line (step 5); re-run until only deliberate leftovers remain. Then serve the app (`python3 -m http.server`) and confirm the chapter opens and the article shows.
 8. **Publish.** Set the item's status to `"done"` in the queue (add `"note"` if something needs Dave's
    attention, e.g. unreadable text), delete the work file, commit with a message naming the article
    (e.g. "Add Matthew 5, Art. IX"), then `git pull --rebase origin main` (someone else may have pushed
@@ -103,13 +111,19 @@ steps 1 and 8 (commit "Re-check Matthew 1, Art. I"). Skip `"needs-margins"` item
      fix the reference; if it stays unclear, add a bracketed note.
    - `no-margin`: tagged, but no margin reference for that book beside it. First look at the `unread`
      and oddly read notes beside the same paragraph (a misread book name, e.g. "1 Mach" for
-     *Malach.*); if one of them is its reference, keep the tag. Otherwise remove the tag and keep the
-     words as plain text (replace `[[ref|words|Latin]]` by `words`).
+     *Malach.*); if one of them is its reference, keep the tag. The margin reader misses some notes,
+     so (Dave's decision) **keep a tag whose words are quoted word for word** and list it in the item's
+     `"note"` as unconfirmed ("no margin note read: Gen 15:1, …"), to be checked against the scan. Untag
+     it (keep the words as plain text) only where the margin gives a different reference for that spot,
+     or where the words are not the verse's own.
    - `untagged`: a margin reference with no tag. Find the place from the Latin beside it. If Denis quotes
      the words, tag them; if not, add a reference-only marker `[[ref||]]` after that clause. If no verse
      of that book fits, add a bracketed note giving the margin's reading.
    - `unread`: an unreadable margin note: see what Denis quotes or tells there and treat it as above if
      the verse can be found with confidence; otherwise leave it.
+   - `obvious` / `lemma?`: an untagged word-for-word quotation (6+ words from elsewhere, 4+ from the
+     chapter treated). Tag it if Denis is quoting (choose the verse he names where the words occur in
+     several books); leave it if the words only happen to coincide (a name, a stock phrase).
    Leave lemmata (quotations of the chapter treated) and the translation itself as they are.
 3. Merge each work file with `python3 tools/add_article.py work/<id>-ch<N>.json` (it replaces the
    article), run `tools/recheck.py` again (what is left should be only what you decided to leave), then
