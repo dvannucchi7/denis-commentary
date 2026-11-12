@@ -9,8 +9,8 @@
     25,
     33
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T15:41:45Z"
+   "status": "done",
+   "note": "Re-checked 2026-11-12 (by hand, as the model for later runs). Added 69 reference-only markers from the margin (the margin's numerals were often misread by margins.py: e.g. 'II Reg.' read as 3 Kings, 'Josue ... Ibid.' as Job; each verse was checked against the Latin) and one lemma (1:17 in para 23). No margin note read, kept as quoted word for word (check against the scan, PDF 25-33): Ecclus 24:5, Wis 7:25, Wis 7:26, Gen 15:1, Gen 21:12, Gen 21:6, John 19:17, Luke 2:10, Luke 2:11. Margin notes citing only a chapter are given as verse 1 (Gen 48:1, Gen 49:1). Para 9 has a note where the margin is partly unreadable; para 29 notes III Esdras iv-v (not in this Bible)."
   },
   {
    "id": "matthew-02",

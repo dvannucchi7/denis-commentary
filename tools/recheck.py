@@ -111,11 +111,13 @@ def main(vol, item_id):
         w = words(r.get("ctx") or r["beside"])
         scores = [len(w & x) for x in pw]
         best = max(range(len(paras)), key=lambda k: scores[k])
-        if scores[best] >= 3: placed[best].append(r)
+        # it must clearly be this article's text (notes on shared first/last pages belong to the neighbours)
+        if scores[best] >= 3 and scores[best] >= 0.45 * len(w): placed[best].append(r)
     total = {"ok": 0, "differs": 0, "no-margin": 0, "untagged": 0, "unread": 0}
     for k, (ch, num, i, p) in enumerate(paras):
         tags = [(m.group(1), m.group(2)) for m in Q.finditer(p.get("en", ""))]
-        tags = [(ref, dr, outside(ref, item["book"], ch)) for ref, dr in tags]
+        # a reference-only marker to the chapter treated ([[1:16||]], from a "vers. 16" note) is checked too
+        tags = [(ref, dr, outside(ref, item["book"], ch) or (None if dr else ((item["book"],) + tuple(map(int, ref.split(":")))))) for ref, dr in tags]
         tags = [t for t in tags if t[2]]
         near = placed.get(k - 1, []) + placed[k] + placed.get(k + 1, [])
         lines, used = [], set()
