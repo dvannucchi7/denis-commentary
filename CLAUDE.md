@@ -113,6 +113,8 @@ Strip running heads, page numbers and marginal references (keep Denis's inline r
   Testament (red) — each in its own style; hidden in focus view.
 - Icon: Petrus Christus, Portrait of a Carthusian (1446), cropped to the face — apple-touch-icon.png
   (Safari Favorites / Home Screen), favicon-32.png, icon-192/512.png, manifest.webmanifest.
+- Footer: the notice "COMMENTARY TRANSLATED USING ARTIFICIAL INTELLIGENCE AND HAS NOT BEEN REVIEWED BY A
+  COMPETENT AUTHORITY" (Dave's wording; keep it), then the source line. No per-chapter draft markers.
 - Header: book and chapter menus (✠ marks those with commentary) and a search button. No site title.
 - Chapter title with ‹ › arrows on either side; swipe left/right on phones to change chapter.
 - The app reopens on the last chapter read (stored in the reader's browser).
