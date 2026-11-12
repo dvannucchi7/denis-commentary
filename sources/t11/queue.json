@@ -759,8 +759,9 @@
     373,
     384
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T22:01:44Z"
+   "status": "done",
+   "claimed": "2026-11-12T22:01:44Z",
+   "note": "Article runs PDF 374-379 (pp. 354-359); Luke's prologue follows on PDF 380. Many margin numerals misread and taken from the sense (e.g. 'br. vi, 9' = Heb 6:9, note in the article; 'Ps. xvi, 94' = Ps 67:34; 'Eccli. 11, 17, 18' = Ecclus 51:15, 18; 'Rom. xvi, 27' beside 'pervertitur cum perversis' given as Ps 17:27). No margin note read for Ps 33:2 (kept). Also: data/bible/drc Mark 16:16 reads 'shall he condemned' (typo in the Douay-Rheims source)."
   },
   {
    "id": "luke-01",
