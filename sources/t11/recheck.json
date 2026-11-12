@@ -32,8 +32,9 @@
     35,
     41
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T15:45:30Z"
+   "status": "done",
+   "claimed": "2026-11-12T15:45:30Z",
+   "note": "Margin notes on PDF 36 R (Art. II) and PDF 41 (Art. IV) left out. Kept tags whose margin notes were misread: Luke 5:8 ('Luc. 9,8'), Is 52:6 ('Is. lii, 6'), Zach 3:9 ('8, 9'), Is 53:2 ('Is. liii, 2'), 2 Kings 20:9, Is 49:1. Added Heb 10:13 beside the 1 Cor 15:25 blend (note updated). Ex 13:2 is a guess for a part-unread 'Ibid. xiii(?)' (PDF 40); Matt 12:46 and 13:55 read from 'Matth. xii, 46; xiii, 55' (OCR 'x', '93'). Exod. xxxiv margin beside Moses' face: only 34:30 marked (the further verse numbers unreadable)."
   },
   {
    "id": "matthew-04",
