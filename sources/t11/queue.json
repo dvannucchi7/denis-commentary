@@ -292,8 +292,8 @@
     171,
     180
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T17:12:59Z"
+   "status": "needs-scan",
+   "note": "Published (Matthew 12:22-50, Art. XXIV). PDF 177 (p. 157) is partly garbled in the OCR: one line lost after 'ut deglutiret Jo[nam]' (Jonas 2:1), one after 'et dixit Dominus pisci' (Jonas 2:11), and one or two after 'respectu Jeru[salem]' (the lemma of 12:42); gaps marked […] in Latin and English. Please check against the scan. Tags kept without a confirming margin reading: 2 Tim 2:26, Job 41:24, 1 John 5:19, John 14:30, Jer 13:23, Job 4:2, Job 32:18, Rom 14:12, Eph 4:29, Eccles 12:14, Prov 12:14, Ecclus 14:1, Ps 38:2, Ecclus 28:22, Prov 13:3 (Denis cites it as Ecclesiasticus), Jas 3:6, Ps 72:27, Osee 4:12, Deut 31:16, Is 7:14, Tob 12:15, Gal 4:19, Eph 3:17, Gen 13:8."
   },
   {
    "id": "matthew-25",
