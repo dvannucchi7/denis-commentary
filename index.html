@@ -72,6 +72,9 @@
               display: grid; place-items: center; cursor: pointer; color: var(--muted); padding: 0; flex: 0 0 auto; }
   .icon-btn:hover { color: var(--ink); }
   #themeBtn + #searchBtn { margin-left: 0; }
+  /* no browser focus ring (Dave): the menus and header buttons only darken their border slightly */
+  select:focus, .icon-btn:focus, .nav-btn:focus { outline: none; box-shadow: none; }
+  select:focus-visible, .icon-btn:focus-visible, .nav-btn:focus-visible { border-color: var(--muted); }
   select, button { font-family: var(--sans); font-size: 14px; color: var(--ink); }
   select {
     appearance: none; -webkit-appearance: none;
