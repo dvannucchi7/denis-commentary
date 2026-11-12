@@ -400,8 +400,9 @@
     231,
     240
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T18:41:43Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-12T18:41:43Z",
+   "note": "Published. PDF 239 (p. 219): one line at the foot of each column is unreadable in the OCR. Left column: 'Christus ... judicabit per […] exsecutionem' (v. 28; probably 'auctoritatem; Christus homo, per'); right column: 'centupla receptio in […] die novissimo' (v. 29). Both marked […] with a translator's note; fill from the scan."
   },
   {
    "id": "matthew-34",
