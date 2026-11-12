@@ -97,7 +97,10 @@ How they display (do not change without Dave asking):
 
 ## Getting the Latin text
 
-Scans (Dave supplies the PDFs; the workspace cannot download from archive.org or Google Books):
+Scans (Dave supplies the PDFs; the workspace cannot download from archive.org or Google Books).
+Scan pages with `python3 tools/ocr_columns.py <pdf> <first> <last> sources/<vol>/pages`, which reads the
+margins too. Pages scanned before this (t. XI PDF 87–111 and 282–355, all of t. XII) still need one
+catch-up `python3 tools/margins.py read <vol> <pdf> <first> <last>`:
 - t. I (Genesis–Exodus 19): archive.org `operaomniainunum01deni`. Text layer is unusable and some
   areas are faded. PDF page = printed page + 106 around Genesis 30 (PDF 451 = p. 345).
 - t. II (Exodus 20 onward): Google scan `doctorisecstati00unkngoog`. Clean and dark. PDF 14 = p. 1.
@@ -127,7 +130,8 @@ treated) into `sources/<vol>/margins/`, and lists them per article for the runs.
 article's references with its margins (`sources/t11/recheck.json` is the re-check queue).
 
 Tools: `tools/ocr_columns.py` (cuts each page at the gutter, drops running head and marginal notes,
-OCRs each column with Tesseract's Latin model) and `tools/assemble.py` (joins columns, removes running
+OCRs each column with Tesseract's Latin model, and in the same run reads the marginal references into
+`sources/<vol>/margins/`: scanning a page always brings its margins; `--no-margins` skips that) and `tools/assemble.py` (joins columns, removes running
 heads and gutter letters A–D, rejoins hyphenated words). Article titles span both columns, so find them
 with a full-page OCR pass. The printed text sets scripture quotations in italics, which helps in
 spotting lemmata.

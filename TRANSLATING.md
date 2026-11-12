@@ -71,7 +71,8 @@ the procedure.
    - **If the margins of the article's pages have not been read yet** (`margins.py` prints "margins
      of PDF … not read yet"), do not translate it: set its status to `"needs-margins"` with a note
      giving the PDF pages, push, and take the next item. Reading margins needs the scan PDF, which
-     runs do not have; Dave reads them (`python3 tools/margins.py read <vol> <pdf> <first> <last>`).
+     runs do not have. They are read whenever pages are scanned (`tools/ocr_columns.py` does it in the
+     same pass), or for pages scanned earlier with `python3 tools/margins.py read <vol> <pdf> <first> <last>`.
    Translate each paragraph into the `en` field, in the agreed style, marking the quotations as above.
    **Write the markers in shorthand; do not copy out the wording:**
    `[[Ps 44:8|hath anointed … fellows|Unxit te … tuis]]`: the reference, then two or three words from

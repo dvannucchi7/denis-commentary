@@ -1,14 +1,31 @@
-"""OCR two-column pages of the Montreuil Opera Omnia, one column at a time.
+"""OCR two-column pages of the Montreuil Opera Omnia, one column at a time, and read their margins.
 
-usage: python3 ocr_columns.py vol.pdf FIRST LAST OUTDIR
+usage: python3 tools/ocr_columns.py vol.pdf FIRST LAST sources/<vol>/pages [--no-margins]
 Writes OUTDIR/p<pdfpage>.txt (left column, then right column) and the column images.
+
+The column text leaves out the outer margins, where the printed edition gives its scripture references.
+Those are read in the same run (tools/margins.py read) into sources/<vol>/margins/p<pdfpage>.json, which
+the translation runs need: an article whose margins are not read cannot be translated. Pages whose
+margins are already read are skipped. The volume is taken from OUTDIR (sources/<vol>/pages); give
+--vol <vol> if OUTDIR is elsewhere, or --no-margins to skip this step.
 """
 import sys, os, re, subprocess
 import numpy as np
 from PIL import Image
 
-pdf, first, last, out = sys.argv[1], int(sys.argv[2]), int(sys.argv[3]), sys.argv[4]
-os.makedirs(out, exist_ok=True)
+args = [a for a in sys.argv[1:]]
+no_margins = "--no-margins" in args
+if no_margins: args.remove("--no-margins")
+vol = None
+if "--vol" in args:
+    i = args.index("--vol"); vol = args[i + 1]; del args[i:i + 2]
+pdf, first, last, outdir = args[0], int(args[1]), int(args[2]), args[3]
+os.makedirs(outdir, exist_ok=True)
+if not vol:
+    m = re.search(r"sources/([^/]+)/pages/?$", os.path.abspath(outdir))
+    vol = m.group(1) if m else None
+if not no_margins and not vol:
+    sys.exit("give --vol <vol> (or write into sources/<vol>/pages), so the margins can be read too; or --no-margins")
 # Needs the Latin model: tessdata_best lat.traineddata (github.com/tesseract-ocr/tessdata_best).
 env = dict(os.environ, TESSDATA_PREFIX=os.environ.get("TESSDATA_PREFIX", "/home/claude/tessdata"))
 
@@ -62,7 +79,7 @@ def heading_rows(g, top, bottom, gx, la, rb):
     return [(max(top, a - 12), min(bottom, b + 12)) for a, b in merged if b - a > h * .006]
 
 for p in range(first, last + 1):
-    base = os.path.join(out, f"p{p}")
+    base = os.path.join(outdir, f"p{p}")
     subprocess.run(["pdftoppm", "-f", str(p), "-l", str(p), "-r", "300", "-gray", "-png", "-singlefile", pdf, base], check=True)
     im = Image.open(base + ".png").convert("L")
     g = np.array(im)
@@ -89,7 +106,7 @@ for p in range(first, last + 1):
         if a_ - y > 20: bands.append(("cols", y, a_))
         bands.append(("head", a_, b_)); y = b_
     if bottom - y > 20: bands.append(("cols", y, bottom + 5))
-    out = []
+    parts = []
     for k, (kind, y0, y1) in enumerate(bands):
         if kind == "head":
             t = ocr(im.crop((la, y0, rb, y1)), f"H{k}", "6")
@@ -97,13 +114,20 @@ for p in range(first, last + 1):
             lower_words = re.findall(r"[a-zæœ]{3,}", t)
             if len(lower_words) >= 4 and sum(c.isupper() for c in letters) < .6 * len(letters):
                 # not a heading after all: ordinary lines of both columns side by side; read them as columns
-                out.append("=====LEFT=====\n" + ocr(im.crop((la, y0, gx - band // 3, y1)), f"L{k}"))
-                out.append("=====RIGHT=====\n" + ocr(im.crop((gx + band // 3, y0, rb, y1)), f"R{k}"))
+                parts.append("=====LEFT=====\n" + ocr(im.crop((la, y0, gx - band // 3, y1)), f"L{k}"))
+                parts.append("=====RIGHT=====\n" + ocr(im.crop((gx + band // 3, y0, rb, y1)), f"R{k}"))
             else:
-                out.append("=====HEADING=====\n" + t)
+                parts.append("=====HEADING=====\n" + t)
         else:
-            out.append("=====LEFT=====\n" + ocr(im.crop((la, y0, gx - band // 3, y1)), f"L{k}"))
-            out.append("=====RIGHT=====\n" + ocr(im.crop((gx + band // 3, y0, rb, y1)), f"R{k}"))
+            parts.append("=====LEFT=====\n" + ocr(im.crop((la, y0, gx - band // 3, y1)), f"L{k}"))
+            parts.append("=====RIGHT=====\n" + ocr(im.crop((gx + band // 3, y0, rb, y1)), f"R{k}"))
     with open(base + ".txt", "w") as f:
-        f.write("\n".join(out))
+        f.write("\n".join(parts))
     print(p, "gutter at", gx, "of", w, "text rows", top, bottom)
+
+# the outer margins (scripture references), into sources/<vol>/margins/
+if not no_margins:
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import margins
+    print("reading the margins of PDF", first, "to", last, "into sources/%s/margins" % vol, flush=True)
+    margins.read(vol, pdf, first, last)
