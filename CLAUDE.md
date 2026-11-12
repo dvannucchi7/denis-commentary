@@ -109,7 +109,7 @@ Strip running heads, page numbers and marginal references (keep Denis's inline r
 
 ## Interface features (for reference when changing index.html)
 
-- Below the commentary: a "References:" key — Current Chapter (italic), Old Testament (blue), New
+- Above the commentary bubbles (under the Commentary heading): a "References:" key — Current Chapter (italic), Old Testament (blue), New
   Testament (red) — each in its own style; hidden in focus view.
 - Icon: Petrus Christus, Portrait of a Carthusian (1446), cropped to the face — apple-touch-icon.png
   (Safari Favorites / Home Screen), favicon-32.png, icon-192/512.png, manifest.webmanifest.
