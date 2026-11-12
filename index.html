@@ -131,8 +131,14 @@
   .res mark { background: var(--hl); color: inherit; border-radius: 3px; padding: 0 1px; }
 
   /* ---------- Focus view ---------- */
-  .fadeable { transition: opacity .35s ease; }
-  header.bar .bar-inner, .chapter-head { transition: filter .35s ease, opacity .35s ease; }
+  #text .v, #text .src, .para, details.art, .comm-head, .comm-sub, .key, footer, .chapter-head .ornament,
+  .note, .lang-note, .art-body > .src, .fadeable { transition: opacity .28s ease; }
+  main { transition: opacity .16s ease; }
+  main.dip { opacity: 0; }
+  header.bar .bar-inner, .chapter-head { transition: filter .3s ease, opacity .3s ease; will-change: filter, opacity; }
+  /* article heading stays visible in focus view, but is not a toggle there */
+  body.focusing details.art > summary { pointer-events: none; padding-top: 12px; padding-bottom: 12px; }
+  body.focusing details.art .chev { visibility: hidden; }
   body.focusing header.bar .bar-inner, body.focusing .chapter-head { filter: blur(2.5px); opacity: .35; pointer-events: none; user-select: none; }
   .fading { opacity: 0; }
   .gone { display: none !important; }
@@ -447,7 +453,7 @@ async function renderCommentary() {
 
 // ---------- Focus view: only the selected verses + the comments on them ----------
 // state.focus = { a, b, items: Set("ai:pi"), arts: [art numbers], anchor: {sel, offset} }
-function focusTargets() {
+function focusTargets(open = true) {
   const f = state.focus, hide = [];
   document.querySelectorAll("#text [id^=v]").forEach(el => { const n = +el.id.slice(1); if (n < f.a || n > f.b) hide.push(el); });
   hide.push(...document.querySelectorAll("#text .src, .chapter-head .ornament, .comm-head, .comm-sub, .key, footer"));
@@ -455,34 +461,51 @@ function focusTargets() {
     const ai = d.dataset.ai;
     const keep = [...d.querySelectorAll(".para")].filter(p => f.items.has(ai + ":" + p.dataset.pi));
     if (!keep.length) { hide.push(d); return; }
-    d.open = true;
-    hide.push(d.querySelector("summary"));
+    if (open) d.open = true;
     d.querySelectorAll(".para").forEach(p => { if (!keep.includes(p)) hide.push(p); });
     hide.push(...d.querySelectorAll(".note, .lang-note, .art-body > .src"));
   });
   return hide;
 }
-function applyFocus(animate) {
-  const f = state.focus; if (!f) return;
-  const hide = focusTargets();
-  hide.forEach(el => el.classList.add("fadeable"));
-  placeFocusX();
-  document.body.classList.add("focusing");
+const wait = ms => new Promise(r => setTimeout(r, ms));
+const nextFrame = () => new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+function markActive(f) {
   document.querySelectorAll(".vchip.active").forEach(c => c.classList.remove("active"));
   for (const k of f.items) {
     const [ai, pi] = k.split(":");
     const chip = document.querySelector(`details.art[data-ai="${ai}"] .para[data-pi="${pi}"] .vchip`);
     if (chip) chip.classList.add("active");
   }
-  if (!animate) { hide.forEach(el => el.classList.add("gone")); return; }
+}
+function scrollToFocus() {
+  const head = $("header.bar").offsetHeight;
+  const target = $("#text").getBoundingClientRect().top + window.scrollY - head - 14;
+  window.scrollTo({ top: Math.max(0, target), behavior: "instant" });
+}
+async function applyFocus(animate) {
+  const f = state.focus; if (!f) return;
+  if (!animate) {                       // re-render while already focused (e.g. English/Latin switch)
+    focusTargets().forEach(el => el.classList.add("gone", "fading"));
+    markActive(f); placeFocusX(); document.body.classList.add("focusing");
+    return;
+  }
+  // 1. everything outside the selection fades out where it stands; header and title blur
+  const hide = focusTargets(false);     // nothing opens yet, so nothing moves
+  markActive(f); placeFocusX();
+  document.body.classList.add("focusing");
+  await nextFrame();
   hide.forEach(el => el.classList.add("fading"));
-  setTimeout(() => {
-    hide.forEach(el => el.classList.add("gone"));
-    // scroll just far enough that the focused verses sit right under the header + focus bar
-    const head = $("header.bar").offsetHeight;
-    const target = $("#text").getBoundingClientRect().top + window.scrollY - head - 14;
-    window.scrollTo({ top: Math.max(0, target), behavior: "smooth" });
-  }, 350);
+  await wait(280);
+  if (state.focus !== f) return;
+  // 2. briefly dip the column, close up the gaps and bring the verses under the header while it is invisible
+  $("main").classList.add("dip");
+  await wait(160);
+  focusTargets(true);                   // now open the articles involved
+  hide.forEach(el => el.classList.add("gone"));
+  scrollToFocus();
+  // 3. fade the focused passage back in
+  await nextFrame();
+  $("main").classList.remove("dip");
 }
 // the little × sits at the top right of the reading column, just under the header
 function placeFocusX() {
@@ -491,31 +514,33 @@ function placeFocusX() {
   x.style.right = Math.max(10, window.innerWidth - col.right + 8) + "px";
 }
 window.addEventListener("resize", () => { if (state.focus) placeFocusX(); });
-function clearFocus() {
+async function clearFocus() {
   if (!state.focus) return;
   const f = state.focus; state.focus = null;
+  // dip the column, put everything back while it is invisible, then fade in at the reader's old place
+  $("main").classList.add("dip");
   document.body.classList.remove("focusing");
-  // articles go back to how the reader had them (opened or collapsed)
+  await wait(160);
   document.querySelectorAll("#commentary details.art").forEach(d => { d.open = !!f.wasOpen[d.dataset.ai]; });
   document.querySelectorAll(".vchip.active").forEach(c => c.classList.remove("active"));
-  const els = [...document.querySelectorAll(".gone")];
-  els.forEach(el => el.classList.remove("gone"));
-  // put the reader back where they were: the same paragraph (or verse) at the same spot on screen
+  document.querySelectorAll(".gone").forEach(el => el.classList.remove("gone"));
+  document.querySelectorAll(".fading").forEach(el => el.classList.remove("fading"));
   const back = document.querySelector(f.anchor.sel);
   if (back) {
     const top = back.getBoundingClientRect().top + window.scrollY - f.anchor.offset;
     window.scrollTo({ top: Math.max(0, top), behavior: "instant" });
   }
-  requestAnimationFrame(() => requestAnimationFrame(() => els.forEach(el => el.classList.remove("fading"))));
+  await nextFrame();
+  $("main").classList.remove("dip");
 }
 async function startFocus(items, anchorSel) {
   const comm = await commFile(state.book), arts = comm.chapters[state.ch];
   const key = [...items].sort().join("|");
   if (state.focus) {
     const same = [...state.focus.items].sort().join("|") === key;
-    clearFocus();
+    await clearFocus();
     if (same) return;
-    await new Promise(r => setTimeout(r, 50));
+    await wait(60);
   }
   let a = Infinity, b = -Infinity; const nums = [];
   for (const k of items) {

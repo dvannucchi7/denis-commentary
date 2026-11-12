@@ -113,7 +113,9 @@ Strip running heads, page numbers and marginal references (keep Denis's inline r
 - Chapter title with ‹ › arrows on either side; swipe left/right on phones to change chapter.
 - The app reopens on the last chapter read (stored in the reader's browser).
 - Articles start collapsed. Tapping a verse, or a verse tag in the commentary, opens focus view: only
-  those verses and the matching comments, in two bubbles with a small gap; header and title blurred;
+  those verses and the matching comments (each under its article number and title), in two bubbles with a
+  small gap; header and title blurred; the background fades out first, the layout changes only while the
+  column is briefly faded, then it fades back in;
   a small × (or Esc) returns the reader to where they were, with articles opened/closed as before.
 - Search covers all commentary (English, or Latin when the Latin view is on); a result opens that
   comment in focus view.
