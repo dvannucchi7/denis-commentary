@@ -109,6 +109,8 @@ Strip running heads, page numbers and marginal references (keep Denis's inline r
 
 ## Interface features (for reference when changing index.html)
 
+- Below the commentary: a "References:" key — Current Chapter (italic), Old Testament (blue), New
+  Testament (red) — each in its own style; hidden in focus view.
 - Header: book and chapter menus (✠ marks those with commentary) and a search button. No site title.
 - Chapter title with ‹ › arrows on either side; swipe left/right on phones to change chapter.
 - The app reopens on the last chapter read (stored in the reader's browser).
