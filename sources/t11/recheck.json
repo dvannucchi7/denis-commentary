@@ -176,8 +176,9 @@
     109,
     120
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T16:01:24Z"
+   "status": "done",
+   "claimed": "2026-11-12T16:01:24Z",
+   "note": "No margin note read (kept): Heb 3:6 (para 24). Added a 2 Cor 5:10 tag (word for word, margin 'II Cor. v, 10'). Margin series beside 'who will render to every man' (PDF 111 R: unread 'Ps. lxi, 13', 'Prov. xxiv', 'Jer. xxxii, 19', 'Matth. xvi', 'Rom. ii', 'Apoc. xxii, 12') marked as Ps 61:13, Prov 24:12, Jer 32:19, Matt 16:27, Rom 2:6, Apoc 22:12 (verses for the chapter-only ones chosen from the sense). Para 23: margin 'Ps. xxv, 1' beside 'Omnes qui sperant in eo non infirmantur' (Ps 33:23 tag kept, Ps 25:1 added, note). 'Num. xxii-xxiv' (Balaam) given as Num 22:1. Three '[cf. …]' notes turned into reference markers."
   },
   {
    "id": "matthew-16",
