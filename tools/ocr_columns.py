@@ -3,7 +3,7 @@
 usage: python3 ocr_columns.py vol.pdf FIRST LAST OUTDIR
 Writes OUTDIR/p<pdfpage>.txt (left column, then right column) and the column images.
 """
-import sys, os, subprocess
+import sys, os, re, subprocess
 import numpy as np
 from PIL import Image
 
@@ -92,7 +92,15 @@ for p in range(first, last + 1):
     out = []
     for k, (kind, y0, y1) in enumerate(bands):
         if kind == "head":
-            out.append("=====HEADING=====\n" + ocr(im.crop((la, y0, rb, y1)), f"H{k}", "6"))
+            t = ocr(im.crop((la, y0, rb, y1)), f"H{k}", "6")
+            letters = [c for c in t if c.isalpha()]
+            lower_words = re.findall(r"[a-zæœ]{3,}", t)
+            if len(lower_words) >= 4 and sum(c.isupper() for c in letters) < .6 * len(letters):
+                # not a heading after all: ordinary lines of both columns side by side; read them as columns
+                out.append("=====LEFT=====\n" + ocr(im.crop((la, y0, gx - band // 3, y1)), f"L{k}"))
+                out.append("=====RIGHT=====\n" + ocr(im.crop((gx + band // 3, y0, rb, y1)), f"R{k}"))
+            else:
+                out.append("=====HEADING=====\n" + t)
         else:
             out.append("=====LEFT=====\n" + ocr(im.crop((la, y0, gx - band // 3, y1)), f"L{k}"))
             out.append("=====RIGHT=====\n" + ocr(im.crop((gx + band // 3, y0, rb, y1)), f"R{k}"))

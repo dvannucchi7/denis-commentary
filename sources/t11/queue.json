@@ -132,9 +132,9 @@
     90,
     96
    ],
-   "status": "needs-scan",
+   "status": "done",
    "claimed": "2026-11-12T14:50:44Z",
-   "note": "Translated and published, but one line at the foot of each column on PDF 93 (p. 73) is unreadable in the OCR; marked […] in 5:42 (after 'quia beati', surely Acts 20:35) and 5:43 (after 'Non quæres ei bona;', a quotation ending '...eorum non deleatur', probably Jer 18:23). Please check the scan. Also: Art. XI runs on from 5:38 to 6:4, so it is stored in two parts (chapter 5, vv. 38-48, and chapter 6, vv. 1-4, both as Art. XI, each with a note)."
+   "note": "Gaps from a misread line (a false heading split in the OCR) filled from the scan by hand on 2026-11-12."
   },
   {
    "id": "matthew-12",
@@ -169,9 +169,9 @@
     102,
     110
    ],
-   "status": "needs-scan",
+   "status": "done",
    "claimed": "2026-11-12T15:01:21Z",
-   "note": "Translated and published. On PDF 108 (p. 88) the last line of each column is garbled in the OCR: in 6:32 after 'Cujus ineffabilis pietas incompre-' a line is missing (marked […]); in 6:33 'ac [instrumentalia, sine quibus spiritualis con]versatio' is a conjecture from the garbled letters. Please check the scan."
+   "note": "Gaps from a misread line (a false heading split in the OCR) filled from the scan by hand on 2026-11-12."
   },
   {
    "id": "matthew-15",
