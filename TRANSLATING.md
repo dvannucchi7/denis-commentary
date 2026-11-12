@@ -36,7 +36,8 @@ the procedure.
    Then serve the app (`python3 -m http.server`) and confirm the chapter opens and the article shows.
 8. **Publish.** Set the item's status to `"done"` in the queue (add `"note"` if something needs Dave's
    attention, e.g. unreadable text), delete the work file, commit with a message naming the article
-   (e.g. "Add Matthew 5, Art. IX"), and push to `main`. The site updates within a few minutes.
+   (e.g. "Add Matthew 5, Art. IX"), then `git pull --rebase origin main` (someone else may have pushed
+   meanwhile) and push to `main`. The site updates within a few minutes.
 
 If a page's OCR is too damaged to read with confidence, translate what is clear, put `[…]` where text
 is missing, set the item's status to `"needs-scan"` with a note giving the PDF page, and move on.
