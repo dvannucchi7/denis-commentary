@@ -99,11 +99,18 @@ Scans (Dave supplies the PDFs; the workspace cannot download from archive.org or
   PDF page = printed page + 20. Already OCR'd page by page into `sources/t11/pages/`; the work queue
   is `sources/t11/queue.json`. Pages OCR'd before the heading-split improvement (roughly PDF 21–215)
   read left column then right column even where a new article starts mid-page, so put the text
-  around a mid-page heading back in order by the sense.
+  around a mid-page heading back in order by the sense. (The heading pages were later re-read in
+  order; `sources/t11/articles/` holds most articles already cut out.)
+- t. XII (Luke 10–24 = Art. XXVI–L, John 1–21 = Art. I–L): Google Play scan supplied by Dave. Clean.
+  PDF page = printed page + 10. Commentary on PDF 11–630 (John's PROOEMIUM PDF 275–276, Art. I PDF 277);
+  indexes after. OCR'd into `sources/t12/pages/` (all with the heading split); queue
+  `sources/t12/queue.json`; pre-cut articles in `sources/t12/articles/`. Done after t. XI.
 
 Translation runs follow `TRANSLATING.md` (procedure) with `tools/verses.py` (Douay-Rheims + Vulgate
-lookup; Vulgate text is in `sources/vulgate/`, not shown in the app) and `tools/add_article.py`
-(merges a finished article and switches the book on in the app).
+lookup; Vulgate text is in `sources/vulgate/`, not shown in the app), `tools/find_quotes.py` (finds
+runs of words in an article that match the Vulgate chapter, to catch lemmata and quotations) and
+`tools/add_article.py` (merges a finished article and switches the book on in the app).
+`tools/cut_articles.py <vol>` pre-cuts queued articles from the OCR pages.
 
 Tools: `tools/ocr_columns.py` (cuts each page at the gutter, drops running head and marginal notes,
 OCRs each column with Tesseract's Latin model) and `tools/assemble.py` (joins columns, removes running

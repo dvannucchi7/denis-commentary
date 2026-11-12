@@ -21,7 +21,10 @@ def rom(s):
     for i, c in enumerate(s):
         v = R[c]; n += -v if i + 1 < len(s) and R[s[i + 1]] > v else v
     return n
-HEAD = re.compile(r"^\s*[A-Z]{0,2}RT[I1l]C[UV]?L?[UV]?S?\s+([IVXLCl1]+)\b", re.M)
+HEAD = re.compile(r"^\s*[A-Z]{0,2}RT[I1l]C[UV]?L?[UV]?S?\s+([IVXLCl1]+|PRIMUS)\b", re.M)
+_rom = rom
+def rom(s):
+    return 1 if s.upper() == "PRIMUS" else _rom(s)
 
 made = skipped = 0
 for it in q["items"]:
