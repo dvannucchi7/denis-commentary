@@ -642,8 +642,9 @@
     357,
     360
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T21:47:17Z"
+   "status": "done",
+   "claimed": "2026-11-12T21:47:17Z",
+   "note": "PDF 359 (p. 339): the foot of both columns is garbled in the page OCR; restored from the margin reader's line text ('Mulier enim statim, etc. Hic describi-' and 'ad demonstrandum quod tota virtus sua esset a Patre, et'), worth a glance at the scan. 'Ps. vxvut, 46' taken as Ps 68:16 (note in the article). Also: data/bible/drc Mark 7:31 reads 'through the midst the of the coasts' (typo in the Douay-Rheims source)."
   },
   {
    "id": "mark-08",
