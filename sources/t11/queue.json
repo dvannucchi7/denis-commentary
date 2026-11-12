@@ -177,13 +177,14 @@
    "id": "matthew-15",
    "book": "matthew",
    "art": 15,
-   "chapter_guess": 6,
+   "chapter_guess": 7,
    "pages": [
     109,
     120
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T15:05:35Z"
+   "status": "done",
+   "claimed": "2026-11-12T15:05:35Z",
+   "note": "Matt 24:27 in data/bible/drc reads 'cowling' for 'coming'; the quotation marker in 7:22 covers only the first half of the verse for that reason."
   },
   {
    "id": "matthew-16",
