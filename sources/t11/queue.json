@@ -694,8 +694,9 @@
     365,
     368
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T21:52:08Z"
+   "status": "done",
+   "claimed": "2026-11-12T21:52:08Z",
+   "note": "Margin 'Matth. xwi, 1-9' (as read) taken as Matt 21:1 (note in the article); Is 9:7 margin unread but Denis names Isaias and quotes it. Also: data/bible/drc Mark 11:23 reads 'but be believe' (typo in the Douay-Rheims source)."
   },
   {
    "id": "mark-12",
