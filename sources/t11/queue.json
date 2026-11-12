@@ -437,8 +437,9 @@
     260,
     270
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T19:02:44Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-12T19:02:44Z",
+   "note": "Published. OCR damaged at the foot of two pages: PDF 261 (p. 241), right column, a line lost after 'Per tauros atque' (v. 4; marked […]); left column, a garbled line restored from Eph 5:32 ('sacramentum hoc magnum est, ego autem dico'); PDF 263 (p. 243), left column, a line lost after 'et multi gen-' (v. 10; marked […]); right column, a garbled line restored from Job 9:3 ('contendere, non poterit ei respondere unum'). Check all four against the scan."
   },
   {
    "id": "matthew-37",
