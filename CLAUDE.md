@@ -166,6 +166,9 @@ separately, by `tools/margins.py`.
   No site title. The sun/moon button switches light/dark and remembers the choice (`localStorage.theme`,
   applied by a small script in <head> before the page is drawn); with no choice saved, the phone's setting
   decides (CSS `:root[data-theme]` and `prefers-color-scheme`).
+  The strip around the iPhone Dynamic Island follows the same choice (Dave): the `theme-color` meta is set in
+  that <head> script and on every switch, the Home Screen app uses status-bar-style `default` (no `theme_color` in
+  the manifest), and the sticky header is opaque `var(--bg)`, since Safari on iOS 26 takes the colour from it.
 - Chapter title with ‹ › arrows on either side; swipe left/right on phones to change chapter.
 - A floating button at the bottom right (`#jumpBtn`; on wide screens in the margin just right of the column)
   stays in place while scrolling: "Commentary ↓" while the reader is in the chapter text, "↑ Text" once in
