@@ -52,8 +52,11 @@
     border: 1px solid var(--rule); border-radius: 8px; padding: 7px 28px 7px 10px; cursor: pointer;
   }
   #book { max-width: 200px; }
-  .nav-btn { background: var(--paper); border: 1px solid var(--rule); border-radius: 8px; width: 34px; height: 34px; cursor: pointer; display: grid; place-items: center; }
-  .nav-btn:disabled { opacity: .35; cursor: default; }
+  .title-row { display: flex; align-items: center; justify-content: center; gap: 18px; }
+  .nav-btn { background: transparent; border: 1px solid var(--rule); border-radius: 50%; width: 38px; height: 38px; cursor: pointer;
+             display: grid; place-items: center; font-family: var(--serif); font-size: 24px; line-height: 1; color: var(--muted); padding: 0 0 3px; }
+  .nav-btn:hover:not(:disabled) { color: var(--rubric); border-color: color-mix(in srgb, var(--rubric) 40%, var(--rule)); }
+  .nav-btn:disabled { opacity: .3; cursor: default; }
   .seg { display: inline-flex; background: var(--chip); border-radius: 9px; padding: 3px; }
   .seg button { border: 0; background: transparent; padding: 6px 11px; border-radius: 7px; cursor: pointer; color: var(--muted); font-weight: 500; }
   .seg button[aria-pressed="true"] { background: var(--paper); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.08); }
@@ -62,7 +65,6 @@
   main { max-width: 880px; margin: 0 auto; padding: 28px 18px 80px; }
   .chapter-head { text-align: center; margin: 8px 0 26px; }
   .chapter-head h1 { font-weight: 500; font-size: 40px; line-height: 1.1; margin: 0; letter-spacing: .01em; }
-  .chapter-head .latin { font-style: italic; color: var(--muted); margin-top: 6px; font-size: 18px; }
   .chapter-head .ornament { color: var(--rubric); letter-spacing: .5em; font-size: 14px; margin-top: 10px; }
 
   .card { background: var(--paper); border: 1px solid var(--rule); border-radius: 14px; box-shadow: var(--shadow); }
@@ -107,6 +109,9 @@
 
   /* ---------- Focus view ---------- */
   .fadeable { transition: opacity .35s ease; }
+  header.bar .bar-inner, .chapter-head, .comm-head, details.art > summary { transition: filter .35s ease, opacity .35s ease; }
+  body.focusing header.bar .bar-inner, body.focusing .chapter-head, body.focusing .comm-head,
+  body.focusing details.art > summary { filter: blur(2.5px); opacity: .35; pointer-events: none; user-select: none; }
   .fading { opacity: 0; }
   .gone { display: none !important; }
   .focusbar {
@@ -152,17 +157,18 @@
     <div class="brand">Scriptura <span>&amp;</span> Enarratio</div>
     <div class="controls">
       <select id="book" aria-label="Book"></select>
-      <button class="nav-btn" id="prev" aria-label="Previous chapter">&#8249;</button>
       <select id="chapter" aria-label="Chapter"></select>
-      <button class="nav-btn" id="next" aria-label="Next chapter">&#8250;</button>
     </div>
   </div>
 </header>
 
 <main>
   <div class="chapter-head">
-    <h1 id="title">&nbsp;</h1>
-    <div class="latin" id="latin">&nbsp;</div>
+    <div class="title-row">
+      <button class="nav-btn" id="prev" aria-label="Previous chapter">&#8249;</button>
+      <h1 id="title">&nbsp;</h1>
+      <button class="nav-btn" id="next" aria-label="Next chapter">&#8250;</button>
+    </div>
     <div class="ornament">✠</div>
   </div>
   <div class="focusbar" id="focusbar" role="status"><span id="focuslabel"></span><button class="x" id="unfocus" title="Back to the full chapter (Esc)"><span>×</span> Full chapter</button></div>
@@ -281,7 +287,6 @@ async function renderText() {
   const el = $("#text");
   const b = BOOKS[bookIdx(state.book)];
   $("#title").textContent = `${b[1]} ${state.ch}`;
-  $("#latin").textContent = `${b[2]} · Caput ${roman(state.ch)}`;
   el.innerHTML = `<div class="loading">Loading…</div>`;
   try {
     const verses = (await load(bibleFile("drc", b[0])))[state.ch - 1];
@@ -387,7 +392,7 @@ async function renderCommentary() {
   }
   el.innerHTML = arts.map((a, ai) => {
     const lo = Math.min(...a.paras.map(p => p.v[0])), hi = Math.max(...a.paras.map(p => p.v[1]));
-    return `<details class="card art fadeable" data-ai="${ai}"${ai === arts.length - 1 ? " open" : ""}>
+    return `<details class="card art fadeable" data-ai="${ai}">
       <summary>
         <span class="art-num">ART. ${a.num}</span>
         <span class="art-title"${state.lang === "la" ? ' lang="la"' : ""}>${esc(state.lang === "en" && a.title_en ? a.title_en : a.title)}</span>
@@ -428,6 +433,7 @@ function applyFocus(animate) {
   $("#focuslabel").innerHTML = `Showing <b>${esc(b)} ${state.ch}:${f.a}${f.b > f.a ? "–" + f.b : ""}</b> with ${esc(arts)}`;
   $("#focusbar").style.top = ($("header.bar").offsetHeight + 8) + "px";
   $("#focusbar").classList.add("on");
+  document.body.classList.add("focusing");
   document.querySelectorAll(".vchip.active").forEach(c => c.classList.remove("active"));
   for (const k of f.items) {
     const [ai, pi] = k.split(":");
@@ -448,6 +454,9 @@ function clearFocus() {
   if (!state.focus) return;
   const f = state.focus; state.focus = null;
   $("#focusbar").classList.remove("on");
+  document.body.classList.remove("focusing");
+  // articles go back to how the reader had them (opened or collapsed)
+  document.querySelectorAll("#commentary details.art").forEach(d => { d.open = !!f.wasOpen[d.dataset.ai]; });
   document.querySelectorAll(".vchip.active").forEach(c => c.classList.remove("active"));
   const els = [...document.querySelectorAll(".gone")];
   els.forEach(el => el.classList.remove("gone"));
@@ -475,7 +484,9 @@ async function startFocus(items, anchorSel) {
     if (!nums.includes(arts[ai].num)) nums.push(arts[ai].num);
   }
   const anchorEl = document.querySelector(anchorSel);
-  state.focus = { a, b, items: new Set(items), arts: nums,
+  const wasOpen = {};
+  document.querySelectorAll("#commentary details.art").forEach(d => { wasOpen[d.dataset.ai] = d.open; });
+  state.focus = { a, b, items: new Set(items), arts: nums, wasOpen,
                   anchor: { sel: anchorSel, offset: anchorEl ? anchorEl.getBoundingClientRect().top : 120 } };
   applyFocus(true);
 }
@@ -504,7 +515,7 @@ async function markVerses() {
 
 async function go(book, ch, push = true) {
   const changedBook = book !== state.book || !$("#chapter").options.length;
-  if (state.focus) { state.focus = null; $("#focusbar").classList.remove("on"); }
+  if (state.focus) { state.focus = null; $("#focusbar").classList.remove("on"); document.body.classList.remove("focusing"); }
   state.book = book; state.ch = ch;
   if (changedBook) await buildChapterSelect();
   syncControls();
