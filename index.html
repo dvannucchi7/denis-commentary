@@ -66,7 +66,7 @@
     backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
     border-bottom: 1px solid var(--rule);
   }
-  .bar-inner { max-width: 880px; margin: 0 auto; padding: 10px 18px; display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; }
+  .bar-inner { max-width: 720px; margin: 0 auto; padding: 10px 18px; display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; }
   .controls { display: flex; gap: 8px; align-items: center; width: 100%; }
   .icon-btn { margin-left: auto; background: var(--paper); border: 1px solid var(--rule); border-radius: 8px; width: 36px; height: 34px;
               display: grid; place-items: center; cursor: pointer; color: var(--muted); padding: 0; flex: 0 0 auto; }
@@ -92,10 +92,16 @@
   .seg button[aria-pressed="true"] { background: var(--paper); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.08); }
 
   /* ---------- Page ---------- */
-  main { max-width: 880px; margin: 0 auto; padding: 28px 18px 80px; }
+  main { max-width: 720px; margin: 0 auto; padding: 28px 18px 80px; }
   .chapter-head { text-align: center; margin: 8px 0 26px; }
   .chapter-head h1 { font-weight: 500; font-size: 40px; line-height: 1.1; margin: 0; letter-spacing: .01em; }
   .chapter-head .ornament { color: var(--rubric); letter-spacing: .5em; font-size: 14px; margin-top: 10px; }
+  /* jump between the chapter text and the commentary */
+  .jump { background: none; border: 0; padding: 4px 6px; font-family: var(--sans); font-size: 11px; font-weight: 600;
+          letter-spacing: .1em; text-transform: uppercase; color: var(--muted); cursor: pointer; }
+  .jump:hover { color: var(--rubric); }
+  .chapter-head .jump { margin-top: 8px; }
+  .key .jump-up { margin-left: auto; align-self: center; }
   /* the theme follows the testament: in an Old Testament book the accent (verse numbers, the cross, verse tags,
      article numbers, the tapped verse…) is blue; in the New, red. A reference layer takes the colour of its verse. */
   body.ot-book, .layer.ot-ref { --rubric: var(--ot); --rubric-soft: var(--ot-soft); }
@@ -157,7 +163,7 @@
 
   /* ---------- Search ---------- */
   .search-panel { position: fixed; inset: 0; z-index: 30; background: var(--bg); overflow-y: auto; -webkit-overflow-scrolling: touch; }
-  .search-inner { max-width: 880px; margin: 0 auto; padding: 12px 18px 60px; }
+  .search-inner { max-width: 720px; margin: 0 auto; padding: 12px 18px 60px; }
   .search-row { display: flex; gap: 8px; position: sticky; top: 0; background: var(--bg); padding: 4px 0 10px; }
   #q { flex: 1; min-width: 0; font-family: var(--sans); font-size: 16px; color: var(--ink); background: var(--paper);
        border: 1px solid var(--rule); border-radius: 10px; padding: 9px 12px; outline: none; }
@@ -217,7 +223,7 @@
   .layer { transition: opacity .25s ease, transform .35s cubic-bezier(.2, .75, .25, 1); }
   .layer.entering { opacity: 0; transform: translateY(16px); }
   .layer.under { display: none; }
-  .layer-inner { max-width: 880px; margin: 0 auto; padding: 62px 18px 80px; }
+  .layer-inner { max-width: 720px; margin: 0 auto; padding: 62px 18px 80px; }
   .layer-ref { font-family: var(--sans); font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--rubric); margin-bottom: 8px; }
   .layer-verse { margin-bottom: 12px; }
   .layer-art { margin-bottom: 12px; overflow: hidden; }
@@ -242,8 +248,10 @@
     #book { flex: 1 1 auto; min-width: 0; max-width: none; }
     #chapter { flex: 0 0 auto; }
     .scripture { padding: 20px 18px; }
-    details.art > summary { grid-template-columns: auto 1fr; padding: 14px 16px; }
-    .art-meta { grid-column: 2; }
+    details.art > summary { grid-template-columns: 1fr; gap: 6px; padding: 14px 16px; }
+    details.art > summary .art-num { justify-self: start; }
+    .art-meta { grid-column: 1; }
+    .para p { text-align: left; }      /* justified text leaves wide gaps in a narrow column */
     .art-body { padding: 0 18px 18px; }
     .chapter-head h1 { font-size: 32px; }
     .key { font-size: 16px; gap: 2px 14px; white-space: nowrap; }
@@ -327,6 +335,7 @@
       <button class="nav-btn" id="next" aria-label="Next chapter">&#8250;</button>
     </div>
     <div class="ornament">✠</div>
+    <button class="jump" id="toComm" hidden>Commentary ↓</button>
   </div>
   <button class="focus-x" id="unfocus" aria-label="Back to the full chapter" title="Back to the full chapter (Esc)">×</button>
   <button class="focus-x layer-x" id="layerX" aria-label="Back" title="Back (Esc)">×</button>
@@ -338,7 +347,7 @@
       <button data-lang="la">Latin</button>
     </div>
   </div>
-  <div class="key"><span class="key-label">References:</span><span class="here">Current Chapter</span><span class="ot">Old Testament</span><span class="nt">New Testament</span></div>
+  <div class="key"><span class="key-label">References:</span><span class="here">Current Chapter</span><span class="ot">Old Testament</span><span class="nt">New Testament</span><button class="jump jump-up" id="toText">↑ Text</button></div>
   <section id="commentary"></section>
 
   <footer>
@@ -574,6 +583,7 @@ function vLabel(v) { return v[0] === v[1] ? `v. ${v[0]}` : `vv. ${v[0]}–${v[1]
 
 async function renderCommentary() {
   const el = $("#commentary");
+  $("#toComm").hidden = true;
   const comm = await commFile(state.book).catch(() => null);
   const arts = comm && comm.chapters[state.ch];
   if (!arts) {
@@ -581,6 +591,7 @@ async function renderCommentary() {
       comm ? "" : "<br><span style='font-size:15px'>Chapters with commentary are marked ✠ in the menus.</span>"}</div>`;
     return;
   }
+  $("#toComm").hidden = false;
   el.innerHTML = arts.map((a, ai) => {
     const lo = Math.min(...a.paras.map(p => p.v[0])), hi = Math.max(...a.paras.map(p => p.v[1]));
     return `<details class="card art fadeable" data-ai="${ai}">
@@ -604,7 +615,7 @@ async function renderCommentary() {
 function focusTargets(open = true) {
   const f = state.focus, hide = [];
   document.querySelectorAll("#text [id^=v]").forEach(el => { const n = +el.id.slice(1); if (n < f.a || n > f.b) hide.push(el); });
-  hide.push(...document.querySelectorAll("#text .src, .chapter-head .ornament, .comm-head, .comm-sub, .key, footer"));
+  hide.push(...document.querySelectorAll("#text .src, .chapter-head .ornament, #toComm, .comm-head, .comm-sub, .key, footer"));
   document.querySelectorAll("#commentary details.art").forEach(d => {
     const ai = d.dataset.ai;
     const keep = [...d.querySelectorAll(".para")].filter(p => f.items.has(ai + ":" + p.dataset.pi));
@@ -904,6 +915,12 @@ $("#text").addEventListener("click", e => {
   focusOnVerse(+v.id.slice(1));
 });
 $("#unfocus").addEventListener("click", clearFocus);
+// jump between the chapter text and the commentary
+$("#toComm").addEventListener("click", () => {
+  const y = $(".comm-head").getBoundingClientRect().top + window.scrollY - $("header.bar").offsetHeight - 10;
+  window.scrollTo({ top: Math.max(0, y), behavior: "smooth" });
+});
+$("#toText").addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
 // in focus view, a tap anywhere outside the bubbles (the verse card and the comments) goes back, like the ×
 document.addEventListener("click", e => {
   if (!state.focus || layers.length || !$("#searchPanel").hidden) return;

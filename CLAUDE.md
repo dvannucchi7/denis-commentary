@@ -167,6 +167,10 @@ separately, by `tools/margins.py`.
   applied by a small script in <head> before the page is drawn); with no choice saved, the phone's setting
   decides (CSS `:root[data-theme]` and `prefers-color-scheme`).
 - Chapter title with ‹ › arrows on either side; swipe left/right on phones to change chapter.
+- Under the chapter's ✠ a small "Commentary ↓" link (only when the chapter has commentary) scrolls to the
+  commentary; "↑ Text" at the end of the References line scrolls back up. Both hidden in focus view.
+- Reading column at most 720px wide (about 72 characters a line on a computer). Commentary paragraphs are
+  justified on wide screens, flush-left on phones (≤600px), where the article number sits above its title.
 - The app reopens on the last chapter read (stored in the reader's browser).
 - Articles start collapsed. Tapping a verse, or a verse tag in the commentary, opens focus view: only
   those verses and the matching comments (each under its article number and title), in two bubbles with a
