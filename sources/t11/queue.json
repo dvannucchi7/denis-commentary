@@ -782,11 +782,11 @@
    "art": 2,
    "chapter_guess": 1,
    "pages": [
-    391,
+    389,
     403
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T22:13:55Z"
+   "status": "todo",
+   "note": "Pages corrected: Art. II (Elucidatio prologi ... Quoniam quidem multi conati sunt, then 1:5-25) starts on PDF 389, not 391, and runs to the Art. III heading on PDF 403 (about 8,000 words; no pre-cut file). Released unstarted by a run that had too little time left."
   },
   {
    "id": "luke-03",
