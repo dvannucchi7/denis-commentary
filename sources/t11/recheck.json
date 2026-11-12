@@ -104,8 +104,9 @@
     70,
     79
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T15:55:17Z"
+   "status": "done",
+   "claimed": "2026-11-12T15:55:17Z",
+   "note": "PDF 74 R seems to have no margin notes read at all: tags there kept unconfirmed (Ps 118:136, Rom 7:24, Ps 41:4, Ps 119:5, Ps 76:3, Eccles 2:2, Ps 93:19, Rom 8:17, Tob 3:22); the mourning of Samuel, Jeremias and Daniel there is unmarked. Also no note read for 1 Cor 15:46 (para 5); Gal 6:3, Ps 33:19, Phil 3:8 (para 6); Prov 11:2 (para 10); Ps 83:3 (unread 'Ps. lxxxiii, 3'), 2 Cor 4:17 (misread 'II Cor. iv, 17'). Para 21: 'Pax vobis' retagged from Luke 24:36 to John 20:19 (margin 'Joann. xx, 19, 21, 26'). Margin 'Ps. xxxiii, 9' beside 'gustare quam dulcis' marked as Ps 33:9."
   },
   {
    "id": "matthew-10",
