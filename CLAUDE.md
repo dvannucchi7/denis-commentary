@@ -95,6 +95,16 @@ Scans (Dave supplies the PDFs; the workspace cannot download from archive.org or
   The scan repeats some pages (PDF 23–31 and 37–39 repeat earlier ones); PDF 31 (p. 10) is garbled,
   use PDF 39. Always map PDF pages to printed pages before assembling.
 
+- t. XI (Matthew 1–28, Mark 1–16, Luke 1–9): archive.org `operaomniainunum11deni`. Yellowed but crisp.
+  PDF page = printed page + 20. Already OCR'd page by page into `sources/t11/pages/`; the work queue
+  is `sources/t11/queue.json`. Pages OCR'd before the heading-split improvement (roughly PDF 21–215)
+  read left column then right column even where a new article starts mid-page, so put the text
+  around a mid-page heading back in order by the sense.
+
+Translation runs follow `TRANSLATING.md` (procedure) with `tools/verses.py` (Douay-Rheims + Vulgate
+lookup; Vulgate text is in `sources/vulgate/`, not shown in the app) and `tools/add_article.py`
+(merges a finished article and switches the book on in the app).
+
 Tools: `tools/ocr_columns.py` (cuts each page at the gutter, drops running head and marginal notes,
 OCRs each column with Tesseract's Latin model) and `tools/assemble.py` (joins columns, removes running
 heads and gutter letters A–D, rejoins hyphenated words). Article titles span both columns, so find them

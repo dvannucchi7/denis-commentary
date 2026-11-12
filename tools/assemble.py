@@ -8,12 +8,15 @@ out, files = sys.argv[1], sys.argv[2:]
 lines = []
 for f in files:
     raw = open(f).read()
-    left, right = raw.split("=====RIGHT=====")
-    for col in (left.replace("=====LEFT=====", ""), right):
+    # sections in reading order: LEFT/RIGHT column pairs, with any full-width HEADING between them
+    parts = re.split(r"=====(LEFT|RIGHT|HEADING)=====\n?", raw)
+    sections = [parts[i + 1] if parts[i] != "HEADING" else "\n" + parts[i + 1].strip() + "\n"
+                for i in range(1, len(parts) - 1, 2)]
+    for col in sections:
         for ln in col.splitlines():
             t = ln.strip()
             if not t: lines.append(""); continue
-            if re.search(r"ENAR+ATIO|EXODI\.|— ART\.", t): continue          # running heads
+            if re.search(r"ENAR+ATIO|— ART\.|^\d{0,3}\s*(ENARRATIO|INDEX)", t): continue   # running heads
             if re.fullmatch(r"[\W\d]{0,6}", t): continue                         # stray marks / page numbers
             t = re.sub(r"^[ABCD] (?=[a-zæœ])", "", t)                           # gutter letter at line start
             t = re.sub(r" [ABCD]$", "", t)                                        # gutter letter at line end

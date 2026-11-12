@@ -1,0 +1,953 @@
+{
+ "volume": "t. XI (Montreuil, 1900): Matthew 1-28, Mark 1-16, Luke 1-9",
+ "pdf": "archive.org operaomniainunum11deni (PDF page = printed page + 20)",
+ "how": "Do items in order. pages = PDF pages to read (inclusive); the article may start partway down the first page and the next article may start on the last page. chapter_guess comes from running heads: confirm it from the article's own title.",
+ "items": [
+  {
+   "id": "matthew-01",
+   "book": "matthew",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    25,
+    33
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-02",
+   "book": "matthew",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    32,
+    36
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-03",
+   "book": "matthew",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    35,
+    41
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-04",
+   "book": "matthew",
+   "art": 4,
+   "chapter_guess": 2,
+   "pages": [
+    40,
+    46
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-05",
+   "book": "matthew",
+   "art": 5,
+   "chapter_guess": 2,
+   "pages": [
+    45,
+    52
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-06",
+   "book": "matthew",
+   "art": 6,
+   "chapter_guess": 3,
+   "pages": [
+    51,
+    60
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-07",
+   "book": "matthew",
+   "art": 7,
+   "chapter_guess": 3,
+   "pages": [
+    59,
+    67
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-08",
+   "book": "matthew",
+   "art": 8,
+   "chapter_guess": 4,
+   "pages": [
+    66,
+    71
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-09",
+   "book": "matthew",
+   "art": 9,
+   "chapter_guess": 4,
+   "pages": [
+    70,
+    79
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-10",
+   "book": "matthew",
+   "art": 10,
+   "chapter_guess": 5,
+   "pages": [
+    78,
+    91
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-11",
+   "book": "matthew",
+   "art": 11,
+   "chapter_guess": 5,
+   "pages": [
+    90,
+    96
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-12",
+   "book": "matthew",
+   "art": 12,
+   "chapter_guess": 6,
+   "pages": [
+    95,
+    99
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-13",
+   "book": "matthew",
+   "art": 13,
+   "chapter_guess": 6,
+   "pages": [
+    98,
+    103
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-14",
+   "book": "matthew",
+   "art": 14,
+   "chapter_guess": 6,
+   "pages": [
+    102,
+    110
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-15",
+   "book": "matthew",
+   "art": 15,
+   "chapter_guess": 6,
+   "pages": [
+    109,
+    120
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-16",
+   "book": "matthew",
+   "art": 16,
+   "chapter_guess": 7,
+   "pages": [
+    119,
+    124
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-17",
+   "book": "matthew",
+   "art": 17,
+   "chapter_guess": 8,
+   "pages": [
+    123,
+    129
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-18",
+   "book": "matthew",
+   "art": 18,
+   "chapter_guess": 9,
+   "pages": [
+    128,
+    141
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-19",
+   "book": "matthew",
+   "art": 19,
+   "chapter_guess": 9,
+   "pages": [
+    140,
+    146
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-20",
+   "book": "matthew",
+   "art": 20,
+   "chapter_guess": 10,
+   "pages": [
+    145,
+    154
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-21",
+   "book": "matthew",
+   "art": 21,
+   "chapter_guess": 11,
+   "pages": [
+    153,
+    159
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-22",
+   "book": "matthew",
+   "art": 22,
+   "chapter_guess": 11,
+   "pages": [
+    158,
+    167
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-23",
+   "book": "matthew",
+   "art": 23,
+   "chapter_guess": 11,
+   "pages": [
+    166,
+    172
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-24",
+   "book": "matthew",
+   "art": 24,
+   "chapter_guess": 12,
+   "pages": [
+    171,
+    180
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-25",
+   "book": "matthew",
+   "art": 25,
+   "chapter_guess": 12,
+   "pages": [
+    179,
+    187
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-26",
+   "book": "matthew",
+   "art": 26,
+   "chapter_guess": 13,
+   "pages": [
+    186,
+    192
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-27",
+   "book": "matthew",
+   "art": 27,
+   "chapter_guess": 14,
+   "pages": [
+    191,
+    198
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-28",
+   "book": "matthew",
+   "art": 28,
+   "chapter_guess": 15,
+   "pages": [
+    197,
+    206
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-29",
+   "book": "matthew",
+   "art": 29,
+   "chapter_guess": 16,
+   "pages": [
+    205,
+    214
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-30",
+   "book": "matthew",
+   "art": 30,
+   "chapter_guess": 16,
+   "pages": [
+    213,
+    219
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-31",
+   "book": "matthew",
+   "art": 31,
+   "chapter_guess": 17,
+   "pages": [
+    218,
+    222
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-32",
+   "book": "matthew",
+   "art": 32,
+   "chapter_guess": 18,
+   "pages": [
+    221,
+    232
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-33",
+   "book": "matthew",
+   "art": 33,
+   "chapter_guess": 19,
+   "pages": [
+    231,
+    240
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-34",
+   "book": "matthew",
+   "art": 34,
+   "chapter_guess": 20,
+   "pages": [
+    239,
+    248
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-35",
+   "book": "matthew",
+   "art": 35,
+   "chapter_guess": 20,
+   "pages": [
+    247,
+    261
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-36",
+   "book": "matthew",
+   "art": 36,
+   "chapter_guess": 21,
+   "pages": [
+    260,
+    270
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-37",
+   "book": "matthew",
+   "art": 37,
+   "chapter_guess": 23,
+   "pages": [
+    269,
+    278
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-38",
+   "book": "matthew",
+   "art": 38,
+   "chapter_guess": 24,
+   "pages": [
+    277,
+    286
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-39",
+   "book": "matthew",
+   "art": 39,
+   "chapter_guess": 24,
+   "pages": [
+    285,
+    291
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-40",
+   "book": "matthew",
+   "art": 40,
+   "chapter_guess": 24,
+   "pages": [
+    290,
+    299
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-41",
+   "book": "matthew",
+   "art": 41,
+   "chapter_guess": 26,
+   "pages": [
+    298,
+    312
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-42",
+   "book": "matthew",
+   "art": 42,
+   "chapter_guess": 26,
+   "pages": [
+    311,
+    321
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-43",
+   "book": "matthew",
+   "art": 43,
+   "chapter_guess": 27,
+   "pages": [
+    320,
+    328
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-44",
+   "book": "matthew",
+   "art": 44,
+   "chapter_guess": 27,
+   "pages": [
+    327,
+    336
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "matthew-45",
+   "book": "matthew",
+   "art": 45,
+   "chapter_guess": 28,
+   "pages": [
+    335,
+    344
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-01",
+   "book": "mark",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    347,
+    352
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-02",
+   "book": "mark",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    351,
+    354
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-03",
+   "book": "mark",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    353,
+    355
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-04",
+   "book": "mark",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    354,
+    356
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-05",
+   "book": "mark",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    355,
+    357
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-06",
+   "book": "mark",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    356,
+    358
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-07",
+   "book": "mark",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    357,
+    360
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-08",
+   "book": "mark",
+   "art": 8,
+   "chapter_guess": 7,
+   "pages": [
+    359,
+    361
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-09",
+   "book": "mark",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    360,
+    365
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-10",
+   "book": "mark",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    364,
+    366
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-11",
+   "book": "mark",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    365,
+    368
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-12",
+   "book": "mark",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    367,
+    369
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-13",
+   "book": "mark",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    368,
+    371
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-14",
+   "book": "mark",
+   "art": 14,
+   "chapter_guess": 14,
+   "pages": [
+    370,
+    372
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-15",
+   "book": "mark",
+   "art": 15,
+   "chapter_guess": 14,
+   "pages": [
+    371,
+    374
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "mark-16",
+   "book": "mark",
+   "art": 16,
+   "chapter_guess": 16,
+   "pages": [
+    373,
+    384
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-01",
+   "book": "luke",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    385,
+    392
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-02",
+   "book": "luke",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    391,
+    403
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-03",
+   "book": "luke",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    402,
+    413
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-04",
+   "book": "luke",
+   "art": 4,
+   "chapter_guess": 1,
+   "pages": [
+    412,
+    419
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-05",
+   "book": "luke",
+   "art": 5,
+   "chapter_guess": 1,
+   "pages": [
+    418,
+    430
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-06",
+   "book": "luke",
+   "art": 6,
+   "chapter_guess": 2,
+   "pages": [
+    429,
+    442
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-07",
+   "book": "luke",
+   "art": 7,
+   "chapter_guess": 2,
+   "pages": [
+    441,
+    460
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-08",
+   "book": "luke",
+   "art": 8,
+   "chapter_guess": 3,
+   "pages": [
+    459,
+    473
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-09",
+   "book": "luke",
+   "art": 9,
+   "chapter_guess": 3,
+   "pages": [
+    472,
+    480
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-10",
+   "book": "luke",
+   "art": 10,
+   "chapter_guess": 4,
+   "pages": [
+    479,
+    490
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-11",
+   "book": "luke",
+   "art": 11,
+   "chapter_guess": 4,
+   "pages": [
+    489,
+    505
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-12",
+   "book": "luke",
+   "art": 12,
+   "chapter_guess": 5,
+   "pages": [
+    504,
+    512
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-13",
+   "book": "luke",
+   "art": 13,
+   "chapter_guess": 5,
+   "pages": [
+    511,
+    521
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-14",
+   "book": "luke",
+   "art": 14,
+   "chapter_guess": 6,
+   "pages": [
+    520,
+    529
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-15",
+   "book": "luke",
+   "art": 15,
+   "chapter_guess": 6,
+   "pages": [
+    528,
+    536
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-16",
+   "book": "luke",
+   "art": 16,
+   "chapter_guess": 6,
+   "pages": [
+    535,
+    552
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-17",
+   "book": "luke",
+   "art": 17,
+   "chapter_guess": 7,
+   "pages": [
+    551,
+    559
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-18",
+   "book": "luke",
+   "art": 18,
+   "chapter_guess": 7,
+   "pages": [
+    558,
+    569
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-19",
+   "book": "luke",
+   "art": 19,
+   "chapter_guess": 7,
+   "pages": [
+    568,
+    578
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-20",
+   "book": "luke",
+   "art": 20,
+   "chapter_guess": 8,
+   "pages": [
+    577,
+    588
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-21",
+   "book": "luke",
+   "art": 21,
+   "chapter_guess": 8,
+   "pages": [
+    587,
+    596
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-22",
+   "book": "luke",
+   "art": 22,
+   "chapter_guess": 8,
+   "pages": [
+    595,
+    602
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-23",
+   "book": "luke",
+   "art": 23,
+   "chapter_guess": 9,
+   "pages": [
+    601,
+    615
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-24",
+   "book": "luke",
+   "art": 24,
+   "chapter_guess": 9,
+   "pages": [
+    614,
+    624
+   ],
+   "status": "todo"
+  },
+  {
+   "id": "luke-25",
+   "book": "luke",
+   "art": 25,
+   "chapter_guess": 9,
+   "pages": [
+    623,
+    631
+   ],
+   "status": "todo"
+  }
+ ]
+}

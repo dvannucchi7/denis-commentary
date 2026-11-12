@@ -37,6 +37,30 @@ def text_box(gray):
         top = y
     return max(0, top - 6), bottom
 
+def heading_rows(g, top, bottom, gx, la, rb):
+    """Rows (y0, y1) of full-width headings: text that runs across the gutter (an article heading
+    in the middle of a page). The gutter letters A-D are single small marks and are ignored."""
+    h, w = g.shape
+    mid = g[:, gx - w // 12: gx + w // 12] < 128        # a band either side of the gutter
+    gut = g[:, gx - w // 120: gx + w // 120] < 128       # the gutter itself
+    edge = int(w * .07)
+    left_edge = g[:, la: la + edge] < 128                 # ordinary lines always reach the outer edges;
+    right_edge = g[:, rb - edge: rb] < 128                # a centred heading leaves both blank
+    rows = [y for y in range(top, bottom)
+            if gut[y].any() and mid[y].sum() > w * .02 and not left_edge[y].any() and not right_edge[y].any()]
+    blocks, start, prev = [], None, None
+    for y in rows:
+        if start is None: start = prev = y; continue
+        if y - prev > h * .012: blocks.append((start, prev)); start = y
+        prev = y
+    if start is not None: blocks.append((start, prev))
+    # a heading block is a few lines tall; merge blocks that are close (title of two lines)
+    merged = []
+    for b in blocks:
+        if merged and b[0] - merged[-1][1] < h * .03: merged[-1] = (merged[-1][0], b[1])
+        else: merged.append(b)
+    return [(max(top, a - 12), min(bottom, b + 12)) for a, b in merged if b - a > h * .006]
+
 for p in range(first, last + 1):
     base = os.path.join(out, f"p{p}")
     subprocess.run(["pdftoppm", "-f", str(p), "-l", str(p), "-r", "300", "-gray", "-png", "-singlefile", pdf, base], check=True)
@@ -55,12 +79,23 @@ for p in range(first, last + 1):
     la = outer_edge(0, gx - band, True)
     rb = outer_edge(gx + band, w, False)
     cols = [im.crop((la, top, gx - band // 3, bottom + 5)), im.crop((gx + band // 3, top, rb, bottom + 5))]
-    texts = []
-    for i, c in enumerate(cols):
-        cp = f"{base}_{'LR'[i]}.png"
-        c.save(cp)
-        r = subprocess.run(["tesseract", cp, "-", "-l", "lat", "--psm", "4"], capture_output=True, text=True, env=env)
-        texts.append(r.stdout)
+    def ocr(img, tag, psm="4"):
+        cp = f"{base}_{tag}.png"; img.save(cp)
+        return subprocess.run(["tesseract", cp, "-", "-l", "lat", "--psm", psm], capture_output=True, text=True, env=env).stdout
+    # split the page into bands at any full-width heading: columns above, the heading, columns below
+    cuts = heading_rows(g, top, bottom, gx, la, rb)
+    bands, y = [], top
+    for a_, b_ in cuts:
+        if a_ - y > 20: bands.append(("cols", y, a_))
+        bands.append(("head", a_, b_)); y = b_
+    if bottom - y > 20: bands.append(("cols", y, bottom + 5))
+    out = []
+    for k, (kind, y0, y1) in enumerate(bands):
+        if kind == "head":
+            out.append("=====HEADING=====\n" + ocr(im.crop((la, y0, rb, y1)), f"H{k}", "6"))
+        else:
+            out.append("=====LEFT=====\n" + ocr(im.crop((la, y0, gx - band // 3, y1)), f"L{k}"))
+            out.append("=====RIGHT=====\n" + ocr(im.crop((gx + band // 3, y0, rb, y1)), f"R{k}"))
     with open(base + ".txt", "w") as f:
-        f.write("=====LEFT=====\n" + texts[0] + "\n=====RIGHT=====\n" + texts[1])
+        f.write("\n".join(out))
     print(p, "gutter at", gx, "of", w, "text rows", top, bottom)
