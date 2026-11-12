@@ -220,8 +220,8 @@
     128,
     141
    ],
-   "status": "needs-scan",
-   "note": "Published (Matthew 9, Art. XVIII, all of ch. 9). PDF 136 (p. 116) is partly unreadable in the OCR: gaps marked […] at the end of the Eusebius statue story (v. 20), in v. 21 (one line), at the end of v. 22 (two lines, margin Deut. xxx, 4) and in the messengers' words to Jairus (v. 23). Please check against the scan. Tags whose margin note was unread or misread: Ps 84:9, 1 Cor 2:11 (margin read 'II Cor. i, 11'), Rom 8:30, Rom 10:3, Gal 4:4, 4 Kings 13:21, 3 Kings 17:21, 4 Kings 4:33; 1 Tim 1:15 (margin read as Luke 19:10). John 20:22 tagged where the margin prints xx, 23 (note in text)."
+   "status": "done",
+   "note": "Published (Matthew 9, Art. XVIII, all of ch. 9). PDF 136 (p. 116) is partly unreadable in the OCR: gaps marked […] at the end of the Eusebius statue story (v. 20), in v. 21 (one line), at the end of v. 22 (two lines, margin Deut. xxx, 4) and in the messengers' words to Jairus (v. 23). Please check against the scan. Tags whose margin note was unread or misread: Ps 84:9, 1 Cor 2:11 (margin read 'II Cor. i, 11'), Rom 8:30, Rom 10:3, Gal 4:4, 4 Kings 13:21, 3 Kings 17:21, 4 Kings 4:33; 1 Tim 1:15 (margin read as Luke 19:10). John 20:22 tagged where the margin prints xx, 23 (note in text). | 12 Nov: gaps filled from the scan by hand (the scan is clean; the OCR had dropped the lines)."
   },
   {
    "id": "matthew-19",
@@ -292,8 +292,8 @@
     171,
     180
    ],
-   "status": "needs-scan",
-   "note": "Published (Matthew 12:22-50, Art. XXIV). PDF 177 (p. 157) is partly garbled in the OCR: one line lost after 'ut deglutiret Jo[nam]' (Jonas 2:1), one after 'et dixit Dominus pisci' (Jonas 2:11), and one or two after 'respectu Jeru[salem]' (the lemma of 12:42); gaps marked […] in Latin and English. Please check against the scan. Tags kept without a confirming margin reading: 2 Tim 2:26, Job 41:24, 1 John 5:19, John 14:30, Jer 13:23, Job 4:2, Job 32:18, Rom 14:12, Eph 4:29, Eccles 12:14, Prov 12:14, Ecclus 14:1, Ps 38:2, Ecclus 28:22, Prov 13:3 (Denis cites it as Ecclesiasticus), Jas 3:6, Ps 72:27, Osee 4:12, Deut 31:16, Is 7:14, Tob 12:15, Gal 4:19, Eph 3:17, Gen 13:8."
+   "status": "done",
+   "note": "Published (Matthew 12:22-50, Art. XXIV). PDF 177 (p. 157) is partly garbled in the OCR: one line lost after 'ut deglutiret Jo[nam]' (Jonas 2:1), one after 'et dixit Dominus pisci' (Jonas 2:11), and one or two after 'respectu Jeru[salem]' (the lemma of 12:42); gaps marked […] in Latin and English. Please check against the scan. Tags kept without a confirming margin reading: 2 Tim 2:26, Job 41:24, 1 John 5:19, John 14:30, Jer 13:23, Job 4:2, Job 32:18, Rom 14:12, Eph 4:29, Eccles 12:14, Prov 12:14, Ecclus 14:1, Ps 38:2, Ecclus 28:22, Prov 13:3 (Denis cites it as Ecclesiasticus), Jas 3:6, Ps 72:27, Osee 4:12, Deut 31:16, Is 7:14, Tob 12:15, Gal 4:19, Eph 3:17, Gen 13:8. | 12 Nov: gaps filled from the scan by hand (the scan is clean; the OCR had dropped the lines)."
   },
   {
    "id": "matthew-25",
@@ -316,8 +316,8 @@
     186,
     192
    ],
-   "status": "needs-scan",
-   "note": "Published (Matthew 13:36-58, Art. XXVI). PDF 189 (p. 169) is partly garbled in the OCR: the last line of each column is lost (left: after 'et tamen falsatores pecu[niae]', Thomas on heretics; right: after 'beatitudo cae[lestis]', the treasure hidden in the field); gaps marked [...]. Margin unread or misread, tags kept: Is 53:10, Mal 4:2, 2 John 1:10 (margin seems to read 'Tit. iii, 10' there), 1 Cor 3:2."
+   "status": "done",
+   "note": "Published (Matthew 13:36-58, Art. XXVI). PDF 189 (p. 169) is partly garbled in the OCR: the last line of each column is lost (left: after 'et tamen falsatores pecu[niae]', Thomas on heretics; right: after 'beatitudo cae[lestis]', the treasure hidden in the field); gaps marked [...]. Margin unread or misread, tags kept: Is 53:10, Mal 4:2, 2 John 1:10 (margin seems to read 'Tit. iii, 10' there), 1 Cor 3:2. | 12 Nov: gaps filled from the scan by hand (the scan is clean; the OCR had dropped the lines)."
   },
   {
    "id": "matthew-27",
@@ -364,8 +364,8 @@
     213,
     219
    ],
-   "status": "needs-scan",
-   "note": "Published (Matthew 17:1-13, Art. XXX). PDF 215 (p. 195) has a damaged band across the page in the OCR: a line or two lost in the left column after 'quod intelligendum videtur per mo[dum]' (dowries of the glorified body) and in the right column after 'qualia fullo' (Mark 9:2 / Luke 9:29 on Christ's garments); gaps marked [...]. Unread margin, tags kept: Mal 4:6."
+   "status": "done",
+   "note": "Published (Matthew 17:1-13, Art. XXX). PDF 215 (p. 195) has a damaged band across the page in the OCR: a line or two lost in the left column after 'quod intelligendum videtur per mo[dum]' (dowries of the glorified body) and in the right column after 'qualia fullo' (Mark 9:2 / Luke 9:29 on Christ's garments); gaps marked [...]. Unread margin, tags kept: Mal 4:6. | 12 Nov: gaps filled from the scan by hand (the scan is clean; the OCR had dropped the lines)."
   },
   {
    "id": "matthew-31",
