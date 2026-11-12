@@ -120,7 +120,12 @@ def read(vol, pdf, first, last):
         if os.path.exists(dest): continue
         subprocess.run(["pdftoppm", "-f", str(p), "-l", str(p), "-r", "600", "-gray", "-png", "-singlefile", pdf, tmp + "p"], check=True)
         im = Image.open(tmp + "p.png").convert("L"); g = np.array(im); h, w = g.shape
-        top, bottom = text_box(g); gx = gutter(g); band = int(w * .018)
+        if (g < 128).sum() < w:                       # a blank page
+            json.dump([], open(dest, "w")); print(p, "blank", flush=True); continue
+        try:
+            top, bottom = text_box(g); gx = gutter(g); band = int(w * .018)
+        except (IndexError, ValueError):
+            json.dump([], open(dest, "w")); print(p, "no text block", flush=True); continue
         def outer(x0, x1, left):
             ink = (g[top:bottom, x0:x1] < 128).sum(axis=0).astype(float)
             k = max(5, w // 150); sm = np.convolve(ink, np.ones(k) / k, mode="same")
