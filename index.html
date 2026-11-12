@@ -134,6 +134,12 @@
   #text .v, #text .src, .para, details.art, .comm-head, .comm-sub, .key, footer, .chapter-head .ornament,
   .note, .lang-note, .art-body > .src, .fadeable { transition: opacity .28s ease; }
   main { transition: opacity .16s ease; }
+  #text { transition: background-color .25s ease, border-color .25s ease, box-shadow .25s ease, opacity .3s ease; }
+  #text.bare { background-color: transparent; border-color: transparent; box-shadow: none; }
+  #text.glide { transition: transform .38s cubic-bezier(.2, .75, .25, 1), opacity .3s ease,
+                background-color .3s ease .25s, border-color .3s ease .25s, box-shadow .3s ease .25s; }
+  #commentary { transition: opacity .32s ease .1s, transform .4s cubic-bezier(.2, .75, .25, 1) .1s; }
+  #commentary.away { opacity: 0; transition: opacity .2s ease; }
   main.dip { opacity: 0; }
   header.bar .bar-inner, .chapter-head { transition: filter .3s ease, opacity .3s ease; will-change: filter, opacity; }
   /* article heading stays visible in focus view, but is not a toggle there */
@@ -489,23 +495,35 @@ async function applyFocus(animate) {
     markActive(f); placeFocusX(); document.body.classList.add("focusing");
     return;
   }
-  // 1. everything outside the selection fades out where it stands; header and title blur
+  const text = $("#text"), comm = $("#commentary"), anchor = document.getElementById("v" + f.a);
+  // 1. everything outside the selection fades out where it stands; header and title blur.
+  //    The verse card's frame and the commentary fade too, since both are about to change shape.
   const hide = focusTargets(false);     // nothing opens yet, so nothing moves
   markActive(f); placeFocusX();
   document.body.classList.add("focusing");
   await nextFrame();
   hide.forEach(el => el.classList.add("fading"));
-  await wait(280);
+  text.classList.add("bare"); comm.classList.add("away");
+  await wait(220);                      // start moving as the last of the background disappears
   if (state.focus !== f) return;
-  // 2. briefly dip the column, close up the gaps and bring the verses under the header while it is invisible
-  $("main").classList.add("dip");
-  await wait(160);
+  // 2. close up the gaps and scroll in one step, then start the verses from where they were on screen
+  const before = anchor.getBoundingClientRect().top;
+  const onScreen = before > 0 && before < window.innerHeight;
   focusTargets(true);                   // now open the articles involved
   hide.forEach(el => el.classList.add("gone"));
   scrollToFocus();
-  // 3. fade the focused passage back in
+  const shift = before - anchor.getBoundingClientRect().top;
+  text.style.transition = "none";
+  if (onScreen) text.style.transform = `translateY(${shift}px)`; else text.style.opacity = "0";
+  comm.style.transform = "translateY(14px)";
   await nextFrame();
-  $("main").classList.remove("dip");
+  // 3. the verses glide up into place; the commentary rises in beneath them; the card frame comes back
+  text.style.transition = "";
+  text.classList.add("glide");
+  text.style.transform = ""; text.style.opacity = "";
+  comm.style.transform = ""; comm.classList.remove("away");
+  await wait(380);
+  text.classList.remove("glide", "bare");
 }
 // the little × sits at the top right of the reading column, just under the header
 function placeFocusX() {
