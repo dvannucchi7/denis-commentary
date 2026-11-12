@@ -237,9 +237,47 @@
   @media (max-width: 380px) {
     .key { font-size: 15px; gap: 2px 10px; }
   }
+
+  /* ---------- Home: shown each time the app opens; READ goes to the chapter last read ---------- */
+  body.home-open { overflow: hidden; }
+  .home { position: fixed; inset: 0; z-index: 200; background: var(--bg); overflow-y: auto; display: flex;
+          transition: opacity .55s ease, visibility .55s; }
+  .home.leaving { opacity: 0; visibility: hidden; }
+  .home[hidden] { display: none; }
+  .home-inner { margin: auto; width: 100%; max-width: 560px; padding: 34px 22px 40px; text-align: center;
+                display: flex; flex-direction: column; align-items: center; }
+  .home-title { margin: 0; font-weight: 500; line-height: 1.15; color: var(--ink); }
+  .home-title .t1 { display: block; font-size: clamp(34px, 9vw, 46px); letter-spacing: .01em; }
+  .home-title .t2 { display: block; font-size: clamp(17px, 4.4vw, 21px); font-style: italic; font-weight: 400; color: var(--muted); margin: 8px 0 4px; }
+  .home-title .t3 { display: block; font-size: clamp(24px, 6.4vw, 32px); text-wrap: balance; }
+  .home-cross { color: var(--nt); font-size: 15px; letter-spacing: .5em; margin: 14px 0 0 .5em; }
+  /* the portrait melts into the page: soft oval fade at the edges, colours warmed toward the paper */
+  .home-portrait { display: block; width: min(76vw, 360px); height: auto; aspect-ratio: 494 / 553; margin: 6px 0 2px;
+                   filter: sepia(.2) saturate(.88) brightness(1.04);
+                   -webkit-mask-image: radial-gradient(ellipse 48% 50% at 48% 46%, #000 46%, rgba(0,0,0,.45) 66%, rgba(0,0,0,.12) 82%, transparent 94%);
+                           mask-image: radial-gradient(ellipse 48% 50% at 48% 46%, #000 46%, rgba(0,0,0,.45) 66%, rgba(0,0,0,.12) 82%, transparent 94%); }
+  .home-quote { text-wrap: balance; margin: 4px 0 26px; font-size: clamp(19px, 4.8vw, 22px); font-style: italic; line-height: 1.4; color: var(--ink); max-width: 420px; }
+  .home-quote cite { display: block; margin-top: 8px; font-family: var(--sans); font-style: normal; font-size: 11px; font-weight: 600;
+                     letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+  .home-read { font-family: var(--sans); font-size: 14px; font-weight: 600; letter-spacing: .32em; padding: 13px 44px 13px calc(44px + .32em);
+               color: #fff; background: var(--nt); border: 0; border-radius: 999px; cursor: pointer;
+               box-shadow: 0 2px 10px color-mix(in srgb, var(--nt) 30%, transparent); transition: transform .15s, box-shadow .15s; }
+  .home-read:hover { transform: translateY(-1px); box-shadow: 0 4px 16px color-mix(in srgb, var(--nt) 38%, transparent); }
+  .home-read:focus-visible { outline: 2px solid var(--nt); outline-offset: 3px; }
+  .home-where { margin-top: 12px; font-family: var(--sans); font-size: 12px; color: var(--muted); min-height: 1em; }
 </style>
 </head>
-<body>
+<body class="home-open">
+<div class="home" id="home">
+  <div class="home-inner">
+    <h1 class="home-title"><span class="t1">Sacred Scripture</span><span class="t2">with Commentary by</span><span class="t3">Blessed Denis the&nbsp;Carthusian</span></h1>
+    <div class="home-cross" aria-hidden="true">✠</div>
+    <img class="home-portrait" src="portrait.jpg" alt="Petrus Christus, Portrait of a Carthusian (1446)" width="494" height="553">
+    <blockquote class="home-quote">“Let Mother Church rejoice to have such a son!”<cite>Pope Eugene IV</cite></blockquote>
+    <button class="home-read" id="readBtn">READ</button>
+    <div class="home-where" id="homeWhere"></div>
+  </div>
+</div>
 <header class="bar">
   <div class="bar-inner">
     <div class="controls">
@@ -811,6 +849,7 @@ async function go(book, ch, push = true) {
     $("#text").classList.remove("bare", "glide"); $("#commentary").classList.remove("away");
   }
   state.book = book; state.ch = ch;
+  $("#homeWhere").textContent = `${BOOKS[bookIdx(book)][1]} ${ch}`;   // the chapter READ opens
   if (changedBook) await buildChapterSelect();
   syncControls();
   if (push) { const h = `#${book}-${ch}`; if (location.hash !== h) history.replaceState(null, "", h); }
@@ -970,6 +1009,14 @@ buildBookSelect();
 let saved = null; try { saved = localStorage.getItem("last"); } catch (e) {}
 const start = fromHash() || (saved && fromHash("#" + saved)) || ["genesis", 30];
 go(start[0], start[1]);
+
+// ---------- Home ----------
+$("#readBtn").addEventListener("click", () => {
+  const h = $("#home");
+  h.classList.add("leaving");
+  document.body.classList.remove("home-open");
+  setTimeout(() => { h.hidden = true; }, 560);
+});
 </script>
 </body>
 </html>

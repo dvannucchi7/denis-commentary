@@ -149,6 +149,11 @@ separately, by `tools/margins.py`.
 
 ## Interface features (for reference when changing index.html)
 
+- Home screen, shown every time the app is opened or refreshed (`#home`, over the reader, which loads the
+  last chapter underneath): title "Sacred Scripture / with Commentary by / Blessed Denis the Carthusian", a ✠,
+  the portrait (`portrait.jpg`: Petrus Christus, Portrait of a Carthusian, frame cropped off) faded into the page
+  with an oval mask and warmed toward the paper colour, Pope Eugene IV's words "Let Mother Church rejoice to have
+  such a son!", a red READ button (goes to the chapter last read), and that chapter's name beneath it. (Dave)
 - Commentary heading: "Commentary by Bl. Denis the Carthusian" (no subheading), with the English/Latin
   switch beside it (beneath it on phones).
 - Above the commentary bubbles (under the Commentary heading): a "References:" key — Current Chapter (italic), Old Testament (blue), New
