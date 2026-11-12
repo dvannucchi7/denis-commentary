@@ -60,8 +60,8 @@ Articles are sorted by number in the app automatically, but keep them in order i
   reference to the chapter treated shows as "(v. 16)".
 - Lemmata (the bits of the chapter treated that Denis quotes before glossing them) get a marker.
 - A quotation from anywhere else gets a marker where the printed margin gives a reference for it
-  (Dave's rule; see `TRANSLATING.md` step 5), and also where it is obvious though the margin reader
-  missed it (Denis names the source, or quotes word for word at length; `tools/recheck.py` lists these
+  (Dave's rule; see `TRANSLATING.md` step 5), and also wherever Denis is obviously quoting Scripture
+  though the margin gives no reference (Dave, 12 Nov 2026: these must be tagged too) (Denis names the source, or quotes word for word at length; `tools/recheck.py` lists these
   so none is missed). Short or loose phrases with no margin note are not hunted for. Where the margin reference is
   unclear or does not fit, a bracketed translator's note at that place says so. Allusions, paraphrases
   and stories with a margin reference get a reference-only marker (below); without one, nothing.
