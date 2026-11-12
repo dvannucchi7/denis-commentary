@@ -476,8 +476,9 @@
     285,
     291
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T21:22:39Z"
+   "status": "done",
+   "claimed": "2026-11-12T21:22:39Z",
+   "note": "No margin note read (kept, word for word): Acts 1:11, Jude 1:14-15, Ex 33:5 (margin read as 'Exod. xxxii, 3'), 1 Cor 2:9 (margin read as 'I Cor. v, 9'). 1 Thess 4:15 follows the DR file's numbering (Vulgate 4:16). Luke 17:34 added as reference only for Denis's 'duo in lecto' (no margin note)."
   },
   {
    "id": "matthew-40",
