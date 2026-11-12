@@ -31,13 +31,20 @@ the procedure.
    one at chapter boundaries. Print the chapter with `python3 tools/verses.py --chapter matthew 5`.
    Split the article into paragraphs where Denis moves to a new lemma or a new section, and tag each
    paragraph with its verse range (continuous, per `CLAUDE.md`).
-5. **Find the quotations, then translate.** First run `python3 tools/find_quotes.py <article.txt>
-   <book> <chapter>`. It lists, in order, where Denis quotes the chapter being treated, and then where
-   he quotes **anywhere else in the Bible**, with the reference already in marker form. (The printed
-   edition gave references in the margins, which the OCR drops, so this list is how you identify
-   sources.) It finds about nine in ten; check each hit (a short stock phrase may be a coincidence;
-   with Gospel parallels choose the one Denis means) and look up anything it misses (short or freely
-   worded quotations) with `python3 tools/verses.py "Ps 26:13" "Rom 12:1" …`.
+5. **Find the quotations, then translate.** Run both finders before translating:
+   - `python3 tools/margins.py <vol> <id> <chapter>` lists the references printed in the margins of
+     the article's pages, in reading order, each beside the Latin line it belongs to. The printed
+     edition cites the source of nearly every quotation there; the book is almost always read
+     right, the small numerals less so, so each reference has been checked against the Vulgate:
+     `printed` (fits), `corrected` (numerals misread; a verse of that book matched the Latin) or
+     `allusion?` (no clear match: an allusion, a free quotation, or a misread: check it). Bare verse
+     numbers in the margin show where each verse of the chapter begins, which helps with the verse
+     tags. Ignore notes on the first and last pages that belong to the neighbouring articles.
+   - `python3 tools/find_quotes.py <article.txt> <book> <chapter>` lists the runs of words that match
+     the chapter being treated and, after that, the rest of the Bible.
+   Between them they identify nearly every quotation; settle any doubt with
+   `python3 tools/verses.py "Ps 26:13" "Rom 12:1" …` (for a margin reference, look within the book it
+   names). Gospel parallels: the margin says which Gospel Denis means.
    Translate each paragraph into the `en` field, in the agreed style, marking every direct quotation of
    Scripture. **Write the markers in shorthand; do not copy out the wording:**
    `[[Ps 44:8|hath anointed … fellows|Unxit te … tuis]]`: the reference, then two or three words from

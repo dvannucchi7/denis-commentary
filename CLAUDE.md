@@ -111,7 +111,9 @@ lookup; Vulgate text is in `sources/vulgate/`, not shown in the app), `tools/fin
 runs of words in an article that match the Vulgate chapter, to catch lemmata and quotations) and
 `tools/add_article.py` (expands shorthand quotation markers with `tools/expand_quotes.py`, merges a
 finished article and switches the book on in the app).
-`tools/cut_articles.py <vol>` pre-cuts queued articles from the OCR pages.
+`tools/cut_articles.py <vol>` pre-cuts queued articles from the OCR pages. `tools/margins.py` reads the
+marginal references (book, chapter, verse of each quotation, and the verse numbers of the chapter
+treated) into `sources/<vol>/margins/`, and lists them per article for the runs.
 
 Tools: `tools/ocr_columns.py` (cuts each page at the gutter, drops running head and marginal notes,
 OCRs each column with Tesseract's Latin model) and `tools/assemble.py` (joins columns, removes running
@@ -122,8 +124,9 @@ spotting lemmata.
 The printed volumes have two columns per page. Plain text extracted from the scans mixes the two
 columns line by line; the letters A–D in the gutter mark quarters of the page. Prefer cutting each page
 image at the gutter and OCR-ing each column separately, then checking the reading order by the sense.
-Strip running heads, page numbers and marginal references (keep Denis's inline references such as
-"(Ps. lxxxiv, 9)"); join words hyphenated across lines.
+Strip running heads, page numbers and marginal references from the text (keep Denis's inline references
+such as "(Ps. lxxxiv, 9)"); join words hyphenated across lines. The marginal references are kept
+separately, by `tools/margins.py`.
 
 ## Interface features (for reference when changing index.html)
 
