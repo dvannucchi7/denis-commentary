@@ -103,6 +103,12 @@
   .comm-head { display: flex; align-items: baseline; gap: 12px; margin: 44px 0 14px; }
   .comm-head h2 { font-size: 26px; font-weight: 500; margin: 0; }
   .comm-head .rule { flex: 1; height: 1px; background: var(--rule); }
+  .comm-head h2 { line-height: 1.2; text-wrap: balance; }
+  @media (max-width: 600px) {   /* phones: the title on its own lines, the language switch beneath it */
+    .comm-head { flex-wrap: wrap; row-gap: 10px; }
+    .comm-head h2 { flex: 1 0 100%; font-size: 24px; }
+    .comm-head .rule { display: none; }
+  }
   .comm-sub { font-family: var(--sans); font-size: 13px; color: var(--muted); margin: -6px 0 18px; }
 
   details.art { margin-bottom: 12px; overflow: hidden; }
@@ -272,13 +278,12 @@
   <button class="focus-x layer-x" id="layerX" aria-label="Back" title="Back (Esc)">×</button>
   <section class="card scripture single" id="text"><div class="loading">Loading…</div></section>
 
-  <div class="comm-head"><h2>Commentary</h2><div class="rule"></div>
+  <div class="comm-head"><h2>Commentary by Bl.&nbsp;Denis the Carthusian</h2><div class="rule"></div>
     <div class="seg" role="group" aria-label="Commentary language" id="langseg">
       <button data-lang="en">English</button>
       <button data-lang="la">Latin</button>
     </div>
   </div>
-  <div class="comm-sub">Bl. Denis the Carthusian (Dionysius Cartusianus), <i>Enarratio</i></div>
   <div class="key"><span class="key-label">References:</span><span class="here">Current Chapter</span><span class="ot">Old Testament</span><span class="nt">New Testament</span></div>
   <section id="commentary"></section>
 

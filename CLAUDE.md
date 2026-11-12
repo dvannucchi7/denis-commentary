@@ -149,6 +149,8 @@ separately, by `tools/margins.py`.
 
 ## Interface features (for reference when changing index.html)
 
+- Commentary heading: "Commentary by Bl. Denis the Carthusian" (no subheading), with the English/Latin
+  switch beside it (beneath it on phones).
 - Above the commentary bubbles (under the Commentary heading): a "References:" key — Current Chapter (italic), Old Testament (blue), New
   Testament (red) — each in its own style; hidden in focus view.
 - Icon: Petrus Christus, Portrait of a Carthusian (1446), cropped to the face — apple-touch-icon.png
