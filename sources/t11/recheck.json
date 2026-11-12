@@ -200,8 +200,9 @@
     123,
     129
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T16:03:48Z"
+   "status": "done",
+   "claimed": "2026-11-12T16:03:48Z",
+   "note": "Remaining tags without a read note have unread/misread notes beside them (Is 53:4 'Is. liii, 4', 2 Cor 8:9, 1 Tim 5:6). Many Gospel parallels Denis cites by Evangelist added as reference markers from the margins. Para 2: 'Ps. viii, 8; I Cor. xv, 27; Ephes. i, 22; Hebr. ii, 8' read from part-unread notes. Para 3: margin 'Luc. iv, 35' beside 'Thou art Christ and the Son of God' marked as Luke 4:41 (the words are 4:41's). Unread 'Ezech. xxvi, 19(?)' beside 'all who see it are astonished' (PDF 128?) and 'vii, 30' beside the swine's rush left unmarked."
   },
   {
    "id": "mark-03",
