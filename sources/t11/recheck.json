@@ -116,8 +116,9 @@
     78,
     91
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-12T15:56:25Z"
+   "status": "done",
+   "claimed": "2026-11-12T15:56:25Z",
+   "note": "No margin note read (kept, word for word): Gen 45:24 (para 16), Rom 1:9 and 1 Tim 5:21 (para 36), Jer 4:2 (para 37); Rom 2:24, 1 Par 29:14, Ps 118:37, 1 Cor 7:10-11, 2 Cor 1:23 have misread/unread notes beside them. Para 5: retagged Ecclus 41:17 -> 20:32 per the margin (same words; note added). Para 10: margin 'Marc. ii, 11' beside the bed carried on the sabbath (that healing is John 5:8-10; note added). Para 30: margin 'Exod. xx, 17' beside Denis's words of Deut 5:21 (both marked, note added). 'You have defiled My holy name' marked Ezech 36:20 and 43:8 from a part-unread note ('22; xliii, 8'?, PDF 81)."
   },
   {
    "id": "matthew-11",
