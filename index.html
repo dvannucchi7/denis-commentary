@@ -77,6 +77,8 @@
   .chapter-head { text-align: center; margin: 8px 0 26px; }
   .chapter-head h1 { font-weight: 500; font-size: 40px; line-height: 1.1; margin: 0; letter-spacing: .01em; }
   .chapter-head .ornament { color: var(--rubric); letter-spacing: .5em; font-size: 14px; margin-top: 10px; }
+  /* an Old Testament chapter: its verse numbers and the cross are blue (New Testament: red) */
+  body.ot-book #text .v sup, body.ot-book .chapter-head .ornament, .layer-verse.ot .v sup { color: var(--ot); }
 
   .card { background: var(--paper); border: 1px solid var(--rule); border-radius: 14px; box-shadow: var(--shadow); }
   .scripture { padding: 28px 34px; }
@@ -379,6 +381,7 @@ async function renderText() {
   const el = $("#text");
   const b = BOOKS[bookIdx(state.book)];
   $("#title").textContent = `${b[1]} ${state.ch}`;
+  document.body.classList.toggle("ot-book", bookIdx(state.book) < bookIdx("matthew"));
   el.innerHTML = `<div class="loading">Loading…</div>`;
   try {
     const verses = (await load(bibleFile("drc", b[0])))[state.ch - 1];
@@ -719,7 +722,7 @@ async function layerHTML(r) {
     if (ps.length) found.push([a, ps]);
   });
   const la = state.lang === "la";
-  const verseCard = `<section class="card scripture layer-verse">
+  const verseCard = `<section class="card scripture layer-verse${bookIdx(r.book) < bookIdx("matthew") ? " ot" : ""}">
       <div class="layer-ref${bookIdx(r.book) < bookIdx("matthew") ? " ot" : ""}">${esc(refLabel(r))}</div>
       <p>${verse ? `<span class="v"><sup>${r.v}</sup>${esc(verse)}</span>` : `<i>This verse is not in the text.</i>`}</p>
       <div class="src">${TR_LABEL.drc} · <button class="layer-open${bookIdx(r.book) < bookIdx("matthew") ? " ot" : ""}" data-open="${r.book}:${r.ch}:${r.v}">Open ${esc(b[1])} ${r.ch} ›</button></div>

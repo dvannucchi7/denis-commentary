@@ -70,7 +70,8 @@ How they display (do not change without Dave asking):
 - quotation from the chapter being treated: *italic*, normal ink, no reference shown
 - other Old Testament (including other chapters of the same book): **blue**, with reference
 - New Testament: **red**, with reference
-- verse tags ("vv. 4–7") and verse numbers: red
+- verse tags ("vv. 4–7"): red; verse numbers of the chapter text and the ✠ under the chapter title: red
+  in a New Testament chapter, blue in an Old Testament one (also the verse number in an OT reference layer)
 
 ## Verse tags (`v` on each paragraph)
 
@@ -113,7 +114,7 @@ catch-up `python3 tools/margins.py read <vol> <pdf> <first> <last>`:
   read left column then right column even where a new article starts mid-page, so put the text
   around a mid-page heading back in order by the sense. (The heading pages were later re-read in
   order; `sources/t11/articles/` holds most articles already cut out.)
-- t. XII (Luke 10–24 = Art. XXVI–L, John 1–21 = Art. I–L): Google Play scan supplied by Dave. Clean.
+- t. XII (Luke 10–24 = Art. XXVI–L, John 1–21 = Art. I–L): archive.org `operaomniainunum12deni`. Clean.
   PDF page = printed page + 10. Commentary on PDF 11–630 (John's PROOEMIUM PDF 275–276, Art. I PDF 277);
   indexes after. OCR'd into `sources/t12/pages/` (all with the heading split); queue
   `sources/t12/queue.json`; pre-cut articles in `sources/t12/articles/`. Done after t. XI.
