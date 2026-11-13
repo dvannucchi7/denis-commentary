@@ -968,8 +968,9 @@
     535,
     552
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T07:49:40Z"
+   "status": "done",
+   "claimed": "2026-11-13T07:49:40Z",
+   "note": "Published (PDF 536-552, pp. 516-532; Luke 6:27-49). Margin numerals taken from the sense, e.g. 'Rom. xii, 20' = Rom 12:21 and 12:14, 'II Par. xxxi, 20' = 2 Par 32:20, 'Joann. xvi, 22, 23' = John 18:22, 'Exod. xvi, 4' = Ex 17:4, 'Prov. xi, 7' = Prov 11:17, 'Eccli. xxx, 34' = Ecclus 30:24, 'Job x, 8' = Job 40:8, 'Ps. xviii, 3' = Ps 68:3, 'Joann. iv, 14' = John 4:11, 'Prov. xv, 13' = Prov 15:12. No margin note read (kept, check against the scan): Matt 5:47, Is 64:4, 2 Cor 9:6, Apoc 18:7, 2 Cor 2:14-15, Mal 1:6, 1 Cor 12:3, 1 Cor 4:5 (margin 'I Cor. iv' as read). Prov 3:9-10 given as reference only (Denis's wording is free). Edition footnote at p. 519 ('aliorum*', variant 'aliquorum') noted in the text."
   },
   {
    "id": "luke-17",
