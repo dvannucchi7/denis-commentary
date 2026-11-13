@@ -1,834 +1,835 @@
 {
- "volume": "t. XII (Montreuil, 1901): Luke 10-24, John 1-21",
- "pdf": "Google Play scan supplied by Dave (PDF page = printed page + 10). Commentary PDF 11-630; indexes after.",
- "how": "Do items in order. pages = PDF pages to read (inclusive); the article may start partway down the first page and the next article may start on the last page. Confirm the chapter from the article's own title (ENARRATIO CAPITULI ...). John Art. I (PDF 277) is on the dignity of St John and his Gospel; PDF 275-276 is a PROOEMIUM: translate it as part of Art. I's note or as its opening, by the sense.",
- "items": [
-  {
-   "id": "luke-26",
-   "book": "luke",
-   "art": 26,
-   "pages": [
-    11,
-    19
-   ],
-   "status": "needs-scan",
-   "chapter_guess": 10,
-   "note": "Published with gaps: the bottom lines of both columns of PDF 16 (p. 6; end of v. 14, start of v. 15 on Capharnaum, and the passage on God's judgments) are garbled in the OCR; missing words marked […]. Please rescan PDF 16 and fill the gaps. Margin numerals guessed: Is 5:1 (vineyard), Gen 7:9 (two and two into the ark), Acts 28:5 (viper)."
-  },
-  {
-   "id": "luke-27",
-   "book": "luke",
-   "art": 27,
-   "pages": [
-    18,
-    32
-   ],
-   "status": "in-progress",
-   "chapter_guess": 10,
-   "claimed": "2026-11-13T12:39:11Z"
-  },
-  {
-   "id": "luke-28",
-   "book": "luke",
-   "art": 28,
-   "pages": [
-    31,
-    36
-   ],
-   "status": "todo",
-   "chapter_guess": 10
-  },
-  {
-   "id": "luke-29",
-   "book": "luke",
-   "art": 29,
-   "pages": [
-    35,
-    44
-   ],
-   "status": "todo",
-   "chapter_guess": 11
-  },
-  {
-   "id": "luke-30",
-   "book": "luke",
-   "art": 30,
-   "pages": [
-    43,
-    54
-   ],
-   "status": "todo",
-   "chapter_guess": 11
-  },
-  {
-   "id": "luke-31",
-   "book": "luke",
-   "art": 31,
-   "pages": [
-    53,
-    60
-   ],
-   "status": "todo",
-   "chapter_guess": 11
-  },
-  {
-   "id": "luke-32",
-   "book": "luke",
-   "art": 32,
-   "pages": [
-    59,
-    71
-   ],
-   "status": "todo",
-   "chapter_guess": 12
-  },
-  {
-   "id": "luke-33",
-   "book": "luke",
-   "art": 33,
-   "pages": [
-    70,
-    79
-   ],
-   "status": "todo",
-   "chapter_guess": 12
-  },
-  {
-   "id": "luke-34",
-   "book": "luke",
-   "art": 34,
-   "pages": [
-    78,
-    86
-   ],
-   "status": "todo",
-   "chapter_guess": 12
-  },
-  {
-   "id": "luke-35",
-   "book": "luke",
-   "art": 35,
-   "pages": [
-    85,
-    94
-   ],
-   "status": "todo",
-   "chapter_guess": 13
-  },
-  {
-   "id": "luke-36",
-   "book": "luke",
-   "art": 36,
-   "pages": [
-    93,
-    100
-   ],
-   "status": "todo",
-   "chapter_guess": 13
-  },
-  {
-   "id": "luke-37",
-   "book": "luke",
-   "art": 37,
-   "pages": [
-    99,
-    113
-   ],
-   "status": "todo",
-   "chapter_guess": 14
-  },
-  {
-   "id": "luke-38",
-   "book": "luke",
-   "art": 38,
-   "pages": [
-    112,
-    126
-   ],
-   "status": "todo",
-   "chapter_guess": 15
-  },
-  {
-   "id": "luke-39",
-   "book": "luke",
-   "art": 39,
-   "pages": [
-    125,
-    142
-   ],
-   "status": "todo",
-   "chapter_guess": 16
-  },
-  {
-   "id": "luke-40",
-   "book": "luke",
-   "art": 40,
-   "pages": [
-    141,
-    153
-   ],
-   "status": "todo",
-   "chapter_guess": 17
-  },
-  {
-   "id": "luke-41",
-   "book": "luke",
-   "art": 41,
-   "pages": [
-    152,
-    167
-   ],
-   "status": "todo",
-   "chapter_guess": 18
-  },
-  {
-   "id": "luke-42",
-   "book": "luke",
-   "art": 42,
-   "pages": [
-    166,
-    184
-   ],
-   "status": "todo",
-   "chapter_guess": 19
-  },
-  {
-   "id": "luke-43",
-   "book": "luke",
-   "art": 43,
-   "pages": [
-    183,
-    196
-   ],
-   "status": "todo",
-   "chapter_guess": 20
-  },
-  {
-   "id": "luke-44",
-   "book": "luke",
-   "art": 44,
-   "pages": [
-    195,
-    202
-   ],
-   "status": "todo",
-   "chapter_guess": 21
-  },
-  {
-   "id": "luke-45",
-   "book": "luke",
-   "art": 45,
-   "pages": [
-    201,
-    207
-   ],
-   "status": "todo",
-   "chapter_guess": 21
-  },
-  {
-   "id": "luke-46",
-   "book": "luke",
-   "art": 46,
-   "pages": [
-    206,
-    214
-   ],
-   "status": "todo",
-   "chapter_guess": 22
-  },
-  {
-   "id": "luke-47",
-   "book": "luke",
-   "art": 47,
-   "pages": [
-    213,
-    225
-   ],
-   "status": "todo",
-   "chapter_guess": 22
-  },
-  {
-   "id": "luke-48",
-   "book": "luke",
-   "art": 48,
-   "pages": [
-    224,
-    240
-   ],
-   "status": "todo",
-   "chapter_guess": 22
-  },
-  {
-   "id": "luke-49",
-   "book": "luke",
-   "art": 49,
-   "pages": [
-    239,
-    260
-   ],
-   "status": "todo",
-   "chapter_guess": 23
-  },
-  {
-   "id": "luke-50",
-   "book": "luke",
-   "art": 50,
-   "pages": [
-    259,
-    277
-   ],
-   "status": "todo",
-   "chapter_guess": 24
-  },
-  {
-   "id": "john-01",
-   "book": "john",
-   "art": 1,
-   "pages": [
-    275,
-    278
-   ],
-   "status": "todo",
-   "chapter_guess": 1
-  },
-  {
-   "id": "john-02",
-   "book": "john",
-   "art": 2,
-   "pages": [
-    277,
-    284
-   ],
-   "status": "todo",
-   "chapter_guess": 1
-  },
-  {
-   "id": "john-03",
-   "book": "john",
-   "art": 3,
-   "pages": [
-    283,
-    290
-   ],
-   "status": "todo",
-   "chapter_guess": 1
-  },
-  {
-   "id": "john-04",
-   "book": "john",
-   "art": 4,
-   "pages": [
-    289,
-    295
-   ],
-   "status": "todo",
-   "chapter_guess": 1
-  },
-  {
-   "id": "john-05",
-   "book": "john",
-   "art": 5,
-   "pages": [
-    294,
-    312
-   ],
-   "status": "todo",
-   "chapter_guess": 1
-  },
-  {
-   "id": "john-06",
-   "book": "john",
-   "art": 6,
-   "pages": [
-    311,
-    322
-   ],
-   "status": "todo",
-   "chapter_guess": 1
-  },
-  {
-   "id": "john-07",
-   "book": "john",
-   "art": 7,
-   "pages": [
-    321,
-    333
-   ],
-   "status": "todo",
-   "chapter_guess": 2
-  },
-  {
-   "id": "john-08",
-   "book": "john",
-   "art": 8,
-   "pages": [
-    332,
-    342
-   ],
-   "status": "todo",
-   "chapter_guess": 3
-  },
-  {
-   "id": "john-09",
-   "book": "john",
-   "art": 9,
-   "pages": [
-    341,
-    348
-   ],
-   "status": "todo",
-   "chapter_guess": 3
-  },
-  {
-   "id": "john-10",
-   "book": "john",
-   "art": 10,
-   "pages": [
-    347,
-    355
-   ],
-   "status": "todo",
-   "chapter_guess": 3
-  },
-  {
-   "id": "john-11",
-   "book": "john",
-   "art": 11,
-   "pages": [
-    354,
-    367
-   ],
-   "status": "todo",
-   "chapter_guess": 4
-  },
-  {
-   "id": "john-12",
-   "book": "john",
-   "art": 12,
-   "pages": [
-    366,
-    371
-   ],
-   "status": "todo",
-   "chapter_guess": 4
-  },
-  {
-   "id": "john-13",
-   "book": "john",
-   "art": 13,
-   "pages": [
-    370,
-    378
-   ],
-   "status": "todo",
-   "chapter_guess": 5
-  },
-  {
-   "id": "john-14",
-   "book": "john",
-   "art": 14,
-   "pages": [
-    377,
-    384
-   ],
-   "status": "todo",
-   "chapter_guess": 5
-  },
-  {
-   "id": "john-15",
-   "book": "john",
-   "art": 15,
-   "pages": [
-    383,
-    392
-   ],
-   "status": "todo",
-   "chapter_guess": 5
-  },
-  {
-   "id": "john-16",
-   "book": "john",
-   "art": 16,
-   "pages": [
-    391,
-    398
-   ],
-   "status": "todo",
-   "chapter_guess": 6
-  },
-  {
-   "id": "john-17",
-   "book": "john",
-   "art": 17,
-   "pages": [
-    397,
-    409
-   ],
-   "status": "todo",
-   "chapter_guess": 6
-  },
-  {
-   "id": "john-18",
-   "book": "john",
-   "art": 18,
-   "pages": [
-    408,
-    417
-   ],
-   "status": "todo",
-   "chapter_guess": 6
-  },
-  {
-   "id": "john-19",
-   "book": "john",
-   "art": 19,
-   "pages": [
-    416,
-    428
-   ],
-   "status": "todo",
-   "chapter_guess": 7
-  },
-  {
-   "id": "john-20",
-   "book": "john",
-   "art": 20,
-   "pages": [
-    427,
-    433
-   ],
-   "status": "todo",
-   "chapter_guess": 7
-  },
-  {
-   "id": "john-21",
-   "book": "john",
-   "art": 21,
-   "pages": [
-    432,
-    440
-   ],
-   "status": "todo",
-   "chapter_guess": 8
-  },
-  {
-   "id": "john-22",
-   "book": "john",
-   "art": 22,
-   "pages": [
-    439,
-    450
-   ],
-   "status": "todo",
-   "chapter_guess": 8
-  },
-  {
-   "id": "john-23",
-   "book": "john",
-   "art": 23,
-   "pages": [
-    449,
-    456
-   ],
-   "status": "todo",
-   "chapter_guess": 8
-  },
-  {
-   "id": "john-24",
-   "book": "john",
-   "art": 24,
-   "pages": [
-    455,
-    468
-   ],
-   "status": "todo",
-   "chapter_guess": 9
-  },
-  {
-   "id": "john-25",
-   "book": "john",
-   "art": 25,
-   "pages": [
-    467,
-    473
-   ],
-   "status": "todo",
-   "chapter_guess": 10
-  },
-  {
-   "id": "john-26",
-   "book": "john",
-   "art": 26,
-   "pages": [
-    472,
-    479
-   ],
-   "status": "todo",
-   "chapter_guess": 10
-  },
-  {
-   "id": "john-27",
-   "book": "john",
-   "art": 27,
-   "pages": [
-    478,
-    486
-   ],
-   "status": "todo",
-   "chapter_guess": 10
-  },
-  {
-   "id": "john-28",
-   "book": "john",
-   "art": 28,
-   "pages": [
-    485,
-    499
-   ],
-   "status": "todo",
-   "chapter_guess": 11
-  },
-  {
-   "id": "john-29",
-   "book": "john",
-   "art": 29,
-   "pages": [
-    498,
-    503
-   ],
-   "status": "todo",
-   "chapter_guess": 11
-  },
-  {
-   "id": "john-30",
-   "book": "john",
-   "art": 30,
-   "pages": [
-    502,
-    511
-   ],
-   "status": "todo",
-   "chapter_guess": 12
-  },
-  {
-   "id": "john-31",
-   "book": "john",
-   "art": 31,
-   "pages": [
-    510,
-    519
-   ],
-   "status": "todo",
-   "chapter_guess": 12
-  },
-  {
-   "id": "john-32",
-   "book": "john",
-   "art": 32,
-   "pages": [
-    518,
-    523
-   ],
-   "status": "todo",
-   "chapter_guess": 12
-  },
-  {
-   "id": "john-33",
-   "book": "john",
-   "art": 33,
-   "pages": [
-    522,
-    530
-   ],
-   "status": "todo",
-   "chapter_guess": 13
-  },
-  {
-   "id": "john-34",
-   "book": "john",
-   "art": 34,
-   "pages": [
-    529,
-    536
-   ],
-   "status": "todo",
-   "chapter_guess": 13
-  },
-  {
-   "id": "john-35",
-   "book": "john",
-   "art": 35,
-   "pages": [
-    535,
-    544
-   ],
-   "status": "todo",
-   "chapter_guess": 14
-  },
-  {
-   "id": "john-36",
-   "book": "john",
-   "art": 36,
-   "pages": [
-    543,
-    552
-   ],
-   "status": "todo",
-   "chapter_guess": 14
-  },
-  {
-   "id": "john-37",
-   "book": "john",
-   "art": 37,
-   "pages": [
-    551,
-    561
-   ],
-   "status": "todo",
-   "chapter_guess": 15
-  },
-  {
-   "id": "john-38",
-   "book": "john",
-   "art": 38,
-   "pages": [
-    560,
-    565
-   ],
-   "status": "todo",
-   "chapter_guess": 15
-  },
-  {
-   "id": "john-39",
-   "book": "john",
-   "art": 39,
-   "pages": [
-    564,
-    571
-   ],
-   "status": "todo",
-   "chapter_guess": 16
-  },
-  {
-   "id": "john-40",
-   "book": "john",
-   "art": 40,
-   "pages": [
-    570,
-    576
-   ],
-   "status": "todo",
-   "chapter_guess": 16
-  },
-  {
-   "id": "john-41",
-   "book": "john",
-   "art": 41,
-   "pages": [
-    575,
-    582
-   ],
-   "status": "todo",
-   "chapter_guess": 17
-  },
-  {
-   "id": "john-42",
-   "book": "john",
-   "art": 42,
-   "pages": [
-    581,
-    587
-   ],
-   "status": "todo",
-   "chapter_guess": 17
-  },
-  {
-   "id": "john-43",
-   "book": "john",
-   "art": 43,
-   "pages": [
-    586,
-    594
-   ],
-   "status": "todo",
-   "chapter_guess": 18
-  },
-  {
-   "id": "john-44",
-   "book": "john",
-   "art": 44,
-   "pages": [
-    593,
-    598
-   ],
-   "status": "todo",
-   "chapter_guess": 18
-  },
-  {
-   "id": "john-45",
-   "book": "john",
-   "art": 45,
-   "pages": [
-    597,
-    604
-   ],
-   "status": "todo",
-   "chapter_guess": 19
-  },
-  {
-   "id": "john-46",
-   "book": "john",
-   "art": 46,
-   "pages": [
-    603,
-    609
-   ],
-   "status": "todo",
-   "chapter_guess": 19
-  },
-  {
-   "id": "john-47",
-   "book": "john",
-   "art": 47,
-   "pages": [
-    608,
-    616
-   ],
-   "status": "todo",
-   "chapter_guess": 20
-  },
-  {
-   "id": "john-48",
-   "book": "john",
-   "art": 48,
-   "pages": [
-    615,
-    622
-   ],
-   "status": "todo",
-   "chapter_guess": 20
-  },
-  {
-   "id": "john-49",
-   "book": "john",
-   "art": 49,
-   "pages": [
-    621,
-    626
-   ],
-   "status": "todo",
-   "chapter_guess": 21
-  },
-  {
-   "id": "john-50",
-   "book": "john",
-   "art": 50,
-   "pages": [
-    625,
-    630
-   ],
-   "status": "todo",
-   "chapter_guess": 21
-  }
- ]
+  "volume": "t. XII (Montreuil, 1901): Luke 10-24, John 1-21",
+  "pdf": "Google Play scan supplied by Dave (PDF page = printed page + 10). Commentary PDF 11-630; indexes after.",
+  "how": "Do items in order. pages = PDF pages to read (inclusive); the article may start partway down the first page and the next article may start on the last page. Confirm the chapter from the article's own title (ENARRATIO CAPITULI ...). John Art. I (PDF 277) is on the dignity of St John and his Gospel; PDF 275-276 is a PROOEMIUM: translate it as part of Art. I's note or as its opening, by the sense.",
+  "items": [
+    {
+      "id": "luke-26",
+      "book": "luke",
+      "art": 26,
+      "pages": [
+        11,
+        19
+      ],
+      "status": "needs-scan",
+      "chapter_guess": 10,
+      "note": "Published with gaps: the bottom lines of both columns of PDF 16 (p. 6; end of v. 14, start of v. 15 on Capharnaum, and the passage on God's judgments) are garbled in the OCR; missing words marked […]. Please rescan PDF 16 and fill the gaps. Margin numerals guessed: Is 5:1 (vineyard), Gen 7:9 (two and two into the ark), Acts 28:5 (viper)."
+    },
+    {
+      "id": "luke-27",
+      "book": "luke",
+      "art": 27,
+      "pages": [
+        18,
+        32
+      ],
+      "status": "in-progress",
+      "chapter_guess": 10,
+      "claimed": "2026-11-13T12:39:11Z"
+    },
+    {
+      "id": "luke-28",
+      "book": "luke",
+      "art": 28,
+      "pages": [
+        31,
+        36
+      ],
+      "status": "in-progress",
+      "chapter_guess": 10,
+      "claimed": "2026-11-13T12:42:09Z"
+    },
+    {
+      "id": "luke-29",
+      "book": "luke",
+      "art": 29,
+      "pages": [
+        35,
+        44
+      ],
+      "status": "todo",
+      "chapter_guess": 11
+    },
+    {
+      "id": "luke-30",
+      "book": "luke",
+      "art": 30,
+      "pages": [
+        43,
+        54
+      ],
+      "status": "todo",
+      "chapter_guess": 11
+    },
+    {
+      "id": "luke-31",
+      "book": "luke",
+      "art": 31,
+      "pages": [
+        53,
+        60
+      ],
+      "status": "todo",
+      "chapter_guess": 11
+    },
+    {
+      "id": "luke-32",
+      "book": "luke",
+      "art": 32,
+      "pages": [
+        59,
+        71
+      ],
+      "status": "todo",
+      "chapter_guess": 12
+    },
+    {
+      "id": "luke-33",
+      "book": "luke",
+      "art": 33,
+      "pages": [
+        70,
+        79
+      ],
+      "status": "todo",
+      "chapter_guess": 12
+    },
+    {
+      "id": "luke-34",
+      "book": "luke",
+      "art": 34,
+      "pages": [
+        78,
+        86
+      ],
+      "status": "todo",
+      "chapter_guess": 12
+    },
+    {
+      "id": "luke-35",
+      "book": "luke",
+      "art": 35,
+      "pages": [
+        85,
+        94
+      ],
+      "status": "todo",
+      "chapter_guess": 13
+    },
+    {
+      "id": "luke-36",
+      "book": "luke",
+      "art": 36,
+      "pages": [
+        93,
+        100
+      ],
+      "status": "todo",
+      "chapter_guess": 13
+    },
+    {
+      "id": "luke-37",
+      "book": "luke",
+      "art": 37,
+      "pages": [
+        99,
+        113
+      ],
+      "status": "todo",
+      "chapter_guess": 14
+    },
+    {
+      "id": "luke-38",
+      "book": "luke",
+      "art": 38,
+      "pages": [
+        112,
+        126
+      ],
+      "status": "todo",
+      "chapter_guess": 15
+    },
+    {
+      "id": "luke-39",
+      "book": "luke",
+      "art": 39,
+      "pages": [
+        125,
+        142
+      ],
+      "status": "todo",
+      "chapter_guess": 16
+    },
+    {
+      "id": "luke-40",
+      "book": "luke",
+      "art": 40,
+      "pages": [
+        141,
+        153
+      ],
+      "status": "todo",
+      "chapter_guess": 17
+    },
+    {
+      "id": "luke-41",
+      "book": "luke",
+      "art": 41,
+      "pages": [
+        152,
+        167
+      ],
+      "status": "todo",
+      "chapter_guess": 18
+    },
+    {
+      "id": "luke-42",
+      "book": "luke",
+      "art": 42,
+      "pages": [
+        166,
+        184
+      ],
+      "status": "todo",
+      "chapter_guess": 19
+    },
+    {
+      "id": "luke-43",
+      "book": "luke",
+      "art": 43,
+      "pages": [
+        183,
+        196
+      ],
+      "status": "todo",
+      "chapter_guess": 20
+    },
+    {
+      "id": "luke-44",
+      "book": "luke",
+      "art": 44,
+      "pages": [
+        195,
+        202
+      ],
+      "status": "todo",
+      "chapter_guess": 21
+    },
+    {
+      "id": "luke-45",
+      "book": "luke",
+      "art": 45,
+      "pages": [
+        201,
+        207
+      ],
+      "status": "todo",
+      "chapter_guess": 21
+    },
+    {
+      "id": "luke-46",
+      "book": "luke",
+      "art": 46,
+      "pages": [
+        206,
+        214
+      ],
+      "status": "todo",
+      "chapter_guess": 22
+    },
+    {
+      "id": "luke-47",
+      "book": "luke",
+      "art": 47,
+      "pages": [
+        213,
+        225
+      ],
+      "status": "todo",
+      "chapter_guess": 22
+    },
+    {
+      "id": "luke-48",
+      "book": "luke",
+      "art": 48,
+      "pages": [
+        224,
+        240
+      ],
+      "status": "todo",
+      "chapter_guess": 22
+    },
+    {
+      "id": "luke-49",
+      "book": "luke",
+      "art": 49,
+      "pages": [
+        239,
+        260
+      ],
+      "status": "todo",
+      "chapter_guess": 23
+    },
+    {
+      "id": "luke-50",
+      "book": "luke",
+      "art": 50,
+      "pages": [
+        259,
+        277
+      ],
+      "status": "todo",
+      "chapter_guess": 24
+    },
+    {
+      "id": "john-01",
+      "book": "john",
+      "art": 1,
+      "pages": [
+        275,
+        278
+      ],
+      "status": "todo",
+      "chapter_guess": 1
+    },
+    {
+      "id": "john-02",
+      "book": "john",
+      "art": 2,
+      "pages": [
+        277,
+        284
+      ],
+      "status": "todo",
+      "chapter_guess": 1
+    },
+    {
+      "id": "john-03",
+      "book": "john",
+      "art": 3,
+      "pages": [
+        283,
+        290
+      ],
+      "status": "todo",
+      "chapter_guess": 1
+    },
+    {
+      "id": "john-04",
+      "book": "john",
+      "art": 4,
+      "pages": [
+        289,
+        295
+      ],
+      "status": "todo",
+      "chapter_guess": 1
+    },
+    {
+      "id": "john-05",
+      "book": "john",
+      "art": 5,
+      "pages": [
+        294,
+        312
+      ],
+      "status": "todo",
+      "chapter_guess": 1
+    },
+    {
+      "id": "john-06",
+      "book": "john",
+      "art": 6,
+      "pages": [
+        311,
+        322
+      ],
+      "status": "todo",
+      "chapter_guess": 1
+    },
+    {
+      "id": "john-07",
+      "book": "john",
+      "art": 7,
+      "pages": [
+        321,
+        333
+      ],
+      "status": "todo",
+      "chapter_guess": 2
+    },
+    {
+      "id": "john-08",
+      "book": "john",
+      "art": 8,
+      "pages": [
+        332,
+        342
+      ],
+      "status": "todo",
+      "chapter_guess": 3
+    },
+    {
+      "id": "john-09",
+      "book": "john",
+      "art": 9,
+      "pages": [
+        341,
+        348
+      ],
+      "status": "todo",
+      "chapter_guess": 3
+    },
+    {
+      "id": "john-10",
+      "book": "john",
+      "art": 10,
+      "pages": [
+        347,
+        355
+      ],
+      "status": "todo",
+      "chapter_guess": 3
+    },
+    {
+      "id": "john-11",
+      "book": "john",
+      "art": 11,
+      "pages": [
+        354,
+        367
+      ],
+      "status": "todo",
+      "chapter_guess": 4
+    },
+    {
+      "id": "john-12",
+      "book": "john",
+      "art": 12,
+      "pages": [
+        366,
+        371
+      ],
+      "status": "todo",
+      "chapter_guess": 4
+    },
+    {
+      "id": "john-13",
+      "book": "john",
+      "art": 13,
+      "pages": [
+        370,
+        378
+      ],
+      "status": "todo",
+      "chapter_guess": 5
+    },
+    {
+      "id": "john-14",
+      "book": "john",
+      "art": 14,
+      "pages": [
+        377,
+        384
+      ],
+      "status": "todo",
+      "chapter_guess": 5
+    },
+    {
+      "id": "john-15",
+      "book": "john",
+      "art": 15,
+      "pages": [
+        383,
+        392
+      ],
+      "status": "todo",
+      "chapter_guess": 5
+    },
+    {
+      "id": "john-16",
+      "book": "john",
+      "art": 16,
+      "pages": [
+        391,
+        398
+      ],
+      "status": "todo",
+      "chapter_guess": 6
+    },
+    {
+      "id": "john-17",
+      "book": "john",
+      "art": 17,
+      "pages": [
+        397,
+        409
+      ],
+      "status": "todo",
+      "chapter_guess": 6
+    },
+    {
+      "id": "john-18",
+      "book": "john",
+      "art": 18,
+      "pages": [
+        408,
+        417
+      ],
+      "status": "todo",
+      "chapter_guess": 6
+    },
+    {
+      "id": "john-19",
+      "book": "john",
+      "art": 19,
+      "pages": [
+        416,
+        428
+      ],
+      "status": "todo",
+      "chapter_guess": 7
+    },
+    {
+      "id": "john-20",
+      "book": "john",
+      "art": 20,
+      "pages": [
+        427,
+        433
+      ],
+      "status": "todo",
+      "chapter_guess": 7
+    },
+    {
+      "id": "john-21",
+      "book": "john",
+      "art": 21,
+      "pages": [
+        432,
+        440
+      ],
+      "status": "todo",
+      "chapter_guess": 8
+    },
+    {
+      "id": "john-22",
+      "book": "john",
+      "art": 22,
+      "pages": [
+        439,
+        450
+      ],
+      "status": "todo",
+      "chapter_guess": 8
+    },
+    {
+      "id": "john-23",
+      "book": "john",
+      "art": 23,
+      "pages": [
+        449,
+        456
+      ],
+      "status": "todo",
+      "chapter_guess": 8
+    },
+    {
+      "id": "john-24",
+      "book": "john",
+      "art": 24,
+      "pages": [
+        455,
+        468
+      ],
+      "status": "todo",
+      "chapter_guess": 9
+    },
+    {
+      "id": "john-25",
+      "book": "john",
+      "art": 25,
+      "pages": [
+        467,
+        473
+      ],
+      "status": "todo",
+      "chapter_guess": 10
+    },
+    {
+      "id": "john-26",
+      "book": "john",
+      "art": 26,
+      "pages": [
+        472,
+        479
+      ],
+      "status": "todo",
+      "chapter_guess": 10
+    },
+    {
+      "id": "john-27",
+      "book": "john",
+      "art": 27,
+      "pages": [
+        478,
+        486
+      ],
+      "status": "todo",
+      "chapter_guess": 10
+    },
+    {
+      "id": "john-28",
+      "book": "john",
+      "art": 28,
+      "pages": [
+        485,
+        499
+      ],
+      "status": "todo",
+      "chapter_guess": 11
+    },
+    {
+      "id": "john-29",
+      "book": "john",
+      "art": 29,
+      "pages": [
+        498,
+        503
+      ],
+      "status": "todo",
+      "chapter_guess": 11
+    },
+    {
+      "id": "john-30",
+      "book": "john",
+      "art": 30,
+      "pages": [
+        502,
+        511
+      ],
+      "status": "todo",
+      "chapter_guess": 12
+    },
+    {
+      "id": "john-31",
+      "book": "john",
+      "art": 31,
+      "pages": [
+        510,
+        519
+      ],
+      "status": "todo",
+      "chapter_guess": 12
+    },
+    {
+      "id": "john-32",
+      "book": "john",
+      "art": 32,
+      "pages": [
+        518,
+        523
+      ],
+      "status": "todo",
+      "chapter_guess": 12
+    },
+    {
+      "id": "john-33",
+      "book": "john",
+      "art": 33,
+      "pages": [
+        522,
+        530
+      ],
+      "status": "todo",
+      "chapter_guess": 13
+    },
+    {
+      "id": "john-34",
+      "book": "john",
+      "art": 34,
+      "pages": [
+        529,
+        536
+      ],
+      "status": "todo",
+      "chapter_guess": 13
+    },
+    {
+      "id": "john-35",
+      "book": "john",
+      "art": 35,
+      "pages": [
+        535,
+        544
+      ],
+      "status": "todo",
+      "chapter_guess": 14
+    },
+    {
+      "id": "john-36",
+      "book": "john",
+      "art": 36,
+      "pages": [
+        543,
+        552
+      ],
+      "status": "todo",
+      "chapter_guess": 14
+    },
+    {
+      "id": "john-37",
+      "book": "john",
+      "art": 37,
+      "pages": [
+        551,
+        561
+      ],
+      "status": "todo",
+      "chapter_guess": 15
+    },
+    {
+      "id": "john-38",
+      "book": "john",
+      "art": 38,
+      "pages": [
+        560,
+        565
+      ],
+      "status": "todo",
+      "chapter_guess": 15
+    },
+    {
+      "id": "john-39",
+      "book": "john",
+      "art": 39,
+      "pages": [
+        564,
+        571
+      ],
+      "status": "todo",
+      "chapter_guess": 16
+    },
+    {
+      "id": "john-40",
+      "book": "john",
+      "art": 40,
+      "pages": [
+        570,
+        576
+      ],
+      "status": "todo",
+      "chapter_guess": 16
+    },
+    {
+      "id": "john-41",
+      "book": "john",
+      "art": 41,
+      "pages": [
+        575,
+        582
+      ],
+      "status": "todo",
+      "chapter_guess": 17
+    },
+    {
+      "id": "john-42",
+      "book": "john",
+      "art": 42,
+      "pages": [
+        581,
+        587
+      ],
+      "status": "todo",
+      "chapter_guess": 17
+    },
+    {
+      "id": "john-43",
+      "book": "john",
+      "art": 43,
+      "pages": [
+        586,
+        594
+      ],
+      "status": "todo",
+      "chapter_guess": 18
+    },
+    {
+      "id": "john-44",
+      "book": "john",
+      "art": 44,
+      "pages": [
+        593,
+        598
+      ],
+      "status": "todo",
+      "chapter_guess": 18
+    },
+    {
+      "id": "john-45",
+      "book": "john",
+      "art": 45,
+      "pages": [
+        597,
+        604
+      ],
+      "status": "todo",
+      "chapter_guess": 19
+    },
+    {
+      "id": "john-46",
+      "book": "john",
+      "art": 46,
+      "pages": [
+        603,
+        609
+      ],
+      "status": "todo",
+      "chapter_guess": 19
+    },
+    {
+      "id": "john-47",
+      "book": "john",
+      "art": 47,
+      "pages": [
+        608,
+        616
+      ],
+      "status": "todo",
+      "chapter_guess": 20
+    },
+    {
+      "id": "john-48",
+      "book": "john",
+      "art": 48,
+      "pages": [
+        615,
+        622
+      ],
+      "status": "todo",
+      "chapter_guess": 20
+    },
+    {
+      "id": "john-49",
+      "book": "john",
+      "art": 49,
+      "pages": [
+        621,
+        626
+      ],
+      "status": "todo",
+      "chapter_guess": 21
+    },
+    {
+      "id": "john-50",
+      "book": "john",
+      "art": 50,
+      "pages": [
+        625,
+        630
+      ],
+      "status": "todo",
+      "chapter_guess": 21
+    }
+  ]
 }
