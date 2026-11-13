@@ -851,8 +851,9 @@
     441,
     460
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T02:35:04Z"
+   "status": "done",
+   "claimed": "2026-11-13T02:35:04Z",
+   "note": "Published (PDF 442-459, pp. 422-439; Luke 2:22-52). Margin numerals taken from the sense in many places, e.g. 'Gen. xx, 13' = Gen 49:18, 'Lev. xii, 6-8' (read as Lev 15:14), 'Num. vi, 23-26' (read as Num 8:5), 'I Tim. ii, 5' (read as Ps 1:5), 'Malach. iii, 1' (read as 1 Mach), 'Luc. xvii, 1' = Luke 18:1, 'Deut. iv, 99' = Deut 4:29, 'Prov. xvii, 13' = Prov 18:13. Unreadable: 'E ccli. x8' given as Ecclus 11:8; 'Ps. ..., 8' reference-only Ps 50:8; 'Is. v, 24' given as Is 5:21 (note). Denis reads 'redemptionem Jerusalem' at 2:38 (note). Doubtful Latin 'in gentem' in the Augustine answer at 2:43-49 (note). 1 Thess 4:11 'Honeste ambuletis' is 4:12 in the Vulgate file. St Thomas III, q. 9 (article number unreadable)."
   },
   {
    "id": "luke-08",
