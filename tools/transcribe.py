@@ -76,9 +76,10 @@ def cmd_test(vol, p, model):
 
 def cmd_submit(vol, a, b, model):
     st = state(); c = batch.client()
-    pages = [p for p in range(a, b + 1) if not os.path.exists(out_path(vol, p))]
-    for i in range(0, len(pages), 400):                # ~200 kB of images a page: stay well under 256 MB a batch
-        chunk = pages[i:i + 400]
+    sent = {p for bt in st["batches"] if bt["vol"] == vol for p in range(bt["pages"][0], bt["pages"][1] + 1)}
+    pages = [p for p in range(a, b + 1) if not os.path.exists(out_path(vol, p)) and p not in sent]
+    for i in range(0, len(pages), 300):                # ~0.5 MB of images a page: stay well under 256 MB a batch
+        chunk = pages[i:i + 300]
         reqs = [{"custom_id": f"{vol}-p{p}", "params": request(vol, p, model)} for p in chunk]
         bt = c.messages.batches.create(requests=reqs)
         st["batches"].append({"id": bt.id, "vol": vol, "pages": [chunk[0], chunk[-1]], "model": model, "open": True})
