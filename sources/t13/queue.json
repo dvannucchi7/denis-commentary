@@ -885,9 +885,9 @@
     383,
     387
    ],
-   "status": "batch",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-13T18:01:41Z"
+   "note": "translated by batch (1 attempt(s), $0.22) | unreadable: p. 363, right column: a faint marginal note beside the quotations from the Saviour (John 12) could not be read"
   },
   {
    "id": "colossians-003-7",
