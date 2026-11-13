@@ -26,6 +26,7 @@ BATCH_DIR = os.environ.get("BATCH_DIR", "/home/claude/batch")
 MODEL = "claude-opus-5-5"
 MAX_TOKENS = 128000
 MAX_ATTEMPTS = 3
+EFFORT = os.environ.get("BATCH_EFFORT", "low")        # how much the model thinks: low / medium (default) / high
 PRICE = {"in": 2.0, "out": 10.0, "cache_read": 0.10, "cache_write": 2.5}   # batch, $ per million tokens (Opus 5.5)
 PRICE_LIVE = {"in": 4.0, "out": 20.0, "cache_read": 0.20, "cache_write": 5.0}
 VOLS = {   # per volume: scan PDF here, printed page = PDF page - offset, tome number
@@ -152,7 +153,8 @@ def system_prompt():
     return t.replace("ABBREVIATIONS", ", ".join(f"{k} ({v})" for k, v in ABBR.items()))
 
 def params(vol, it, messages=None):
-    return {"model": MODEL, "max_tokens": MAX_TOKENS,
+    extra = {"output_config": {"effort": EFFORT}} if EFFORT != "medium" else {}
+    return {"model": MODEL, "max_tokens": MAX_TOKENS, **extra,
             "system": [{"type": "text", "text": system_prompt(), "cache_control": {"type": "ephemeral"}}],
             "messages": messages or [{"role": "user", "content": user_content(vol, it)}]}
 
@@ -228,27 +230,32 @@ def publish_try(vol, it, ans):
             if os.path.exists(data_path) and not git("ls-files", data_path).strip(): os.remove(data_path)
     return hard, soft
 
-def _w(s):
-    s = re.sub(r"⟦[^⟧]*⟧|_|^###.*$|^HEAD:.*$", " ", s, flags=re.M).lower()
+def _letters(s):
+    """Letters only (no spaces, hyphens, line breaks, margin notes, italics marks), æ/œ, j/v normalized."""
+    s = re.sub(r"⟦[^⟧]*⟧|^###.*$|^HEAD:.*$|^===.*$", " ", s, flags=re.M).lower()
     s = s.replace("æ", "ae").replace("œ", "oe").replace("j", "i").replace("v", "u")
-    return re.findall(r"[a-z]+", s)
+    return re.sub(r"[^a-z]", "", s)
 
-def coverage(vol, it, ans, n=8):
-    """Every run of n words in the transcription must appear in the translator's Latin (dropped or altered
-    passages are what this catches). Returns problems, or []."""
-    src = _w(open(os.path.join(ROOT, "sources", vol, "articles", it["id"] + ".txt")).read())
-    mine = _w(" ".join(p.get("t", "") for p in ans["paras"]))
-    have = {tuple(mine[i:i + n]) for i in range(len(mine) - n + 1)}
-    miss = [i for i in range(len(src) - n + 1) if tuple(src[i:i + n]) not in have]
-    if len(miss) <= max(3, 0.03 * len(src)): return []
-    spans, start = [], None
-    for k, i in enumerate(miss):
-        if start is None: start = i
-        if k + 1 == len(miss) or miss[k + 1] != i + 1:
-            spans.append(" ".join(src[start:i + n])); start = None
+def coverage(vol, it, ans, n=30):
+    """Every stretch of the transcription must be in the translator's Latin (it catches dropped or altered
+    passages; hyphenation, line breaks and spacing do not matter). Returns problems, or []."""
+    raw = open(os.path.join(ROOT, "sources", vol, "articles", it["id"] + ".txt")).read()
+    src, mine = _letters(raw), _letters(" ".join(p.get("t", "") for p in ans["paras"]))
+    have = {mine[i:i + n] for i in range(len(mine) - n + 1)}
+    probe = list(range(0, max(0, len(src) - n + 1), 10))
+    miss = [i for i in probe if src[i:i + n] not in have]
+    if len(miss) <= max(2, 0.03 * len(probe)): return []
+    # show the missing stretches as words, from the transcription
+    words = re.findall(r"\S+", re.sub(r"⟦[^⟧]*⟧", " ", raw)); spans = []
+    pos, acc = [], 0
+    for w in words: pos.append(acc); acc += len(_letters(w))
+    for i in miss:
+        k = max(0, min(range(len(pos)), key=lambda j: abs(pos[j] - i)))
+        sp = " ".join(words[max(0, k - 2):k + 10])
+        if not spans or sp[:20] not in spans[-1]: spans.append(sp)
     return ["your Latin does not contain these passages of the transcription (dropped, or changed beyond "
             "OCR-level corrections); restore them from the images unless the transcription is wrong there:\n"
-            + "\n".join(f"- {sp[:300]}" for sp in spans[:12])]
+            + "\n".join(f"- …{sp[:200]}…" for sp in spans[:12])]
 
 def soft_count(report):
     m = re.search(r"summary: (.*)", report)
@@ -348,7 +355,11 @@ def cmd_submit(vol, n=None):
     busy = {i for b in st["batches"] if b["open"] for i in b["items"]}
     todo = [it for it in q["items"] if it["status"] == "todo" and it["id"] not in busy]
     for it in todo[: n or len(todo)]:
-        reqs.append({"custom_id": it["id"], "params": params(vol, it)})
+        rec = st["items"].get(it["id"], {})
+        if rec.get("status") == "repair" and rec.get("answer"):      # already answered once: send the repair
+            reqs.append({"custom_id": it["id"], "params": params(vol, it, repair_messages(vol, it, rec))})
+        else:
+            reqs.append({"custom_id": it["id"], "params": params(vol, it)})
         it["status"] = "batch"; it["claimed"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
         print("prepared", it["id"], flush=True)
     if not reqs: return print("nothing to send")
