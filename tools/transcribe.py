@@ -57,7 +57,7 @@ def request(vol, p, model):
         content += [{"type": "text", "text": f"{side} column:"},
                     {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": data}}]
     content.append({"type": "text", "text": PROMPT})
-    return {"model": model, "max_tokens": 12000, "messages": [{"role": "user", "content": content}]}
+    return {"model": model, "max_tokens": 24000, "messages": [{"role": "user", "content": content}]}
 
 PRICE = {"claude-haiku-5-5": (0.05, 0.25), "claude-sonnet-5-5": (1.0, 5.0)}   # batch $/M in, out (Haiku: lowest tier)
 def cost(model, u, live=False):
@@ -117,12 +117,12 @@ def bad_pages(vol):
     for f in os.listdir(d):
         t = open(os.path.join(d, f)).read()
         if len(t.strip()) < 40 or (BAD.search(t[:400]) and "===" not in t): out.append(int(f[1:-4]))
-    return sorted(out)
+    return sorted(p for p in out if batch.page_images(batch.VOLS[vol]["pdf"], p))     # blank pages have no columns
 
 def cmd_redo(vol, model):
     """Send the failed pages of a volume again (once each)."""
     st = state(); done = set(st.setdefault("redone", {}).get(vol, []))
-    pages = [p for p in bad_pages(vol) if p not in done]
+    pages = [p for p in bad_pages(vol) if p not in done or "--again" in sys.argv]
     if not pages:
         st["redone"][vol] = sorted(done); save(st); print(vol, "nothing to redo"); return
     for p in pages: os.remove(out_path(vol, p))
@@ -156,7 +156,7 @@ def ordinal(words):
 
 HEADING = re.compile(r"^[#*\s]*ARTICU(?:LUS|[\[…])?\S*\s*([IVXLC]+|PRIMUS)?\b")      # capitals only
 EXPO = re.compile(r"^[#*\s]*(?:EXPOSITIO|EXPLANATIO|ELUCIDATIO|ENARRATIO|DECLARATIO)\s+(?:[A-ZÆ]+\s+){0,3}?(?:([A-ZÆ]+)\s+)?(CAPITULI|PSALMI)\b\s*([A-ZÆ ]*)")
-FRONT = re.compile(r"^#+\s*(PRO(?:OE|Œ)MIUM|PRÆFATIO|PRAEFATIO|PROLOGUS|EPISTOLA NUNCUPATORIA|ENARRATIO(?!.*\bCAP)|IN EPISTOLAM|COMMENTARI\w*\s+IN\b(?!.*\bCAP))", re.I)
+FRONT = re.compile(r"^#+\s*(PRO(?:OE|Œ)MIUM|PRÆFATIO|PRAEFATIO|PROLOGUS|EPISTOLA NUNCUPATORIA|ENARRATIO(?!.*\bCAP)|IN EPISTO|COMMENTARI\w*\s+IN\b(?!.*\bCAP))", re.I)
 END = re.compile(r"INDEX|LOCA S\. ?SCRIPTUR|TABULA|ELENCHUS|CATALOGUS", re.I)
 
 PART_MAX = 12      # pages; about 70k output tokens of Latin and English
@@ -177,9 +177,17 @@ def cmd_cut(vol, write=True):
         if END.search(h) and arts: break
         r = map_volume.parse(h.upper().replace("Æ", "AE").replace("Œ", "OE")) if h else None
         if cur is not None and r: cur["heads"].append(r)
-        for line in t.splitlines():
+        body = t.splitlines()
+        if re.search(r"ARTICULUS\s+(PRIMUS|[IVXLC]+)\b", h) and not re.search(r"^[#*\s]*ARTICU", t, re.M):      # the article's heading put into the HEAD line
+            body = ["### " + x.strip() for x in re.split(r"\s+[—–-]\s+", h)
+                    if re.match(r"(ARTICULUS|EXPOSITIO|EXPLANATIO|ELUCIDATIO|DECLARATIO)\b", x.strip())] + body
+        for line in body:
             if re.match(r"^\W*HEAD\b", line) or line.startswith("==="): continue
             s = line.strip()
+            if cur is None and after_front and re.match(r"^⟦(v\.\s*)?1⟧", s):
+                # a book's text begins with no heading in the transcription (or none in print: Philemon)
+                cur = {"art": 1, "first": p, "last": p, "lines": [], "heads": [r] if r else [], "chap": 1, "fresh": True}
+                arts.append(cur); after_front = False
             m = HEADING.match(s)
             if m and len(s) < 60:
                 g = (m.group(1) or "").upper()
