@@ -1,0 +1,1089 @@
+{
+ "volume": "t7",
+ "items": [
+  {
+   "id": "proverbs-001",
+   "book": "proverbs",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    27,
+    40
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-002",
+   "book": "proverbs",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    40,
+    45
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-003",
+   "book": "proverbs",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    45,
+    56
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-004",
+   "book": "proverbs",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    56,
+    62
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-005",
+   "book": "proverbs",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    62,
+    65
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-006",
+   "book": "proverbs",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    65,
+    72
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-007",
+   "book": "proverbs",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    72,
+    75
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-008",
+   "book": "proverbs",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    75,
+    82
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-009",
+   "book": "proverbs",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    82,
+    86
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-010",
+   "book": "proverbs",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    86,
+    93
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-011",
+   "book": "proverbs",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    93,
+    100
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-012",
+   "book": "proverbs",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    100,
+    106
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-013",
+   "book": "proverbs",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    106,
+    112
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-014",
+   "book": "proverbs",
+   "art": 14,
+   "chapter_guess": 14,
+   "pages": [
+    112,
+    119
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-015",
+   "book": "proverbs",
+   "art": 15,
+   "chapter_guess": 15,
+   "pages": [
+    119,
+    127
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-016",
+   "book": "proverbs",
+   "art": 16,
+   "chapter_guess": 16,
+   "pages": [
+    127,
+    135
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-017",
+   "book": "proverbs",
+   "art": 17,
+   "chapter_guess": 17,
+   "pages": [
+    135,
+    142
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-018",
+   "book": "proverbs",
+   "art": 18,
+   "chapter_guess": 18,
+   "pages": [
+    142,
+    148
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-019",
+   "book": "proverbs",
+   "art": 19,
+   "chapter_guess": 19,
+   "pages": [
+    148,
+    159
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-021",
+   "book": "proverbs",
+   "art": 21,
+   "chapter_guess": 21,
+   "pages": [
+    159,
+    169
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-023",
+   "book": "proverbs",
+   "art": 23,
+   "chapter_guess": 23,
+   "pages": [
+    169,
+    173
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-024",
+   "book": "proverbs",
+   "art": 24,
+   "chapter_guess": 24,
+   "pages": [
+    173,
+    179
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-025",
+   "book": "proverbs",
+   "art": 25,
+   "chapter_guess": 25,
+   "pages": [
+    179,
+    184
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-026",
+   "book": "proverbs",
+   "art": 26,
+   "chapter_guess": 26,
+   "pages": [
+    184,
+    188
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-027",
+   "book": "proverbs",
+   "art": 27,
+   "chapter_guess": 27,
+   "pages": [
+    188,
+    194
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-028",
+   "book": "proverbs",
+   "art": 28,
+   "chapter_guess": 28,
+   "pages": [
+    194,
+    198
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-029",
+   "book": "proverbs",
+   "art": 29,
+   "chapter_guess": 29,
+   "pages": [
+    198,
+    203
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-030",
+   "book": "proverbs",
+   "art": 30,
+   "chapter_guess": 30,
+   "pages": [
+    203,
+    214
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-031",
+   "book": "proverbs",
+   "art": 31,
+   "chapter_guess": 31,
+   "pages": [
+    214,
+    223
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-032",
+   "book": "proverbs",
+   "art": 32,
+   "chapter_guess": 31,
+   "pages": [
+    223,
+    226
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "proverbs-033",
+   "book": "proverbs",
+   "art": 33,
+   "chapter_guess": 31,
+   "pages": [
+    226,
+    231
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-001",
+   "book": "ecclesiastes",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    233,
+    243
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-002",
+   "book": "ecclesiastes",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    243,
+    248
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-003",
+   "book": "ecclesiastes",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    248,
+    254
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-004",
+   "book": "ecclesiastes",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    254,
+    259
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-005",
+   "book": "ecclesiastes",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    259,
+    265
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-006",
+   "book": "ecclesiastes",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    265,
+    267
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-007",
+   "book": "ecclesiastes",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    267,
+    280
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-008",
+   "book": "ecclesiastes",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    280,
+    286
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-009",
+   "book": "ecclesiastes",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    286,
+    293
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-010",
+   "book": "ecclesiastes",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    293,
+    300
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-011",
+   "book": "ecclesiastes",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    300,
+    305
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "ecclesiastes-012",
+   "book": "ecclesiastes",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    305,
+    315
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-001",
+   "book": "song-of-solomon",
+   "art": 1,
+   "chapter_guess": null,
+   "pages": [
+    315,
+    317
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-002",
+   "book": "song-of-solomon",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    317,
+    318
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-003-part1",
+   "book": "song-of-solomon",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    318,
+    326
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "part": 1,
+   "parts": 2
+  },
+  {
+   "id": "song-of-solomon-003-part2",
+   "book": "song-of-solomon",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    327,
+    334
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "part": 2,
+   "parts": 2
+  },
+  {
+   "id": "song-of-solomon-004",
+   "book": "song-of-solomon",
+   "art": 4,
+   "chapter_guess": 1,
+   "pages": [
+    334,
+    343
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-005",
+   "book": "song-of-solomon",
+   "art": 5,
+   "chapter_guess": 1,
+   "pages": [
+    343,
+    350
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-006",
+   "book": "song-of-solomon",
+   "art": 6,
+   "chapter_guess": 2,
+   "pages": [
+    350,
+    360
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-007",
+   "book": "song-of-solomon",
+   "art": 7,
+   "chapter_guess": 2,
+   "pages": [
+    360,
+    366
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-008",
+   "book": "song-of-solomon",
+   "art": 8,
+   "chapter_guess": 2,
+   "pages": [
+    366,
+    372
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-009",
+   "book": "song-of-solomon",
+   "art": 9,
+   "chapter_guess": 3,
+   "pages": [
+    372,
+    378
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-010",
+   "book": "song-of-solomon",
+   "art": 10,
+   "chapter_guess": 3,
+   "pages": [
+    378,
+    381
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-011",
+   "book": "song-of-solomon",
+   "art": 11,
+   "chapter_guess": 3,
+   "pages": [
+    381,
+    381
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-011-2",
+   "book": "song-of-solomon",
+   "art": 11,
+   "chapter_guess": 3,
+   "pages": [
+    381,
+    385
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-012",
+   "book": "song-of-solomon",
+   "art": 12,
+   "chapter_guess": 4,
+   "pages": [
+    385,
+    396
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-013",
+   "book": "song-of-solomon",
+   "art": 13,
+   "chapter_guess": 4,
+   "pages": [
+    396,
+    402
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-014",
+   "book": "song-of-solomon",
+   "art": 14,
+   "chapter_guess": 4,
+   "pages": [
+    402,
+    406
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-015",
+   "book": "song-of-solomon",
+   "art": 15,
+   "chapter_guess": 5,
+   "pages": [
+    406,
+    416
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-016",
+   "book": "song-of-solomon",
+   "art": 16,
+   "chapter_guess": 5,
+   "pages": [
+    416,
+    421
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-017",
+   "book": "song-of-solomon",
+   "art": 17,
+   "chapter_guess": 5,
+   "pages": [
+    421,
+    424
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-018",
+   "book": "song-of-solomon",
+   "art": 18,
+   "chapter_guess": 6,
+   "pages": [
+    424,
+    431
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-019",
+   "book": "song-of-solomon",
+   "art": 19,
+   "chapter_guess": 6,
+   "pages": [
+    431,
+    435
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-020",
+   "book": "song-of-solomon",
+   "art": 20,
+   "chapter_guess": 6,
+   "pages": [
+    435,
+    439
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-021",
+   "book": "song-of-solomon",
+   "art": 21,
+   "chapter_guess": 7,
+   "pages": [
+    439,
+    444
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-022",
+   "book": "song-of-solomon",
+   "art": 22,
+   "chapter_guess": 7,
+   "pages": [
+    444,
+    448
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-023",
+   "book": "song-of-solomon",
+   "art": 23,
+   "chapter_guess": 7,
+   "pages": [
+    448,
+    452
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-024",
+   "book": "song-of-solomon",
+   "art": 24,
+   "chapter_guess": 8,
+   "pages": [
+    452,
+    460
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-025",
+   "book": "song-of-solomon",
+   "art": 25,
+   "chapter_guess": 8,
+   "pages": [
+    460,
+    466
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-026",
+   "book": "song-of-solomon",
+   "art": 26,
+   "chapter_guess": 8,
+   "pages": [
+    466,
+    471
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-001",
+   "book": "wisdom",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    475,
+    484
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-002",
+   "book": "wisdom",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    484,
+    490
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-003",
+   "book": "wisdom",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    490,
+    496
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-004",
+   "book": "wisdom",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    496,
+    501
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-005",
+   "book": "wisdom",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    501,
+    507
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-006",
+   "book": "wisdom",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    507,
+    513
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-007",
+   "book": "wisdom",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    513,
+    521
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-008",
+   "book": "wisdom",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    521,
+    527
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-009",
+   "book": "wisdom",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    527,
+    532
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-010",
+   "book": "wisdom",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    532,
+    539
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-011",
+   "book": "wisdom",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    539,
+    545
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-012",
+   "book": "wisdom",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    545,
+    551
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-013",
+   "book": "wisdom",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    551,
+    555
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-014",
+   "book": "wisdom",
+   "art": 14,
+   "chapter_guess": 14,
+   "pages": [
+    555,
+    560
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-015",
+   "book": "wisdom",
+   "art": 15,
+   "chapter_guess": 15,
+   "pages": [
+    560,
+    564
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-016",
+   "book": "wisdom",
+   "art": 16,
+   "chapter_guess": 16,
+   "pages": [
+    564,
+    570
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-017",
+   "book": "wisdom",
+   "art": 17,
+   "chapter_guess": 17,
+   "pages": [
+    570,
+    574
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-018",
+   "book": "wisdom",
+   "art": 18,
+   "chapter_guess": 18,
+   "pages": [
+    574,
+    580
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-019",
+   "book": "wisdom",
+   "art": 19,
+   "chapter_guess": 19,
+   "pages": [
+    580,
+    586
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  }
+ ]
+}

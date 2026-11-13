@@ -1,0 +1,4 @@
+proverbs: 31 articles, PDF 27-231, chapters 1-31 of 31; CHECK: no article starts in chapter(s) [20, 22] (fine if an article covers two chapters)
+ecclesiastes: 12 articles, PDF 233-315, chapters 1-12 of 12
+song-of-solomon: 27 articles, PDF 315-471, chapters 1-8 of 8; CHECK: repeated article numbers [11]
+wisdom: 19 articles, PDF 475-586, chapters 1-19 of 19
