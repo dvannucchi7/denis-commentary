@@ -91,17 +91,49 @@ def expand_side(side, text):
 def _words(hay):
     return [(m.start(), m.end(), m.group(0)) for m in re.finditer(r"[a-z']+", hay)]
 
-def _fuzzy(words, anchor, lo, guess):
+def _fuzzy(words, anchor, lo, guess, end=False):
     """Word index (first, last) of the best place for anchor words in words[lo:], or None. Exact runs first;
-    otherwise the window sharing most words with the anchor (at least 60%); ties go nearest to guess."""
+    otherwise the window sharing most words with the anchor (at least 60%), preferring one that begins (for a
+    start) or ends (for an end) with the anchor's own first or last word; ties go nearest to guess."""
     a = anchor.split(); n = len(a); best = None
     for i in range(lo, len(words) - n + 1):
         w = [x[2] for x in words[i:i + n]]
         score = n + 1 if w == a else len(set(w) & set(a))
         if score < max(1, 0.6 * n): continue
+        score += 0.5 * ((w[-1] == a[-1]) if end else (w[0] == a[0]))
         key = (-score, abs(i - guess) if guess is not None else 0)
         if best is None or key < best[0]: best = (key, i, i + n - 1)
     return best and (best[1], best[2])
+
+def _best_window(words, q, guess=None):
+    """(first, last) word indices of the stretch of words most like the word list q (words compared by their
+    first four letters; about the same length in letters; at least half of q's words), or None."""
+    from collections import Counter
+    k4 = lambda w: w[:4]
+    n = len(q); qc = Counter(map(k4, q)); qlen = sum(map(len, q)); best = None
+    for L in range(max(1, int(n * .6)), int(n * 1.5) + 2):
+        for i in range(0, len(words) - L + 1):
+            w = [x[2] for x in words[i:i + L]]
+            ov = sum((Counter(map(k4, w)) & qc).values())
+            if ov < max(1, n / 2): continue
+            sc = ov - 0.3 * abs(sum(map(len, w)) - qlen) / 5 + 0.5 * (k4(w[0]) == k4(q[0])) + 0.5 * (k4(w[-1]) == k4(q[-1]))
+            key = (-sc, abs(i - guess) if guess is not None else 0)
+            if best is None or key < best[0]: best = (key, i, i + L - 1)
+    return best and (best[1], best[2])
+
+def _snap(text, pos, words, i, end):
+    """Move a guessed boundary up to two words to the nearest punctuation of the verse."""
+    for d in (0, 1, -1, 2, -2):
+        k = i + d
+        if not 0 <= k < len(words): continue
+        if end:
+            j = pos[words[k][1] - 1] + 1
+            if j >= len(text) or text[j] in ",;:.?!": return k
+        else:
+            j = pos[words[k][0]] - 1
+            while j >= 0 and text[j] == " ": j -= 1
+            if j < 0 or text[j] in ",;:.?!": return k
+    return i
 
 def expand_side_lenient(side, text, frac=None):
     """Like expand_side, but settles ambiguous or slightly misquoted anchors itself: an anchor that occurs
@@ -115,9 +147,12 @@ def expand_side_lenient(side, text, frac=None):
     g0 = round(frac[0] * N) if frac else None; g1 = round(frac[1] * N) if frac else None
     exact0 = [i for i, w in enumerate(words) if [x[2] for x in words[i:i + len(an[0].split())]] == an[0].split()]
     cands = exact0 or ([_fuzzy(words, an[0], 0, g0)[0]] if _fuzzy(words, an[0], 0, g0) else [])
+    if not cands and frac: cands = [_snap(text, pos, words, min(g0, N - 1), False)]
     best = None
     for i in cands:
-        e = _fuzzy(words, an[1], i if an[1] != an[0] else i, g1)
+        e = _fuzzy(words, an[1], i, g1, end=True)
+        if not e and frac and g1 >= i:                                         # where the Latin span ends
+            k = _snap(text, pos, words, min(max(g1 - 1, i), N - 1), True); e = (k, k)
         if not e: continue
         span = e[1] - i
         key = (abs(i - g0) + abs(e[1] - g1)) if frac else span
@@ -126,13 +161,21 @@ def expand_side_lenient(side, text, frac=None):
     return cut(text, pos, words[best[1]][0], words[best[2]][1])
 
 def _frac(side, text):
-    """Where an anchored quotation starts and ends in a verse, as fractions of its words (None if unclear)."""
+    """Where a quotation (anchored, or written out) starts and ends in a verse, as fractions of its words;
+    None if it cannot be placed."""
     try:
-        an = anchors(side); hay, _ = norm_map(text); words = _words(hay)
-        s1 = finds(hay, an[0]); s2 = finds(hay, an[1], s1[0][1]) if s1 else []
-        if not (s1 and s2) or not words: return None
-        i = sum(1 for w in words if w[0] < s1[0][0]); j = sum(1 for w in words if w[0] < s2[0][1]) - 1
-        return i / len(words), j / len(words)
+        side = side.strip()
+        hay, _ = norm_map(text); words = _words(hay)
+        if not words: return None
+        if not anchors(side):
+            if ELL.search(side): return None
+            r = _best_window(words, norm_map(side)[0].split())
+            return r and (r[0] / len(words), (r[1] + 1) / len(words))
+        an = anchors(side)
+        a = _fuzzy(words, an[0], 0, None)
+        b = _fuzzy(words, an[1], a[0], None, end=True) if a else None
+        if not (a and b): return None
+        return a[0] / len(words), (b[1] + 1) / len(words)
     except Exception:
         return None
 
@@ -167,10 +210,30 @@ def expand(en, book, latin=""):
         drt = verse("data/bible/drc", target, c, v)
         vt = verse("sources/vulgate", target, c, v)
         try:
+            if dr.strip() and dr.strip() != "*" and not anchors(dr) and norm_map(dr)[0].strip() not in norm_map(drt)[0]:
+                # written out in full but not as the Douay-Rheims has it: a verse nearby, or its first and last words
+                for dv in (1, -1, 2, -2):
+                    try:
+                        if norm_map(dr)[0].strip() in norm_map(verse("data/bible/drc", target, c, v + dv))[0]:
+                            v += dv; ref = re.sub(r"\d+$", str(v), ref)
+                            drt = verse("data/bible/drc", target, c, v); vt = verse("sources/vulgate", target, c, v); break
+                    except Exception:
+                        pass
+                else:
+                    if not ELL.search(dr):
+                        hay, pos = norm_map(drt); words = _words(hay)
+                        r = _best_window(words, norm_map(dr)[0].split())
+                        if r is None and vul.strip():
+                            f = _frac(vul, vt)
+                            if f:
+                                N = len(words)
+                                r = (_snap(drt, pos, words, min(round(f[0] * N), N - 1), False),
+                                     _snap(drt, pos, words, min(max(round(f[1] * N) - 1, 0), N - 1), True))
+                        if r: dr = cut(drt, pos, words[r[0]][0], words[r[1]][1])
             try:
                 drx = expand_side(dr, drt)
             except LookupError:
-                drx = expand_side_lenient(dr, drt, _frac(vul, vt) if anchors(vul) else None)
+                drx = expand_side_lenient(dr, drt, _frac(vul, vt) if vul.strip() else None)
             if anchors(vul):            # Latin side: Denis's own words, sized by the Vulgate span
                 try:
                     vx = expand_side(vul, vt)
