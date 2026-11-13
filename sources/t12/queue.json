@@ -162,8 +162,9 @@
     112,
     126
    ],
-   "status": "todo",
-   "chapter_guess": 15
+   "status": "batch",
+   "chapter_guess": 15,
+   "claimed": "2026-11-13T16:49:55Z"
   },
   {
    "id": "luke-39",
@@ -173,8 +174,9 @@
     125,
     142
    ],
-   "status": "todo",
-   "chapter_guess": 16
+   "status": "batch",
+   "chapter_guess": 16,
+   "claimed": "2026-11-13T16:50:19Z"
   },
   {
    "id": "luke-40",
@@ -184,8 +186,9 @@
     141,
     153
    ],
-   "status": "todo",
-   "chapter_guess": 17
+   "status": "batch",
+   "chapter_guess": 17,
+   "claimed": "2026-11-13T16:50:37Z"
   },
   {
    "id": "luke-41",
@@ -195,8 +198,9 @@
     152,
     167
    ],
-   "status": "todo",
-   "chapter_guess": 18
+   "status": "batch",
+   "chapter_guess": 18,
+   "claimed": "2026-11-13T16:51:01Z"
   },
   {
    "id": "luke-42",
@@ -206,8 +210,9 @@
     166,
     184
    ],
-   "status": "todo",
-   "chapter_guess": 19
+   "status": "batch",
+   "chapter_guess": 19,
+   "claimed": "2026-11-13T16:51:27Z"
   },
   {
    "id": "luke-43",
@@ -217,8 +222,9 @@
     183,
     196
    ],
-   "status": "todo",
-   "chapter_guess": 20
+   "status": "batch",
+   "chapter_guess": 20,
+   "claimed": "2026-11-13T16:51:47Z"
   },
   {
    "id": "luke-44",
@@ -228,8 +234,9 @@
     195,
     202
    ],
-   "status": "todo",
-   "chapter_guess": 21
+   "status": "batch",
+   "chapter_guess": 21,
+   "claimed": "2026-11-13T16:51:57Z"
   },
   {
    "id": "luke-45",
@@ -239,8 +246,9 @@
     201,
     207
    ],
-   "status": "todo",
-   "chapter_guess": 21
+   "status": "batch",
+   "chapter_guess": 21,
+   "claimed": "2026-11-13T16:52:06Z"
   },
   {
    "id": "luke-46",
@@ -250,8 +258,9 @@
     206,
     214
    ],
-   "status": "todo",
-   "chapter_guess": 22
+   "status": "batch",
+   "chapter_guess": 22,
+   "claimed": "2026-11-13T16:52:19Z"
   },
   {
    "id": "luke-47",
@@ -261,8 +270,9 @@
     213,
     225
    ],
-   "status": "todo",
-   "chapter_guess": 22
+   "status": "batch",
+   "chapter_guess": 22,
+   "claimed": "2026-11-13T16:52:36Z"
   },
   {
    "id": "luke-48",
@@ -272,8 +282,9 @@
     224,
     240
    ],
-   "status": "todo",
-   "chapter_guess": 22
+   "status": "batch",
+   "chapter_guess": 22,
+   "claimed": "2026-11-13T16:53:00Z"
   },
   {
    "id": "luke-49",
@@ -283,8 +294,9 @@
     239,
     260
    ],
-   "status": "todo",
-   "chapter_guess": 23
+   "status": "batch",
+   "chapter_guess": 23,
+   "claimed": "2026-11-13T16:53:31Z"
   },
   {
    "id": "luke-50",
@@ -294,8 +306,9 @@
     259,
     277
    ],
-   "status": "todo",
-   "chapter_guess": 24
+   "status": "batch",
+   "chapter_guess": 24,
+   "claimed": "2026-11-13T16:53:58Z"
   },
   {
    "id": "john-01",
@@ -305,8 +318,9 @@
     275,
     278
    ],
-   "status": "todo",
-   "chapter_guess": 1
+   "status": "batch",
+   "chapter_guess": 1,
+   "claimed": "2026-11-13T16:54:04Z"
   },
   {
    "id": "john-02",
@@ -316,8 +330,9 @@
     277,
     284
    ],
-   "status": "todo",
-   "chapter_guess": 1
+   "status": "batch",
+   "chapter_guess": 1,
+   "claimed": "2026-11-13T16:54:15Z"
   },
   {
    "id": "john-03",
@@ -327,8 +342,9 @@
     283,
     290
    ],
-   "status": "todo",
-   "chapter_guess": 1
+   "status": "batch",
+   "chapter_guess": 1,
+   "claimed": "2026-11-13T16:54:27Z"
   },
   {
    "id": "john-04",
@@ -338,8 +354,9 @@
     289,
     295
    ],
-   "status": "todo",
-   "chapter_guess": 1
+   "status": "batch",
+   "chapter_guess": 1,
+   "claimed": "2026-11-13T16:54:37Z"
   },
   {
    "id": "john-05",
@@ -349,8 +366,9 @@
     294,
     312
    ],
-   "status": "todo",
-   "chapter_guess": 1
+   "status": "batch",
+   "chapter_guess": 1,
+   "claimed": "2026-11-13T16:55:05Z"
   },
   {
    "id": "john-06",
@@ -360,8 +378,9 @@
     311,
     322
    ],
-   "status": "todo",
-   "chapter_guess": 1
+   "status": "batch",
+   "chapter_guess": 1,
+   "claimed": "2026-11-13T16:55:23Z"
   },
   {
    "id": "john-07",
@@ -371,8 +390,9 @@
     321,
     333
    ],
-   "status": "todo",
-   "chapter_guess": 2
+   "status": "batch",
+   "chapter_guess": 2,
+   "claimed": "2026-11-13T16:55:41Z"
   },
   {
    "id": "john-08",
@@ -382,8 +402,9 @@
     332,
     342
    ],
-   "status": "todo",
-   "chapter_guess": 3
+   "status": "batch",
+   "chapter_guess": 3,
+   "claimed": "2026-11-13T16:55:57Z"
   },
   {
    "id": "john-09",
@@ -393,8 +414,9 @@
     341,
     348
    ],
-   "status": "todo",
-   "chapter_guess": 3
+   "status": "batch",
+   "chapter_guess": 3,
+   "claimed": "2026-11-13T16:56:09Z"
   },
   {
    "id": "john-10",
@@ -404,8 +426,9 @@
     347,
     355
    ],
-   "status": "todo",
-   "chapter_guess": 3
+   "status": "batch",
+   "chapter_guess": 3,
+   "claimed": "2026-11-13T16:56:22Z"
   },
   {
    "id": "john-11",
@@ -415,8 +438,9 @@
     354,
     367
    ],
-   "status": "todo",
-   "chapter_guess": 4
+   "status": "batch",
+   "chapter_guess": 4,
+   "claimed": "2026-11-13T16:56:42Z"
   },
   {
    "id": "john-12",
@@ -426,8 +450,9 @@
     366,
     371
    ],
-   "status": "todo",
-   "chapter_guess": 4
+   "status": "batch",
+   "chapter_guess": 4,
+   "claimed": "2026-11-13T16:56:50Z"
   },
   {
    "id": "john-13",
@@ -437,8 +462,9 @@
     370,
     378
    ],
-   "status": "todo",
-   "chapter_guess": 5
+   "status": "batch",
+   "chapter_guess": 5,
+   "claimed": "2026-11-13T16:57:02Z"
   },
   {
    "id": "john-14",
@@ -448,8 +474,9 @@
     377,
     384
    ],
-   "status": "todo",
-   "chapter_guess": 5
+   "status": "batch",
+   "chapter_guess": 5,
+   "claimed": "2026-11-13T16:57:12Z"
   },
   {
    "id": "john-15",
@@ -459,8 +486,9 @@
     383,
     392
    ],
-   "status": "todo",
-   "chapter_guess": 5
+   "status": "batch",
+   "chapter_guess": 5,
+   "claimed": "2026-11-13T16:57:27Z"
   },
   {
    "id": "john-16",
@@ -470,8 +498,9 @@
     391,
     398
    ],
-   "status": "todo",
-   "chapter_guess": 6
+   "status": "batch",
+   "chapter_guess": 6,
+   "claimed": "2026-11-13T16:57:38Z"
   },
   {
    "id": "john-17",
@@ -481,8 +510,9 @@
     397,
     409
    ],
-   "status": "todo",
-   "chapter_guess": 6
+   "status": "batch",
+   "chapter_guess": 6,
+   "claimed": "2026-11-13T16:57:58Z"
   },
   {
    "id": "john-18",
@@ -492,8 +522,9 @@
     408,
     417
    ],
-   "status": "todo",
-   "chapter_guess": 6
+   "status": "batch",
+   "chapter_guess": 6,
+   "claimed": "2026-11-13T16:58:11Z"
   },
   {
    "id": "john-19",
@@ -503,8 +534,9 @@
     416,
     428
    ],
-   "status": "todo",
-   "chapter_guess": 7
+   "status": "batch",
+   "chapter_guess": 7,
+   "claimed": "2026-11-13T16:58:29Z"
   },
   {
    "id": "john-20",
@@ -514,8 +546,9 @@
     427,
     433
    ],
-   "status": "todo",
-   "chapter_guess": 7
+   "status": "batch",
+   "chapter_guess": 7,
+   "claimed": "2026-11-13T16:58:39Z"
   },
   {
    "id": "john-21",
@@ -525,8 +558,9 @@
     432,
     440
    ],
-   "status": "todo",
-   "chapter_guess": 8
+   "status": "batch",
+   "chapter_guess": 8,
+   "claimed": "2026-11-13T16:58:51Z"
   },
   {
    "id": "john-22",
@@ -536,8 +570,9 @@
     439,
     450
    ],
-   "status": "todo",
-   "chapter_guess": 8
+   "status": "batch",
+   "chapter_guess": 8,
+   "claimed": "2026-11-13T16:59:07Z"
   },
   {
    "id": "john-23",
@@ -547,8 +582,9 @@
     449,
     456
    ],
-   "status": "todo",
-   "chapter_guess": 8
+   "status": "batch",
+   "chapter_guess": 8,
+   "claimed": "2026-11-13T16:59:18Z"
   },
   {
    "id": "john-24",
@@ -558,8 +594,9 @@
     455,
     468
    ],
-   "status": "todo",
-   "chapter_guess": 9
+   "status": "batch",
+   "chapter_guess": 9,
+   "claimed": "2026-11-13T16:59:38Z"
   },
   {
    "id": "john-25",
@@ -569,8 +606,9 @@
     467,
     473
    ],
-   "status": "todo",
-   "chapter_guess": 10
+   "status": "batch",
+   "chapter_guess": 10,
+   "claimed": "2026-11-13T16:59:47Z"
   },
   {
    "id": "john-26",
@@ -580,8 +618,9 @@
     472,
     479
    ],
-   "status": "todo",
-   "chapter_guess": 10
+   "status": "batch",
+   "chapter_guess": 10,
+   "claimed": "2026-11-13T16:59:59Z"
   },
   {
    "id": "john-27",
@@ -591,8 +630,9 @@
     478,
     486
    ],
-   "status": "todo",
-   "chapter_guess": 10
+   "status": "batch",
+   "chapter_guess": 10,
+   "claimed": "2026-11-13T17:00:12Z"
   },
   {
    "id": "john-28",
@@ -602,8 +642,9 @@
     485,
     499
    ],
-   "status": "todo",
-   "chapter_guess": 11
+   "status": "batch",
+   "chapter_guess": 11,
+   "claimed": "2026-11-13T17:00:32Z"
   },
   {
    "id": "john-29",
@@ -613,8 +654,9 @@
     498,
     503
    ],
-   "status": "todo",
-   "chapter_guess": 11
+   "status": "batch",
+   "chapter_guess": 11,
+   "claimed": "2026-11-13T17:00:41Z"
   },
   {
    "id": "john-30",
@@ -624,8 +666,9 @@
     502,
     511
    ],
-   "status": "todo",
-   "chapter_guess": 12
+   "status": "batch",
+   "chapter_guess": 12,
+   "claimed": "2026-11-13T17:00:55Z"
   },
   {
    "id": "john-31",
@@ -635,8 +678,9 @@
     510,
     519
    ],
-   "status": "todo",
-   "chapter_guess": 12
+   "status": "batch",
+   "chapter_guess": 12,
+   "claimed": "2026-11-13T17:01:08Z"
   },
   {
    "id": "john-32",
@@ -646,8 +690,9 @@
     518,
     523
    ],
-   "status": "todo",
-   "chapter_guess": 12
+   "status": "batch",
+   "chapter_guess": 12,
+   "claimed": "2026-11-13T17:01:17Z"
   },
   {
    "id": "john-33",
@@ -657,8 +702,9 @@
     522,
     530
    ],
-   "status": "todo",
-   "chapter_guess": 13
+   "status": "batch",
+   "chapter_guess": 13,
+   "claimed": "2026-11-13T17:01:31Z"
   },
   {
    "id": "john-34",
@@ -668,8 +714,9 @@
     529,
     536
    ],
-   "status": "todo",
-   "chapter_guess": 13
+   "status": "batch",
+   "chapter_guess": 13,
+   "claimed": "2026-11-13T17:01:43Z"
   },
   {
    "id": "john-35",
@@ -679,8 +726,9 @@
     535,
     544
    ],
-   "status": "todo",
-   "chapter_guess": 14
+   "status": "batch",
+   "chapter_guess": 14,
+   "claimed": "2026-11-13T17:01:59Z"
   },
   {
    "id": "john-36",
@@ -690,8 +738,9 @@
     543,
     552
    ],
-   "status": "todo",
-   "chapter_guess": 14
+   "status": "batch",
+   "chapter_guess": 14,
+   "claimed": "2026-11-13T17:02:14Z"
   },
   {
    "id": "john-37",
@@ -701,8 +750,9 @@
     551,
     561
    ],
-   "status": "todo",
-   "chapter_guess": 15
+   "status": "batch",
+   "chapter_guess": 15,
+   "claimed": "2026-11-13T17:02:31Z"
   },
   {
    "id": "john-38",
@@ -712,8 +762,9 @@
     560,
     565
    ],
-   "status": "todo",
-   "chapter_guess": 15
+   "status": "batch",
+   "chapter_guess": 15,
+   "claimed": "2026-11-13T17:02:39Z"
   },
   {
    "id": "john-39",
@@ -723,8 +774,9 @@
     564,
     571
    ],
-   "status": "todo",
-   "chapter_guess": 16
+   "status": "batch",
+   "chapter_guess": 16,
+   "claimed": "2026-11-13T17:02:50Z"
   },
   {
    "id": "john-40",
@@ -734,8 +786,9 @@
     570,
     576
    ],
-   "status": "todo",
-   "chapter_guess": 16
+   "status": "batch",
+   "chapter_guess": 16,
+   "claimed": "2026-11-13T17:02:59Z"
   },
   {
    "id": "john-41",
@@ -745,8 +798,9 @@
     575,
     582
    ],
-   "status": "todo",
-   "chapter_guess": 17
+   "status": "batch",
+   "chapter_guess": 17,
+   "claimed": "2026-11-13T17:03:10Z"
   },
   {
    "id": "john-42",
@@ -756,8 +810,9 @@
     581,
     587
    ],
-   "status": "todo",
-   "chapter_guess": 17
+   "status": "batch",
+   "chapter_guess": 17,
+   "claimed": "2026-11-13T17:03:20Z"
   },
   {
    "id": "john-43",
@@ -767,8 +822,9 @@
     586,
     594
    ],
-   "status": "todo",
-   "chapter_guess": 18
+   "status": "batch",
+   "chapter_guess": 18,
+   "claimed": "2026-11-13T17:03:33Z"
   },
   {
    "id": "john-44",
@@ -778,8 +834,9 @@
     593,
     598
    ],
-   "status": "todo",
-   "chapter_guess": 18
+   "status": "batch",
+   "chapter_guess": 18,
+   "claimed": "2026-11-13T17:03:42Z"
   },
   {
    "id": "john-45",
@@ -789,8 +846,9 @@
     597,
     604
    ],
-   "status": "todo",
-   "chapter_guess": 19
+   "status": "batch",
+   "chapter_guess": 19,
+   "claimed": "2026-11-13T17:03:53Z"
   },
   {
    "id": "john-46",
@@ -800,8 +858,9 @@
     603,
     609
    ],
-   "status": "todo",
-   "chapter_guess": 19
+   "status": "batch",
+   "chapter_guess": 19,
+   "claimed": "2026-11-13T17:04:03Z"
   },
   {
    "id": "john-47",
@@ -811,8 +870,9 @@
     608,
     616
    ],
-   "status": "todo",
-   "chapter_guess": 20
+   "status": "batch",
+   "chapter_guess": 20,
+   "claimed": "2026-11-13T17:04:15Z"
   },
   {
    "id": "john-48",
@@ -822,8 +882,9 @@
     615,
     622
    ],
-   "status": "todo",
-   "chapter_guess": 20
+   "status": "batch",
+   "chapter_guess": 20,
+   "claimed": "2026-11-13T17:04:25Z"
   },
   {
    "id": "john-49",
@@ -833,8 +894,9 @@
     621,
     626
    ],
-   "status": "todo",
-   "chapter_guess": 21
+   "status": "batch",
+   "chapter_guess": 21,
+   "claimed": "2026-11-13T17:04:33Z"
   },
   {
    "id": "john-50",
@@ -844,8 +906,9 @@
     625,
     630
    ],
-   "status": "todo",
-   "chapter_guess": 21
+   "status": "batch",
+   "chapter_guess": 21,
+   "claimed": "2026-11-13T17:04:41Z"
   }
  ]
 }
