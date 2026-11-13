@@ -612,9 +612,9 @@
     266,
     269
    ],
-   "status": "batch",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-13T18:01:41Z"
+   "note": "translated by batch (1 attempt(s), $0.17) | unreadable: p. 245, right column, beside verse 12 (at 'et plus justo nos ipsos jactemus'): a faded marginal note, illegible; p. 245, right column, last lines: the lemma of verse 13 ('Nos autem non in immensum gloriabimur') is very faint; restored from the remaining letters and the Vulgate"
   },
   {
    "id": "ii-corinthians-011-3",
