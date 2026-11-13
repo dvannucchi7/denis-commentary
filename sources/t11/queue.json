@@ -889,8 +889,9 @@
     479,
     490
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T02:44:04Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-13T02:44:04Z",
+   "note": "Published (PDF 480-489, pp. 460-469; Luke 4:1-13). Letters lost at line ends in the OCR: PDF 483 (p. 463), top of right column (v. 2: Christ's hunger, the Glossa's 'pia fraus', 'impe[tere ac] vincere ... [proficiendi] desiderio'), and PDF 484 (p. 464), left column (v. 3: 'Si Filius Dei es' ... 'convertatur in panem'; 'Primo [ergo tentat] ... [Cautus] est etiam dæmon'). Words supplied from the sense are bracketed in the Latin; two short gaps marked […]. The pre-cut file had dropped the whole left column of PDF 480; restored from the page OCR. Margin numerals from the sense, e.g. 'I Tim. iii, 16' = 2 Tim 3:16, 'Judith vi, 13' = Jdt 8:11, 13, 'Dan. x, 24' = Dan 9:24, 'II Par. xx, 13' = 2 Par 20:12. Douay file typo at Luke 4:1 ('was led the by the spirit')."
   },
   {
    "id": "luke-11",
