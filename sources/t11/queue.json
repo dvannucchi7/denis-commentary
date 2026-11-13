@@ -955,8 +955,9 @@
     528,
     536
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T07:47:01Z"
+   "status": "done",
+   "claimed": "2026-11-13T07:47:01Z",
+   "note": "Published (PDF 528-536, pp. 508-516; Luke 6:20-26). Margin numerals read from the sense, e.g. 'Galat. v, 24', 'Ps. xvi, 15', 'Ps. cii, 5', 'Ps. cxliv, 7', 'Ps. lxxii, 26', 'Ps. lxxvi, 3, 4', 'Ps. lxi, 11', 'Ps. ix, 24' (read 'x, 3'), 'Jer. xxviii, 10, 11' (read as 33). Denis's wording differs from the Vulgate at Prov 21:17 ('non erit sapiens'), Prov 29:27 ('Abominantur impii justum'), 1 Cor 3:3 ('nonne homines estis'), Jer 20:9: notes. Unconfirmed (margin note unread): Gal 1:10, Is 64:4, 1 Thess 2:5, 3 Kings 22:11."
   },
   {
    "id": "luke-16",
