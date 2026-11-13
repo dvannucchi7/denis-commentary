@@ -150,9 +150,9 @@
     99,
     113
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 14,
-   "claimed": "2026-11-13T13:53:41Z"
+   "note": "Published. PDF 104 (p. 94), left column: about one line lost in the Chrysostom quotation (“Sed si hoc non placet, […] ministri”), shown as […]. PDF 108 (p. 98), top: damaged band; Luke 14:26 lemma “suum, et matrem, et uxorem, et filios, et” read from the damaged line (bracketed in the Latin), the rest recovered from the margin reader’s OCR. Unconfirmed tags (no margin note read): Job 15:13, Ecclus 10:7, 10:29, 3:20, Luke 6:33, 2 Cor 7:4, 2 Tim 4:2, 1 Tim 5:21, 1 Cor 7:29, 7:31, John 15:6, Lev 2:13, Mark 9:49, 1 Cor 14:40. Text prints “luxuria…” with the seventh property of dropsy omitted."
   },
   {
    "id": "luke-38",
