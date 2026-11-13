@@ -903,8 +903,9 @@
     489,
     505
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T07:22:08Z"
+   "status": "done",
+   "claimed": "2026-11-13T07:22:08Z",
+   "note": "Published (PDF 489-505, pp. 469-485; Luke 4:14-44). Margin numerals read from the sense, e.g. 'Ps. xlix, 16', 'Is. xi, 2' = Is 11:2, 'Joann. viii, 29', 'Lev. viii' = Lev 8:10, 12, 'Esther viii, 2, 15', 'IV Reg. xx, 11', 'Joann. xviii, 5, 6' = John 18:5. 'Ibid. xw, 06' beside 'non est servus major domino suo' taken as John 13:16 (could be 15:20), note. Denis's 'annus retributionis' (Is 63:4, Vulgate 'redemptionis') and 'spiritum immundum' (4:33, Vulgate 'daemonium') noted. Unconfirmed (no margin note read): Is 61:1 (Jerome's rendering 'Ad annuntiandum mansuetis'), 3 Kings 1:39 and 19:16 (anointings), 4 Kings 5:3, 5:11, Dan 5:29, Luke 11:14 (margin 'xi, 14' beside 'mutum facit et surdum'). Edition footnotes not present in the OCR."
   },
   {
    "id": "luke-12",
