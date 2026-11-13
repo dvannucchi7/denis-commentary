@@ -31,7 +31,13 @@ PRICE_LIVE = {"in": 4.0, "out": 20.0, "cache_read": 0.20, "cache_write": 5.0}
 VOLS = {   # per volume: scan PDF here, printed page = PDF page - offset, tome number
     "t11": {"pdf": "/home/claude/scan11/vol.pdf", "offset": 20, "tome": "XI"},
     "t12": {"pdf": "/home/claude/scan12/vol.pdf", "offset": 10, "tome": "XII"},
+    "t13": {"pdf": "/home/claude/scans/t13.pdf", "offset": 22, "tome": "XIII"},   # Romans – 2 Peter
+    "t6":  {"pdf": "/home/claude/scans/t6.pdf", "offset": 10, "tome": "VI"},      # Psalms
+    "t7":  {"pdf": "/home/claude/scans/t7.pdf", "offset": 22, "tome": "VII"},     # Proverbs, Ecclesiastes, Canticle, Wisdom
+    "t10": {"pdf": "/home/claude/scans/t10.pdf", "offset": 10, "tome": "X"},      # Daniel, minor prophets
+    "t1":  {"pdf": "/home/claude/scans/t1.pdf", "offset": 106, "tome": "I"},      # Genesis (offset to confirm)
 }
+ORDER = ["t12", "t13", "t6", "t7", "t10", "t1"]      # Dave's order
 WORKS = {"matthew": "Enarratio in Evangelium secundum Matthæum", "mark": "Enarratio in Evangelium secundum Marcum",
          "luke": "Enarratio in Evangelium secundum Lucam", "john": "Enarratio in Evangelium secundum Joannem"}
 REV = {v: k for k, v in ABBR.items()}
@@ -54,7 +60,8 @@ def git(*a, check=True):
 def queue(vol):
     return json.load(open(os.path.join(ROOT, "sources", vol, "queue.json")))
 def item_of(item_id):
-    for vol in VOLS:
+    for vol in ORDER:
+        if not os.path.exists(os.path.join(ROOT, "sources", vol, "queue.json")): continue
         for it in queue(vol)["items"]:
             if it["id"] == item_id: return vol, it
     raise KeyError(item_id)
@@ -104,8 +111,12 @@ def user_content(vol, it, with_images=True):
     cfg = VOLS[vol]; book = it["book"]; g = int(it.get("chapter_guess") or 1)
     latin, cut = latin_of(vol, it)
     buf = io.StringIO()
-    with contextlib.redirect_stdout(buf):
-        margins.article(vol, it["id"], str(g))
+    if os.path.isdir(os.path.join(ROOT, "sources", vol, "margins")):
+        with contextlib.redirect_stdout(buf):
+            margins.article(vol, it["id"], str(g))
+    else:
+        buf.write("(none read separately: the transcription gives each margin note in ⟦…⟧ at the line it stands "
+                  "beside; check them against the images)")
     obv = recheck.obvious(latin, book, g)
     obv_txt = "\n".join(f"- {('%s %d:%d' % (REV.get(b, b), c, v)) if (b, c) != (book, g) else '%d:%d (chapter treated)' % (c, v)}: '{w} …'"
                         for b, c, v, w in obv[:80]) or "(none)"
@@ -116,7 +127,10 @@ def user_content(vol, it, with_images=True):
             f"the neighbouring articles). It is thought to treat chapter {g} (from the running heads; check the title; "
             f"it may run on into chapter {g + 1}).")
     blocks = [{"type": "text", "text": head},
-              {"type": "text", "text": ("OCR text of the article, already cut at its heading:\n\n" if cut else
+              {"type": "text", "text": (("Transcription of the article (made from the page images by another model; "
+                                        "margin notes in ⟦…⟧, italics as _…_), already cut at its heading:\n\n"
+                                        if it.get("source") == "transcribed" else
+                                        "OCR text of the article, already cut at its heading:\n\n") if cut else
                                         "OCR pages (the article is not yet cut out: find its heading):\n\n") + latin},
               {"type": "text", "text": "References read from the printed margins by a program, in reading order "
                                        "(check each against the images and the verse text):\n\n" + buf.getvalue()},
@@ -197,8 +211,10 @@ def publish_try(vol, it, ans):
         n, probs = check_quotes.check(book)
         mine = [p for p in probs if any(f"{book} {ch}, Art. {ans['num']} " in p for ch in bych)]
         hard += mine
+    if not hard and it.get("source") == "transcribed":
+        hard += coverage(vol, it, ans)
     soft = ""
-    if not hard:
+    if not hard and os.path.isdir(os.path.join(ROOT, "sources", vol, "margins")):
         buf = io.StringIO()
         with contextlib.redirect_stdout(buf):
             try: recheck.main(vol, it["id"])
@@ -211,6 +227,28 @@ def publish_try(vol, it, ans):
         if not os.path.exists(data_path) or not git("ls-files", data_path).strip():
             if os.path.exists(data_path) and not git("ls-files", data_path).strip(): os.remove(data_path)
     return hard, soft
+
+def _w(s):
+    s = re.sub(r"⟦[^⟧]*⟧|_|^###.*$|^HEAD:.*$", " ", s, flags=re.M).lower()
+    s = s.replace("æ", "ae").replace("œ", "oe").replace("j", "i").replace("v", "u")
+    return re.findall(r"[a-z]+", s)
+
+def coverage(vol, it, ans, n=8):
+    """Every run of n words in the transcription must appear in the translator's Latin (dropped or altered
+    passages are what this catches). Returns problems, or []."""
+    src = _w(open(os.path.join(ROOT, "sources", vol, "articles", it["id"] + ".txt")).read())
+    mine = _w(" ".join(p.get("t", "") for p in ans["paras"]))
+    have = {tuple(mine[i:i + n]) for i in range(len(mine) - n + 1)}
+    miss = [i for i in range(len(src) - n + 1) if tuple(src[i:i + n]) not in have]
+    if len(miss) <= max(3, 0.03 * len(src)): return []
+    spans, start = [], None
+    for k, i in enumerate(miss):
+        if start is None: start = i
+        if k + 1 == len(miss) or miss[k + 1] != i + 1:
+            spans.append(" ".join(src[start:i + n])); start = None
+    return ["your Latin does not contain these passages of the transcription (dropped, or changed beyond "
+            "OCR-level corrections); restore them from the images unless the transcription is wrong there:\n"
+            + "\n".join(f"- {sp[:300]}" for sp in spans[:12])]
 
 def soft_count(report):
     m = re.search(r"summary: (.*)", report)
