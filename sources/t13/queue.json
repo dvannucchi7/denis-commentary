@@ -36,9 +36,9 @@
     27,
     34
    ],
-   "status": "batch",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-13T18:01:40Z"
+   "note": "translated by batch (1 attempt(s), $0.34) | unreadable: p. 9, right column, last lines: one word after 'duodecim' (before 'discipulos') is too faint to read; the following words 'quibus et ait. Nonne ego vos duodecim elegi?' are faint but legible. The margin notes beside these lines (apparently Luke vi and John vi) are illegible."
   },
   {
    "id": "romans-004",
