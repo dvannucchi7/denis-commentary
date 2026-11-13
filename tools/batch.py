@@ -394,6 +394,14 @@ def submit(st, reqs, kind):
 def cmd_submit(vol, n=None):
     st = state(); q = queue(vol); reqs = []
     busy = {i for b in st["batches"] if b["open"] for i in b["items"]}
+    have = set()                     # articles already in the app from an earlier (non-batch) translation: keep them
+    for it in q["items"]:
+        f = os.path.join(ROOT, "data", "commentary", it["book"] + ".json")
+        if it["status"] == "todo" and os.path.exists(f) and st["items"].get(it["id"], {}).get("status") != "published":
+            d = json.load(open(f))
+            if any(a["num"] == margins_roman(it["art"]) for arts in d["chapters"].values() for a in arts):
+                it["status"] = "done"; it["note"] = "already in the app from an earlier translation; not sent"; have.add(it["id"])
+    if have: print("kept the earlier translations of:", ", ".join(sorted(have)))
     todo = [it for it in q["items"] if it["status"] == "todo" and it["id"] not in busy][: n or None]
     prefetch(VOLS[vol]["pdf"], sorted({p for it in todo for p in range(it["pages"][0], it["pages"][1] + 1)}))
     for it in todo:
