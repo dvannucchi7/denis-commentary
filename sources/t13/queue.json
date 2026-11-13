@@ -10,8 +10,9 @@
     25,
     26
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-002",
@@ -22,8 +23,9 @@
     26,
     27
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-003",
@@ -34,8 +36,9 @@
     27,
     34
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-004",
@@ -46,8 +49,9 @@
     34,
     40
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-005-part1",
@@ -58,10 +62,11 @@
     40,
     47
    ],
-   "status": "todo",
+   "status": "batch",
    "source": "transcribed",
    "part": 1,
-   "parts": 2
+   "parts": 2,
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-005-part2",
@@ -72,10 +77,11 @@
     48,
     55
    ],
-   "status": "todo",
+   "status": "batch",
    "source": "transcribed",
    "part": 2,
-   "parts": 2
+   "parts": 2,
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-007",
@@ -86,8 +92,9 @@
     55,
     61
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-008",
@@ -98,8 +105,9 @@
     61,
     69
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-009",
@@ -110,8 +118,9 @@
     69,
     74
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-010",
@@ -122,8 +131,9 @@
     74,
     80
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-011",
@@ -134,8 +144,9 @@
     80,
     87
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-012",
@@ -146,8 +157,9 @@
     87,
     94
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-013",
@@ -158,8 +170,9 @@
     94,
     104
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-014",
@@ -170,8 +183,9 @@
     104,
     109
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-015",
@@ -182,8 +196,9 @@
     109,
     116
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-016",
@@ -194,8 +209,9 @@
     116,
     122
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-017",
@@ -206,8 +222,9 @@
     122,
     125
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:40Z"
   },
   {
    "id": "romans-018",
@@ -218,8 +235,9 @@
     125,
     131
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "romans-019",
@@ -230,8 +248,9 @@
     131,
     137
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "romans-020",
@@ -242,8 +261,9 @@
     137,
     141
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-001-2",
@@ -254,8 +274,9 @@
     145,
     154
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-002-2",
@@ -266,8 +287,9 @@
     154,
     158
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-003-2",
@@ -278,8 +300,9 @@
     158,
     163
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-004-2",
@@ -290,8 +313,9 @@
     163,
     166
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-005-2",
@@ -302,8 +326,9 @@
     166,
     169
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-006",
@@ -314,8 +339,9 @@
     169,
     173
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-007-2",
@@ -326,8 +352,9 @@
     173,
     181
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-008-2",
@@ -338,8 +365,9 @@
     181,
     184
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-009-2",
@@ -350,8 +378,9 @@
     184,
     190
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-010-2",
@@ -362,8 +391,9 @@
     190,
     196
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-011-2",
@@ -374,8 +404,9 @@
     196,
     204
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-012-2",
@@ -386,8 +417,9 @@
     204,
     209
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-013-2",
@@ -398,8 +430,9 @@
     209,
     212
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-014-2",
@@ -410,8 +443,9 @@
     212,
     217
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-015-2",
@@ -422,8 +456,9 @@
     217,
     223
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-016-2",
@@ -434,8 +469,9 @@
     223,
     228
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-corinthians-017-2",
@@ -446,8 +482,9 @@
     228,
     231
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-001-3",
@@ -458,8 +495,9 @@
     235,
     241
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-002-3",
@@ -470,8 +508,9 @@
     241,
     243
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-003-3",
@@ -482,8 +521,9 @@
     243,
     247
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-004-3",
@@ -494,8 +534,9 @@
     247,
     250
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-005-3",
@@ -506,8 +547,9 @@
     250,
     254
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-006-2",
@@ -518,8 +560,9 @@
     254,
     257
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-007-3",
@@ -530,8 +573,9 @@
     257,
     260
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-008-3",
@@ -542,8 +586,9 @@
     260,
     263
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-009-3",
@@ -554,8 +599,9 @@
     263,
     266
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-010-3",
@@ -566,8 +612,9 @@
     266,
     269
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-011-3",
@@ -578,8 +625,9 @@
     269,
     275
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-012-3",
@@ -590,8 +638,9 @@
     275,
     279
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-corinthians-013-3",
@@ -602,8 +651,9 @@
     279,
     285
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "galatians-001-4",
@@ -614,8 +664,9 @@
     287,
     291
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "galatians-002-4",
@@ -626,8 +677,9 @@
     291,
     297
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "galatians-003-4",
@@ -638,8 +690,9 @@
     297,
     302
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "galatians-004-4",
@@ -650,8 +703,9 @@
     302,
     307
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "galatians-005-4",
@@ -662,8 +716,9 @@
     307,
     312
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "galatians-006-3",
@@ -674,8 +729,9 @@
     312,
     317
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ephesians-001-5",
@@ -686,8 +742,9 @@
     321,
     326
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ephesians-002-5",
@@ -698,8 +755,9 @@
     326,
     330
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ephesians-003-5",
@@ -710,8 +768,9 @@
     330,
     334
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ephesians-004-5",
@@ -722,8 +781,9 @@
     334,
     341
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ephesians-005-5",
@@ -734,8 +794,9 @@
     341,
     345
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ephesians-006-4",
@@ -746,8 +807,9 @@
     345,
     351
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "philippians-001-6",
@@ -758,8 +820,9 @@
     355,
     359
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "philippians-002-6",
@@ -770,8 +833,9 @@
     359,
     365
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "philippians-003-6",
@@ -782,8 +846,9 @@
     365,
     369
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "philippians-004-6",
@@ -794,8 +859,9 @@
     369,
     373
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "colossians-001-7",
@@ -806,8 +872,9 @@
     377,
     383
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "colossians-002-7",
@@ -818,8 +885,9 @@
     383,
     387
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "colossians-003-7",
@@ -830,8 +898,9 @@
     387,
     391
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "colossians-004-7",
@@ -842,8 +911,9 @@
     391,
     395
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-thessalonians-001-8",
@@ -854,8 +924,9 @@
     399,
     401
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-thessalonians-002-8",
@@ -866,8 +937,9 @@
     401,
     405
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-thessalonians-003-8",
@@ -878,8 +950,9 @@
     405,
     406
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-thessalonians-004-8",
@@ -890,8 +963,9 @@
     406,
     417
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-thessalonians-001-9",
@@ -902,8 +976,9 @@
     421,
     423
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-thessalonians-002-9",
@@ -914,8 +989,9 @@
     423,
     427
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-thessalonians-003-9",
@@ -926,8 +1002,9 @@
     427,
     429
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-timothy-001-10",
@@ -938,8 +1015,9 @@
     433,
     437
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-timothy-002-10",
@@ -950,8 +1028,9 @@
     437,
     440
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-timothy-003-10",
@@ -962,8 +1041,9 @@
     440,
     443
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-timothy-004-9",
@@ -974,8 +1054,9 @@
     443,
     445
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-timothy-005-6",
@@ -986,8 +1067,9 @@
     445,
     448
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "i-timothy-006-5",
@@ -998,8 +1080,9 @@
     448,
     453
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-timothy-001-11",
@@ -1010,8 +1093,9 @@
     457,
     460
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:41Z"
   },
   {
    "id": "ii-timothy-002-11",
@@ -1022,8 +1106,9 @@
     460,
     463
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "ii-timothy-003-11",
@@ -1034,8 +1119,9 @@
     463,
     465
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "ii-timothy-004-10",
@@ -1046,8 +1132,9 @@
     465,
     469
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "titus-001-12",
@@ -1058,8 +1145,9 @@
     473,
     475
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "titus-002-12",
@@ -1070,8 +1158,9 @@
     475,
     477
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "titus-003-12",
@@ -1082,8 +1171,9 @@
     477,
     481
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "philemon-001-13",
@@ -1094,8 +1184,9 @@
     485,
     489
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-001-14",
@@ -1106,8 +1197,9 @@
     493,
     499
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-002-13",
@@ -1118,8 +1210,9 @@
     499,
     504
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-003-13",
@@ -1130,8 +1223,9 @@
     504,
     507
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-004-11",
@@ -1142,8 +1236,9 @@
     507,
     511
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-005-7",
@@ -1154,8 +1249,9 @@
     511,
     514
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-006-6",
@@ -1166,8 +1262,9 @@
     514,
     518
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-007-4",
@@ -1178,8 +1275,9 @@
     518,
     523
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-008-4",
@@ -1190,8 +1288,9 @@
     523,
     526
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-009-4",
@@ -1202,8 +1301,9 @@
     526,
     531
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-010-4",
@@ -1214,8 +1314,9 @@
     531,
     536
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-011-4",
@@ -1226,8 +1327,9 @@
     536,
     543
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-012-4",
@@ -1238,8 +1340,9 @@
     543,
     549
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "hebrews-013-4",
@@ -1250,8 +1353,9 @@
     549,
     555
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "james-001-15",
@@ -1262,8 +1366,9 @@
     569,
     580
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "james-002-14",
@@ -1274,8 +1379,9 @@
     580,
     590
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "james-003-14",
@@ -1286,8 +1392,9 @@
     590,
     594
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "james-004-12",
@@ -1298,8 +1405,9 @@
     594,
     604
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "james-005-8",
@@ -1310,8 +1418,9 @@
     604,
     613
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "james-006-7",
@@ -1322,8 +1431,9 @@
     613,
     623
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "james-007-5",
@@ -1334,8 +1444,9 @@
     623,
     633
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "i-peter-001-16",
@@ -1346,8 +1457,9 @@
     635,
     643
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "i-peter-002-15",
@@ -1358,8 +1470,9 @@
     643,
     650
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "i-peter-003-15",
@@ -1370,8 +1483,9 @@
     650,
     654
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "i-peter-004-13",
@@ -1382,8 +1496,9 @@
     654,
     662
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "i-peter-005-9",
@@ -1394,8 +1509,9 @@
     662,
     667
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "i-peter-006-8",
@@ -1406,8 +1522,9 @@
     667,
     674
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "i-peter-007-6",
@@ -1418,8 +1535,9 @@
     674,
     681
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "i-peter-008-5",
@@ -1430,8 +1548,9 @@
     681,
     690
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "i-peter-009-5",
@@ -1442,8 +1561,9 @@
     690,
     697
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "ii-peter-001-17",
@@ -1454,8 +1574,9 @@
     697,
     706
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "ii-peter-002-16",
@@ -1466,8 +1587,9 @@
     706,
     714
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   },
   {
    "id": "ii-peter-003-16",
@@ -1478,8 +1600,9 @@
     714,
     723
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "batch",
+   "source": "transcribed",
+   "claimed": "2026-11-13T18:01:42Z"
   }
  ]
 }
