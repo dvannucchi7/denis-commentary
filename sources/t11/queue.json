@@ -929,8 +929,9 @@
     511,
     521
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T07:39:24Z"
+   "status": "done",
+   "claimed": "2026-11-13T07:39:24Z",
+   "note": "Published (PDF 512-521, pp. 492-501; Luke 5:17-39). Margin numerals read from the sense, e.g. 'Is. xliii, 25', 'Lev. xxiv, 15, 16', 'Joann. xvi, 28' (read as John 8:21), 'Act. ii, 44, 46', 'Matth. xxvi, 56, 69'. Denis's text: 'Quid cogitatis mala' (5:22, as Matt 9:4), 'Similiter et Pharisaei' (5:33, margin variant 'Pharisaeorum'), 'Vetus vinum melius est novo' (5:39), noted. OCR 'similitudo sicut et habitus' read as 'consuetudo' (sense). Unconfirmed (no margin note read): Mal 4:2, Rom 10:2 (margin unread 'Rom. x, 2'?), 1 Kings 16:7 (margin 'I Reg. xvi'), Job 42:2, Gen 3:22 (margin unread 'Gen. iii, 22')."
   },
   {
    "id": "luke-14",
