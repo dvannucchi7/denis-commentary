@@ -381,17 +381,53 @@ def cmd_pilot(vol, item_id):
           json.dumps({k: usage.get(k) for k in ('input_tokens', 'output_tokens', 'cache_read_input_tokens')}))
     if res != "published": print("\n".join(st["items"][item_id]["problems"])[:3000])
 
+NO_CREDIT = os.path.join(BATCH_DIR, "NO_CREDIT")
+CREDIT_RX = re.compile(r"credit balance|billing|insufficient.{0,20}(credit|fund)", re.I)
+
+class NoCredit(Exception): pass
+
+def fall_back(st, why):
+    """The API credit has run out (Dave: then go back to the scheduled runs). Every article not yet published
+    goes back to "todo" in its queue, so the hourly runs pick it up; a flag file tells the check-ins."""
+    open(NO_CREDIT, "w").write(time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()) + " " + why + "\n")
+    n = 0
+    for vol in VOLS:
+        qp = os.path.join(ROOT, "sources", vol, "queue.json")
+        if not os.path.exists(qp): continue
+        q = json.load(open(qp)); ch = False
+        for it in q["items"]:
+            if it["status"] == "batch" and st["items"].get(it["id"], {}).get("status") != "published":
+                it["status"] = "todo"; it.pop("claimed", None); it["note"] = "batch stopped (API credit ran out)"; ch = True; n += 1
+        if ch:
+            json.dump(q, open(qp, "w"), ensure_ascii=False, indent=1); git("add", qp)
+    for b in st["batches"]:
+        if b["open"]:
+            try: client().messages.batches.cancel(b["id"])
+            except Exception: pass
+            b["open"] = False
+    save(st)
+    git("commit", "-q", "-m", f"Batch stopped (API credit ran out): {n} articles back to the queues for the scheduled runs"
+        "\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n"
+        "Claude-Session: https://claude.ai/code/session_01P42bsAZ8MRwT4QtVUC2W2R", check=False)
+    push(); print(f"API CREDIT RAN OUT ({why}): {n} articles put back to todo; batch work stopped")
+
 def submit(st, reqs, kind):
     c = client(); ids = []
+    if os.path.exists(NO_CREDIT): raise NoCredit("flag file")
     for i in range(0, len(reqs), 20):            # keep each batch well under the 256 MB limit
         chunk = reqs[i:i + 20]
-        b = c.messages.batches.create(requests=chunk)
+        try:
+            b = c.messages.batches.create(requests=chunk)
+        except Exception as e:
+            if CREDIT_RX.search(str(e)): raise NoCredit(str(e)[:200])
+            raise
         st["batches"].append({"id": b.id, "kind": kind, "items": [r["custom_id"] for r in chunk],
                               "submitted": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "open": True})
         ids.append(b.id); save(st)
     return ids
 
 def cmd_submit(vol, n=None):
+    if os.path.exists(NO_CREDIT): return print("API credit ran out earlier: not sending (the scheduled runs take over)")
     st = state(); q = queue(vol); reqs = []
     busy = {i for b in st["batches"] if b["open"] for i in b["items"]}
     have = set()                     # articles already in the app from an earlier (non-batch) translation: keep them
@@ -414,7 +450,10 @@ def cmd_submit(vol, n=None):
         it["status"] = "batch"; it["claimed"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
         print("prepared", it["id"], flush=True)
     if not reqs: return print("nothing to send")
-    ids = submit(st, reqs, "translate")
+    try:
+        ids = submit(st, reqs, "translate")
+    except NoCredit as e:
+        return fall_back(st, str(e))
     json.dump(q, open(os.path.join(ROOT, "sources", vol, "queue.json"), "w"), ensure_ascii=False, indent=1)
     git("add", f"sources/{vol}/queue.json")
     git("commit", "-q", "-m", f"Batch: {len(reqs)} articles of {vol} sent ({', '.join(ids)})\n\n"
@@ -425,7 +464,11 @@ def push():
     git("pull", "-q", "--rebase", "origin", "main", check=False); git("push", "-q", "origin", "main", check=False)
 
 def cmd_tick():
-    st = state(); c = client(); done, repairs = [], []
+    try: _tick()
+    except NoCredit as e: fall_back(state(), str(e))
+
+def _tick():
+    st = state(); c = client(); done, repairs = [], []; credit_out = False
     for b in [b for b in st["batches"] if b["open"]]:
         info = c.messages.batches.retrieve(b["id"])
         if info.processing_status != "ended":
@@ -434,6 +477,7 @@ def cmd_tick():
         git("pull", "-q", "--rebase", "origin", "main", check=False)
         for r in c.messages.batches.results(b["id"]):
             if r.result.type != "succeeded":
+                if CREDIT_RX.search(str(getattr(r.result, "error", "") or "")): credit_out = True
                 rec = st["items"].setdefault(r.custom_id, {"vol": item_of(r.custom_id)[0], "attempts": 0})
                 rec["problems"] = [f"the request {r.result.type}"]; rec["status"] = "retry"; repairs.append(r.custom_id); continue
             m = r.result.message
@@ -455,6 +499,7 @@ def cmd_tick():
                 if res != "repair": continue
             repairs.append(i)
     if done: push()
+    if credit_out: raise NoCredit("batch requests failed for lack of credit")
     if repairs:
         reqs = []
         for i in repairs:

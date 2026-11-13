@@ -9,7 +9,11 @@ the procedure.
 
 1. **Pick the work, and keep going.** Note the time when the run starts (`date -u`). Work through the
    queues in order: first the re-checks in `sources/t11/recheck.json` (see "Re-checking a published
-   article" below), then `sources/t11/queue.json`, then `sources/t12/queue.json`. Take the first item
+   article" below), then `sources/t11/queue.json`, then `sources/t12/queue.json`, then (Dave's order)
+   `sources/t13/queue.json` (Epistles), `sources/t6/queue.json` (Psalms), `sources/t7/queue.json`
+   (Proverbs–Wisdom), `sources/t10/queue.json` (Daniel, minor prophets), `sources/t1/queue.json`
+   (Genesis–Exodus 19), whichever exist. Items with status `"batch"` belong to the API batch run: leave
+   them alone (when the API credit runs out they are set back to `"todo"`). Take the first item
    whose status is `"todo"`, or `"in-progress"` with a `claimed` time more than 2 hours old (an
    abandoned run). Skip `"needs-margins"` items until their margins have been read (see step 5). **Claim it before starting:** set `"status": "in-progress"` and
    `"claimed": "<UTC time>"`, commit ("Claim matthew-10"), `git pull --rebase origin main`, push. If the
@@ -24,6 +28,16 @@ the procedure.
    HEADING, in reading order). The article starts at its heading (`ARTICULUS …` and its title) and ends
    where the next article's heading begins. `tools/assemble.py OUT.txt pages…` joins pages and removes
    running heads, page numbers and the gutter letters A–D.
+   **Volumes transcribed by the API** (items with `"source": "transcribed"`: t13, t6, t7, t10, t1) have no
+   OCR pages and no `margins/` folder. Their `sources/<vol>/articles/<id>.txt` is a transcription made
+   from the page images: italics as `_…_`, headings as `### …`, `[…]` where the model could not read,
+   and each margin note in `⟦…⟧` at the start of the line it stands beside (`⟦Rom. xii, 1.⟧` a reference,
+   `⟦5⟧` the start of verse 5). Take the references from those `⟦…⟧` notes (they are the margins: step 5
+   applies to them, not to `margins.py`, and such items are never "needs-margins"). The scans are not
+   in the repository; where the transcription has `[…]` that matters, mark the item "needs-scan".
+   An item with `"part"`/`"parts"` is one part of a long article: translate only its text, with the
+   article's number and title; `tools/add_article.py` joins the parts (give it `"part"` and `"parts"`).
+   `transcribed/p<NNN>.txt` holds each page.
 3. **Clean the Latin.** Put it in reading order (left column, then right, page by page), rejoin words
    broken across lines, and correct obvious OCR slips (e.g. `eum`→`cum`, `seript`→`script`, `prae`→`præ`,
    commas read as full stops). Do not rewrite Denis's Latin; when unsure, keep what is printed.
