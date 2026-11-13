@@ -1,0 +1,9 @@
+HEAD: […]
+
+=== LEFT ===
+[…]
+
+=== RIGHT ===
+[…]
+
+The images don't show a printed page of Denis's Latin text. The left image shows a blank page with a ruled grid at the top and a grey rectangle. The right image shows a library-book edge with a handwritten call number ("BQ 6522 .A2"), a date-due stamp ("AUG 1"), a faint library label ("The Institute of Mediaeval Studies, 59 Queen's Park, Toronto 5, Canada"), and the number "3923". None of this is legible Latin from the edition, so I can't transcribe the running head or either column.

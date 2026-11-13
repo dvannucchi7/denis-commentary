@@ -1,0 +1,44 @@
+HEAD: INDEX GENERALIS
+
+=== LEFT ===
+ENARRATIONES
+IN OMNES BEATI PAULI EPISTOLAS.
+Proœmium . . . . . . . . . . . . . . XIII
+ENARRATIO IN EPISTOLAM BEATI PAULI
+AD ROMANOS.
+### Articulus I. De veritate, firmitate ac certitudine christianæ sapientiæ . . . . 3
+### Articulus II. De prologo Hieronymi super epistolas Pauli . . . 4
+### Articulus III. Expositio primi capituli epistolæ ad Romanos. . . . 5
+### Articulus IV. Prosecutio expositionis hujus primi capituli, ab eo loco quo dicitur : Non enim erubesco Evangelium. 12
+### Articulus V. Expositio capituli secundi : Propter quod inexcusabilis es, o homo. 18
+### Articulus VI. Elucidatio capituli tertii : Quid ergo amplius est Judæo ? . . . 26
+### Articulus VII. Explanatio capituli quarti : Quid ergo dicemus invenisse Abraham? 33
+### Articulus VIII. Declaratio capituli quinti : Justificati ergo ex fide . . . 39
+### Articulus IX. Expositio capituli sexti: Quid ergo dicemus ? . . . 47
+### Articulus X. Expositio capituli septimi : An ignoratis fratres, etc. " . . 52
+### Articulus XI. Explanatio capituli octavi : Nihil ergo nunc damnationis est, etc. . 58
+### Articulus XII. Prosecutio expositionis hujus capituli octavi, ab eo loco quo dicitur: Existimo enim quod non sunt condignæ, etc. . . . 65
+### Articulus XIII. Declaratio capituli noni : Veritatem dico in Christo, etc. . . . 72
+### Articulus XIV. Expositio capituli decimi : Fratres, voluntas quidem cordis mei, etc. 82
+### Articulus XV. Elucidatio capituli undecimi : Dico ergo : Numquid repulit Deus
+
+=== RIGHT ===
+decimi : Omnis anima potestatibus sublimioribus subdita sit . . . . . . 100
+### Articulus XVIII. Expositio capituli quartadecimi : Infirmum autem in fide assumite. 103
+### Articulus XIX. Expositio capituli quintadecimi: Debemus autem nos firmiores, etc. 109
+### Articulus XX. Declaratio capituli sextadecimi et ultimi : Commendo autem vobis, etc. . . . 115
+ENARRATIO IN EPISTOLAM I BEATI PAULI AD CORINTHIOS.
+Præfatio . . . . . . . . . . . . . . 121
+### Articulus I. Expositio capituli primi : Paulus vocatus apostolus, etc. . . . 123
+### Articulus II. Expositio capituli secundi : Et ego, quum venissem ad vos, fratres. 132
+### Articulus III. Elucidatio capituli tertii : Et ego, fratres, non potui vobis loqui. 136
+### Articulus IV. Expositio capituli quarti : Sic nos existimet homo ut ministros Christi. 141
+### Articulus V. Expositio capituli quinti : Omnino auditur inter vos fornicatio. . 144
+### Articulus VI. Elucidatio capituli sexti : Audet aliquis vestrum habens negotium etc. . . . 147
+### Articulus VII. Declaratio capituli septimi : De quibus autem scripsistis mihi. . . 151
+### Articulus VIII. Elucidatio capituli octavi: De his autem quæ idolis sacrificantur, etc.. 159
+### Articulus IX. Explanatio capituli noni : Non sum liber ? . . . 162
+### Articulus X. Expositio capituli decimi : Nolo enim vos ignorare, fratres . . . 168
+### Articulus XI. Expositio capituli undecimi : Imitatores mei estote. . . 174
+### Articulus XII. Elucidatio capituli duodecimi . De spiritualibus autem nolo vos ignorare 182
+### Articulus XIII. Explanatio capituli tertiide-
