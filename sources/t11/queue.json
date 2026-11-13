@@ -1046,8 +1046,9 @@
     595,
     602
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T08:19:50Z"
+   "status": "done",
+   "claimed": "2026-11-13T08:19:50Z",
+   "note": "Published (PDF 596-602, pp. 576-582; Luke 8:40-56). Margin numerals from the sense, e.g. 'Eccli. iii, 20', 'Matth. ix, 18', 'Matth. ix, 21', 'I Thess. iv, 12', 'Rom. xv, 1', 'Prov. xix, 29', 'Luc. xxiv, 41', 'Matth. ix, 26'. References added without a margin note read: Is 28:21 ('alienum opus'), Matt 17:1, Matt 26:37, 4 Kings 4:34. Edition footnote at v. 50: prints 'dixit*' (Vulgate respondit), noted in the text."
   },
   {
    "id": "luke-23",
