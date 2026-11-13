@@ -877,8 +877,9 @@
     472,
     480
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T07:14:01Z"
+   "status": "done",
+   "claimed": "2026-11-13T07:14:01Z",
+   "note": "Published (PDF 473-480, pp. 453-460; Luke 3:21-38). Denis's 'Pater, clarifica Filium tuum' (margin John 12:28) are the words of John 17:1: tagged 17:1, note. Margin 'Ps. cxi(?), 16, sec. Hebr.' taken as Ps 113:24 (Hebr. 115:16), reference-only, note. Ecclus 44:16: Denis has 'sapientiam' for 'poenitentiam', note. Is 42:1: Denis has 'puer' for 'servus', note. Margin numerals read from the sense, e.g. 'Philipp. i, 7' = Phil 2:7, 'Joann. iii, 34' = John 3:34, 'Gen. xli, 46', 'Heb.'/'Ibid. iv, 18, 19, 23' = Gen 4:18-23, 'Ibid. v, 27' = Gen 5:27. Unconfirmed (no margin note read): Jude 1:14, 2 Pet 2:5, Ecclus 49:16 (margin read 'Ibid. xlix, 16'), Wis 4:10 (margin unread '...,10'). Margin notes referring to Denis's own Matthew commentary (Art. VI, Art. II etc.) given as notes. Douay file typo at Luke 3:36 ('who was Of Noe'), kept as printed in the file."
   },
   {
    "id": "luke-10",
