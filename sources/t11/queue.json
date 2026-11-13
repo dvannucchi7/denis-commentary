@@ -981,8 +981,9 @@
     551,
     559
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T07:59:42Z"
+   "status": "done",
+   "claimed": "2026-11-13T07:59:42Z",
+   "note": "Published (PDF 552-558, pp. 532-538; Luke 7:1-17). Margin numerals taken from the sense, e.g. 'Joann. iv, 46-50' = John 4:47, 'Jer. xxiii, 24' = Jer 23:24, 'I Reg. xxi, 5' = 1 Kings 21:5, 'Ps. lxvii, 5' = Ps 67:5, 'Ps. cxlv, 9' = Ps 145:9, 'Is. i, 23' (read 'I8. 1, 93'), 'Marc. ii, 9' = Mark 2:9, 'III Reg. xvii, 23' = 3 Kings 17:23, 'Ps. lxviii, 16' = Ps 68:16. No margin note read (kept): Is 42:8. Denis says 'the Samaritans in John' for John 6:14 (the crowd fed with the loaves); translator's note added. Douay file typo at 4 Kings 20:1 ('not llve'), so the tag stops before those words."
   },
   {
    "id": "luke-18",
