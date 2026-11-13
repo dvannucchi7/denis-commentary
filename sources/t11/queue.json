@@ -994,8 +994,9 @@
     558,
     569
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T08:03:32Z"
+   "status": "done",
+   "claimed": "2026-11-13T08:03:32Z",
+   "note": "Published (PDF 559-569, pp. 539-549; Luke 7:18-35). Margin numerals taken from the sense, e.g. 'Num. xi, 28-29', 'Prov. xvii, 9', 'Eccli. v, 11-12', 'Prov. xxiv, 5', 'Luc. xvii, 12', 'Joann. ix, 24'. 'Post modicum qui venturus est, veniet et non tardabit' (margin Habac. ii, 3) is worded as Heb 10:37: tagged Hab 2:3 with a note. 'Evangelizare pauperibus misit me' (margin Is. lxi, 1) tagged Luke 4:18 with a note. No margin note read (kept): Is 53:1 (margin unread 'Is. liii'), Is 35:4-6 (margin unread 'Is. xxxv, 4-6'), Mal 3:1, 1 Cor 1:20, Rom 8:6, 1 Cor 15:58, 2 Thess 2:2, Is 42:19, Is 61:1. Douay file typo at Acts 20:27 ('spread' for 'spared'). Also fixed in this commit: three quotation markers in Art. XVI (Luke 6:36, 6:46, 1 Cor 3:11) that had been written with four fields, and the Latin of Matt 12:37 there."
   },
   {
    "id": "luke-19",
