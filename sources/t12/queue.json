@@ -23,8 +23,9 @@
     18,
     32
    ],
-   "status": "todo",
-   "chapter_guess": 10
+   "status": "in-progress",
+   "chapter_guess": 10,
+   "claimed": "2026-11-13T12:39:11Z"
   },
   {
    "id": "luke-28",
