@@ -942,8 +942,9 @@
     520,
     529
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T07:41:53Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-13T07:41:53Z",
+   "note": "Published (PDF 521-529, pp. 501-509; Luke 6:1-19). PDF 521 (p. 501): the foot of the left column is garbled in the OCR (v. 1, Isidore on 'sabbatum secundo primum': after 'Vel, secundum Isidorum' only '...secundum erat Pascha[e], primum autem ...' survives before 'Azymorum'); marked [...] with a translator's note; fill from the scan. Margin numerals taken from the sense, e.g. 'Marc. vi' = Mark 6:31, 'Matth. xii' = Matt 12:2/12:10, 'Philipp. v, 15, 16' = Phil 2:15-16, 'Marc. ii, 10' = Mark 3:10, 'Ps. lxxvi, 5' = Ps 76:5; 'Omne opus servile non facietis in eo' tagged Lev 23:7 (margin: Lev. xxiii; Num. xxviii, xxix), with a note. No margin note read (kept): 1 Kings 10:6 (margin unread 'Reg. x, 6')."
   },
   {
    "id": "luke-15",
