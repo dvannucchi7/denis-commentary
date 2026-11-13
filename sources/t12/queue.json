@@ -11,9 +11,9 @@
     11,
     19
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 10,
-   "claimed": "2026-11-13T12:31:31Z"
+   "note": "Published with gaps: the bottom lines of both columns of PDF 16 (p. 6; end of v. 14, start of v. 15 on Capharnaum, and the passage on God's judgments) are garbled in the OCR; missing words marked […]. Please rescan PDF 16 and fill the gaps. Margin numerals guessed: Is 5:1 (vineyard), Gen 7:9 (two and two into the ark), Acts 28:5 (viper)."
   },
   {
    "id": "luke-27",
