@@ -1007,8 +1007,9 @@
     568,
     578
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T08:10:09Z"
+   "status": "done",
+   "claimed": "2026-11-13T08:10:09Z",
+   "note": "Published (PDF 569-577, pp. 549-557; Luke 7:36-50). PDF 574 (p. 554): a stain or garbled strip at the top of both columns; the text reads straight on ('Hoc de duplici | conversione verificatur. Praefatis namque | verbis prolatis'; 'quae Christus tam | diligenter enumerare dignatur'), so it was taken as continuous, with a translator's note: check against the scan that no line is lost. OCR 'primo instituit' (sacrament of Penance, v. 38) rendered 'afterwards' (postea) from the sense, with a note. 'Nemo mundus a sorde, etiam si unius diei...' (margin Job xiv, 4-5) is the Septuagint reading: reference only, with a note. No margin note read (kept): Ps 140:5, Rom 5:1. Douay file typos at Luke 7:39 ('if he were if a prophet') and 7:45 ('cane in'); the tags avoid those words."
   },
   {
    "id": "luke-20",
