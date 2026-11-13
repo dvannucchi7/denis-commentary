@@ -1032,8 +1032,9 @@
     587,
     596
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T08:14:56Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-13T08:14:56Z",
+   "note": "Published (PDF 588-596, pp. 568-576; Luke 8:22-39). PDF 590 (p. 570): in the upper half of both columns about one line in five is garbled in the OCR (a fold or stain). Several lines were restored from the margin reader's line text ('Sed nulla est Evangelistarum discordia, quia totum redit in idem'; 'sedasse, imo et montes transferre. Habuerunt tamen'; 'quia super Matthaeum hinc scripsi. Nos vero discipulorum Christi sequentes vestigia'). Still lost, marked [...] with translator's notes: v. 25, left column, a line after 'omnia verba haec dicere potuit et forsitan' (before 'fides vestra, modicae fidei? etc.'); right column, a line after 'Major est quam scimus, vel' (before '...nem quid apparet in ipso') and a line after 'quod vel Deus esset, vel' (before 'praeceptum elementa mox obtemperabant'). Fill from the scan. Margin numerals from the sense, e.g. 'Ps. cxiii, 3' = Ps 113:3, 'II Cor. vi, 15', 'Ps. xliii, 26', 'Gen. vii, 11', 'Marc. v, 10', 'Ps. xliv, 3', 'Ps. cxv, 12' = Ps 115:3 (Vulgate numbering), 'Luc. iv, 34'. No margin note read (kept): Ps 35:7, Ps 5:11."
   },
   {
    "id": "luke-22",
