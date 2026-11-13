@@ -1,0 +1,11 @@
+HEAD: […]
+=== LEFT ===
+[…]
+=== RIGHT ===
+[…]
+
+The images show only the Internet Archive digitization notice, not a page of Denis's text. Here is what is printed on them, which is not the book's content:
+
+"Digitized by the Internet Archive in 2011 with funding from University of Toronto"
+
+"http://www.archive.org/details/operaomniainunum01deni"

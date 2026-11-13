@@ -1,0 +1,51 @@
+HEAD: INDEX GENERALIS
+
+=== LEFT ===
+Præfatio hujus editionis . . . . . . . .
+Vita beatæ memoriæ Dionysii Cartusiani
+Elenchus operum ejus . . . . . . . . .
+D. Dionysii Cartusiani protestatio ad Superiorem
+Epistolæ B. J. Houghton et Th. Loer. . . .
+De inventione reliquiarum Ven. Dionysii . .
+Ex actis Sanctorum . . . . . . . . .
+Ad lectorem . . . . . . . . . . .
+### ENARRATIONES
+### IN QUINQUE MOSAICÆ LEGIS LIBROS.
+### ENARRATIO IN GENESIM.
+Præfatio . . . . . . . . . . . 3
+Articulus I. De variis translationibus Scripturarum veteris Testamenti . . . . 5
+Articulus II. Quid sentiendum sit circa præhabita. . . . . . . . . . . 7
+Articulus III. Expositio brevissima prologi beati Hieronymi super Genesim . . 8
+Articulus IV. De multiplici distinctione atque divisione totius divinæ Scripturæ. 13
+Articulus V. De expositione exordii Genesis, scilicet, In principio creavit Deus cœlum et terram, secundum Augustinum. 13
+Articulus VI. De expositione ejusdem verbi, secundum alios Sanctos. . . . . 17
+Articulus VII. Cui expositionum præinductarum videatur magis esse consentiendum . . . . . . . . . . . 21
+Articulus VIII. Expositio verborum sequentium : Terra autem erat inanis et vacua, et tenebræ erant super faciem abyssi, et Spiritus Domini ferebatur super aquas. 22
+Articulus IX. Elucidatio ejus quod dicitur, Fiat lux, usque ad id, Dixit quoque Deus, Fiat firmamentum . . . . . 26
+Articulus X. Expositio litteræ, in qua describitur opus secundæ diei . . . . 30
+Articulus XI. Expositio textus describentis opus tertiæ diei. . . . . . . . 35
+Articulus XII. Elucidatio litteræ, in qua recitatur opus quartæ diei . . . . . 40
+
+=== RIGHT ===
+suum . . . . . . . . . . […]
+. . . . . . . . . . . . […]
+. . . . . . . . . . . . […]
+. . . . . . . . . . . . […]
+. . . . . . . . . . . . […]
+. . . . . . . . . . . . […]
+. . . . . . . . . . . . […]
+. . . . . . . . . . . . […]
+Articulus XIII. Explanatio textus de opere quintæ diei . . . . . . . . . . . 44
+Articulus XIV. Prosecutio expositionis hujus capituli, ab illo loco, Dixit quoque Deus : Producat terra animam viventem. 48
+Articulus XV. De expositione hujus capituli secundum Augustinum. . . . . 56
+Articulus XVI. De spirituali ac mystica hujus capituli expositione . . . . 60
+Articulus XVII. Solutio quarumdam quæstionum circa capitulum istud. . . . 63
+Articulus XVIII. Elucidatio capituli secundi : Igitur perfecti sunt cœli, usque ad illud : Istæ sunt generationes cœli et terræ. 66
+Articulus XIX. Prosecutio expositionis hujus capituli ab eo loco : Istæ sunt generationes cœli et terræ. . . . . . . 69
+Articulus XX. Elucidatio residuæ partis hujus capituli : Tulit ergo Dominus. . 78
+Articulus XXI. Introductio et solutio quæstionum concernentium passum textus istius articulo præcedenti expositum . 83
+Articulus XXII. Elucidatio spiritualis ejusdem capituli. . . . . . . . . . 86
+Articulus XXIII. Elucidatio capituli tertii : Sed et serpens erat callidior cunctis animantibus terræ. . . . . . . . . 91
+Articulus XXIV. Prosecutio expositionis hujus tertii capituli ab illo loco : Vidit igitur mulier . . . . . . . . . 96
+Articulus XXV. Elucidatio residuæ partis hujus tertii capituli : Mulieri quoque dixit Deus . . . . . . . . . . . . 104
+Articulus XXVI. Explanatio spiritualis ejusdem capituli . . . . . . . . 109

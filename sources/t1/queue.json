@@ -1,0 +1,1709 @@
+{
+ "volume": "t1",
+ "items": [
+  {
+   "id": "genesis-001",
+   "book": "genesis",
+   "art": 1,
+   "chapter_guess": null,
+   "pages": [
+    111,
+    113
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-002",
+   "book": "genesis",
+   "art": 2,
+   "chapter_guess": null,
+   "pages": [
+    113,
+    114
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-003",
+   "book": "genesis",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    114,
+    119
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-004",
+   "book": "genesis",
+   "art": 4,
+   "chapter_guess": 1,
+   "pages": [
+    119,
+    119
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-005",
+   "book": "genesis",
+   "art": 5,
+   "chapter_guess": 1,
+   "pages": [
+    119,
+    123
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-006",
+   "book": "genesis",
+   "art": 6,
+   "chapter_guess": 1,
+   "pages": [
+    123,
+    126
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-007",
+   "book": "genesis",
+   "art": 7,
+   "chapter_guess": 1,
+   "pages": [
+    127,
+    128
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-008",
+   "book": "genesis",
+   "art": 8,
+   "chapter_guess": 1,
+   "pages": [
+    128,
+    132
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-009",
+   "book": "genesis",
+   "art": 9,
+   "chapter_guess": 1,
+   "pages": [
+    132,
+    136
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-010",
+   "book": "genesis",
+   "art": 10,
+   "chapter_guess": 1,
+   "pages": [
+    136,
+    141
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-011",
+   "book": "genesis",
+   "art": 11,
+   "chapter_guess": 1,
+   "pages": [
+    141,
+    146
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-012",
+   "book": "genesis",
+   "art": 12,
+   "chapter_guess": 1,
+   "pages": [
+    146,
+    150
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-013",
+   "book": "genesis",
+   "art": 13,
+   "chapter_guess": 1,
+   "pages": [
+    150,
+    154
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-014",
+   "book": "genesis",
+   "art": 14,
+   "chapter_guess": 1,
+   "pages": [
+    154,
+    162
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-015",
+   "book": "genesis",
+   "art": 15,
+   "chapter_guess": 1,
+   "pages": [
+    162,
+    166
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-016",
+   "book": "genesis",
+   "art": 16,
+   "chapter_guess": 1,
+   "pages": [
+    166,
+    169
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-017",
+   "book": "genesis",
+   "art": 17,
+   "chapter_guess": 1,
+   "pages": [
+    169,
+    172
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-018",
+   "book": "genesis",
+   "art": 18,
+   "chapter_guess": 2,
+   "pages": [
+    172,
+    175
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-019",
+   "book": "genesis",
+   "art": 19,
+   "chapter_guess": 2,
+   "pages": [
+    175,
+    184
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-020",
+   "book": "genesis",
+   "art": 20,
+   "chapter_guess": 2,
+   "pages": [
+    184,
+    188
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-021",
+   "book": "genesis",
+   "art": 21,
+   "chapter_guess": 2,
+   "pages": [
+    189,
+    192
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-022",
+   "book": "genesis",
+   "art": 22,
+   "chapter_guess": 2,
+   "pages": [
+    192,
+    197
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-023",
+   "book": "genesis",
+   "art": 23,
+   "chapter_guess": 3,
+   "pages": [
+    197,
+    202
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-024",
+   "book": "genesis",
+   "art": 24,
+   "chapter_guess": 3,
+   "pages": [
+    202,
+    210
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-025",
+   "book": "genesis",
+   "art": 25,
+   "chapter_guess": 3,
+   "pages": [
+    210,
+    215
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-026",
+   "book": "genesis",
+   "art": 26,
+   "chapter_guess": 3,
+   "pages": [
+    215,
+    219
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-027",
+   "book": "genesis",
+   "art": 27,
+   "chapter_guess": 3,
+   "pages": [
+    219,
+    227
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-028",
+   "book": "genesis",
+   "art": 28,
+   "chapter_guess": 4,
+   "pages": [
+    227,
+    234
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-029",
+   "book": "genesis",
+   "art": 29,
+   "chapter_guess": 4,
+   "pages": [
+    234,
+    243
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-030",
+   "book": "genesis",
+   "art": 30,
+   "chapter_guess": 4,
+   "pages": [
+    243,
+    247
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-031",
+   "book": "genesis",
+   "art": 31,
+   "chapter_guess": 5,
+   "pages": [
+    247,
+    253
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-032",
+   "book": "genesis",
+   "art": 32,
+   "chapter_guess": 6,
+   "pages": [
+    253,
+    259
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-033",
+   "book": "genesis",
+   "art": 33,
+   "chapter_guess": 6,
+   "pages": [
+    259,
+    264
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-034",
+   "book": "genesis",
+   "art": 34,
+   "chapter_guess": 6,
+   "pages": [
+    264,
+    268
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-035",
+   "book": "genesis",
+   "art": 35,
+   "chapter_guess": 6,
+   "pages": [
+    268,
+    272
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-036",
+   "book": "genesis",
+   "art": 36,
+   "chapter_guess": 7,
+   "pages": [
+    272,
+    277
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-037",
+   "book": "genesis",
+   "art": 37,
+   "chapter_guess": 7,
+   "pages": [
+    277,
+    279
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-038",
+   "book": "genesis",
+   "art": 38,
+   "chapter_guess": 8,
+   "pages": [
+    279,
+    284
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-039",
+   "book": "genesis",
+   "art": 39,
+   "chapter_guess": 8,
+   "pages": [
+    284,
+    288
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-040",
+   "book": "genesis",
+   "art": 40,
+   "chapter_guess": 9,
+   "pages": [
+    288,
+    295
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-041",
+   "book": "genesis",
+   "art": 41,
+   "chapter_guess": 9,
+   "pages": [
+    296,
+    299
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-042",
+   "book": "genesis",
+   "art": 42,
+   "chapter_guess": 10,
+   "pages": [
+    299,
+    302
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-043",
+   "book": "genesis",
+   "art": 43,
+   "chapter_guess": 11,
+   "pages": [
+    302,
+    308
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-044",
+   "book": "genesis",
+   "art": 44,
+   "chapter_guess": 11,
+   "pages": [
+    308,
+    310
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-045",
+   "book": "genesis",
+   "art": 45,
+   "chapter_guess": 12,
+   "pages": [
+    310,
+    318
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-046",
+   "book": "genesis",
+   "art": 46,
+   "chapter_guess": 12,
+   "pages": [
+    318,
+    321
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-047",
+   "book": "genesis",
+   "art": 47,
+   "chapter_guess": 13,
+   "pages": [
+    321,
+    323
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-048",
+   "book": "genesis",
+   "art": 48,
+   "chapter_guess": 14,
+   "pages": [
+    324,
+    328
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-049",
+   "book": "genesis",
+   "art": 49,
+   "chapter_guess": 14,
+   "pages": [
+    328,
+    329
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-050",
+   "book": "genesis",
+   "art": 50,
+   "chapter_guess": 15,
+   "pages": [
+    329,
+    337
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-051",
+   "book": "genesis",
+   "art": 51,
+   "chapter_guess": 15,
+   "pages": [
+    337,
+    341
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-052",
+   "book": "genesis",
+   "art": 52,
+   "chapter_guess": 16,
+   "pages": [
+    341,
+    347
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-053",
+   "book": "genesis",
+   "art": 53,
+   "chapter_guess": 16,
+   "pages": [
+    347,
+    349
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-054",
+   "book": "genesis",
+   "art": 54,
+   "chapter_guess": 17,
+   "pages": [
+    349,
+    353
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-055",
+   "book": "genesis",
+   "art": 55,
+   "chapter_guess": 17,
+   "pages": [
+    353,
+    356
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-056",
+   "book": "genesis",
+   "art": 56,
+   "chapter_guess": 17,
+   "pages": [
+    356,
+    359
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-057",
+   "book": "genesis",
+   "art": 57,
+   "chapter_guess": 18,
+   "pages": [
+    360,
+    369
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-058",
+   "book": "genesis",
+   "art": 58,
+   "chapter_guess": 18,
+   "pages": [
+    369,
+    373
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-059",
+   "book": "genesis",
+   "art": 59,
+   "chapter_guess": 19,
+   "pages": [
+    373,
+    381
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-060",
+   "book": "genesis",
+   "art": 60,
+   "chapter_guess": 19,
+   "pages": [
+    381,
+    383
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-061",
+   "book": "genesis",
+   "art": 61,
+   "chapter_guess": 20,
+   "pages": [
+    383,
+    387
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-062",
+   "book": "genesis",
+   "art": 62,
+   "chapter_guess": 21,
+   "pages": [
+    387,
+    391
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-063",
+   "book": "genesis",
+   "art": 63,
+   "chapter_guess": 22,
+   "pages": [
+    392,
+    397
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-064",
+   "book": "genesis",
+   "art": 64,
+   "chapter_guess": 22,
+   "pages": [
+    398,
+    399
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-065",
+   "book": "genesis",
+   "art": 65,
+   "chapter_guess": 23,
+   "pages": [
+    399,
+    401
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-066",
+   "book": "genesis",
+   "art": 66,
+   "chapter_guess": 24,
+   "pages": [
+    401,
+    408
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-067",
+   "book": "genesis",
+   "art": 67,
+   "chapter_guess": 24,
+   "pages": [
+    408,
+    411
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-068",
+   "book": "genesis",
+   "art": 68,
+   "chapter_guess": 25,
+   "pages": [
+    411,
+    418
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-069",
+   "book": "genesis",
+   "art": 69,
+   "chapter_guess": 26,
+   "pages": [
+    418,
+    423
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-070",
+   "book": "genesis",
+   "art": 70,
+   "chapter_guess": 26,
+   "pages": [
+    423,
+    425
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-071",
+   "book": "genesis",
+   "art": 71,
+   "chapter_guess": 27,
+   "pages": [
+    425,
+    431
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-072",
+   "book": "genesis",
+   "art": 72,
+   "chapter_guess": 27,
+   "pages": [
+    431,
+    434
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-073",
+   "book": "genesis",
+   "art": 73,
+   "chapter_guess": 28,
+   "pages": [
+    434,
+    438
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-074",
+   "book": "genesis",
+   "art": 74,
+   "chapter_guess": 29,
+   "pages": [
+    438,
+    443
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-075",
+   "book": "genesis",
+   "art": 75,
+   "chapter_guess": 30,
+   "pages": [
+    443,
+    453
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-076",
+   "book": "genesis",
+   "art": 76,
+   "chapter_guess": 30,
+   "pages": [
+    453,
+    455
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-077",
+   "book": "genesis",
+   "art": 77,
+   "chapter_guess": 31,
+   "pages": [
+    455,
+    460
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-078",
+   "book": "genesis",
+   "art": 78,
+   "chapter_guess": 32,
+   "pages": [
+    460,
+    465
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-079",
+   "book": "genesis",
+   "art": 79,
+   "chapter_guess": 32,
+   "pages": [
+    465,
+    467
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-080",
+   "book": "genesis",
+   "art": 80,
+   "chapter_guess": 33,
+   "pages": [
+    467,
+    469
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-081",
+   "book": "genesis",
+   "art": 81,
+   "chapter_guess": 34,
+   "pages": [
+    469,
+    473
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-082",
+   "book": "genesis",
+   "art": 82,
+   "chapter_guess": 35,
+   "pages": [
+    473,
+    477
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-083",
+   "book": "genesis",
+   "art": 83,
+   "chapter_guess": 35,
+   "pages": [
+    477,
+    479
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-084",
+   "book": "genesis",
+   "art": 84,
+   "chapter_guess": 36,
+   "pages": [
+    479,
+    482
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-085",
+   "book": "genesis",
+   "art": 85,
+   "chapter_guess": 37,
+   "pages": [
+    482,
+    489
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-086",
+   "book": "genesis",
+   "art": 86,
+   "chapter_guess": 37,
+   "pages": [
+    490,
+    492
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-087",
+   "book": "genesis",
+   "art": 87,
+   "chapter_guess": 38,
+   "pages": [
+    492,
+    495
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-088",
+   "book": "genesis",
+   "art": 88,
+   "chapter_guess": 39,
+   "pages": [
+    495,
+    498
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-089",
+   "book": "genesis",
+   "art": 89,
+   "chapter_guess": 39,
+   "pages": [
+    498,
+    500
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-090",
+   "book": "genesis",
+   "art": 90,
+   "chapter_guess": 40,
+   "pages": [
+    500,
+    503
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-091",
+   "book": "genesis",
+   "art": 91,
+   "chapter_guess": 41,
+   "pages": [
+    503,
+    508
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-092",
+   "book": "genesis",
+   "art": 92,
+   "chapter_guess": 41,
+   "pages": [
+    509,
+    510
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-093",
+   "book": "genesis",
+   "art": 93,
+   "chapter_guess": 42,
+   "pages": [
+    510,
+    514
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-094",
+   "book": "genesis",
+   "art": 94,
+   "chapter_guess": 43,
+   "pages": [
+    515,
+    518
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-095",
+   "book": "genesis",
+   "art": 95,
+   "chapter_guess": 44,
+   "pages": [
+    518,
+    523
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-096",
+   "book": "genesis",
+   "art": 96,
+   "chapter_guess": 45,
+   "pages": [
+    523,
+    527
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-097",
+   "book": "genesis",
+   "art": 97,
+   "chapter_guess": 46,
+   "pages": [
+    527,
+    531
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-098",
+   "book": "genesis",
+   "art": 98,
+   "chapter_guess": 47,
+   "pages": [
+    532,
+    537
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-099",
+   "book": "genesis",
+   "art": 99,
+   "chapter_guess": 48,
+   "pages": [
+    538,
+    543
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-001-2",
+   "book": "genesis",
+   "art": 1,
+   "chapter_guess": 49,
+   "pages": [
+    543,
+    554
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-002-2",
+   "book": "genesis",
+   "art": 2,
+   "chapter_guess": 49,
+   "pages": [
+    555,
+    565
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-102",
+   "book": "genesis",
+   "art": 102,
+   "chapter_guess": 49,
+   "pages": [
+    565,
+    571
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "genesis-103",
+   "book": "genesis",
+   "art": 103,
+   "chapter_guess": 50,
+   "pages": [
+    571,
+    581
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-001",
+   "book": "exodus",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    581,
+    587
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-002",
+   "book": "exodus",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    587,
+    590
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-003",
+   "book": "exodus",
+   "art": 3,
+   "chapter_guess": 2,
+   "pages": [
+    590,
+    597
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-004",
+   "book": "exodus",
+   "art": 4,
+   "chapter_guess": 2,
+   "pages": [
+    597,
+    599
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-005",
+   "book": "exodus",
+   "art": 5,
+   "chapter_guess": 3,
+   "pages": [
+    599,
+    607
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-006",
+   "book": "exodus",
+   "art": 6,
+   "chapter_guess": 3,
+   "pages": [
+    608,
+    610
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-007",
+   "book": "exodus",
+   "art": 7,
+   "chapter_guess": 4,
+   "pages": [
+    610,
+    619
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-008",
+   "book": "exodus",
+   "art": 8,
+   "chapter_guess": 4,
+   "pages": [
+    619,
+    621
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-009",
+   "book": "exodus",
+   "art": 9,
+   "chapter_guess": 5,
+   "pages": [
+    621,
+    624
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-010",
+   "book": "exodus",
+   "art": 10,
+   "chapter_guess": 5,
+   "pages": [
+    624,
+    625
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-011",
+   "book": "exodus",
+   "art": 11,
+   "chapter_guess": 6,
+   "pages": [
+    626,
+    632
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-012",
+   "book": "exodus",
+   "art": 12,
+   "chapter_guess": 7,
+   "pages": [
+    632,
+    641
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-013",
+   "book": "exodus",
+   "art": 13,
+   "chapter_guess": 7,
+   "pages": [
+    641,
+    642
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-014",
+   "book": "exodus",
+   "art": 14,
+   "chapter_guess": 8,
+   "pages": [
+    643,
+    649
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-015",
+   "book": "exodus",
+   "art": 15,
+   "chapter_guess": 8,
+   "pages": [
+    649,
+    651
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-016",
+   "book": "exodus",
+   "art": 16,
+   "chapter_guess": 9,
+   "pages": [
+    651,
+    656
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-017",
+   "book": "exodus",
+   "art": 17,
+   "chapter_guess": 9,
+   "pages": [
+    656,
+    658
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-018",
+   "book": "exodus",
+   "art": 18,
+   "chapter_guess": 10,
+   "pages": [
+    658,
+    662
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-019",
+   "book": "exodus",
+   "art": 19,
+   "chapter_guess": 11,
+   "pages": [
+    662,
+    666
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-020",
+   "book": "exodus",
+   "art": 20,
+   "chapter_guess": 12,
+   "pages": [
+    666,
+    677
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-021",
+   "book": "exodus",
+   "art": 21,
+   "chapter_guess": 12,
+   "pages": [
+    677,
+    679
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-022",
+   "book": "exodus",
+   "art": 22,
+   "chapter_guess": 12,
+   "pages": [
+    679,
+    683
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-023",
+   "book": "exodus",
+   "art": 23,
+   "chapter_guess": 12,
+   "pages": [
+    684,
+    686
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-024",
+   "book": "exodus",
+   "art": 24,
+   "chapter_guess": 13,
+   "pages": [
+    686,
+    690
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-025",
+   "book": "exodus",
+   "art": 25,
+   "chapter_guess": 13,
+   "pages": [
+    690,
+    691
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-026",
+   "book": "exodus",
+   "art": 26,
+   "chapter_guess": 14,
+   "pages": [
+    692,
+    697
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-027",
+   "book": "exodus",
+   "art": 27,
+   "chapter_guess": 14,
+   "pages": [
+    697,
+    699
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-028",
+   "book": "exodus",
+   "art": 28,
+   "chapter_guess": 15,
+   "pages": [
+    699,
+    705
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-029",
+   "book": "exodus",
+   "art": 29,
+   "chapter_guess": 15,
+   "pages": [
+    705,
+    710
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-030",
+   "book": "exodus",
+   "art": 30,
+   "chapter_guess": 15,
+   "pages": [
+    710,
+    711
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-031",
+   "book": "exodus",
+   "art": 31,
+   "chapter_guess": 15,
+   "pages": [
+    712,
+    716
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-032",
+   "book": "exodus",
+   "art": 32,
+   "chapter_guess": 16,
+   "pages": [
+    716,
+    725
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-033",
+   "book": "exodus",
+   "art": 33,
+   "chapter_guess": 16,
+   "pages": [
+    725,
+    728
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-034",
+   "book": "exodus",
+   "art": 34,
+   "chapter_guess": 17,
+   "pages": [
+    728,
+    732
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-035",
+   "book": "exodus",
+   "art": 35,
+   "chapter_guess": 17,
+   "pages": [
+    732,
+    734
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-036",
+   "book": "exodus",
+   "art": 36,
+   "chapter_guess": 18,
+   "pages": [
+    734,
+    739
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-037",
+   "book": "exodus",
+   "art": 37,
+   "chapter_guess": 18,
+   "pages": [
+    739,
+    741
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-038",
+   "book": "exodus",
+   "art": 38,
+   "chapter_guess": 19,
+   "pages": [
+    742,
+    748
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "exodus-039",
+   "book": "exodus",
+   "art": 39,
+   "chapter_guess": 19,
+   "pages": [
+    748,
+    753
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  }
+ ]
+}

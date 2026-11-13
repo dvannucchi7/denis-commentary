@@ -1,0 +1,4 @@
+genesis: 99 articles, PDF 111-543, chapters 1-48 of 50
+genesis: 4 articles, PDF 543-581, chapters 49-50 of 50
+exodus: 39 articles, PDF 581-753, chapters 1-19 of 40
+pages still unreadable: [53]

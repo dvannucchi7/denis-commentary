@@ -1,0 +1,35 @@
+HEAD: […]
+=== LEFT ===
+SS. D. N. Urbani Papæ VIII decreto,
+qua par est insistendo, profitemur nos
+in hoc libro allegamus, accipere aut accipi ab ullo velle, quam quo
+ea solent, quæ humana dumtaxat auctoritate nituntur.
+
+Wait, I must keep line structure.
+
+=== LEFT ===
+SS. D. N. Urbani Papæ VIII decreto,
+qua par est insistendo, profitemur nos
+in hoc libro allegamus, accipere aut acci-
+ea solent, quæ humana dumtaxat auctor-
+
+=== RIGHT ===
+, observantia et reverentia
+haud alio sensu, quidquid
+ipi ab ullo velle, quam quo
+ritate nituntur.
+
+Correction needed: rejoin hyphenated words and give final output only.
+
+HEAD: […]
+=== LEFT ===
+SS. D. N. Urbani Papæ VIII decreto,
+qua par est insistendo, profitemur nos
+in hoc libro allegamus, accipere aut accipi
+ea solent, quæ humana dumtaxat auctoritate
+
+=== RIGHT ===
+observantia et reverentia
+haud alio sensu, quidquid
+ab ullo velle, quam quo
+nituntur.

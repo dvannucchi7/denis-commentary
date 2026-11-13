@@ -1,0 +1,13 @@
+HEAD:
+=== LEFT ===
+### IM
+in festo
+### I
+Atrebati,
+=== RIGHT ===
+### PRIMI POTEST
+Fr. MICHAEL, Prior Cartusiæ,
+B. Odonis Cartusiani, anno 1896.
+### MPRIMATUR
+Z. LIÉNARD, Vic. Gen.,
+in festo SS. Nominis Jesu, anno 1896.

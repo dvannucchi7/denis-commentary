@@ -1,0 +1,7 @@
+HEAD: […]
+=== LEFT ===
+[…]
+=== RIGHT ===
+[…]
+
+Both column images are blank grey, with no legible text, so I could not transcribe anything from them.
