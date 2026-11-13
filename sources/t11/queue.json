@@ -825,8 +825,9 @@
     418,
     430
    ],
-   "status": "in-progress",
-   "claimed": "2026-11-13T02:27:00Z"
+   "status": "needs-scan",
+   "claimed": "2026-11-13T02:27:00Z",
+   "note": "Published (PDF 419-430, pp. 399-410; Luke 1:57-80). PDF 428 (p. 408): the foot of both columns is garbled in the OCR. Left column (v. 78): about two lines lost after 'At vero, sicut a parte cæli orientali, qua' and one or two after 'ita a Christo lux gratiæ nobis profluxit', marked […]. Right column (v. 79): the line '[ape]rires oculos cæcorum, et educeres de con[clusione]' filled in from Is 42:7 (margin), with a note. Margin numerals taken from the sense, e.g. 'Thren. iii, 25' = Lam 3:24, 'Gen. xv, 4' = Gen 15:1, 'Js. x, 6' = Is 9:6, 'Ps. cxlvii, 19' = Ps 147:8, 'Malach.' read as 1 Mach (= Mal 3:1); 'Dominus exercituum nomen ejus' tagged Is 47:4 (also 48:2), with a note. Unconfirmed note that 'all men by nature desire to know' is Aristotle (no margin note)."
   },
   {
    "id": "luke-06",
