@@ -35,9 +35,10 @@
     31,
     36
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 10,
-   "claimed": "2026-11-13T12:42:09Z"
+   "claimed": "2026-11-13T12:42:09Z",
+   "note": "Published (PDF 32-36, pp. 22-26; Luke 10:38-42). Opening word OCR'd as 'Qs' (drop capital?); taken as 'Quidquid Christus gessit in corpore' - check against the scan. A margin note beside 'Beda' reads '* Origenes' (kept as a bracketed note). Unconfirmed reference-only markers from unread margins: 1 Cor 1:24, John 1:1; Num 21:5 (margin read xxi, 9); 1 Cor 7:20 and Eph 4:1 (margin read 'I Cor. vi', 'Ephes. iv, 4')."
   },
   {
    "id": "luke-29",
