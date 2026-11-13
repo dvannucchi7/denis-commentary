@@ -37,6 +37,17 @@ for p in art["paras"]:
 
 path = os.path.join(ROOT, "data", "commentary", book + ".json")
 data = json.load(open(path)) if os.path.exists(path) else {"work": work, "source": source, "chapters": {}}
+part, parts = art.pop("part", None), art.pop("parts", None)
+if part:
+    # one part of an article sent in parts: keep the parts that are in, in order, under the same article
+    old = next((a for a in data["chapters"].get(ch, []) if a["num"] == art["num"]), None)
+    got = dict(old.get("_parts", {})) if old else {}
+    got[str(part)] = art["paras"]
+    if old and part != 1:
+        for k in ("title", "title_en", "note"):
+            if k in old: art[k] = old[k]
+    art["paras"] = [x for k in sorted(got, key=int) for x in got[k]]
+    if len(got) < parts: art["_parts"] = got
 arts = [a for a in data["chapters"].get(ch, []) if a["num"] != art["num"]] + [art]
 arts.sort(key=lambda a: rom(a["num"]))
 data["chapters"][ch] = arts

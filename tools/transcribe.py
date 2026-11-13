@@ -110,49 +110,159 @@ def roman(s):
         v = R[ch]; n += -v if i + 1 < len(s) and R[s[i + 1]] > v else v
     return n
 
-def cmd_cut(vol):
-    """Cut articles at their ### ARTICULUS headings; book and chapter from the running heads."""
+BAD = re.compile(r"can.t see|don.t see|no (page )?image|didn.t come through|not attached|upload", re.I)
+def bad_pages(vol):
+    """Pages whose transcription failed (empty, or the model said it saw no image)."""
+    d = os.path.join(ROOT, "sources", vol, "transcribed"); out = []
+    for f in os.listdir(d):
+        t = open(os.path.join(d, f)).read()
+        if len(t.strip()) < 40 or (BAD.search(t[:400]) and "===" not in t): out.append(int(f[1:-4]))
+    return sorted(out)
+
+def cmd_redo(vol, model):
+    """Send the failed pages of a volume again (once each)."""
+    st = state(); done = set(st.setdefault("redone", {}).get(vol, []))
+    pages = [p for p in bad_pages(vol) if p not in done]
+    if not pages:
+        st["redone"][vol] = sorted(done); save(st); print(vol, "nothing to redo"); return
+    for p in pages: os.remove(out_path(vol, p))
+    c = batch.client()
+    reqs = [{"custom_id": f"{vol}-p{p}", "params": request(vol, p, model)} for p in pages]
+    bt = c.messages.batches.create(requests=reqs)
+    st["batches"].append({"id": bt.id, "vol": vol, "pages": [pages[0], pages[-1]], "model": model, "open": True, "redo": pages})
+    st["redone"][vol] = sorted(done | set(pages)); save(st)
+    print(vol, "redo", len(pages), "pages in", bt.id)
+
+ORD = [("CENTESIM", 100), ("NONAGESIM", 90), ("OCTOGESIM", 80), ("SEPTUAGESIM", 70), ("SEXAGESIM", 60),
+       ("QUINQUAGESIM", 50), ("QUADRAGESIM", 40), ("TRIGESIM", 30), ("TRICESIM", 30), ("VIGESIM", 20), ("VICESIM", 20),
+       ("UNDECIM", 11), ("DUODECIM", 12), ("DECIM", 10), ("PRIM", 1), ("SECUND", 2), ("TERTI", 3), ("QUART", 4),
+       ("QUINT", 5), ("SEXT", 6), ("SEPTIM", 7), ("OCTAV", 8), ("NON", 9)]
+def ordinal(words):
+    """'QUADRAGESIMI SEPTIMI' -> 47, 'TERTIIDECIMI' -> 13, 'DUODEVIGESIMI' -> 18; None if not an ordinal."""
+    w = re.sub(r"[^A-Z]", "", words.upper().replace("Æ", "AE"))
+    n, i, sub = 0, 0, 0
+    while i < len(w):
+        if w.startswith("DUODE", i) and not w.startswith("DUODECIM", i): sub = 2; i += 5; continue
+        if w.startswith("UNDE", i) and not w.startswith("UNDECIM", i): sub = 1; i += 4; continue
+        for stem, v in ORD:
+            if w.startswith(stem, i):
+                n += v - sub; sub = 0; i += len(stem)
+                while i < len(w) and w[i] in "IUSOAEM" and not any(w.startswith(s2, i) for s2, _ in ORD): i += 1
+                break
+        else:
+            if w.startswith("ET", i): i += 2; continue
+            break
+    return n or None
+
+HEADING = re.compile(r"^[#*\s]*ARTICU(?:LUS|[\[…])?\S*\s*([IVXLC]+|PRIMUS)?\b")      # capitals only
+EXPO = re.compile(r"^[#*\s]*(?:EXPOSITIO|EXPLANATIO|ELUCIDATIO|ENARRATIO|DECLARATIO)\s+(?:[A-ZÆ]+\s+){0,3}?(?:([A-ZÆ]+)\s+)?(CAPITULI|PSALMI)\b\s*([A-ZÆ ]*)")
+FRONT = re.compile(r"^#+\s*(PRO(?:OE|Œ)MIUM|PRÆFATIO|PRAEFATIO|PROLOGUS|EPISTOLA NUNCUPATORIA|ENARRATIO(?!.*\bCAP)|IN EPISTOLAM|COMMENTARI\w*\s+IN\b(?!.*\bCAP))", re.I)
+END = re.compile(r"INDEX|LOCA S\. ?SCRIPTUR|TABULA|ELENCHUS|CATALOGUS", re.I)
+
+PART_MAX = 12      # pages; about 70k output tokens of Latin and English
+
+def cmd_cut(vol, write=True):
+    """Cut articles. Starts: ARTICULUS headings (numbered or not), or an EXPOSITIO CAPITULI/PSALMI line that has no
+    ARTICULUS heading just before it. A repeated heading of the current article is a continuation. Book prefaces and
+    prologues close the article before them. Books: a new book starts where the numbering goes back to I; its name is
+    the commonest book in its running heads. Chapter or psalm: from the EXPOSITIO line, else the running heads."""
     import map_volume
+    from collections import Counter
     d = os.path.join(ROOT, "sources", vol, "transcribed")
     pages = sorted(int(f[1:-4]) for f in os.listdir(d) if f.startswith("p"))
-    seq = []          # (page, kind, text)
+    arts, cur, recent, after_front = [], None, [], False
     for p in pages:
         t = open(os.path.join(d, f"p{p}.txt")).read()
-        hm = re.search(r"^HEAD:(.*)$", t, re.M)
-        seq.append((p, "head", hm.group(1).strip() if hm else ""))
+        hm = re.search(r"^\W*HEAD\W*(.*)$", t, re.M); h = hm.group(1).strip() if hm else ""
+        if END.search(h) and arts: break
+        r = map_volume.parse(h.upper().replace("Æ", "AE").replace("Œ", "OE")) if h else None
+        if cur is not None and r: cur["heads"].append(r)
         for line in t.splitlines():
-            if line.startswith("HEAD:") or line.startswith("==="): continue
-            seq.append((p, "line", line))
-    arts, cur = [], None
-    for p, kind, text in seq:
-        if kind == "head":
-            r = map_volume.parse(text.upper().replace("Æ", "AE").replace("Œ", "OE"))
-            if r and cur is not None and r[2] == cur["art"]:
-                cur["book"] = cur["book"] or r[0]; cur["chapter_guess"] = cur["chapter_guess"] or r[1]
-            continue
-        m = re.match(r"^###\s*ARTICULUS\s+([IVXLC]+|PRIMUS)\b(.*)", text.strip(), re.I)
-        if m:
-            n = 1 if m.group(1).upper() == "PRIMUS" else roman(m.group(1))
-            cur = {"art": n, "first": p, "lines": [text.lstrip("# ")], "book": None, "chapter_guess": None}
-            arts.append(cur); continue
-        if cur is not None: cur["lines"].append(text); cur["last"] = p
-    # books: a head naming the book after the article started; carry forward when missing
-    book = None
-    for a in arts:
-        book = a["book"] = a["book"] or book
-    q = {"volume": vol, "items": []}
-    os.makedirs(os.path.join(ROOT, "sources", vol, "articles"), exist_ok=True)
-    seen = {}
-    for a in arts:
-        if not a["book"]: continue
-        k = seen[a["book"], a["art"]] = seen.get((a["book"], a["art"]), 0) + 1
-        iid = f"{a['book']}-{a['art']:03d}" + (f"-{k}" if k > 1 else "")      # psalm volumes can restart numbering
-        open(os.path.join(ROOT, "sources", vol, "articles", iid + ".txt"), "w").write("\n".join(a["lines"]))
-        q["items"].append({"id": iid, "book": a["book"], "art": a["art"], "chapter_guess": a["chapter_guess"],
-                           "pages": [a["first"], a.get("last", a["first"])], "status": "todo", "source": "transcribed"})
-    json.dump(q, open(os.path.join(ROOT, "sources", vol, "queue.json"), "w"), ensure_ascii=False, indent=1)
-    from collections import Counter
-    print(vol, len(q["items"]), "articles:", dict(Counter(i["book"] for i in q["items"])))
+            if re.match(r"^\W*HEAD\b", line) or line.startswith("==="): continue
+            s = line.strip()
+            m = HEADING.match(s)
+            if m and len(s) < 60:
+                g = (m.group(1) or "").upper()
+                n = 1 if g == "PRIMUS" else (roman(g) if g else None)
+                if cur is not None and n is not None and n == cur["art"]: recent.append("ART"); continue
+                if n is None and cur is None: n = 1          # an unreadable number straight after a book's preface
+                cur = {"art": n, "first": p, "last": p, "lines": [(p, s.lstrip("#* "))], "heads": [r] if r else [], "chap": None,
+                       "fresh": after_front}
+                arts.append(cur); recent = ["ART"]; after_front = False; continue
+            e = EXPO.match(s)
+            if e:
+                k = ordinal(e.group(1)) if e.group(1) else ordinal(e.group(3))
+                if cur is None or not (cur["chap"] is None and len(cur["lines"]) < 30 or cur["chap"] == k):
+                    # a chapter heading with no ARTICULUS heading before it (lost in transcription); the same chapter
+                    # heading again is the title repeated over the other column
+                    cur = {"art": cur["art"] + 1 if cur is not None and cur["art"] else (None if cur is not None else 1), "first": p, "last": p, "lines": [], "heads": [r] if r else [],
+                           "chap": None, "fresh": cur is None and after_front}
+                    arts.append(cur); after_front = False
+                if cur is not None and cur["chap"] is None: cur["chap"] = k
+            elif FRONT.match(s) and len(s) < 90:
+                cur = None; after_front = True
+            if s: recent.append(s)
+            if cur is not None: cur["lines"].append((p, line)); cur["last"] = p
+    # number the unnumbered; split into books where the numbering restarts
+    books, prev = [], None
+    for i, a in enumerate(arts):
+        if a["art"] is None: a["art"] = (prev or 0) + 1
+        nxt = arts[i + 1]["art"] if i + 1 < len(arts) else None
+        if prev and a["art"] < prev and nxt == prev + 2: a["art"] = prev + 1     # a misread number (L read as I)
+        if prev is None or (a["art"] <= prev and a["art"] <= 2) or (a["fresh"] and a["art"] <= 3 and a["art"] < prev): books.append([])
+        books[-1].append(a); prev = a["art"]
+    q = {"volume": vol, "items": []}; report = []; seen = Counter()
+    ad = os.path.join(ROOT, "sources", vol, "articles")
+    if write and os.path.isdir(ad):
+        for f in os.listdir(ad): os.remove(os.path.join(ad, f))
+    os.makedirs(ad, exist_ok=True)
+    for bk in books:
+        votes = Counter(r[0] for a in bk for r in a["heads"] if r and r[0])
+        name = votes.most_common(1)[0][0] if votes else None
+        for a in bk:
+            hc = Counter(r[1] for r in a["heads"] if r and r[0] == name and r[1])
+            a["chap"] = a["chap"] or (hc.most_common(1)[0][0] if hc else None)
+        for x, y in zip(bk, bk[1:]):            # chapters do not go backwards within a book: a misread
+            if x["chap"] and y["chap"] and y["chap"] < x["chap"]: y["chap"] = x["chap"]
+        nch = len(json.load(open(os.path.join(ROOT, "data/bible/drc", name + ".json")))) if name and os.path.exists(os.path.join(ROOT, "data/bible/drc", (name or "x") + ".json")) else None
+        got = {a["chap"] for a in bk if a["chap"]}
+        first = min(got) if got else None; last = max(got) if got else None
+        missing = [c for c in range(first or 1, (last or 0) + 1) if c not in got]
+        long = [f"Art. {a['art']} ({a['first']}-{a['last']})" for a in bk if a["last"] - a["first"] > 40]
+        nums = [a["art"] for a in bk]; dup = [n for n, k in Counter(nums).items() if k > 1]
+        line = f"{name}: {len(bk)} articles, PDF {bk[0]['first']}-{bk[-1]['last']}, chapters {first}-{last}" + (f" of {nch}" if nch else "")
+        probs = []
+        if not name: probs.append("book not identified")
+        if missing: probs.append(f"no article starts in chapter(s) {missing} (fine if an article covers two chapters)")
+        if long: probs.append("very long: " + ", ".join(long))
+        if dup: probs.append(f"repeated article numbers {dup}")
+        report.append(line + ("; CHECK: " + "; ".join(probs) if probs else ""))
+        for a in bk:
+            if not name: continue
+            seen[a["art"]] += 1; k = seen[a["art"]]
+            iid = f"{name}-{a['art']:03d}" + (f"-{k}" if k > 1 else "")
+            # an article of more than PART_MAX pages goes out in parts (one answer could not hold it all);
+            # the parts are put back together when they are published (tools/add_article.py)
+            span = a["last"] - a["first"] + 1
+            n = -(-span // PART_MAX) if span > PART_MAX + 2 else 1
+            step = -(-span // n)
+            for j in range(n):
+                lo, hi = a["first"] + j * step, (a["first"] + (j + 1) * step - 1 if j < n - 1 else a["last"])
+                lines = [l for pg, l in a["lines"] if lo <= pg <= hi]
+                pid = iid + (f"-part{j + 1}" if n > 1 else "")
+                if write: open(os.path.join(ROOT, "sources", vol, "articles", pid + ".txt"), "w").write("\n".join(lines))
+                heads = Counter(r[1] for r in a["heads"] if r and r[0] == name and r[1])
+                item = {"id": pid, "book": name, "art": a["art"], "chapter_guess": a["chap"],
+                        "pages": [lo, hi], "status": "todo", "source": "transcribed"}
+                if n > 1: item.update(part=j + 1, parts=n)
+                q["items"].append(item)
+    bad = bad_pages(vol)
+    if bad: report.append(f"pages still unreadable: {bad}")
+    print("\n".join(report))
+    if write:
+        json.dump(q, open(os.path.join(ROOT, "sources", vol, "queue.json"), "w"), ensure_ascii=False, indent=1)
+        open(os.path.join(ROOT, "sources", vol, "cut_report.txt"), "w").write("\n".join(report) + "\n")
+    return q, report
 
 if __name__ == "__main__":
     a = sys.argv[1:]
@@ -160,5 +270,7 @@ if __name__ == "__main__":
     if a[0] == "test": cmd_test(a[1], int(a[2]), model)
     elif a[0] == "submit": cmd_submit(a[1], int(a[2]), int(a[3]), model)
     elif a[0] == "collect": cmd_collect()
-    elif a[0] == "cut": cmd_cut(a[1])
+    elif a[0] == "cut": cmd_cut(a[1], "--dry" not in a)
+    elif a[0] == "redo": cmd_redo(a[1], model)
+    elif a[0] == "bad": print(a[1], bad_pages(a[1]))
     else: print(__doc__)

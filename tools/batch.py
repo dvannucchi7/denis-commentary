@@ -69,10 +69,22 @@ def item_of(item_id):
 
 # ------------------------------------------------------------------ the request
 def page_images(pdf, p):
-    """The two columns of a page (each with its outer margin), as JPEGs at most 1568 px tall."""
+    """The two columns of a page (each with its outer margin), as JPEGs at most 1568 px tall (cached on disk)."""
+    cf = os.path.join(BATCH_DIR, "img", os.path.basename(os.path.dirname(pdf)) + "-" + os.path.basename(pdf), f"p{p}.json")
+    if os.path.exists(cf): return [tuple(x) for x in json.load(open(cf))]
+    out = _page_images(pdf, p)
+    os.makedirs(os.path.dirname(cf), exist_ok=True); json.dump(out, open(cf, "w"))
+    return out
+
+def prefetch(pdf, pages):
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(3) as ex: list(ex.map(lambda p: page_images(pdf, p), pages))
+
+def _page_images(pdf, p):
     import numpy as np
     from PIL import Image
-    tmp = os.path.join(BATCH_DIR, f"_p{os.getpid()}")
+    import threading
+    tmp = os.path.join(BATCH_DIR, f"_p{os.getpid()}_{threading.get_ident()}")
     subprocess.run(["pdftoppm", "-f", str(p), "-l", str(p), "-r", "200", "-gray", "-png", "-singlefile", pdf, tmp], check=True)
     im = Image.open(tmp + ".png").convert("L"); g = np.array(im); h, w = g.shape
     os.remove(tmp + ".png")
@@ -127,6 +139,16 @@ def user_content(vol, it, with_images=True):
             f"{a}–{b} = printed pages {a - cfg['offset']}–{b - cfg['offset']} (the first and last may be shared with "
             f"the neighbouring articles). It is thought to treat chapter {g} (from the running heads; check the title; "
             f"it may run on into chapter {g + 1}).")
+    if it.get("parts"):
+        head += (f"\n\nThis article is long, so it is sent in {it['parts']} parts; this is PART {it['part']} of {it['parts']} "
+                 f"(PDF {a}–{b} only). Translate only the text given here; the other parts are translated separately and "
+                 f"joined after yours. Give num \"{margins_roman(it['art'])}\" and the article's title"
+                 + (" as printed at its start" if it["part"] == 1 else " (it is printed at the start of part 1; give it as "
+                    "best you can, it will be replaced by part 1's)")
+                 + ". " + ("Begin at the article's heading. " if it["part"] == 1 else
+                           "The text begins in the middle of the article, perhaps mid-sentence: start your first paragraph "
+                           "there. ")
+                 + ("" if it["part"] == it["parts"] else "Stop where the text given stops, even mid-sentence."))
     blocks = [{"type": "text", "text": head},
               {"type": "text", "text": (("Transcription of the article (made from the page images by another model; "
                                         "margin notes in ⟦…⟧, italics as _…_), already cut at its heading:\n\n"
@@ -202,6 +224,7 @@ def publish_try(vol, it, ans):
         wf = os.path.join(ROOT, "work", f"{it['id']}-ch{ch}.json")
         art = dict(book=book, chapter=ch, work=work, source=source, num=ans["num"], title=ans["title"],
                    title_en=ans["title_en"], pages=ans.get("pages", ""), paras=paras)
+        if it.get("parts"): art.update(part=it["part"], parts=it["parts"])
         if note: art["note"] = note
         json.dump(art, open(wf, "w"), ensure_ascii=False, indent=1); files.append((ch, wf))
     for ch, wf in files:
@@ -353,8 +376,9 @@ def submit(st, reqs, kind):
 def cmd_submit(vol, n=None):
     st = state(); q = queue(vol); reqs = []
     busy = {i for b in st["batches"] if b["open"] for i in b["items"]}
-    todo = [it for it in q["items"] if it["status"] == "todo" and it["id"] not in busy]
-    for it in todo[: n or len(todo)]:
+    todo = [it for it in q["items"] if it["status"] == "todo" and it["id"] not in busy][: n or None]
+    prefetch(VOLS[vol]["pdf"], sorted({p for it in todo for p in range(it["pages"][0], it["pages"][1] + 1)}))
+    for it in todo:
         rec = st["items"].get(it["id"], {})
         if rec.get("status") == "repair" and rec.get("answer"):      # already answered once: send the repair
             reqs.append({"custom_id": it["id"], "params": params(vol, it, repair_messages(vol, it, rec))})
