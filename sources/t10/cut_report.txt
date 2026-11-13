@@ -1,0 +1,13 @@
+daniel: 15 articles, PDF 17-209, chapters 1-14 of 14; CHECK: no article starts in chapter(s) [8] (fine if an article covers two chapters)
+hosea: 29 articles, PDF 209-337, chapters 1-14 of 14; CHECK: no article starts in chapter(s) [7] (fine if an article covers two chapters)
+joel: 5 articles, PDF 337-377, chapters 1-3 of 3; CHECK: no article starts in chapter(s) [2] (fine if an article covers two chapters)
+amos: 15 articles, PDF 377-439, chapters 1-9 of 9; CHECK: no article starts in chapter(s) [6, 7, 8] (fine if an article covers two chapters)
+obadiah: 2 articles, PDF 441-454, chapters None-None of 1
+jonah: 5 articles, PDF 459-479, chapters 1-4 of 4
+micah: 11 articles, PDF 479-527, chapters 1-7 of 7; CHECK: repeated article numbers [6]
+nahum: 4 articles, PDF 527-547, chapters 1-3 of 3; CHECK: no article starts in chapter(s) [2] (fine if an article covers two chapters)
+habakkuk: 7 articles, PDF 547-581, chapters 1-3 of 3
+zephaniah: 5 articles, PDF 583-611, chapters 1-3 of 3
+haggai: 4 articles, PDF 611-627, chapters 1-1 of 2
+zechariah: 19 articles, PDF 627-701, chapters 1-14 of 14
+malachi: 6 articles, PDF 701-726, chapters 1-4 of 4
