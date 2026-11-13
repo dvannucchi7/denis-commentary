@@ -86,9 +86,10 @@
     59,
     71
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 12,
-   "claimed": "2026-11-13T13:00:42Z"
+   "claimed": "2026-11-13T13:00:42Z",
+   "note": "Published with gaps (PDF 60-70, pp. 50-60; Luke 12:1-21). PDF 64 (p. 54): about two lines at the foot of each column are unreadable in the OCR (end of v. 9 'per prædestinatio[nem …] de Christi negatione finali', and in v. 10 'quia […]bet, propter naturalem defectuositatem'); marked […]. Opening word lost (drop capital), supplied as '[Circa]'. Several margin references are printed inline in the OCR text (1 Cor 5:6, Luke 11:53, 1 John 4:18, Job 31:23, Ecclus 34:16, Prov 29:25, Ecclus 23:37, 25:14, Ps 33:10) and were taken from there."
   },
   {
    "id": "luke-33",
