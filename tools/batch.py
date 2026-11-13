@@ -399,7 +399,8 @@ def cmd_submit(vol, n=None):
         f = os.path.join(ROOT, "data", "commentary", it["book"] + ".json")
         if it["status"] == "todo" and os.path.exists(f) and st["items"].get(it["id"], {}).get("status") != "published":
             d = json.load(open(f))
-            if any(a["num"] == margins_roman(it["art"]) for arts in d["chapters"].values() for a in arts):
+            g = int(it.get("chapter_guess") or 0)
+            if any(a["num"] == margins_roman(it["art"]) for c in (g - 1, g, g + 1) for a in d["chapters"].get(str(c), [])):
                 it["status"] = "done"; it["note"] = "already in the app from an earlier translation; not sent"; have.add(it["id"])
     if have: print("kept the earlier translations of:", ", ".join(sorted(have)))
     todo = [it for it in q["items"] if it["status"] == "todo" and it["id"] not in busy][: n or None]
