@@ -1,0 +1,9 @@
+HEAD: […]
+
+=== LEFT ===
+[…]
+
+=== RIGHT ===
+[…]
+
+*Note: Neither column contains readable Latin text. The only legible printing is the Internet Archive digitization notice ("Digitized by … in 2011 with funding from University of Toronto" and the archive.org URL), which is a watermark added by the scanner, not part of Denis's text. The faint pillar graphic is also not text.*

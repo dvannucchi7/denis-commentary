@@ -1,0 +1,35 @@
+HEAD: INDEX GENERALIS
+
+=== LEFT ===
+### COMMENTARIA IN PRIMAM QUINQUAGENAM PSALTERII.
+Articulus LXXXVII. Expositio psalmi quadragesimi quarti : Eructavit cor meum. . . . 4
+Articulus LXXXVIII. Expositio psalmi quadragesimi quinti : Deus noster refugium et virtus. . . . 12
+Articulus LXXXIX. Expositio psalmi quadragesimi sexti : Omnes gentes, plaudite manibus. . . . 18
+Articulus XC. Expositio psalmi quadragesimi septimi : Magnus Dominus et laudabilis nimis. . . . 21
+Articulus XCI. Expositio psalmi quadragesimi octavi : Audite hæc, omnes gentes . . . 26
+Articulus XCII. Expositio psalmi quadragesimi noni : Deus deorum Dominus locutus est . . . 32
+Articulus XCIII. Expositio psalmi quinquagesimi : Miserere mei, Deus, secundum, etc.. . . 39
+
+### COMMENTARIA IN SECUNDAM QUINQUAGENAM PSALTERII.
+Proœmium . . . 51
+Articulus I. Expositio litteralis psalmi quinquagesimi primi : Quid gloriaris in malitia? etc. . . . 53
+Articulus II. Expositio allegorica, videlicet de Christo, ejusdem psalmi quinquagesimi primi . . . 55
+Articulus III. Expositio ejusdem psalmi quinquagesimi primi tropologica seu moralis. . . . 58
+Articulus IV. Expositio psalmi quinquagesimi secundi : Dixit insipiens in corde suo . . . 61
+Articulus V. Expositio allegorica ejusdem
+
+=== RIGHT ===
+psalmi quinquagesimi secundi, per relationem ad Christum. . . . 64
+Articulus VI. Expositio de Christo psalmi quinquagesimi tertii : Deus, in nomine tuo salvum me fac. . . . 66
+Articulus VII. Explanatio ejusdem psalmi quinquagesimi tertii moralis simul et litteralis . . . 70
+Articulus VIII. Expositio de Christo psalmi quinquagesimi quarti : Exaudi, Deus, orationem meam, et ne, etc. . . . 73
+Articulus IX. Explanatio ejusdem psalmi quinquagesimi quarti tropologica sive moralis,de Ecclesia seu unoquoque fideli. 80
+Articulus X. Explanatio de Christo psalmi quinquagesimi quinti : Miserere mei, Deus, quoniam conculcavit, etc. . . . 85
+Articulus XI. Elucidatio moralis ejusdem psalmi quinquagesimi quinti . . . . 88
+Articulus XII. Explanatio de Christo psalmi quinquagesimi sexti : Miserere mei, Deus, miserere mei . . . . . 91
+Articulus XIII. Explanatio tropologica seu moralis ejusdem psalmi quinquagesimi sexti. . . 94
+Articulus XIV. Expositio psalmi quinquagesimi septimi, in persona Christi ad infideles Judæos : Si vere utique justitiam loquimini. . . 97
+Articulus XV. Declaratio tropologica ejusdem psalmi quinquagesimi septimi, in persona Ecclesiæ ad quoslibet peccatores impœnitentes . . . 100
+Articulus XVI. Expositio de Christo psalmi quinquagesimi octavi : Eripe me de inimicis meis . . . 103
+Articulus XVII. Expositio tropologica sive moralis ejusdem psalmi quinquagesimi octavi . . . 109
+Articulus XVIII. Expositio litteralis psalmi quinquagesimi noni : Deus, repulisti nos. . . 113

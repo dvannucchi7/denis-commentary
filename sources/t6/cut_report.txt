@@ -1,0 +1,5 @@
+psalms: 7 articles, PDF 11-63, chapters 44-50 of 150
+psalms: 78 articles, PDF 63-423, chapters 51-100 of 150
+psalms: 65 articles, PDF 423-705, chapters 101-150 of 150; CHECK: no article starts in chapter(s) [148] (fine if an article covers two chapters); repeated article numbers [67]
+None: 7 articles, PDF 707-721, chapters None-None; CHECK: book not identified
+pages still unreadable: [482]
