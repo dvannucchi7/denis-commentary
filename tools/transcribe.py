@@ -247,7 +247,7 @@ def cmd_cut(vol, write=True):
         report.append(line + ("; CHECK: " + "; ".join(probs) if probs else ""))
         for a in bk:
             if not name: continue
-            seen[a["art"]] += 1; k = seen[a["art"]]
+            seen[name, a["art"]] += 1; k = seen[name, a["art"]]
             iid = f"{name}-{a['art']:03d}" + (f"-{k}" if k > 1 else "")
             # an article of more than PART_MAX pages goes out in parts (one answer could not hold it all);
             # the parts are put back together when they are published (tools/add_article.py)

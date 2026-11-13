@@ -41,6 +41,24 @@ VOLS = {   # per volume: scan PDF here, printed page = PDF page - offset, tome n
 ORDER = ["t12", "t13", "t6", "t7", "t10", "t1"]      # Dave's order
 WORKS = {"matthew": "Enarratio in Evangelium secundum Matthæum", "mark": "Enarratio in Evangelium secundum Marcum",
          "luke": "Enarratio in Evangelium secundum Lucam", "john": "Enarratio in Evangelium secundum Joannem"}
+_P = "Enarratio in Epistolam B. Pauli "
+WORKS.update({
+    "romans": _P + "ad Romanos", "i-corinthians": "Enarratio in Epistolam I B. Pauli ad Corinthios",
+    "ii-corinthians": "Enarratio in Epistolam II B. Pauli ad Corinthios", "galatians": _P + "ad Galatas",
+    "ephesians": _P + "ad Ephesios", "philippians": _P + "ad Philippenses", "colossians": _P + "ad Colossenses",
+    "i-thessalonians": "Enarratio in Epistolam I B. Pauli ad Thessalonicenses",
+    "ii-thessalonians": "Enarratio in Epistolam II B. Pauli ad Thessalonicenses",
+    "i-timothy": "Enarratio in Epistolam I B. Pauli ad Timotheum", "ii-timothy": "Enarratio in Epistolam II B. Pauli ad Timotheum",
+    "titus": _P + "ad Titum", "philemon": _P + "ad Philemonem", "hebrews": _P + "ad Hebræos",
+    "james": "Enarratio in Epistolam catholicam B. Jacobi", "i-peter": "Enarratio in Epistolam I B. Petri",
+    "ii-peter": "Enarratio in Epistolam II B. Petri", "psalms": "Commentaria in Psalmos",
+    "proverbs": "Enarratio in Proverbia Salomonis", "ecclesiastes": "Enarratio in Ecclesiasten",
+    "song-of-solomon": "Enarratio in Canticum Canticorum", "wisdom": "Enarratio in librum Sapientiæ",
+    "daniel": "Enarratio in Danielem", "genesis": "Enarratio in Genesim"})
+for _b, _n in (("hosea", "Osee"), ("joel", "Joel"), ("amos", "Amos"), ("obadiah", "Abdiam"), ("jonah", "Jonam"),
+               ("micah", "Michæam"), ("nahum", "Nahum"), ("habakkuk", "Habacuc"), ("zephaniah", "Sophoniam"),
+               ("haggai", "Aggæum"), ("zechariah", "Zachariam"), ("malachi", "Malachiam")):
+    WORKS[_b] = "Enarratio in " + _n
 REV = {v: k for k, v in ABBR.items()}
 Q = re.compile(r"\[\[([^|\]]+)\|([^|\]]*)\|([^\]]*)\]\]")
 
