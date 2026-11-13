@@ -433,8 +433,23 @@ def cmd_tick():
             (done if res == "published" else repairs if res == "repair" else []).append(r.custom_id)
             print(f"  {r.custom_id}: {res}", flush=True); save(st)
         b["open"] = False; save(st); push()
+    # answers waiting for a repair that is in no open batch (an interrupted run), or whose problems the
+    # checks may now settle themselves (anchor expansion improved): try them again here before paying for a repair
+    busy = {i for b in st["batches"] if b["open"] for i in b["items"]}
+    for i, rec in list(st["items"].items()):
+        if rec.get("status") in ("repair", "retry") and i not in busy and i not in repairs:
+            if rec.get("status") == "repair" and rec.get("answer"):
+                rec["attempts"] -= 1; rec["cost"] = rec.get("cost", 0)
+                res = handle(st, i, "```json\n" + json.dumps(rec["answer"], ensure_ascii=False) + "\n```", {})
+                print(f"  {i}: {res} (checked again here)", flush=True); save(st)
+                if res == "published": done.append(i); continue
+                if res != "repair": continue
+            repairs.append(i)
+    if done: push()
     if repairs:
         reqs = []
+        for i in repairs:
+            vol, it = item_of(i); prefetch(VOLS[vol]["pdf"], range(it["pages"][0], it["pages"][1] + 1))
         for i in repairs:
             vol, it = item_of(i); rec = st["items"][i]
             msgs = None if rec.get("status") == "retry" or not rec.get("answer") else repair_messages(vol, it, rec)

@@ -88,6 +88,54 @@ def expand_side(side, text):
         raise LookupError(f"end '{an[1]}' occurs {len(s2)} times after the start: give more words")
     return cut(text, pos, s1[0][0], s2[0][1])
 
+def _words(hay):
+    return [(m.start(), m.end(), m.group(0)) for m in re.finditer(r"[a-z']+", hay)]
+
+def _fuzzy(words, anchor, lo, guess):
+    """Word index (first, last) of the best place for anchor words in words[lo:], or None. Exact runs first;
+    otherwise the window sharing most words with the anchor (at least 60%); ties go nearest to guess."""
+    a = anchor.split(); n = len(a); best = None
+    for i in range(lo, len(words) - n + 1):
+        w = [x[2] for x in words[i:i + n]]
+        score = n + 1 if w == a else len(set(w) & set(a))
+        if score < max(1, 0.6 * n): continue
+        key = (-score, abs(i - guess) if guess is not None else 0)
+        if best is None or key < best[0]: best = (key, i, i + n - 1)
+    return best and (best[1], best[2])
+
+def expand_side_lenient(side, text, frac=None):
+    """Like expand_side, but settles ambiguous or slightly misquoted anchors itself: an anchor that occurs
+    more than once is taken at the place that fits the Vulgate span (frac = where the quotation starts and
+    ends in the Latin verse, as fractions) or else gives the shortest quotation; an anchor not found word for
+    word is taken at the window that shares most of its words. The result is always the Douay-Rheims's own
+    words. Raises LookupError only when nothing fits."""
+    an = anchors(side)
+    if not an: return expand_side(side, text)
+    hay, pos = norm_map(text); words = _words(hay); N = len(words)
+    g0 = round(frac[0] * N) if frac else None; g1 = round(frac[1] * N) if frac else None
+    exact0 = [i for i, w in enumerate(words) if [x[2] for x in words[i:i + len(an[0].split())]] == an[0].split()]
+    cands = exact0 or ([_fuzzy(words, an[0], 0, g0)[0]] if _fuzzy(words, an[0], 0, g0) else [])
+    best = None
+    for i in cands:
+        e = _fuzzy(words, an[1], i if an[1] != an[0] else i, g1)
+        if not e: continue
+        span = e[1] - i
+        key = (abs(i - g0) + abs(e[1] - g1)) if frac else span
+        if best is None or key < best[0]: best = (key, i, e[1])
+    if not best: raise LookupError(f"anchors '{side}' could not be placed in the verse")
+    return cut(text, pos, words[best[1]][0], words[best[2]][1])
+
+def _frac(side, text):
+    """Where an anchored quotation starts and ends in a verse, as fractions of its words (None if unclear)."""
+    try:
+        an = anchors(side); hay, _ = norm_map(text); words = _words(hay)
+        s1 = finds(hay, an[0]); s2 = finds(hay, an[1], s1[0][1]) if s1 else []
+        if not (s1 and s2) or not words: return None
+        i = sum(1 for w in words if w[0] < s1[0][0]); j = sum(1 for w in words if w[0] < s2[0][1]) - 1
+        return i / len(words), j / len(words)
+    except Exception:
+        return None
+
 def from_denis(side, latin, target_words):
     """The same quotation in Denis's own Latin: start anchor to end anchor, the span whose length is
     closest to the Vulgate span's (within 40%). None if there is no such span."""
@@ -119,17 +167,26 @@ def expand(en, book, latin=""):
         drt = verse("data/bible/drc", target, c, v)
         vt = verse("sources/vulgate", target, c, v)
         try:
-            drx = expand_side(dr, drt)
+            try:
+                drx = expand_side(dr, drt)
+            except LookupError:
+                drx = expand_side_lenient(dr, drt, _frac(vul, vt) if anchors(vul) else None)
             if anchors(vul):            # Latin side: Denis's own words, sized by the Vulgate span
                 try:
                     vx = expand_side(vul, vt)
                 except LookupError:
-                    vx = None           # anchors in Denis's wording only (a variant reading)
+                    try:
+                        vx = expand_side_lenient(vul, vt)
+                    except LookupError:
+                        vx = None       # anchors in Denis's wording only (a variant reading)
                 lat = from_denis(vul, latin, len(norm_map(vx)[0].split()) if vx else 0) or vx
                 if not lat:
                     raise LookupError(f"Latin anchors '{vul}' found neither in the verse nor in Denis's paragraph")
             else:
-                lat = expand_side(vul, vt)
+                try:
+                    lat = expand_side(vul, vt)
+                except LookupError:
+                    lat = expand_side_lenient(vul, vt)
             return f"[[{ref}|{drx}|{lat}]]"
         except LookupError as e:
             raise LookupError(f"{m.group(0)}: {e}\n    DR: {drt}\n    V:  {vt}")
