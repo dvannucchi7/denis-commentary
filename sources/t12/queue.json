@@ -73,9 +73,10 @@
     53,
     60
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 11,
-   "claimed": "2026-11-13T12:53:39Z"
+   "claimed": "2026-11-13T12:53:39Z",
+   "note": "Published (PDF 53-60, pp. 43-50; Luke 11:37-54). Many margin references are printed inline in the OCR text (2 Cor 7:1, Matt 5:7, Dan 4:24, Tob 12:9, Prov 15:27, Prov 29:1, Acts 15:10, Ps 23:6, Gal 6:5, Gen 4:8, 2 Par 24:21) and were taken from there. Tithes: margin reads Num. xviii, 21 and Deut. xii, 17 / xvi, 17 (reference-only markers Num 18:21, Deut 16:16, with a note). Is 7:9 quoted in the old form 'non intelligetis' (noted)."
   },
   {
    "id": "luke-32",
