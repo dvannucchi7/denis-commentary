@@ -112,9 +112,10 @@
     78,
     86
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 12,
-   "claimed": "2026-11-13T13:14:37Z"
+   "claimed": "2026-11-13T13:14:37Z",
+   "note": "Published (PDF 79-86, pp. 69-76; Luke 12:41-59). Ecclus 29:23 'Repromissio nequissima' tagged where the margin gives xxix, 24 (Douay 'suretyship', noted). Is 26:10 quoted in the Septuagint form (margin: juxta LXX). Gen 4:23 (Lamech killing Cain, a legend) given as reference-only where the margin reads 'Ibid. iv, 23'."
   },
   {
    "id": "luke-35",
