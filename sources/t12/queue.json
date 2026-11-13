@@ -162,9 +162,9 @@
     112,
     126
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 15,
-   "claimed": "2026-11-13T16:49:55Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-39",
@@ -174,9 +174,9 @@
     125,
     142
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 16,
-   "claimed": "2026-11-13T16:50:19Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-40",
@@ -186,9 +186,9 @@
     141,
     153
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 17,
-   "claimed": "2026-11-13T16:50:37Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-41",
@@ -198,9 +198,9 @@
     152,
     167
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 18,
-   "claimed": "2026-11-13T16:51:01Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-42",
@@ -210,9 +210,9 @@
     166,
     184
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 19,
-   "claimed": "2026-11-13T16:51:27Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-43",
@@ -222,9 +222,9 @@
     183,
     196
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 20,
-   "claimed": "2026-11-13T16:51:47Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-44",
@@ -234,9 +234,9 @@
     195,
     202
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 21,
-   "claimed": "2026-11-13T16:51:57Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-45",
@@ -246,9 +246,9 @@
     201,
     207
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 21,
-   "claimed": "2026-11-13T16:52:06Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-46",
@@ -258,9 +258,9 @@
     206,
     214
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 22,
-   "claimed": "2026-11-13T16:52:19Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-47",
@@ -270,9 +270,9 @@
     213,
     225
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 22,
-   "claimed": "2026-11-13T16:52:36Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-48",
@@ -282,9 +282,9 @@
     224,
     240
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 22,
-   "claimed": "2026-11-13T16:53:00Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-49",
@@ -294,9 +294,9 @@
     239,
     260
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 23,
-   "claimed": "2026-11-13T16:53:31Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "luke-50",
@@ -306,9 +306,9 @@
     259,
     277
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 24,
-   "claimed": "2026-11-13T16:53:58Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-01",
@@ -318,9 +318,9 @@
     275,
     278
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 1,
-   "claimed": "2026-11-13T16:54:04Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-02",
@@ -330,9 +330,9 @@
     277,
     284
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 1,
-   "claimed": "2026-11-13T16:54:15Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-03",
@@ -342,9 +342,9 @@
     283,
     290
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 1,
-   "claimed": "2026-11-13T16:54:27Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-04",
@@ -354,9 +354,9 @@
     289,
     295
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 1,
-   "claimed": "2026-11-13T16:54:37Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-05",
@@ -366,9 +366,9 @@
     294,
     312
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 1,
-   "claimed": "2026-11-13T16:55:05Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-06",
@@ -378,9 +378,9 @@
     311,
     322
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 1,
-   "claimed": "2026-11-13T16:55:23Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-07",
@@ -390,9 +390,9 @@
     321,
     333
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 2,
-   "claimed": "2026-11-13T16:55:41Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-08",
@@ -402,9 +402,9 @@
     332,
     342
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 3,
-   "claimed": "2026-11-13T16:55:57Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-09",
@@ -414,9 +414,9 @@
     341,
     348
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 3,
-   "claimed": "2026-11-13T16:56:09Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-10",
@@ -426,9 +426,9 @@
     347,
     355
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 3,
-   "claimed": "2026-11-13T16:56:22Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-11",
@@ -438,9 +438,9 @@
     354,
     367
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 4,
-   "claimed": "2026-11-13T16:56:42Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-12",
@@ -450,9 +450,9 @@
     366,
     371
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 4,
-   "claimed": "2026-11-13T16:56:50Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-13",
@@ -462,9 +462,9 @@
     370,
     378
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 5,
-   "claimed": "2026-11-13T16:57:02Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-14",
@@ -474,9 +474,9 @@
     377,
     384
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 5,
-   "claimed": "2026-11-13T16:57:12Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-15",
@@ -486,9 +486,9 @@
     383,
     392
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 5,
-   "claimed": "2026-11-13T16:57:27Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-16",
@@ -498,9 +498,9 @@
     391,
     398
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 6,
-   "claimed": "2026-11-13T16:57:38Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-17",
@@ -510,9 +510,9 @@
     397,
     409
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 6,
-   "claimed": "2026-11-13T16:57:58Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-18",
@@ -522,9 +522,9 @@
     408,
     417
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 6,
-   "claimed": "2026-11-13T16:58:11Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-19",
@@ -534,9 +534,9 @@
     416,
     428
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 7,
-   "claimed": "2026-11-13T16:58:29Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-20",
@@ -546,9 +546,9 @@
     427,
     433
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 7,
-   "claimed": "2026-11-13T16:58:39Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-21",
@@ -558,9 +558,9 @@
     432,
     440
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 8,
-   "claimed": "2026-11-13T16:58:51Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-22",
@@ -570,9 +570,9 @@
     439,
     450
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 8,
-   "claimed": "2026-11-13T16:59:07Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-23",
@@ -582,9 +582,9 @@
     449,
     456
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 8,
-   "claimed": "2026-11-13T16:59:18Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-24",
@@ -594,9 +594,9 @@
     455,
     468
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 9,
-   "claimed": "2026-11-13T16:59:38Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-25",
@@ -606,9 +606,9 @@
     467,
     473
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 10,
-   "claimed": "2026-11-13T16:59:47Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-26",
@@ -618,9 +618,9 @@
     472,
     479
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 10,
-   "claimed": "2026-11-13T16:59:59Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-27",
@@ -630,9 +630,9 @@
     478,
     486
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 10,
-   "claimed": "2026-11-13T17:00:12Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-28",
@@ -642,9 +642,9 @@
     485,
     499
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 11,
-   "claimed": "2026-11-13T17:00:32Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-29",
@@ -654,9 +654,9 @@
     498,
     503
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 11,
-   "claimed": "2026-11-13T17:00:41Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-30",
@@ -666,9 +666,9 @@
     502,
     511
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 12,
-   "claimed": "2026-11-13T17:00:55Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-31",
@@ -678,9 +678,9 @@
     510,
     519
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 12,
-   "claimed": "2026-11-13T17:01:08Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-32",
@@ -690,9 +690,9 @@
     518,
     523
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 12,
-   "claimed": "2026-11-13T17:01:17Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-33",
@@ -702,9 +702,9 @@
     522,
     530
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 13,
-   "claimed": "2026-11-13T17:01:31Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-34",
@@ -714,9 +714,9 @@
     529,
     536
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 13,
-   "claimed": "2026-11-13T17:01:43Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-35",
@@ -726,9 +726,9 @@
     535,
     544
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 14,
-   "claimed": "2026-11-13T17:01:59Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-36",
@@ -738,9 +738,9 @@
     543,
     552
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 14,
-   "claimed": "2026-11-13T17:02:14Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-37",
@@ -750,9 +750,9 @@
     551,
     561
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 15,
-   "claimed": "2026-11-13T17:02:31Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-38",
@@ -762,9 +762,9 @@
     560,
     565
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 15,
-   "claimed": "2026-11-13T17:02:39Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-39",
@@ -774,9 +774,9 @@
     564,
     571
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 16,
-   "claimed": "2026-11-13T17:02:50Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-40",
@@ -786,9 +786,9 @@
     570,
     576
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 16,
-   "claimed": "2026-11-13T17:02:59Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-41",
@@ -798,9 +798,9 @@
     575,
     582
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 17,
-   "claimed": "2026-11-13T17:03:10Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-42",
@@ -810,9 +810,9 @@
     581,
     587
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 17,
-   "claimed": "2026-11-13T17:03:20Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-43",
@@ -822,9 +822,9 @@
     586,
     594
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 18,
-   "claimed": "2026-11-13T17:03:33Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-44",
@@ -834,9 +834,9 @@
     593,
     598
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 18,
-   "claimed": "2026-11-13T17:03:42Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-45",
@@ -846,9 +846,9 @@
     597,
     604
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 19,
-   "claimed": "2026-11-13T17:03:53Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-46",
@@ -858,9 +858,9 @@
     603,
     609
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 19,
-   "claimed": "2026-11-13T17:04:03Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-47",
@@ -870,9 +870,9 @@
     608,
     616
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 20,
-   "claimed": "2026-11-13T17:04:15Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-48",
@@ -882,9 +882,9 @@
     615,
     622
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 20,
-   "claimed": "2026-11-13T17:04:25Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-49",
@@ -894,9 +894,9 @@
     621,
     626
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 21,
-   "claimed": "2026-11-13T17:04:33Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "john-50",
@@ -906,9 +906,9 @@
     625,
     630
    ],
-   "status": "batch",
+   "status": "todo",
    "chapter_guess": 21,
-   "claimed": "2026-11-13T17:04:41Z"
+   "note": "batch stopped (API credit ran out)"
   }
  ]
 }
