@@ -99,9 +99,10 @@
     70,
     79
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 12,
-   "claimed": "2026-11-13T13:08:45Z"
+   "claimed": "2026-11-13T13:08:45Z",
+   "note": "Published with gaps (PDF 71-79, pp. 61-69; Luke 12:22-40). PDF 78 (p. 68): about two lines at the foot of each column are unreadable in the OCR (v. 38 'saltem in senectute a ma[...] non fit hic mentio', and v. 39 'contra pessimum ac callidissimum [... cu]stodiamus'); marked [...]. Margin note beside 'Theophilum' reads '* Theodoretum' (kept as a bracketed note); editorial margin note adds '[Et justitiam ejus]' at v. 31 (noted). Mark 13:35 tagged where the margin gives Marc. xiii, 33."
   },
   {
    "id": "luke-34",
