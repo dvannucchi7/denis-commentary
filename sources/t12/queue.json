@@ -389,9 +389,10 @@
     311,
     322
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 1,
-   "claimed": "2026-11-17T19:48:40Z"
+   "claimed": "2026-11-17T19:48:40Z",
+   "note": "Published with gaps (PDF 312-322, pp. 302-312; John 1:29-51). Translated in four parts by parallel workers. PDF 313 (p. 303), foot of both columns: about two lines lost in each (v. 29: after 'Specialiter tamen ordinabatur passio Chri[sti]', before '…satisfacere potuit'; v. 30: after 'quem scivi venturum', before '[ve]niret: Post me venit vir'), marked […] with notes; the strips around them were put back in order by the sense. Margin numerals taken from the sense (check): John 18:11; Eph 2:20, 1 Pet 2:6, Apoc 5:5, John 15:5 (ref-only, half-read); Is 53:5; Zach 6:12; Luke 1:44 (printed i, 45); 4 Kings 3:15 (read 2:15); Ps 83:8; Is 61:1 (read 11:2); Gen 43:3 (printed xvi, 3); Acts 8:5 ('viii, passim'); Luke 18:34 ('xviii, 31-34'); 2 Cor 3:6 (printed i, 6); Rom 9:1, Gal 3:1 (chapter only); Jer 33:16; Is 33:22 (printed xxxiii, 23); Matt 9:25, Luke 7:14, John 11:43. Denis's 'as is written in Isaias' for words of 1 Pet 2:22 (tagged 1 Pet 2:22, Is 53:9 ref-only, note); 'in Deuteronomy' with Acts 3:22's wording (same treatment); 'Nazaræus vocabitur' given as Matt 2:23 though Denis names Isaias (note). data/bible/drc 2 Kings 7:3 has the typo 'in they heart' (shows in a quotation)."
   },
   {
    "id": "john-07",
@@ -401,9 +402,10 @@
     321,
     333
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 2,
-   "claimed": "2026-11-17T19:48:40Z"
+   "claimed": "2026-11-17T19:48:40Z",
+   "note": "Published with gaps (PDF 322-333, pp. 312-323; John 2:1-25). Translated in five parts by parallel workers. PDF 327 (p. 317), top of both columns, in the moral exposition of Cana: about two lines lost in each (after 'rationis censuram sequendo' and before '…[conver]tet has aquas in vinum'), marked […] with notes; fragments put in order by the sense, 'be subject' supplied in one gap (note). Margin numerals taken from the sense (check): John 19:26-27 ('xix, 237'); Luke 4:14, Matt 4:12; Deut 32:4 ('Deut. xxxii'); 1 Cor 14:22 (printed xiv, 23; OCR 'T' read as non); Matt 2:12; Prov 8:31; Cant 7:13 (second 'Ibid.' after Cant 5:1, note); Gen 29:15, Gen 25:18, 2 Kings 20:9; Is 9:2 (printed ix, 9); Ex 21:1 ('Exod. xxi, passim', uncertain, note); Deut 12:5-6; John 18:6 (printed xv, 6, note); Mark 15:10 (printed xv, 40, note); John 13:27; 3 Kings 6:38; 1 Esd 4:1; Ps 23:10; John 3:7 (hard to read, note); 3 Kings 8:39; 2 Tim 2:4, 2:26; Luke 14:23 (printed 'Luc. xv', note); Apoc 2:23; Matt 25:46 (Denis mixes 25:41, note); Is 66:2 ref-only for 'Super quem requiescet spiritus meus' (margin 'Cf. Is. lxvi, 1, 2', note). Untagged, worth a look on the scan: 'non elevant oculos suos ut videant cælum' (perhaps Dan 13:9)."
   },
   {
    "id": "john-08",
