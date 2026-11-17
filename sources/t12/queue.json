@@ -216,20 +216,19 @@
    ],
    "status": "needs-scan",
    "chapter_guess": 19,
-   "note": "Published with gaps (PDF 167-182, pp. 157-172; Luke 19:1-48). Lines lost in the OCR, marked […]: PDF 176 (p. 166) foot of the left column (v. 34, after 'Ad quod respondetur, quod forte jam') and foot of the right column (v. 38, after 'Porro, per hoc', before '…conciliatio generis humani'); PDF 180 (p. 170) in both columns (v. 45: after 'qui tamen in hoc commoda et' and after 'sub manifesta usura concedere prohibiti'; right: after 'Nec in cœmeteriis debent ludis aut aliis actibus' and before '…templationibus, prædicationibus et sacris'). Margin numerals taken from the sense: 'Ps. lxxvi, 11' (read 26:41) = Ps 76:11; 'Is. liii, 4' (garbled) = Is 53:4; 'Malach. iv, 5' (read 1 Mach) = Mal 4:5; 'Joann. xix, 15' (read xiv) = John 19:15; 'Matth. xxvii, 51' (read xxvi) = Matt 27:51; 'Prov. ii, 15' = Prov 2:14; 'Deut. xxiii, 19'; 'II Tim. ii, 4'; 'Is. lvi, 7'; 'II Par. xxiv, 21'; 'Act. viii, 5 et seq.' (Philip in Samaria); 'Sap. vii, 27' uncertain (note in the article). Tagged though no margin note was read (Denis names the source or quotes word for word): Rom 11:25-26, Zach 9:10, John 3:13, 1 Cor 12:8-10, 1 Cor 7:7. Translated in five parts by parallel workers; divine pronouns are lower-case in most of it."
+   "note": "Published with gaps (PDF 167-181, pp. 157-171; Luke 19:1-48). Lines lost in the OCR, marked […]: PDF 176 (p. 166) foot of the left column (v. 34, after 'Ad quod respondetur, quod forte jam') and foot of the right column (v. 38, after 'Porro, per hoc', before '…conciliatio generis humani'); PDF 180 (p. 170) in both columns (v. 45: after 'qui tamen in hoc commoda et' and after 'sub manifesta usura concedere prohibiti'; right: after 'Nec in cœmeteriis debent ludis aut aliis actibus' and before '…templationibus, prædicationibus et sacris'). Margin numerals taken from the sense: 'Ps. lxxvi, 11' (read 26:41) = Ps 76:11; 'Is. liii, 4' (garbled) = Is 53:4; 'Malach. iv, 5' (read 1 Mach) = Mal 4:5; 'Joann. xix, 15' (read xiv) = John 19:15; 'Matth. xxvii, 51' (read xxvi) = Matt 27:51; 'Prov. ii, 15' = Prov 2:14; 'Deut. xxiii, 19'; 'II Tim. ii, 4'; 'Is. lvi, 7'; 'II Par. xxiv, 21'; 'Act. viii, 5 et seq.' (Philip in Samaria); 'Sap. vii, 27' uncertain (note in the article). Tagged though no margin note was read (Denis names the source or quotes word for word): Rom 11:25-26, Zach 9:10, John 3:13, 1 Cor 12:8-10, 1 Cor 7:7. Translated in five parts by parallel workers; divine pronouns are lower-case in most of it."
   },
   {
    "id": "luke-43",
    "book": "luke",
    "art": 43,
    "pages": [
-    183,
+    182,
     196
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 20,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-17T09:54:19Z"
+   "note": "Published (PDF 182-196, pp. 172-186; Luke 20:1-47). The article starts at the top of PDF 182 (not 183); its heading was not found by cut_articles, so sources/t12/articles/luke-43.txt was cut by hand. Margin numerals taken from the sense: 'Is. v, 1' (read Osee) = Is 5:7; unread 'Is. xxi, 10' = Is 21:10; 'Joann. xv, 4' = John 15:1; 'Joann. iii, 31' = John 3:31; 'Ibid., 5' beside the people's wondering = Luke 3:15 (uncertain, note); 'I Thess. ii, 16' (read Ps 1:2) = 1 Thess 2:16; 'Joann. vi, 25' taken as John 8:25 ('Principium'); 'I Cor. x, 4' = 1 Cor 10:4; 'I Tim. i, 13'; 'Is. xxx, 10'; 'Ps. l, 4' = Ps 51:4; '...ii, 9' = Tit 2:9 (a guess, note); 'Jbid. xv' = Gen 15:1; 'Is. xlv, 25'; Ex 3:13-15. 'In Matth. xxi, 46' and 'In Matth. iii, 7' are Denis's references to his own Matthew commentary (bracketed notes). Printed text has footnoted variants 'agricolis'/'colonis' and 'diebus'/'temporibus' (notes)."
   },
   {
    "id": "luke-44",
