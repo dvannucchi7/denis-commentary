@@ -283,13 +283,12 @@
    "book": "luke",
    "art": 48,
    "pages": [
-    224,
-    240
+    225,
+    239
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 22,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-17T10:15:04Z"
+   "note": "Published with a small gap (PDF 225-239, pp. 215-229; Luke 22:28-71). PDF 225 (p. 215), v. 29: the first lines are damaged in the OCR (read as 'infideli discipulo væ æternum, scilicet Judæ proditori: qui, quum verba sequentia dicerentur, exivit'), and a line or two at the top of the right column is lost ('sic ex bonitate ca[…] […]paro, ac tribuam vobis'), marked […]. PDF 232: 'in quantum tribulationes sunt quædam mala pœnalia' stands on a line of its own; joined after 'condoluit' (v. 44), worth a glance. Margin numerals taken from the sense: 'Ibid. xx, 22' = Luke 20:23 (Denis adds 'hypocritæ', from Matt 22:18); 'Joann. xvi' beside the enemies falling = John 18:6; 'Ps. cxvii, 98' = Ps 118:28; 'Galat. v, 7' = Gal 5:17; 'Matth. xxvi, 96/98' = Matt 26:56/58; 'Ps. lxxxv, 16' = Ps 85:16; 'Joann. ii, 19' beside the false witnesses = Matt 26:61 (note). Mark 14:71 left reference-only because data/bible/drc has the typo 'began o curse'."
   },
   {
    "id": "luke-49",
