@@ -162,9 +162,9 @@
     112,
     126
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 15,
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published with gaps (PDF 112-126, pp. 102-116; Luke 15:1-32). Lines lost in the OCR, marked […]: PDF 114 (p. 104) foot of both columns (start of the moral sense of the sheep, v. 6; and in v. 7 between 'quem de majori periculo erui cernimus' and '…amemus'); PDF 123 (p. 113) foot of left column, v. 23 ('ei prædicate, […] sub speciebus Sacramenti'); PDF 125 (p. 115) top of both columns, v. 28 ('convivium quod Deus Pater in Ecclesia […] exhibet') and v. 29 ('Vel per hæ[dum …]tis, qui […] populo promissus fuit'); PDF 118 the chapter number of De divinis nominibus. Reading order on PDF 114, 123 and 125 rebuilt by the sense. Conjectures: 'ulcisci … malitiam' (PDF 118), '[Sic]ut' (PDF 116). Margin numerals corrected (check): Ps 99:3 (printed Ps. xci, 7), Ps 68:5, Jer 32:41, Ex 4:22, Jer 31:9, John 12:31 (ref-only), Is 46:8, Ps 79:6, Gen 15:2, Is 52:2, Matt 6:2, Is 64:8, Is 53:8, 1 Thess 2:15-16, Apoc 3:1, Lam 3:42 (margin 'Thren. v'). From unread margins: Is 53:4-6, 2 Esd 8:10, Rom 5:20, Ps 109:3, Ps 118:132, Is 6:5, 1 Cor 11:26, Apoc 3:20, Is 55:5, Is 9:2. Cant 5:3 given ref-only (Denis 'Indui me tunica mea', the verse has 'Expoliavi'). Agnes's 'Annulo fidei suæ subarrhavit me' left untagged (not Scripture).",
    "claimed": "2026-11-17T05:42:12Z"
   },
   {
