@@ -363,9 +363,10 @@
     289,
     295
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 1,
-   "claimed": "2026-11-17T15:09:43Z"
+   "claimed": "2026-11-17T15:09:43Z",
+   "note": "Published (PDF 290-295, pp. 280-285; John 1:6-13). Text complete. Translated in two parts by parallel workers. No margin notes were read on PDF 290 (the article starts at its foot). Margin numerals taken from the sense (check): 'Jer. xxiii, 21' kept (tool gave 23:32); 'Malach. iii, 1' (read 1 Mach); 'Matth. xi, 14' = Matt 11:11; 'Matth. iii' = Matt 3:4 and 'Marc. i' = Mark 1:6 (ref only); 'Gen. xxxi, 28' = Gen 32:28; 'Matth. iv, 2' = Matt 3:2 (Matt 4:17 possible); 'I Joann. i, 5'; 'Act. xiii, 23' = Acts 13:25; 'Joann. xii, 33' = John 12:32; 'Prov. xv, 39' = Prov 15:29; unreadable 'Ps. ...xxi' beside 'Quomodo scit Deus' = Ps 72:11 (note); 'Luc. i' = Luke 1:5 (whole chapter, note); unread 'Is. lxiv, 1' and 'Is. xlix, 5'; 'I Tim. ii, 19' = 2 Tim 2:19 (note); 'Act. x, 31' = Acts 10:34 (note). Tit 1:16: Denis 'factis tamen negant'."
   },
   {
    "id": "john-05",
