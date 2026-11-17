@@ -259,26 +259,24 @@
    "book": "luke",
    "art": 46,
    "pages": [
-    206,
+    207,
     214
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 22,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-17T10:06:59Z"
+   "note": "Published with gaps (PDF 207-214, pp. 197-204): the preface to the Passion, every paragraph tagged Luke 22:1 (it treats no verse). The cut file sources/t12/articles/luke-46.txt ran on into Art. XLVII (from line 56); only lines 1-51 and 54-55 are XLVI. PDF 207 (p. 197), heading area: the opening quotation (Eph 5:2) restored, then one or two lines lost; 'Hæc sunt verba B. Pauli apostoli in […]' cut off; top of the right column 'qui fecit utraque unum, […] in unum, per crucem dissolvens inimicitias […]' — marked […] with notes. Margin numerals taken from the sense: 'Ibid. 4' after Is 53:12 = Is 53:7; 'Ibid. iii, 5' = 2 Cor 3:5; 'Galat. v' = Gal 2:20; 'Joann. iv / vii, 29' = John 4:34, 8:29 (partly unreadable, note); 'II Thess. ii, 16' = 1 Thess 2:16 (note); 'Rom. viii, 33' = Rom 8:32. Jer 32:17 reference-only with no margin numeral read (Denis names Jeremias)."
   },
   {
    "id": "luke-47",
    "book": "luke",
    "art": 47,
    "pages": [
-    213,
+    214,
     225
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 22,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-17T10:06:59Z"
+   "note": "Published with gaps (PDF 214-224, pp. 204-214; Luke 22:1-27). sources/t12/articles/luke-47.txt cut by hand (heading OCR'd as 'ARTICUI … US XLVII'). The heading's title is garbage in the OCR except '…DIES FESTUS AZYMORUM, QUI DICITUR PASCHA': 'Elucidatio capituli vicesimi secundi: Appropinquabat autem' supplied; please check against the scan. The OCR of PDF 219-223 is badly damaged in bands; lines restored from the margin reader's line text where possible, the rest marked […] with notes: PDF 219 (v. 14 before 'terra consedit'; v. 15 after 'sicut qui peregre profecturi sunt, ultima'), PDF 219-220 (v. 18 after 'et fructus'), PDF 220 foot of both columns (vv. 19-20, several lines), PDF 221 lower half (v. 20, Chrysostom, several bands), PDF 222 left column (v. 20, one line after 'ordinavit Ecclesia Sacramentum hoc'), PDF 223 (v. 24 Basil's simile; v. 25 after 'potestatem exer[…]'). Margin numerals taken from the sense include 'Joann. vii, 20' (read vii, 90), 'II Par. xxxv, 18' (Denis's 'a diebus judicum' closer to 4 Kings 23:22, note), 'Exod. xi' = Ex 12:6, 'Act. i, 1-4' = Acts 2:4, 'II Cor. xi, 27, 29' = 1 Cor 11:27, 29, 'Dot. xi, 2' = Prov 11:2. The article ends at v. 27 (PDF 224); Art. XLVIII begins at the head of PDF 225 with v. 28."
   },
   {
    "id": "luke-48",
