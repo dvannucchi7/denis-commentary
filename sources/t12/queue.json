@@ -311,9 +311,10 @@
     259,
     277
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 24,
-   "claimed": "2026-11-17T14:53:05Z"
+   "claimed": "2026-11-17T14:53:05Z",
+   "note": "Published (PDF 260-271, pp. 250-261; Luke 24:1-53, 55 paragraphs), ending at 'FINIS COMMENTARIORUM IN EVANGELIUM SECUNDUM LUCAM' (PDF 271). Text complete, no […] gaps. sources/t12/articles/luke-50.txt runs on (from line 84) into the John PROOEMIUM (PDF 273-276), which belongs to john-01. Translated in four parts by parallel workers. Margin numerals taken from the sense (check): 'Matth. xxvii, 2/xxvi, 3' = Matt 28:2-3; unread 'Marc. xvi, 3, 4'; 'Marc. xvi, 13' = Mark 16:12; '4 Reg. vi' = 4 Kings 6:18 and unread 'Gen. xix, 14' = Gen 19:11 (ref only); 'Joann. vii, 406' = John 7:46; 'Philipp. 8, 9' = Phil 2:8-9; 'Act. xiv, 24' = Acts 14:21; 'II Tim. ii, 13' = 2 Tim 3:12; 'Matth. v, 23' = Matt 5:22; 'Joann. xix, 1' = John 19:7; 'Gen. xviii, 1-8', 'xix, 1-3' (Abraham, Lot; ref only); 'I Petr. iv, 9'; 'Gen. xlv, 26' (unread); 'Joann. xv, 9' = John 15:5; 'Sap. vii, 28'; 'Gen. xxi, 18' = Gen 22:18 with 26:4, 28:14 (Denis's wording nearer Acts 3:25, note); 4 Kings 20:13, 15 ref only with the words tagged from Is 39:2, 4 (note); 'Joann. xx, 23' = John 20:22; 'Ps. lxxi, 17'; 'Matth. xv, 25' = Matt 15:24; 'Act. ii, 46, 41' = Acts 2:46-47. Heb 13:2: Denis reads 'placuerunt quidam Deo' for 'latuerunt' (note). Latin conjectures: 'necessitate consequentiæ, non consequentis' (OCR 'consequenti', PDF 268); 'per modum habitus fixi' (v. 19)."
   },
   {
    "id": "john-01",
