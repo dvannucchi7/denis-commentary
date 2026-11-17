@@ -188,9 +188,9 @@
     141,
     153
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 17,
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published with gaps (PDF 142-153, pp. 132-143; Luke 17:1-37). Lines lost in the OCR, marked […]: PDF 145 (p. 135) about two lines at the foot of each column (end of Ecclus 28:2 and the next sentence, v. 5; and between 'dum plura credibilia' and '…credunt explicite'); PDF 151 (p. 141) foot of the left column, v. 28 (about a line after 'Filii [hominis …'), and foot of the right column, v. 31 (about two lines after 'corporalem mo[tum …'). Reading order on PDF 145 and 151 rebuilt by the sense. Conjecture: 'pignus [jam] accipit'. v. 27 prints 'Et tulit omnes' (edition's margin '* perdidit'), noted. Margin readings corrected or from unread notes (check): 1 Thess 5:22, Matt 18:6 (ref-only, margin 'xvi, 6-10'), Matt 18:15, 2 Cor 10:5, Mark 10:52 / Matt 9:22, 2 Thess 3:2, 4 Kings 5:15, 2 Cor 1:8, Gen 8:4, Gen 19:24-26 and Deut 29:23, 1 Cor 2:14 (margin 'II Cor. ii, 14'). DATA PROBLEM for Dave: data/bible/drc/proverbs.json chapter 30 is misaligned: v. 19 holds the text of v. 29 ('There are three things, which go well…') and v. 29 is empty, so Prov 30:19 (the way of an eagle) could only be given as reference-only.",
    "claimed": "2026-11-17T05:57:36Z"
   },
   {
@@ -201,9 +201,9 @@
     152,
     167
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 18,
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published (PDF 153-166, pp. 143-156; Luke 18:1-43, literal then spiritual sense of the blind man of Jericho). Text complete. Margin readings corrected or taken from unread notes (check): 1 Thess 5:17, Deut 10:18, Heb 10:30 with ref-only Deut 32:35 and Rom 12:19, Job 24:19 (ref-only, fits loosely), Matt 6:5, Mal 2:10, Rom 14:4, Is 58:5, Gal 6:1, Ezech 18:21-22, Job 41:25, Matt 19:20, Lam 3:27 (printed iii, 37), John 14:6 and 10:9, Ecclus 30:22 (printed xxx, 23), Matt 19:27, 1 Tim 6:7, John 18:12, Luke 7:50, Is 42:8, Ps 113:9 (printed cxiii, 1, Hebrew numbering), Bar 3:38 (printed ii, 38). OCR conjectures: 'pœnæ vitæ' for 'pons vitæ', 'dixit' for 'dat' (v. 16).",
    "claimed": "2026-11-17T05:57:36Z"
   },
   {
