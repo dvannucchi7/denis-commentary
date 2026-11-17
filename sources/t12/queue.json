@@ -298,9 +298,10 @@
     239,
     260
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 23,
-   "claimed": "2026-11-17T14:42:05Z"
+   "claimed": "2026-11-17T14:42:05Z",
+   "note": "Published (PDF 240-259, pp. 230-249; Luke 23:1-56, 85 paragraphs). Text complete, no […] gaps. Translated in six parts by parallel workers. Opening word restored as 'Subinde describitur' (OCR 'UBINDE', drop capital). Margin numerals taken from the sense (check): 'Luc. xvii, 31-33' = Luke 18:32-33 (Denis joins it with Matt 20:18-19, note); 'Matth. xxvi, 2' = Matt 27:2; 'Joann. i, 14 11' = John 2:1 (ref only); 'Luc. n, 1' = Luke 3:1 (uncertain); 'Luc. …37; Joann. xviii, 5, 7' = Luke 18:37 and John 18:5 (ref only, guess); 'Matth. ix, 31' = Matt 9:26 (uncertain); 'Joann. xiii, 16 / Matth. x, 24' (split by the OCR) = John 13:16 and Matt 10:24; 'Matth. xxvii, 13-18' = 27:15-18; 'Is. liii, 7'; 'Rom. xiii, 1' (ref only); 'Marc. xv, 23' = Mark 15:25; 'II Thess. ii, 16' = 1 Thess 2:16 (Denis 'super vos', note); 'Ps. lxviii, 35' = Ps 68:25; 'Josue xiv, 15' (Denis omits 'inter Enacim', note); 'Ps. xxv, 17, 18' = Ps 21:17-18; 'Ibid. xiii' = Zach 13:6; 'Is. xlii, 1' (read Ps 62:2); 'Ps. cviii, 23' = Ps 108:25; 'Matth. xxvi, 44' = Matt 27:44; 'Is. liii, 9' (Denis in the form of 1 Pet 2:22, note); 'I Petr. iv, 8'; 'Matth. xxvi, 17/48/49' = Matt 27:47-49; 'Ps. lxxxvii, 8 and 19' (unread notes); 'Matth. xxvii, 51, 52, 53'; 'Joann. xix, 23' = John 19:25; 'Matth. xxvii, 56'; 'Luc. xxiv, 10' (Joanna); 'Act. x, 1, 2, 22' (Cornelius, unread note); 'Ibid. 45' after Mark 15:43 = Mark 15:44-45. Matt 27:37 and John 19:19 both tagged on the title 'Hic est Jesus Nazarenus, rex Judæorum' (note). Tagged with no margin note read: Mark 15:1, John 19:14 (ref only), John 19:15 (the cry 'Tolle, tolle' at 19:6, note), John 15:25, John 19:28. OCR conjectures: 'nihil ei respondebat' (v. 9), 'Ait: Pater, in manus tuas' (garbled line, v. 46), 'crucifixorum' kept as printed in v. 49 (sense 'crucifiers', note)."
   },
   {
    "id": "luke-50",
