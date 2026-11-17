@@ -262,9 +262,10 @@
     206,
     214
    ],
-   "status": "todo",
+   "status": "in-progress",
    "chapter_guess": 22,
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-17T10:06:59Z"
   },
   {
    "id": "luke-47",
@@ -274,9 +275,10 @@
     213,
     225
    ],
-   "status": "todo",
+   "status": "in-progress",
    "chapter_guess": 22,
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-17T10:06:59Z"
   },
   {
    "id": "luke-48",
