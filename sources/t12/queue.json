@@ -311,9 +311,9 @@
     259,
     277
    ],
-   "status": "todo",
+   "status": "in-progress",
    "chapter_guess": 24,
-   "note": "batch stopped (API credit ran out)"
+   "claimed": "2026-11-17T14:53:05Z"
   },
   {
    "id": "john-01",
