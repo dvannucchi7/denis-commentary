@@ -235,26 +235,24 @@
    "book": "luke",
    "art": 44,
    "pages": [
-    195,
+    196,
     202
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 21,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-17T10:00:59Z"
+   "note": "Published (PDF 196-202, pp. 186-192; Luke 21:1-19). To check against the scan: PDF 196-197 (v. 1), the two Greek words in the etymology of gazophylacium are garbled in the OCR; given as γάζα and φυλάσσειν with a note. Margin numerals taken from the sense: 'Joann. viii' = John 8:20; 'Malach. i' and 'Ibid. 14' = Mal 1:8, 1:14; 'Luc. xix, 44' = Luke 19:44 (back-reference); 'Act. xii, 1-4', 'xxi, 33; xxiv-xxvi' = Acts (Paul before Felix and Festus); 'Prov. xiv, 29' beside 'Qui impatiens est, operatur stultitiam' = Prov 14:17 (note), 'Prov. xiv, 9' = 14:29. Denis reads 21:8 'tempus appropinquabit' (note)."
   },
   {
    "id": "luke-45",
    "book": "luke",
    "art": 45,
    "pages": [
-    201,
+    202,
     207
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 21,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-17T10:00:59Z"
+   "note": "Published with gaps (PDF 202-207, pp. 192-197; Luke 21:20-38). Lines lost in the OCR, marked […]: PDF 203 (p. 193) foot of the left column (v. 24, after 'quousque veniat tempus', before '…Sarracenorum a Terra sancta') and foot of the page (v. 25, after 'pressura gen[tium]', before 'vel etiam compressio mutua'); PDF 205 (p. 195) left column, several lines (vv. 30-31, the fig-tree: 'prope est æstas […] consuetudinem patriæ […] et nomine fructus […]'; the v. 31 words pieced together, note). PDF 205 right column (v. 34) recovered from the margin reader's line text; worth a glance. Margin numerals taken from the sense: 'Ps. lviii, 12' (read 56:2) = Ps 58:12; 'Dan. ix, 26' with a clause of 9:27 (note); 'Dan. xii, 11, 12' = Dan 12:12 (ref only); 'Act. i, 11'; 'Sap. v, 18, 21' (Denis 'pro eo', note); 'Luc. xii, 6, 7' beside 'supra' = Luke 12:22 (back-reference); 'Matth. vi, 34, 33' = Matt 6:34, 6:32; 'Matth. xiv, 37' = Matt 24:37."
   },
   {
    "id": "luke-46",
