@@ -214,10 +214,9 @@
     166,
     184
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 19,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-17T09:41:41Z"
+   "note": "Published with gaps (PDF 167-182, pp. 157-172; Luke 19:1-48). Lines lost in the OCR, marked […]: PDF 176 (p. 166) foot of the left column (v. 34, after 'Ad quod respondetur, quod forte jam') and foot of the right column (v. 38, after 'Porro, per hoc', before '…conciliatio generis humani'); PDF 180 (p. 170) in both columns (v. 45: after 'qui tamen in hoc commoda et' and after 'sub manifesta usura concedere prohibiti'; right: after 'Nec in cœmeteriis debent ludis aut aliis actibus' and before '…templationibus, prædicationibus et sacris'). Margin numerals taken from the sense: 'Ps. lxxvi, 11' (read 26:41) = Ps 76:11; 'Is. liii, 4' (garbled) = Is 53:4; 'Malach. iv, 5' (read 1 Mach) = Mal 4:5; 'Joann. xix, 15' (read xiv) = John 19:15; 'Matth. xxvii, 51' (read xxvi) = Matt 27:51; 'Prov. ii, 15' = Prov 2:14; 'Deut. xxiii, 19'; 'II Tim. ii, 4'; 'Is. lvi, 7'; 'II Par. xxiv, 21'; 'Act. viii, 5 et seq.' (Philip in Samaria); 'Sap. vii, 27' uncertain (note in the article). Tagged though no margin note was read (Denis names the source or quotes word for word): Rom 11:25-26, Zach 9:10, John 3:13, 1 Cor 12:8-10, 1 Cor 7:7. Translated in five parts by parallel workers; divine pronouns are lower-case in most of it."
   },
   {
    "id": "luke-43",
