@@ -4,6 +4,55 @@
  "chapters": {
   "1": [
    {
+    "num": "I",
+    "title": "De dignitate et excellentia sacratissimi evangelistæ S. Joannis, et quod liber evangelii Joannis universos Scripturæ canonicæ libros excedit.",
+    "title_en": "On the dignity and excellence of the most holy Evangelist St John, and that the book of John's Gospel surpasses all the books of canonical Scripture.",
+    "pages": "pp. 267–268",
+    "note": "The Prooemium printed before this article (pp. 265–266, on Ecclus 24: “I, like a brook out of a river of a mighty water… came out of paradise”) is set across the full width of the page, and the scan's text could not be read: each line was cut through the middle. It will be added when those pages are read again. A line or two is also lost near the top of this article.",
+    "paras": [
+     {
+      "v": [
+       1,
+       1
+      ],
+      "t": "Hic est discipulus in tantum inter discipulos reliquos prædilectus a Christo, ut hac circumlocutione, Discipulus quem diligebat Jesus, significetur in præsenti evangelio, quasi ipsum solum amasset. Ipse exstitit unus trium Apostolorum qui suscitationi puellæ, transfigurationi dominicæ, ac trinæ orationi Christi tempore passionis interfuerunt. Denique ipse solus in Cœna supra pectus Jesu recubuit, seu quievit, reclinans se in sinu Jesu. Tuncque, secundum Augustinum et Bedam, ex fonte dominici pectoris bibit quod postea in evangelio propinavit. Quod non est intelligendum quasi in hora illa impletus sit spiritu sapientiæ, et illustratus a Christo evangelica veritate, præsertim quum, ipso testante, dum post resurrectionem Maria Magdalene sibi retulisset Dominum a monumento sublatum, ipse sic esse crediderit: nondum enim sciebat (ut ipsemet ait) Scripturas. Quomodo ergo tunc bibit, nisi quod ille recubitus fuit signum ac dispositio, causa quoque meritoria, in quantum ex magna dilectione processit, futuræ illuminationis Spiritus Sancti? Hunc Christus a nuptiis ubi aquam in vinum convertit, vocavit, ut recitat Be[da …] […]la; eique tempore passionis Matrem suam virgineam ac superdignissimam commendavit.",
+      "en": "This is the disciple so beloved by Christ above the other disciples that in this Gospel he is signified by the circumlocution, the disciple [[John 13:23|whom Jesus loved|quem diligebat Jesus]][[John 19:26||]][[John 21:7||]][[John 21:20||]], as though He had loved him alone. He was one of the three Apostles who were present at the raising of the girl[[Mark 5:37||]], at the Lord's transfiguration[[Matt 17:1||]], and at Christ's threefold prayer in the time of His passion[[Matt 26:37||]]. Lastly, he alone at the Supper lay upon the breast of Jesus[[John 13:25||]], or rested there, leaning in the bosom of Jesus. And then, according to Augustine and Bede, he drank from the fountain of the Lord's breast what he afterwards poured out to drink in his Gospel. This is not to be understood as if in that hour he had been filled with the spirit of wisdom and enlightened by Christ in the truth of the Gospel; above all since, as he himself bears witness, when after the resurrection Mary Magdalen told him that the Lord had been taken away from the sepulchre[[John 20:2||]], he believed it was so: for he did not yet know the Scriptures, as he himself says[[John 20:8||]][[John 20:9||]]. How then did he drink at that time, unless because that lying on the breast was a sign and a disposition, and also a meritorious cause (in so far as it came from great love), of the enlightening of the Holy Ghost that was to come? Christ called him from the wedding where He turned water into wine[[John 2:8||]][[John 2:9||]], as Bede […] relates [a line or two is lost here in the scan's text] […]; and in the time of His passion He commended to him His virginal and most worthy Mother[[John 19:27||]]."
+     },
+     {
+      "v": [
+       1,
+       1
+      ],
+      "t": "Hic sanctus Apostolus in ferventi oleo positus, exivit illæsus, quatuor mortuos suscitavit, totiusque Asiæ rexit ac fundavit Ecclesias. Ipse est præclarissimum jubar Ecclesiæ, non dumtaxat evangelii, sed trium quoque epistolarum et Apocalypsis radiosus descriptor. Præterea, quantus fuerit in corde divini ac magni Dionysii, innotescit in ea quam Joanni misit epistola, ubi inter cetera loquitur: Ave, vere dilectissime, vere amabilium et desiderabilium ac dilectorum valde dilectissime.",
+      "en": "This holy Apostle, put into boiling oil, came out unharmed; he raised four dead men to life, and ruled and founded the Churches of all Asia. He is the most brilliant radiance of the Church, the radiant writer not only of the Gospel but also of three Epistles and the Apocalypse. Moreover, how great he was in the heart of the divine and great Dionysius is made known in the letter he sent to John, where among other things he says: Hail, truly most beloved, truly most beloved above all the lovable, the desirable and the beloved [Dionysius the Areopagite, Letter X, to John the Apostle in exile on Patmos]."
+     },
+     {
+      "v": [
+       1,
+       1
+      ],
+      "t": "Denique, quamvis tota Scriptura canonica tractet de Deo tanquam de objecto, specialiter quoque Prophetæ, Apostoli et Evangelistæ loquantur de Christo ut promisso vel misso; nihilo minus evangelii volumen S. Joannis universis Scripturæ codicibus rite præfertur, quoniam de Divinitate ac Trinitate, de divinæ essentiæ unitate, de Personarum distinctione, de æterna atque divina Christi generatione et Sancti Spiritus processione, de duplici Christi natura, multiplici actione et una persona, plenius, clarius atque profundius scribit. Ea quoque supplevit quæ alii Evangelistæ omiserunt, videlicet signa, documenta et opera facta a Christo ante incarcerationem Joannis Baptistæ. Insuper, de doctrina et sermonibus Salvatoris Joannes valde sublimius scribit, quam ceteri Evangelistæ: propter quod designatur in prophetica quatuor animalium visione Ezechieli ostensa, per aquilam quæ altius volat, solareque lumen clarius inspicit.",
+      "en": "Finally, although the whole of canonical Scripture treats of God as its object [that is, as the subject it is about], and the Prophets, Apostles and Evangelists speak in particular of Christ as promised or as sent, nevertheless the volume of St John's Gospel is rightly preferred to all the books of Scripture, because it writes more fully, more clearly and more deeply of the Godhead and the Trinity, of the unity of the divine essence, of the distinction of the Persons, of the eternal and divine generation of Christ and the procession of the Holy Ghost, and of Christ's twofold nature, manifold action and one person. He also supplied what the other Evangelists left out, namely the signs, teachings and works done by Christ before John the Baptist was imprisoned. Besides, John writes far more sublimely than the other Evangelists of the Saviour's teaching and discourses; and for this he is signified, in the prophetic vision of the four living creatures shown to Ezechiel[[Ezech 1:5||]][[Ezech 1:10||]], by the eagle, which flies higher and looks more clearly upon the light of the sun."
+     },
+     {
+      "v": [
+       1,
+       1
+      ],
+      "t": "Scripsit autem Evangelium post alios Evangelistas. Quum enim demoraretur in exsilio Patmos, insurrexerunt in Asia et in Epheso hæretici, asserentes Christum esse hominem purum, nec tempore præcessisse Mariam. Quum ergo reversus esset Joannes a Patmos ad Ephesum, prout Areopagita Dionysius ei prophetavit, rogatus est ab episcopis Asiæ, ut de Christi divinitate, de qua alii Evangelistæ pauca scripserunt, plenius scriberet, imo Evangelium Christi plenissime conscribendo elucidaret, quo tam præsentes quam futuros damnaret errores, omniumque credentium instrueret animas. Quod Spiritu Sancto invocato, et communi jejunio ac prece præmissis, effecit. Dicitque Alcuinus, quod a tempore ascensionis Christi per annos sexaginta quinque absque adminiculo scribendi prædicavit.",
+      "en": "He wrote his Gospel after the other Evangelists. For while he was staying in exile on Patmos[[Apoc 1:9||]], heretics arose in Asia and in Ephesus, asserting that Christ was a mere man and did not exist before Mary in time. So when John had returned from Patmos to Ephesus, as Dionysius the Areopagite had prophesied to him, he was asked by the bishops of Asia to write more fully of the divinity of Christ, of which the other Evangelists had written little; indeed, to set forth Christ's Gospel by writing it out most fully, so as to condemn both present and future errors and to instruct the souls of all believers. This he did, after calling upon the Holy Ghost, with a common fast and prayer beforehand. And Alcuin says that from the time of Christ's ascension he preached for sixty-five years without the aid of writing."
+     },
+     {
+      "v": [
+       1,
+       1
+      ],
+      "t": "Ad hujus igitur evangelii sacrosancti elucidationem, tanto accedo humilius, et Sancti Spiritus illustrationem invoco affectuosius, quanto sublimior est ejus materia, atque declivior ac insufficientior propriæ rationis intelligentia. Sed nec intendo cursorie pertransire, neque extranea introducere, sed textus declarationi ac moralitati viribus totis insistere.",
+      "en": "To the explanation of this most holy Gospel, therefore, I come the more humbly, and call upon the enlightenment of the Holy Ghost the more earnestly, the more sublime its matter is, and the weaker and more insufficient the understanding of my own reason. Yet I do not intend to pass over it cursorily, nor to bring in things foreign to it, but to apply myself with all my strength to the explanation of the text and to its moral teaching."
+     }
+    ]
+   },
+   {
     "num": "II",
     "title": "Expositio primi capituli: In principio erat Verbum.",
     "title_en": "Exposition of the first chapter: “In the beginning was the Word.”",

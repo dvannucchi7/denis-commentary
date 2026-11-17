@@ -324,9 +324,9 @@
     275,
     278
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 1,
-   "note": "batch stopped (API credit ran out)",
+   "note": "Art. I published (PDF 277-278, pp. 267-268; every paragraph tagged John 1:1, as it treats no verse); the PROOEMIUM (PDF 275-276, pp. 265-266, on Ecclus 24:41-44 'Ego sicut aquæductus exivi de paradiso') is NOT translated: it is printed across the full page width, and tools/ocr_columns.py cut it at a false gutter, so half of every line is lost in sources/t12/pages/p275-276.txt. Re-OCR PDF 275-276 as a single column, then add it (as the article's opening or note, per the queue's 'how'). Also PDF 277: the two lines below the heading are garbage in the OCR; 'ut hac circumlocutione, Discipulus' restored from the margin reader's line text, and one or two lines lost between 'ut recitat Be[da]' (foot of the left column) and '…la; eique tempore passionis Matrem suam' (top of the right), marked […]. Margin: 'Ibid. ii, 8, 9' (read 3:8-9) = John 2:8-9; all margin references given reference-only (Denis retells, does not quote).",
    "claimed": "2026-11-17T15:00:17Z"
   },
   {
