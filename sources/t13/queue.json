@@ -373,10 +373,9 @@
     173,
     181
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:42:19Z"
+   "note": "needs scan: text lost at vv. 1–4 (lower right column of PDF 173 not transcribed) and the lemma of v. 33 (PDF 179/180). The right column of PDF 173 holds the lost end of Art. VI (6:20)."
   },
   {
    "id": "i-corinthians-008-2",
@@ -387,9 +386,9 @@
     181,
     184
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T05:42:19Z"
+   "note": "needs scan: a line or more lost at v. 1 ('Si autem scientia pertinaci[…]tur caritate', between PDF 181 and 182)."
   },
   {
    "id": "i-corinthians-009-2",
