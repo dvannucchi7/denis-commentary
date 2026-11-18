@@ -512,8 +512,9 @@
     259,
     265
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:27:48Z"
   },
   {
    "id": "ecclesiastes-006",
@@ -524,8 +525,9 @@
     265,
     267
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:27:48Z"
   },
   {
    "id": "ecclesiastes-007",
