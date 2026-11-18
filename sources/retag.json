@@ -187,8 +187,8 @@
    "chapter": 11,
    "num": "XXI",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:56Z"
+   "status": "done",
+   "note": "2 tags changed (para 12 narrowed to vv. 4–5; para 13 adds the quoted v. 3: vv. 3, 7); 5 confirmed"
   },
   {
    "id": "matthew-11-XXII",
@@ -196,8 +196,8 @@
    "chapter": 11,
    "num": "XXII",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:56Z"
+   "status": "done",
+   "note": "2 tags changed (para 26 adds the quoted v. 12: vv. 12, 30; para 28 narrowed to v. 29); 6 confirmed"
   },
   {
    "id": "matthew-12-XXIII",
@@ -205,8 +205,8 @@
    "chapter": 12,
    "num": "XXIII",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:56Z"
+   "status": "done",
+   "note": "1 tag corrected (para 3, the Pharisees' complaint, vv. 3–4 to vv. 1–2)"
   },
   {
    "id": "matthew-12-XXIV",
@@ -214,8 +214,8 @@
    "chapter": 12,
    "num": "XXIV",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:56Z"
+   "status": "done",
+   "note": "both flagged tags confirmed; no change"
   },
   {
    "id": "matthew-13-XXV",
@@ -223,8 +223,8 @@
    "chapter": 13,
    "num": "XXV",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:56Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 23, parable of the cockle put off until Christ's explanation, to v. 24); 4 confirmed"
   },
   {
    "id": "matthew-14-XXVII",
@@ -232,8 +232,8 @@
    "chapter": 14,
    "num": "XXVII",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:56Z"
+   "status": "done",
+   "note": "flagged tag confirmed; no change"
   },
   {
    "id": "matthew-15-XXVIII",
