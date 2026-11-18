@@ -1447,9 +1447,10 @@
     521,
     523
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:15:00Z"
+   "claimed": "2026-11-18T17:15:00Z",
+   "note": "Published (scheduled run, one worker). The end of the article ('Propter quod Salomon dicit…' and the v. 10 gloss) stood at the head of psalms-020-2.txt (p523 RIGHT, after the Art. XX heading) and was put back here. Margins corrected with notes: Eccli. x, 27 → Ecclus 23:37; Prov. v, 25 → Prov 10:25; Matth. xxv, 31–46 as reference-only Matt 25:31."
   },
   {
    "id": "psalms-020-2",
@@ -1460,9 +1461,10 @@
     523,
     525
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:15:00Z"
+   "claimed": "2026-11-18T17:15:00Z",
+   "note": "Published (scheduled run, one worker) with a gap: the opening word(s) of the article are lost in the transcription (it begins '…que sensus : Beatus vir', PDF 523, p. 513, left column under the heading), marked […]; please check the scan. Article end ('fratrem. Dicit autem Gregorius…' and the Precatio) taken from p525.txt RIGHT. Margins corrected with notes: Eccli. xxx, 2 → Ecclus 29:2; Joann. iii, 22 → 1 John 3:22. Matt 28:18 tagged (word for word, no margin note). DR data slip: Prov 3:3 'mercy aud truth'."
   },
   {
    "id": "psalms-021-2",
