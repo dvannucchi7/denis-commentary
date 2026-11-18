@@ -693,9 +693,9 @@
     287,
     291
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Galatians 1, Art. I (pp. 265-269) with gaps: line-starts lost at vv. 3-4 (PDF 288: '[…] intelligere velit', 'auctor pacis […] gratiæ', '[…]oluit, […] tempore passionis'; 'personam' and 'Quæcumque' (John 5:19) restored); at v. 13 'et expugnabam […]bam illam'; the article's last sentence breaks off at v. 24 'de gratia et benefi[…]' (PDF 291: the transcription jumps to the Art. II heading). Margin 'Ps. cxxxviii, 3' marked as Ps 63:3 and 'Philipp. ii, 5' as reference-only Phil 2:8 (both noted). OCR fixes: 'primum vam' -> 'primitivam'. Please check against the scan.",
    "claimed": "2026-11-18T06:13:10Z"
   },
   {
@@ -720,9 +720,9 @@
     297,
     302
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Galatians 3, Art. III (pp. 275-280) with one gap at v. 23 (PDF 301): words lost before '_revelanda erat_', probably 'in eam fidem quæ' (noted). A stray heading 'O INSENSATI GALATÆ !' in the transcription (perhaps the end of the article title) was left out. Margin numerals corrected with notes: 'Psalm. xxi, 17' -> Ps 68:5/68:20; 'Ps. xxxvii' -> Ps 87:5; 'Hebr. v, 1' -> reference-only Heb 11:1; 'Luc. xvii, 18' -> Luke 17:19. Acts 7:53 and Mark 2:28 tagged with no margin note (word for word).",
    "claimed": "2026-11-18T06:13:10Z"
   },
   {
