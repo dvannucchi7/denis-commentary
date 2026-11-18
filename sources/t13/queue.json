@@ -79,11 +79,11 @@
     48,
     55
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
    "part": 2,
    "parts": 2,
-   "note": "batch stopped (API credit ran out)",
+   "note": "This item is not part 2 of Art. V: the running heads of PDF 48-55 read ART. VI, and the text is Art. VI (Romans 3). Published as Romans 3, Art. VI. Needs scan of PDF 48 (printed p. 26), whose transcription is almost empty: it holds the end of Art. V (rest of 2:29) and the title and start of Art. VI (3:1-4). Also half-lines lost in the left column of the page with 3:19-20 (about PDF 51-52), and the lemmas 'in sanguine' (3:25) and 'et justificans eum qui est ex fide Jesu' (3:26) are missing. Note: romans-005-part1 carries parts=2, so Art. V will wait for a part 2 that is really the missing page 48.",
    "claimed": "2026-11-18T02:54:47Z"
   },
   {
