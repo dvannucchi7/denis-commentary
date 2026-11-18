@@ -80,9 +80,10 @@
     42,
     49
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:24:50Z"
+   "claimed": "2026-11-18T11:24:50Z",
+   "note": "translated by scheduled run; transcribed ⟦v. N⟧ notes one too high between v. 3 and v. 14 (tagged by the text); margin Matt 24:30 quotation is Matt 26:64 + Luke 21:27 (noted); Prov xiii,13 → 13:18; Douay-Rheims data slip: Matt 24:27 \"cowling\" for \"coming\""
   },
   {
    "id": "psalms-093-part1",
@@ -93,11 +94,12 @@
     49,
     56
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 1,
    "parts": 2,
-   "claimed": "2026-11-18T11:24:50Z"
+   "claimed": "2026-11-18T11:24:50Z",
+   "note": "translated by scheduled run; the […] beside II Cor. x, 3 (PDF p. 55) hides no text; margin \"Is. xxxii, 13\" taken as Apoc 22:13 (noted); \"Oratio Manasse\" cited (not in the app Bible, note only)"
   },
   {
    "id": "psalms-093-part2",
@@ -108,11 +110,12 @@
     57,
     63
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 2,
    "parts": 2,
-   "claimed": "2026-11-18T11:24:50Z"
+   "claimed": "2026-11-18T11:24:50Z",
+   "note": "translated by scheduled run; stray heading \"FINIS COMMENTARIORUM IN PRI…\" inside the closing paragraph removed and the text joined; margin \"Amos iv, 11\" taken as Amos 9:11 (noted); transcriptions of PDF pp. 60 and 62 failed (\"I can't see any page images\"): they hold the proœmium of the second fifty psalms, not this article; Douay-Rheims data slip: Rom 15:2 \"Please\" capitalised"
   },
   {
    "id": "psalms-001",
