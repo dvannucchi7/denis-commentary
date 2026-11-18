@@ -911,9 +911,10 @@
     377,
     383
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:41:32Z"
   },
   {
    "id": "colossians-002-7",
@@ -937,9 +938,10 @@
     387,
     391
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:41:32Z"
   },
   {
    "id": "colossians-004-7",
