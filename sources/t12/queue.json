@@ -784,10 +784,9 @@
     560,
     565
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 15,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T02:32:01Z"
+   "note": "Published (PDF 560-565, pp. 550-555; John 15:17-27 and 16:1-5, stored under both chapters). Margin gives Matth. xxiv, 9 for words of Matt 10:22, and Ephes. v, 6 for words of 1 Thess 2:16; both noted. Margins of PDF 562 left column were not read (the OCR has them inline); the miracle references there were taken from them."
   },
   {
    "id": "john-39",
