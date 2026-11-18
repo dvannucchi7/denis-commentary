@@ -10,9 +10,10 @@
     27,
     40
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:00:55Z"
+   "claimed": "2026-11-18T21:00:55Z",
+   "note": "Published (scheduled run, two workers; first Proverbs article: work title 'Enarratio in Proverbia Salomonis regis Israel', PDF = printed page + 22). Text lost at the foot of p. 16 (PDF 38) left column, after 'Psalmista : Sicut oves', marked […] (Ps 48:15 noted): check the scan. Margin readings corrected with notes: '1 Reg. xii, 3' (Ididia) → 2 Kings 12:25; 'Par. xxii' → 1 Par 22:9; 'Joann. v… 20' → John 10:20; 'I Cor. iv, 18' → 2 Cor 4:17-18; 'Ps. lxxii, 27' → Ps 72:19; 'Posuit in lacum vitam meam' (beside Jer 51:34) is Lam 3:53 (ref-only). Chapter-only margins given verses (Prov 3:18, 22:18, 29:5; Ecclus 6:35; Matt 15:14-15). Margins missing their book on p37/p39 read from the text (Job 21:14, Is 30:10, Ps 14:4, Ps 26:13, Is 64:4, 1 Cor 2:9, Is 32:17-18). Tagged without margin note: Matt 6:9, Ps 140:5, Job 18:10, Jer 30:11, Prov 28:1. Douay-Rheims slip: Acts 20:27 'spread' for 'spared'."
   },
   {
    "id": "proverbs-002",
@@ -23,9 +24,10 @@
     40,
     45
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:00:55Z"
+   "claimed": "2026-11-18T21:00:55Z",
+   "note": "Published (scheduled run, worker). The cut left the article's last line on p45 ('infusa, pro salute æterna … accendimur'); added. A '[…]' after 'ignavia,' (p45) kept; the sense runs on, probably nothing lost. Margin readings corrected with notes: 'Exod. xv, 14' → Ex 20:14; 's. xi, 2' → Is 11:2; 'id. iii, 9' → Is 3:9; 'Joann. ii' → 1 John 2:11. Denis reads 'hereditabunt' at Matt 5:4 (noted). Douay-Rheims slip: Prov 2:7 'He wilt keep'."
   },
   {
    "id": "proverbs-003",
