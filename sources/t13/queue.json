@@ -500,7 +500,7 @@
    ],
    "status": "needs-scan",
    "source": "transcribed",
-   "note": "Published as 1 Corinthians 15, Art. XVI (pp. 201-206; title damaged in the transcription: 'Prosequtio explanationis hujus capituli quintidecimi, a[b eo loco: Si secundum] hominem ad bestias pugnavi Ephesi … est'). PDF 223's right column was transcribed in split half-lines: vv. 33-35 are fragmentary (v. 33 rejoined; the gloss on 'ad reverentiam vobis loquor' and most of v. 35 lost). The top of that column (from '[suppli]cia ducimur' to 'contemplationem ipsius', the end of v. 30 and v. 31) belongs to the end of Art. XV, which the cut file i-corinthians-015-2 stops before ('vel ad suppli-'); it is fragmentary too and was left out of both articles. The article's last lines ('…ita itaque perfectio, cordis stabilitas in Domino … ut luna', v. 58) had been cut into the Art. XVII file and were joined here; a word is lost at the join ('Magna est […]t itaque perfectio'). Margin 'Ibid. vi, 38' does not fit: John 16:28 marked with a note. Please check against the scan.",
+   "note": "Published as 1 Corinthians 15, Art. XVI (pp. 201-206; title damaged in the transcription: 'Prosequtio explanationis hujus capituli quintidecimi, a[b eo loco: Si secundum] hominem ad bestias pugnavi Ephesi … est'). PDF 223's right column was transcribed in split half-lines: vv. 33-35 are fragmentary (v. 33 rejoined; the gloss on 'ad reverentiam vobis loquor' and most of v. 35 lost). The top of that column (from '[suppli]cia ducimur' to 'contemplationem ipsius', the end of v. 30 and v. 31) belongs to the end of Art. XV, which the cut file i-corinthians-015-2 stops before ('vel ad suppli-'); it is fragmentary too and was left out of both articles. The article's last lines ('[…]t itaque perfectio, cordis stabilitas in Domino … ut luna', v. 58) had been cut into the Art. XVII file and were joined here; a word is lost at the join ('Magna est […]t itaque perfectio'). Margin 'Ibid. vi, 38' does not fit: John 16:28 marked with a note. Please check against the scan.",
    "claimed": "2026-11-18T05:28:06Z"
   },
   {
@@ -526,9 +526,10 @@
     235,
     241
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T05:36:27Z"
   },
   {
    "id": "ii-corinthians-002-3",
@@ -539,9 +540,10 @@
     241,
     243
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T05:36:27Z"
   },
   {
    "id": "ii-corinthians-003-3",
