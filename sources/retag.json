@@ -349,7 +349,8 @@
    "chapter": 27,
    "num": "XLIII",
    "flagged": 4,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:47:20Z"
   },
   {
    "id": "matthew-27-XLIV",
@@ -357,7 +358,8 @@
    "chapter": 27,
    "num": "XLIV",
    "flagged": 4,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:47:20Z"
   },
   {
    "id": "matthew-28-XLV",
@@ -365,7 +367,8 @@
    "chapter": 28,
    "num": "XLV",
    "flagged": 4,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:47:20Z"
   },
   {
    "id": "mark-1-I",
@@ -373,7 +376,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 3,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:47:20Z"
   },
   {
    "id": "mark-2-II",
@@ -381,7 +385,8 @@
    "chapter": 2,
    "num": "II",
    "flagged": 4,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:47:20Z"
   },
   {
    "id": "mark-3-III",
@@ -389,7 +394,8 @@
    "chapter": 3,
    "num": "III",
    "flagged": 4,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:47:20Z"
   },
   {
    "id": "mark-4-IV",
