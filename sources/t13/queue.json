@@ -191,9 +191,9 @@
     104,
     109
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Translated by a scheduled run. The margin's reference to Numbers for v. 5 is illegible in the transcription ('Num. [...]'); the margin gives 1 John 5:1 for 'Quis est qui vincit mundum', which is 1 John 5:5 (tagged 5:5).",
    "claimed": "2026-11-18T03:11:51Z"
   },
   {
