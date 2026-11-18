@@ -615,10 +615,9 @@
     260,
     263
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:57:20Z"
+   "note": "Published as 2 Corinthians 8, Art. VIII (pp. 238-241). The end of the article (vv. 23-24, from 'cipes et doctores') was in the Art. IX file and was joined back. 'Act. xi-xv' given as reference-only Acts 11:26 (noted). Matt 8:20, Luke 2:7, Zach 9:9 and Jer 14:8 tagged with no margin note (word for word)."
   },
   {
    "id": "ii-corinthians-009-3",
@@ -629,10 +628,9 @@
     263,
     266
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:57:20Z"
+   "note": "Published as 2 Corinthians 9, Art. IX (pp. 241-244) with two small gaps (PDF 263): words lost after 'promptitudinem vestram' (v. 2) and after 'et præparent' (v. 5). In v. 5 'sæpe promissam eleemosynam' + fragment 'mosynarum collationem' read as 'eleemosynarum collationem'. Margin numerals corrected, with notes: 'Eccle vi, 1' -> Eccles 11:1; 'Ps. vi, 2' -> Ps 40:2. Please check against the scan."
   },
   {
    "id": "ii-corinthians-010-3",
