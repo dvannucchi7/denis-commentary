@@ -1313,9 +1313,10 @@
     507,
     511
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T07:36:15Z"
   },
   {
    "id": "hebrews-005-7",
@@ -1326,9 +1327,10 @@
     511,
     514
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T07:36:15Z"
   },
   {
    "id": "hebrews-006-6",
