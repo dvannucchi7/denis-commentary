@@ -575,10 +575,10 @@
     432,
     440
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "claimed": "2026-11-18T01:40:00Z",
    "chapter_guess": 8,
-   "note": "batch stopped (API credit ran out)"
+   "note": "Published with gaps (PDF 432-440, pp. 422-430; John 8:1-20). Translated in three parts by parallel workers. PDF 438 (p. 428): the middle of both columns is garbled in the OCR. Right column restored from the margin reader's context lines; left column (v. 14, on Christ's knowing whence He came and whither He goes) two lines lost, marked […]. Also: the first word of the article is lost (read as Quæ post facta…); data/bible/drc/john.json 8:14 lacks its last clause (but you know not whence I come or whither I go), so Denis's lemma of it is untagged with a note; margin by the Susanna story (Dan. xiii) has no readable verse, given as Dan 13:36."
   },
   {
    "id": "john-22",
