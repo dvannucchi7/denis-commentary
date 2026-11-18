@@ -9585,8 +9585,17 @@
      },
      {
       "v": [
-       1,
-       32
+       5,
+       24
+      ],
+      "verses": [
+       5,
+       6,
+       7,
+       10,
+       20,
+       23,
+       24
       ],
       "t": "Denique, sensum hujus parabolæ divus Dionysius in libro Ecclesiasticæ hierarchiæ devotissime introducit, exponendo mysticas rationes cæremonialium actuum, quos in primitiva Ecclesia episcopus seu hierarcha circa baptizandos exhibuit. Itaque sententialiter ait : Vere optimus et superoptimus Deus, qui et redeuntibus se præbet amabilem, et accedentibus obviat et occurrit, totusque totos amplectens salutat, suscipit, et velut in humeris tollit, nec de prioribus malis illos accusat, sed festum peragit diem, convocatque amicos, ut sit omnium lætantium habitudo, optimos quoque in lætitiam suscitat angelos.",
       "en": "Finally, the divine Dionysius, in the book of the Ecclesiastical Hierarchy, brings in the sense of this parable most devoutly, when he expounds the mystical reasons of the ceremonies which the bishop or hierarch performed over those to be baptized in the early Church. He says, in substance: Truly the best and more than best God, who shows Himself lovable to those who return, and goes out to meet and runs to those who approach, and embracing them wholly with His whole self, greets them, receives them, and as it were lifts them on His shoulders; nor does He accuse them of their former evils, but keeps a feast day and calls together His friends, so that all may be of one mind in rejoicing, and He stirs up the best of them, the angels, to gladness."
@@ -9675,8 +9684,15 @@
      },
      {
       "v": [
+       4,
+       9
+      ],
+      "verses": [
+       4,
        5,
-       7
+       6,
+       7,
+       9
       ],
       "t": "Itaque ad hoc Christus hanc induxit parabolam, ut sciamus quod sicut dispensator qui de bonis domini sui fecit liberalitatem et curialitatem, in illorum receptus est domibus quibus taliter fecit : ita et nos de bonis nobis concessis, aliis communicare debemus ; et præcipue divites sæculi hujus, pauperibus debent liberaliter subvenire, ut per hoc in domo illorum, id est in regno cœlorum, suscipi mereantur, quemadmodum ad Timotheum scribit Apostolus : Divitibus hujus sæculi præcipe non sublime sapere, nec sperare in incerto divitiarum, sed facile tribuere.",
       "en": "So Christ brought in this parable for this purpose: that we may know that, as the steward who was liberal and gracious with his lord's goods was received into the houses of those to whom he had done so, so we too ought to share with others the goods granted to us; and above all the rich of this world ought to help the poor liberally, that by this they may deserve to be received into their house, that is, into the kingdom of heaven, as the Apostle writes to Timothy: [[1 Tim 6:17|Charge the rich of this world not to be highminded nor to trust in the uncertainty of riches|Divitibus hujus sæculi præcipe non sublime sapere, nec sperare in incerto divitiarum]], but [[1 Tim 6:18|to give easily|facile tribuere]]."

@@ -826,8 +826,8 @@
    "chapter": 13,
    "num": "XXXV",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:02Z"
+   "status": "done",
+   "note": "flagged tag confirmed; no change"
   },
   {
    "id": "luke-13-XXXVI",
@@ -835,8 +835,8 @@
    "chapter": 13,
    "num": "XXXVI",
    "flagged": 6,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:02Z"
+   "status": "done",
+   "note": "all 6 flagged tags confirmed; no change"
   },
   {
    "id": "luke-14-XXXVII",
@@ -844,8 +844,8 @@
    "chapter": 14,
    "num": "XXXVII",
    "flagged": 11,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:02Z"
+   "status": "done",
+   "note": "all 11 flagged tags confirmed; no change"
   },
   {
    "id": "luke-15-XXXVIII",
@@ -853,8 +853,8 @@
    "chapter": 15,
    "num": "XXXVIII",
    "flagged": 12,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:02Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 57, Dionysius on the sense of the parables, vv. 1–32 to the verses it echoes: 5–7, 10, 20, 23–24); 11 confirmed"
   },
   {
    "id": "luke-16-XXXIX",
@@ -862,8 +862,8 @@
    "chapter": 16,
    "num": "XXXIX",
    "flagged": 13,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:02Z"
+   "status": "done",
+   "note": "1 tag changed (para 10, the point of the parable, vv. 5–7 to vv. 4–7, 9); 12 confirmed"
   },
   {
    "id": "luke-17-XL",
