@@ -1285,9 +1285,9 @@
     499,
     504
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Hebrews 2, Art. II (pp. 477–482) with a gap at 2:9 (PDF 502–503, column foot: 'corporis passibilitatem. […] / […] nam, scilicet minoratum, […] passionem mortis': the lemma 'Videmus … Jesum propter' is lost). The cut file held a block on 1:14 ('convenit duplex missio … Potestates, Virtutes', top of PDF 499), the end of Art. I: left out here (Art. I has it). Margins that did not fit (noted in the text): Marc. ix, 31 (used Mark 9:30 and 4:34), Joann. xvi (words are John 21:5), Apoc. xxi (21:8), Sap. xvi (16:13). Obvious quotations without margin notes tagged: Job 14:2, 1 Cor 12:8, Prov 16:4, Wis 1:13, John 20:17, 1 John 2:2, 1 Pet 2:25, Matt 22:18. A duplicate fragment of the v. 17 passage on PDF 504 was dropped.",
    "claimed": "2026-11-18T07:26:09Z"
   },
   {
@@ -1299,9 +1299,9 @@
     504,
     507
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Hebrews 3, Art. III (pp. 482–485) with a gap at 3:9 (PDF 505: 'Ubi, id est in quo deserto, […] frequenter'). Margins that did not fit (noted in the text): Ps. xciv, 9 beside words of Ps 77:18; Osee ix, 10 (words are Osee 4:10); 'Ibid. 28–35' at v. 13 fits nothing there (probably Num 14:28–35 for the oath at v. 11); unreadable 'Ibid. […]' after John 8:29 = John 8:50 and 8:49. Obvious quotations without margin notes tagged: 2 Cor 6:2, Zach 2:11, Wis 12:18, Jer 7:19. (Douay-Rheims slip noticed: Ex 23:22 'hear hi voice'.)",
    "claimed": "2026-11-18T07:26:09Z"
   },
   {
