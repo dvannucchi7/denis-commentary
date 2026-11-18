@@ -416,9 +416,10 @@
     214,
     223
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T22:11:40Z"
+   "claimed": "2026-11-18T22:11:40Z",
+   "note": "Published (scheduled run, two workers, split at v. 13). Chapter-only margins (Matt. xiii, xx, xxiv; Apoc. v, xix, xxi) given as verse 1, ref-only, with a note. 'Non legatum, non angelum misit' (Is 63:9 in the old/Septuagint reading) left untagged with a note. Margin 'Is. liii, 14' → Is 52:14 (note). Margin ⟦31⟧ stands beside 'Mulier timens Dominum' (v. 30); tagged 31:30. Tagged without margin note: Luke 6:12, Matt 19:28, Ps 44:17. 2 Thess 3:10: printed asterisk with margin 'vult operari' explained in a note. Lev 19:15 and Gen 18:19 quoted loosely: only the matching words marked."
   },
   {
    "id": "proverbs-032",
@@ -429,9 +430,10 @@
     223,
     226
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T22:11:40Z"
+   "claimed": "2026-11-18T22:11:40Z",
+   "note": "Published (scheduled run, one worker). Margin 'Prov. viii, 4' → Prov 7:4 (note); 'Matth. xix, 20' → Matt 19:21 ref-only (note). Heb 2:4 in Denis's order; 2 Tim 3:17 Denis omits 'Dei'."
   },
   {
    "id": "proverbs-033",
