@@ -997,7 +997,8 @@
    "chapter": 1,
    "num": "IV",
    "flagged": 2,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:57:42Z"
   },
   {
    "id": "john-1-V",
@@ -1005,7 +1006,8 @@
    "chapter": 1,
    "num": "V",
    "flagged": 34,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:57:42Z"
   },
   {
    "id": "john-1-VI",
@@ -1013,7 +1015,8 @@
    "chapter": 1,
    "num": "VI",
    "flagged": 14,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:57:42Z"
   },
   {
    "id": "john-2-VII",
