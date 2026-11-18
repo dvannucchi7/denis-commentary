@@ -1532,9 +1532,10 @@
     537,
     540
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:26:32Z"
+   "claimed": "2026-11-18T17:26:32Z",
+   "note": "Published (scheduled run, one worker). Possible lost word, p. 527: 'quia propter Absalonem fugam' (verb missing?), kept as printed with a note. Margin 'Eccles. v, 1' fits Eccles 5:3 (note in text). Margin verse numerals are Hebrew (10–19 = vv. 1–10)."
   },
   {
    "id": "psalms-026-2",
@@ -1545,9 +1546,10 @@
     540,
     543
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:26:32Z"
+   "claimed": "2026-11-18T17:26:32Z",
+   "note": "Published (scheduled run, one worker). Possible lost word at a page break: 'in quo sanguis ejus consecratur et accipiam' (kept as printed). Tagged without margin note (word for word): Is 53:4, Matt 11:29, John 8:50, Rom 3:23, Mich 7:2, John 18:11, Matt 26:42, Matt 20:22, Luke 6:12."
   },
   {
    "id": "psalms-027-2",
@@ -1558,9 +1560,10 @@
     543,
     544
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:26:32Z"
+   "claimed": "2026-11-18T17:26:32Z",
+   "note": "Published (scheduled run). The end of the Precatio ('majestati tuæ laudes … in æternum', p544 RIGHT) stood in psalms-028-2.txt after the Art. XXVIII heading; moved back into psalms-027-2.txt."
   },
   {
    "id": "psalms-028-2",
