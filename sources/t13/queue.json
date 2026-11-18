@@ -1257,9 +1257,9 @@
     485,
     489
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Philemon 1, Art. I (pp. 463–467). The printed article title was not transcribed (the page before, PDF 484, is untranscribed): title left as a placeholder, to be filled from the scan. Lemma italics largely missing in the transcription; lemmata found from the Vulgate. v. 3 'quem omnia effecit Pater' kept as printed (probably 'per quem').",
    "claimed": "2026-11-18T07:23:37Z"
   },
   {
@@ -1271,9 +1271,9 @@
     493,
     499
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Hebrews 1, Art. I (pp. 471–477) with a gap near Ps 8:7 ('Nam ea […]', v. 2) and the verse of the margin 'Luc. i, […]' lost (taken as Luke 1:55). The last lines (v. 14, 'convenit duplex missio … Virtutes') were in the hebrews-002-13 file. Margin numerals corrected (Ps 148:8, Ps 147:7, Is 6:6; noted). Last sentence: 'sed quandoque inferiores' probably 'quinque' (noted).",
    "claimed": "2026-11-18T07:23:37Z"
   },
   {
