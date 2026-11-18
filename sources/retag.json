@@ -79,8 +79,8 @@
    "chapter": 5,
    "num": "IX",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:43:11Z"
+   "status": "done",
+   "note": "2 tags changed (para 5, order of the beatitudes, to vv. 3, 8; para 27, same sermon as Luke's?, to v. 1); 5 confirmed"
   },
   {
    "id": "matthew-5-X",
@@ -88,8 +88,8 @@
    "chapter": 5,
    "num": "X",
    "flagged": 14,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:43:11Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 29 to v. 25); 13 confirmed"
   },
   {
    "id": "matthew-5-XI",
@@ -97,8 +97,8 @@
    "chapter": 5,
    "num": "XI",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:43:11Z"
+   "status": "done",
+   "note": "all 5 flagged tags confirmed; no change"
   },
   {
    "id": "matthew-6-XII",
@@ -106,8 +106,8 @@
    "chapter": 6,
    "num": "XII",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:43:11Z"
+   "status": "done",
+   "note": "both flagged tags confirmed; no change"
   },
   {
    "id": "matthew-6-XIII",
@@ -115,8 +115,8 @@
    "chapter": 6,
    "num": "XIII",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:43:11Z"
+   "status": "done",
+   "note": "2 tags removed (introduction; closing exhortation on the whole Prayer); 5 confirmed"
   },
   {
    "id": "matthew-6-XIV",
@@ -124,8 +124,8 @@
    "chapter": 6,
    "num": "XIV",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:43:11Z"
+   "status": "done",
+   "note": "1 tag changed (para 4, fasting and avarice, to vv. 16, 19)"
   },
   {
    "id": "matthew-7-XV",

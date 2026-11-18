@@ -1465,7 +1465,11 @@
      {
       "v": [
        3,
-       3
+       8
+      ],
+      "verses": [
+       3,
+       8
       ],
       "t": "Præterea, quum beatitudo stricte accepta sit optima operatio perfectissimæ virtutis, oportet quod inter octo beatitudines, sit una summa et essentialiter beatitudo vocata, præsertim quum in omni genere et ordinata multitudine, sit unum primum atque præcipuum, ad quod alia ordinantur. Hæc autem beatitudo in via est munditia cordis, in patria vero est visio Dei, qui ponitur tota merces. Ad munditiam ergo cordis aliæ beatitudines disponunt ac referuntur. Ex quo patet, quod beatitudines non enumerantur hoc loco secundum ordinem dignitatis seu perfectionis, quo eminentiora ac meliora priora vocantur; sed partim secundum ordinem generationis, quo imperfectum præcedit perfectum. Juxta quem modum dicit Apostolus: Non prius quod spirituale, sed quod animale; deinde quod spirituale.",
       "en": "Furthermore, since beatitude taken strictly is the best operation of the most perfect virtue, among the eight beatitudes there must be one that is highest and is called beatitude in its essence, especially since in every genus and ordered multitude there is one thing first and chief, to which the others are ordered. This beatitude, in the way, is cleanness of heart; in the fatherland it is the vision of God, who is set down as the whole reward. To cleanness of heart, then, the other beatitudes dispose and are referred. From this it is plain that the beatitudes are not listed here according to the order of dignity or perfection, by which the more eminent and better things are called first, but partly according to the order of generation, by which the imperfect goes before the perfect. In this way the Apostle says: [[1 Cor 15:46|that was not first which is spiritual, but that which is natural: afterwards that which is spiritual|Non prius quod spirituale, sed quod animale; deinde quod spirituale]]."
@@ -1641,7 +1645,7 @@
      {
       "v": [
        1,
-       12
+       1
       ],
       "t": "Circa præinducta magna oritur quæstio, an sermo præsens, quem hoc loco describit Matthæus, sit idem cum sermone qui in Luca describitur. Ad hoc quidam dixerunt, quod imo, quia uterque sermo idem habet principium, eumdemque finem, et in multis intermediis coincidit. Alii tenent oppositum: primo, quoniam secundum Matthæum Christus prædicavit in monte, secundum Lucam autem descendit de monte, et prædicavit in loco campestri; secundo, quia secundum Matthæum prædicavit sedendo, secundum Lucam stando; tertio, quia secundum Matthæum docuit octo beatitudines, secundum Lucam quatuor; quarto, quoniam Lucas multa omittit quæ ponit Matthæus. — Quid horum sit verius, ignoratur. Utriusque tamen opinionis rationes satis faciliter solverentur. Primam namque opinionem tenendo, diceretur quod Christus primo cum discipulis montem ascendit; ibique electione Apostolorum facta, et prædicatione incepta, descendit versus pedem montis, et ibi stans docuit discipulos, et populum simul: et si mons ille fuit in campo, tunc utique stando circa montis ascensum, stetit in loco campestri. Nec obstat quod multa omittit Lucas, quæ ponit Matthæus: sicut in Oratione dominica Matthæus ponit septem petitiones, Lucas quinque dumtaxat; uterque tamen eorum eamdem orationem describit. Sciens enim unus Evangelista, aliquid ab alio plene digestum, minus prosequitur illud. Qui vero secundam opinionem tuetur, dicere potest, quod non sit inconveniens diversos sermones eodem modo inchoari ac terminari, atque in multis communicare. Hæc secunda opinio verior æstimatur a quibusdam, videlicet quod fuerint diversi sermones, sicut patescit diligenter conspicienti utriusque sermonis descriptionem.",
       "en": "Concerning what has been set out, a great question arises: whether the present sermon, which Matthew describes in this place, is the same as the sermon described in Luke[[Luke 6:20||]]. To this some have said that it is, because both sermons have the same beginning and the same end, and agree in many things in between. Others hold the opposite: first, because according to Matthew Christ preached on the mountain, but according to Luke He came down from the mountain and preached in a level place; secondly, because according to Matthew He preached sitting, according to Luke standing; thirdly, because according to Matthew He taught eight beatitudes, according to Luke four; fourthly, because Luke leaves out many things that Matthew puts in. — Which of these is truer is not known. Yet the arguments of either opinion could be answered easily enough. For holding the first opinion, one would say that Christ first went up the mountain with His disciples; and there, having chosen the Apostles and begun to preach, He came down towards the foot of the mountain, and there, standing, taught the disciples and the people together: and if that mountain stood in a plain, then indeed, standing near the ascent of the mountain, [[Luke 6:17|he stood in a plain place|stetit in loco campestri]]. Nor is it an objection that Luke leaves out many things that Matthew puts in: just as in the Lord’s Prayer Matthew gives seven petitions[[Matt 6:9||]] and Luke only five[[Luke 11:2||]], and yet both of them describe the same prayer. For one Evangelist, knowing that something has been fully set out by another, follows it up less. But he who defends the second opinion can say that there is nothing unfitting in different sermons beginning and ending in the same way and having many things in common. This second opinion, namely that there were different sermons, is judged the truer by some, as is clear to anyone who looks carefully at the description of each sermon."
@@ -1881,7 +1885,7 @@
      {
       "v": [
        25,
-       26
+       25
       ],
       "t": "Potest quoque per adversarium intelligi sacra Scriptura, mandatum, seu lex, qua nostris concupiscentiis et propriæ voluntati adversatur, prohibendo quod cupimus. Huic bono adversario consentire debemus, obediendo sacræ Scripturæ, dum sumus cum ea in via, id est, quamdiu vivimus in sæculo isto, in quo verba Dei audimus, et locum merendi ac demerendi habemus; ne forte adversarius iste tradat nos judici, id est, testimonium proferat contra nos, reprobando scelera nostra in conspectu divino. Non autem possumus per adversarium istum intelligere carnem aut dæmonem, quoniam nulli eorum consentire aut concordare debemus.",
       "en": "By the adversary can also be understood holy Scripture, the commandment or the law, which opposes our concupiscences and our own will by forbidding what we desire. With this good adversary we ought to agree, by obeying holy Scripture, while we are in the way with it, that is, as long as we live in this world, in which we hear the words of God and have the opportunity of meriting and demeriting; lest perhaps this adversary deliver us to the judge, that is, bear witness against us, condemning our crimes in the sight of God. But we cannot understand by this adversary the flesh or the devil, since we ought neither to agree nor to be at accord with either of them."
@@ -2251,10 +2255,6 @@
     "pages": "pp. 78–83",
     "paras": [
      {
-      "v": [
-       9,
-       9
-      ],
       "t": "De hujus Orationis expositione, laude et efficacia, tanta jam a sanctis atque catholicis doctoribus dicta sunt, ut pene tædio sit ea perlegere. Verumtamen nec digna, nec sufficientia dicta sunt, nec usquam dicentur. Tanta nempe est hujus gloriosæ Orationis profunditas in sensu, fecunditas in mysteriis, efficacia in effectu, artificialitas in processu seu ordine, ut nemo capere queat vel eloqui. Immensum igitur æternumque Dei Verbum propter nos incarnatum, et quodammodo breviatum, verbum abbrevians et consummans fecit super terram.",
       "en": "On the exposition, praise and efficacy of this Prayer so much has already been said by the holy and catholic doctors that it is almost tedious to read it through. Yet nothing worthy or sufficient has been said, nor ever will be. For so great is the depth of this glorious Prayer in its meaning, its fruitfulness in mysteries, its efficacy in effect, and its artistry in its progress or order, that no one can grasp it or utter it. The immeasurable and eternal Word of God, then, incarnate for our sake and in a manner shortened, has made upon the earth the word that cuts short and finishes, of which it is written: [[Rom 9:28|a short word shall the Lord make upon the earth|verbum abbrevians et consummans fecit super terram]][[Is 10:23||]] [the Latin plays on the Word “shortened”, breviatum, and the “short word”]."
      },
@@ -2355,10 +2355,6 @@
       "en": "Of these seven petitions, the first three begin to be fulfilled now, but are fulfilled perfectly in the fatherland. The other four belong to the necessity and misery of the present life, according to Augustine. But since [[Job 7:1|The life of man upon earth is a warfare|Militia est vita hominis super terram]], and we are not freed from the penalties of original sin in this world, it seems that the last two too are fulfilled in the fatherland, where neither temptation nor penalty has any place."
      },
      {
-      "v": [
-       9,
-       13
-      ],
       "t": "Hanc igitur sacratissimam orationem ex divinæ ac sempiterna sapientiæ fonte immediate manantem, devotissime proferamus, et tanto devotius quanto frequentius, ne frequentia incuriam pariat atque fastidium, sed eam sæpius iterando, crescamus semper in ejus affectu, seu gratia, per quam ardentius solito repetatur. Novi fratrem qui ut hanc orationem attentius diceret, quamlibet ejus petitiunculam ad digitum manus per ordinem legit.",
       "en": "Let us, then, utter this most sacred prayer, flowing immediately from the fountain of divine and everlasting wisdom, most devoutly, and the more devoutly the more often, lest frequency breed carelessness and weariness; but by repeating it often let us grow always in its affection, or in the grace by which it may be repeated more ardently than usual. I knew a brother who, to say this prayer more attentively, counted each of its little petitions in order on the fingers of his hand."
      },
@@ -2412,7 +2408,11 @@
      },
      {
       "v": [
-       18,
+       16,
+       19
+      ],
+      "verses": [
+       16,
        19
       ],
       "t": "Sed quoniam parum prodest abstinere a cibis, nisi abstineatur a vitiis, prout Dominus asserit : Ecce in die jejunii vestri invenitur voluntas vestra ; ecce ad lites et contentiones jejunatis. Numquid hoc est jejunium quod elegi ? Nonne hoc est magis jejunium quod elegi? dissolve colligationes impietatis, solve fasciculos deprimentes. Et rursus, quoniam jejunii tres sunt comites, scilicet eleemosyna, humilitas, et oratio : unde in Tobia legitur, Bona est oratio cum jejunio et eleemosyna. Ideo consequenter Christus docet vitia exstirpare, avaritiamque vitare per eleemosynarum largitionem.",
