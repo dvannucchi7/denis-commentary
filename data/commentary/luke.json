@@ -3383,7 +3383,7 @@
      {
       "v": [
        6,
-       11
+       7
       ],
       "t": "Sciendum quoque, quod in Joanne aliquid huic miraculo simile scriptum est, quomodo scilicet discipuli isti post Christi resurrectionem uno impetu concluserunt centum quinquaginta tres magnos pisces; et ibi pro miraculo additur, quod quum tanti essent, non est scissum rete. Hic vero, ad insinuandum aliud miraculum, fertur quod rete rumpebatur, et naviculæ pene demergebantur, quum tamen pisces non elaberentur. Unde per piscationem de qua ait Joannes, signatur collectio electorum intra triumphantem Ecclesiam, in qua nulla scissura est, nullumque periculum; per istam vero, collectio credentium intra Ecclesiam militantem, in qua boni malis miscentur, atque diversa occurrunt pericula, hæreses et schismata.",
       "en": "It is to be known also that in John something like this miracle is written: how these disciples, after Christ's resurrection, enclosed at one cast a hundred and fifty-three great fishes; and there it is added as a miracle that, though they were so many, the net was not broken[[John 21:11||]]. But here, to intimate another miracle, it is said that the net was breaking and the little ships were almost sinking, and yet the fishes did not slip away. Hence by the fishing of which John speaks is signified the gathering of the elect into the Church triumphant, in which there is no rending and no danger; but by this one, the gathering of believers into the Church militant, in which the good are mixed with the wicked, and various dangers occur, heresies and schisms."
@@ -3415,7 +3415,7 @@
      {
       "v": [
        12,
-       14
+       12
       ],
       "t": "Quæritur, quomodo dicat Lucas factum hoc signum in urbe, quum Matthæus scribat, quemadmodum Christo descendente de monte, leprosus iste ipsum accesserit, sitque sanatus, et postea legitur Christus ibi introisse Capharnaum. Ad quod aliqui dicunt, quod leprosus iste cœpit in via accedere, ut refert Matthæus, sed in urbe curatus est. Matthæus tamen propter compendium, prosequitur ejus curationem antequam Christi ingressum in Capharnaum narret. Non enim Evangelistæ in omnibus semper ordinem loci ac temporis determinate observant, recitando quæ gesta sunt, sed quod principale est promunt, et id de quo vis non est, determinare non curant.",
       "en": "It is asked how Luke says this sign was done in a city, when Matthew writes how this leper came to Christ as He came down from the mountain and was healed, and afterwards we read that Christ then went into Capharnaum[[Matt 8:1||]][[Matt 8:5||]]. To this some say that this leper began to approach on the way, as Matthew relates, but was cured in the city. Matthew, however, for brevity follows out his healing before he narrates Christ's entry into Capharnaum. For the Evangelists do not always keep definitely to the order of place and time in everything when relating what was done, but bring out what is principal, and do not take care to settle that which is of no importance."
@@ -3430,7 +3430,7 @@
      },
      {
       "v": [
-       14,
+       13,
        14
       ],
       "t": "Denique Christus tanquam novæ et evangelicæ legislator ac veteris legis perfector et consummator, sæpe legem dignanter implevit, ostendens legem sanctam atque divinam fuisse; sæpenumero eam ad litteram non servat, sed auctoritative transcendit. Unde et leprosum hunc tetigit, quum tamen in Levitico tangere leprosum esset prohibitum: quamvis illud præceptum daretur secundum communem statum ac cursum hominum, obligaretque eos qui a leprosis poterant maculari magis quam eos mundare, nec obligaret eos qui ex singulari gratiæ dono leprosos possent sanare: quemadmodum et tangere mortuum fuit prohibitum, et nihilominus Elias ac Eliseus super mortuos incubuerunt, quos suscitaverunt, ut liber Regum testatur.",
@@ -3776,8 +3776,8 @@
      },
      {
       "v": [
-       11,
-       11
+       9,
+       9
       ],
       "t": "Quocirca sciendum, quod ab operibus servilibus sabbato fuit vacandum, ut spiritus hominis libere Deo vacaret. Opus autem tripliciter fertur servile: Primo, servitute culpæ, ut actus peccati: et a tali opere feriandum seu abstinendum fuit, et est, cunctis diebus. Secundo, servitute fortunæ, ut opus mechanicum, a quo sabbatis diebusque festivis fuit vacandum: quod Scriptura magis proprie vocat opus servile. Tertio, servitute naturæ, ut opus corporis sustentationi deserviens. Et a tali aliquando abstinendum, interdum non: quia aut fuit opus non impediens liberam Deo vacationem, sed adjuvans, ut itineratio parva, et a tali non fuit sabbato aut festis cessandum; aut impediens, et tunc vel fuit opus tale necessarium, seu non: si non, tunc fuit hinc abstinendum; si fuit necessarium, aut potuit præveniri aut differri, aut non: si potuit, fuit abstinendum; si non potuit, tunc fuerat faciendum. Idcirco a præparatione ciborum abstinendum fuit in sabbato, non autem ab impugnantium hostium expugnatione, seu repulsione, vel defensione. Propter quod in libris Machabæorum leguntur statuisse Judæi, ut contra hostes sibi sabbato occurrentes pugnarent.",
       "en": "Wherefore it is to be known that on the sabbath men had to keep free of servile works, so that a man’s spirit might be free for God. Now a work is called servile in three ways. First, by the servitude of guilt, as an act of sin: and from such a work men had, and have, to rest or abstain on all days. Secondly, by the servitude of fortune, as manual labour [opus mechanicum], from which men had to keep free on sabbaths and feast days: and this is what Scripture more properly calls servile work. Thirdly, by the servitude of nature, as a work serving the sustenance of the body. And from this one had sometimes to abstain, sometimes not. For either it was a work that did not hinder being free for God but helped it, as a short journey, and from such a work there was no need to cease on the sabbath or on feasts; or it hindered it, and then either such a work was necessary or not. If not, one had to abstain from it. If it was necessary, either it could be done beforehand or put off, or not: if it could, one had to abstain from it; if it could not, then it had to be done. Therefore on the sabbath men had to abstain from preparing food, but not from fighting off, repelling or defending themselves against enemies attacking them. For which reason we read in the books of the Machabees that the Jews decided to fight against enemies coming upon them on the sabbath[[1 Mach 2:41||]]."
@@ -4385,7 +4385,11 @@
      },
      {
       "v": [
-       45,
+       43,
+       45
+      ],
+      "verses": [
+       43,
        45
       ],
       "t": "Itaque, per arborem homo designatur, et per arborem bonam homo virtuosus, per malam vitiosus. Quemadmodum ergo arbor bona, quamdiu permanet bona, malos non potest producere fructus, nec arbor mala, ut talis, bonos potest fructus producere: sic homo virtuosus, in quantum hujusmodi, mala non operatur nec agere potest, quia non agit nisi secundum inclinationem, formam habitumque virtutis ac gratiæ; malus quoque, secundum quod vitiosus, nec agit, nec agere potest bona. Verumtamen non est per omnia de arboribus et hominibus simile: quoniam arbor solam naturæ sequitur motionem; homo autem liberi exstat arbitrii, ideo potest converti atque averti, ita quod virtuosus potest fieri vitiosus, et econtra, loquendo de eis materialiter et in sensu diviso, non autem loquendo de eis formaliter et in sensu composito. Unde elicitur in quo sensu istæ sint veræ: Superbus non potest salvari; Amans Deum non potest perire: quia in sensu composito veræ sunt. Superbus enim, ut talis, non valet salvari. Juxta quem sensum multa in epistolis Pauli ceterisque leguntur Scripturis, ut quum ait Apostolus: Neque adulteri, neque fornicarii, neque avari regnum Dei possidebunt.",
@@ -4393,7 +4397,7 @@
      },
      {
       "v": [
-       45,
+       44,
        45
       ],
       "t": "Denique, sicut ex abundantia cordis os loquitur, sic ex eadem abundantia, manus, pes, et cetera membra operantur atque moventur, quoniam anima motrix est corporis, et corpus instrumentum est animæ in agendo. Hinc, sicut ex fructu cognoscitur arbor, sic ex actibus suis cognoscitur homo. Unde quod dicitur, Potentiæ cognoscuntur per actus et objecta, verificatur non solum de cognitione potentiarum quoad esse earum naturale, sed etiam quoad esse formale. Nihilo minus, quia hypocritæ et iniqui ac callidi multa mala operantur sub specie boni, quia jejunant, orant et cetera ex genere bona efficiunt (propter quod in Matthæo loquitur Christus: Attendite vobis a falsis prophetis, qui veniunt ad vos in vestimentis ovium); idcirco non semper cito et facile tales ex suis agnoscuntur operibus, sed sæpenumero cum grandi diligentia diuturnitateque temporis, ita quod finaliter cognoscuntur. Porro, an homo sit vere virtuosus, præcipue perpendi solet, si patiens sit in adversis, si non detrahat bonis, si laudem humanam non captet, si honores in ipso non varient mores. Hinc in Ecclesiastico scriptum est: Vasa figuli probat fornax, et homines justos tentatio tribulationis. In Proverbiis quoque fertur: Quomodo probatur in conflatorio argentum, et in fornace aurum; sic probatur homo ore laudantis.",

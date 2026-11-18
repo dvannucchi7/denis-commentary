@@ -619,8 +619,8 @@
    "chapter": 5,
    "num": "XII",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:52:52Z"
+   "status": "done",
+   "note": "3 tags narrowed (para 16 to vv. 6–7; para 20 to v. 12; para 22, Christ touching the leper, to vv. 13–14); 4 confirmed"
   },
   {
    "id": "luke-5-XIII",
@@ -628,8 +628,8 @@
    "chapter": 5,
    "num": "XIII",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:52:52Z"
+   "status": "done",
+   "note": "all 8 flagged tags confirmed; no change"
   },
   {
    "id": "luke-6-XIV",
@@ -637,8 +637,8 @@
    "chapter": 6,
    "num": "XIV",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:52:52Z"
+   "status": "done",
+   "note": "1 tag corrected (para 10, servile work on the sabbath, v. 11 to v. 9); 6 confirmed"
   },
   {
    "id": "luke-6-XV",
@@ -646,8 +646,8 @@
    "chapter": 6,
    "num": "XV",
    "flagged": 6,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:52:52Z"
+   "status": "done",
+   "note": "all 6 flagged tags confirmed; no change"
   },
   {
    "id": "luke-6-XVI",
@@ -655,8 +655,8 @@
    "chapter": 6,
    "num": "XVI",
    "flagged": 16,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:52:52Z"
+   "status": "done",
+   "note": "2 tags changed (para 38, tree and man, to vv. 43, 45; para 39 to vv. 44–45); 14 confirmed"
   },
   {
    "id": "luke-7-XVII",
