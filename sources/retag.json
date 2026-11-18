@@ -34,7 +34,8 @@
    "chapter": 2,
    "num": "IV",
    "flagged": 6,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:42:20Z"
   },
   {
    "id": "matthew-2-V",
@@ -42,7 +43,8 @@
    "chapter": 2,
    "num": "V",
    "flagged": 5,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:42:20Z"
   },
   {
    "id": "matthew-3-VI",
@@ -50,7 +52,8 @@
    "chapter": 3,
    "num": "VI",
    "flagged": 11,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:42:20Z"
   },
   {
    "id": "matthew-4-VII",
@@ -58,7 +61,8 @@
    "chapter": 4,
    "num": "VII",
    "flagged": 9,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:42:20Z"
   },
   {
    "id": "matthew-4-VIII",
@@ -66,7 +70,8 @@
    "chapter": 4,
    "num": "VIII",
    "flagged": 6,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:42:20Z"
   },
   {
    "id": "matthew-5-IX",
