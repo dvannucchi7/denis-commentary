@@ -360,10 +360,10 @@
     188,
     194
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-18T22:00:32Z",
-   "note": "Line 16 of articles/proverbs-027.txt ('A frequenter sequuntur facta injusta … inferni supplicia.') is the end of Art. XXVI (26:28), already published there: leave it out of Art. XXVII. The heading appears twice in the file."
+   "note": "Published (scheduled run, worker). A stray line in proverbs-027.txt (line 16, 'frequenter sequuntur facta injusta et opera vitiosa, sicque loquentem praecipitat ad inferni supplicia.') is the end of Art. XXVI (26:28, after '…quia ex verbis quae profert,'): left out here. v. 13 transcription garbled ('pro quibus * aufer ei spopondit, aufer pignus ab eo *'), read as 'pro quibus spopondit, aufer pignus ab eo': check the scan. Margin variant at v. 8 ('irreformatione') and a margin summary left out. Denis's readings noted: osculantis (v. 6), evacuet (v. 16), concitati spiritus (v. 4), dulcibus (v. 9). Ecclus 29:28–30 ref-only at 29:28 (DR/Vulgate numbering out of step there)."
   },
   {
    "id": "proverbs-028",
