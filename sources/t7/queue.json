@@ -108,9 +108,10 @@
     75,
     82
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:19:58Z"
+   "claimed": "2026-11-18T21:19:58Z",
+   "note": "Published (scheduled run, two workers, split at v. 22). The print's verse numbers run one verse out from v. 28 on; tagged by the text. Denis skips v. 16. Readings noted: v. 4 lemma adds 'ut convertamini et salvemini'; v. 13 'in quantum servilis, dicitur vulnerare' obscure (translated literally, '[so the print]'); v. 19 gloss has 'auro obrizo'; Osee 13:11 'et principes in indignatione mea'; 1 Tim 6:19 'thesaurum bonum'. 'Injustitia mortis est acquisitio' (beside Sap. i, 16) is not in the Douay-Rheims: left unmarked with a note. Margin 'Ps. cm, 31' read as Ps 103:31; 'Dan. vii, 9 … 13, 22' marked at 7:9. Tagged without margin note: Job 40:14, John 1:18, John 1:1. Possible misprint 'irrationabilibus ac animatis' (inanimatis?) kept."
   },
   {
    "id": "proverbs-009",
@@ -121,9 +122,10 @@
     82,
     86
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:19:58Z"
+   "claimed": "2026-11-18T21:19:58Z",
+   "note": "Published (scheduled run, worker). Denis's gloss on the Vulgate addition after v. 18 ('Qui enim applicabitur illi…', not in the Douay-Rheims) is its own untagged last paragraph, with a note. Matt 26:27 margin given as ref-only (consecration words are 26:28, noted). Readings noted: John 4:34 'of my Father'; v. 16 'Quis est parvulus?'; 1 John 5:10 'the Father'."
   },
   {
    "id": "proverbs-010",
