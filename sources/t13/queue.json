@@ -1423,9 +1423,9 @@
     543,
     549
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Hebrews 12, Art. XII (pp. 521–527) with gaps: the transcription breaks off in v. 28 ('cum metu, in quantum est Domi[…]'), so the end of v. 28 and all of v. 29 are missing (PDF 549); words lost at v. 11 ('videtur non esse') and v. 22 ('et multorum'). The file's first page also held the end of Art. XI (11:38–40), left out (already published). Margin numerals corrected and noted: Ps 80:13, Prov 13:24, Ecclus 2:12, Eph 2:14–15, Gen 27:39. Douay-Rheims data: Heb 12:19 lacks 'heard'.",
    "claimed": "2026-11-18T07:44:25Z"
   },
   {
