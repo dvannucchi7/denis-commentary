@@ -563,10 +563,9 @@
     427,
     433
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 7,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T01:36:13Z"
+   "note": "Published with gaps: the lower part of PDF 429 (p. 419; on vv. 35–38) is garbled in the OCR and its two columns were interleaved; the text was put back in order by the sense, and the unreadable lines are marked […] (after 'Christus aperte dixit, Vado', in the lemma of v. 36, after 'et bibat, hoc est', and after 'Qui credit in me fide formata ac plena'). Please rescan PDF 429 and fill the gaps. Margin readings checked: John 11:57 (printed xi, 56), John 1:18, Lev 23:36, 39, Num 29:12, 35, Ecclus 51:32 (read as ii, 33), Matt 7:8, Prov 5:15, Prov 22:18, Is 16:11, John 20:22, Rom 8:23 (unread), 2 Pet 1:21, Ps 131:11 (unread), Jer 23:5, Mich 5:2, John 9:4, John 12:42, 3 Kings 19:16 (Eliseus)."
   },
   {
    "id": "john-21",
