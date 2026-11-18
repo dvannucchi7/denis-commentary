@@ -1674,9 +1674,9 @@
     706,
     714
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "published (Art. II, 2 Peter 2); a few words lost in the transcription of PDF 707 (v. 1 \"superducentes sibi cele[…] perditionem\"; v. 4 \"Deus an[…] […]\" before the Job 4:18 quotation) and PDF 711 (v. 13 \"in […] suis […] […]\"); the end of the article on PDF 714 was rejoined by the run (the transcriber split the column); check against the scan. Margin readings corrected: 1 Petr. ii, 18 = 1 Pet 1:18; Eccli. v, 10 = Ecclus 10:10; I Reg. xxvi, 10 = 1 Kings 26:16; Ezech. xvi, 49-51 kept as a reference with a note (the \"not half thy sins\" is said of Samaria). Obvious quotations tagged without margin notes: Is 30:21, Prov 21:15, Ps 91:5, Ps 35:9, Eccles 11:10, Ecclus 18:30, Prov 2:14, Is 3:9, 1 Thess 5:8, John 3:21, Ecclus 9:5-9, Job 31:1, Matt 8:12, Heb 6:6, Prov 26:11.",
    "claimed": "2026-11-18T10:42:15Z"
   },
   {
@@ -1688,9 +1688,9 @@
     714,
     723
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "published (Art. III, 2 Peter 3); one column of PDF 717 lost the end of every line (vv. 8-10: Bede on the thousand years and Mahomet, \"Itaque Deus differt…\", the opening of v. 10), shown as […]; the opening on PDF 714 was rejoined by the run (the transcriber split the column; \"per hanc caritativam exhortationem\" uncertain); check against the scan. Margin readings corrected: Hebr. xi, 14 = Heb 11:13 and 11:40; Ps. xxxiii, 1 = Ps 118:1; Matth. xii = Matt 12:8; Job 21:30 followed by words of Job 21:20. Obvious quotation tagged without a margin note: Prov 16:4.",
    "claimed": "2026-11-18T10:42:15Z"
   }
  ]
