@@ -2085,9 +2085,10 @@
     673,
     679
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:48:19Z"
+   "claimed": "2026-11-18T20:48:19Z",
+   "note": "Published (scheduled run, worker). First word(s) of the Latin title lost in the transcription ('[…] PSALMI CENTESIMI QUADRAGESIMI TERTII'); English title given as 'On the hundred and forty-third psalm'. Denis's inline print verse numbers dropped; tagged by the Vulgate. Latin slips corrected: 'tamque' → 'tuamque', 'A stimabilia' → 'inæstimabilia'. Margin 'Job xxi, 7-12': quotation begins at Job 21:4 (noted). Is 29:13 tagged where Denis follows Isaias, Matt 15:8 ref-only beside it."
   },
   {
    "id": "psalms-062-2",
@@ -2098,9 +2099,10 @@
     679,
     685
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:48:19Z"
+   "claimed": "2026-11-18T20:48:19Z",
+   "note": "Published (scheduled run, worker). Margin numerals corrected, with notes: Ecclus ii, 8 → Ecclus 51:8; Deut xxxii, 26 → Deut 33:26; Ecclus xliii, 17 → Ecclus 42:17; Sap. xii, 13 → Wis 12:15; 'Is. x, 15' (the universe like a grain of sand) given as ref-only Is 40:15 (noted; compare Wis 11:23). Tagged without margin note: Ecclus 5:4, Ex 34:6, Luke 21:33. Denis's 1 Pet 1:8 reads 'Videntes' (Vulgate 'non videntes'): noted; check the scan."
   },
   {
    "id": "psalms-063-2",
