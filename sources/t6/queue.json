@@ -518,9 +518,10 @@
     156,
     162
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:16:47Z"
+   "claimed": "2026-11-18T12:16:47Z",
+   "note": "translated by scheduled run (worker). Title as transcribed has '[…]' (PSALMUM […] DICITE). Margin slips noted: Is. iii, 1 → Is 3:4; Eccli. ii, 31 → Ecclus 51:31 (reference-only); John 1:46 margin, Denis closer to John 7:52 (noted); 'Si quis cultor est Dei' cited as Job but is John 9:31 (noted). Job 5:17 tagged without a margin note. 'separari*' read 'superari' from the edition's footnote. Douay-Rheims data slip: John 9:31 'doth his, will'."
   },
   {
    "id": "psalms-030",
