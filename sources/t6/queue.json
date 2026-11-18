@@ -812,9 +812,10 @@
     283,
     287
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:28:00Z"
+   "claimed": "2026-11-18T15:28:00Z",
+   "note": "v. 8: transcription reads \"remisisse\" where the sense needs \"meminisse\" (kept, with a bracketed note); check against the scan (PDF 285)."
   },
   {
    "id": "psalms-051",
@@ -825,7 +826,7 @@
     287,
     289
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-18T15:31:00Z"
   },
