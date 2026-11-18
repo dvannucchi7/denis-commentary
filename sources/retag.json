@@ -403,7 +403,8 @@
    "chapter": 4,
    "num": "IV",
    "flagged": 5,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:48:04Z"
   },
   {
    "id": "mark-5-V",
@@ -411,7 +412,8 @@
    "chapter": 5,
    "num": "V",
    "flagged": 3,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:48:04Z"
   },
   {
    "id": "mark-6-VI",
@@ -419,7 +421,8 @@
    "chapter": 6,
    "num": "VI",
    "flagged": 5,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:48:04Z"
   },
   {
    "id": "mark-7-VII",
@@ -427,7 +430,8 @@
    "chapter": 7,
    "num": "VII",
    "flagged": 3,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:48:04Z"
   },
   {
    "id": "mark-8-VIII",
@@ -435,7 +439,8 @@
    "chapter": 8,
    "num": "VIII",
    "flagged": 5,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:48:04Z"
   },
   {
    "id": "mark-9-IX",
@@ -443,7 +448,8 @@
    "chapter": 9,
    "num": "IX",
    "flagged": 5,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:48:04Z"
   },
   {
    "id": "mark-10-X",
@@ -451,7 +457,8 @@
    "chapter": 10,
    "num": "X",
    "flagged": 5,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:48:04Z"
   },
   {
    "id": "mark-11-XI",
