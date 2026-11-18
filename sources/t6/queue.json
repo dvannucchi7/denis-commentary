@@ -881,7 +881,7 @@
     304,
     307
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-18T15:35:00Z"
   },
@@ -894,9 +894,10 @@
     307,
     310
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:35:00Z"
+   "claimed": "2026-11-18T15:35:00Z",
+   "note": "The first word or two of the article are missing from the transcription (it begins \"[…] iste est: Canticum, psalmus Asaph\"); \"Gebal, sic dictus\" may also lack a word. Check the scan (PDF 307)."
   },
   {
    "id": "psalms-057",
@@ -907,7 +908,7 @@
     310,
     313
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-18T15:35:00Z"
   },
