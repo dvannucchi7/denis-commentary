@@ -1571,8 +1571,9 @@
     544,
     552
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T17:31:46Z"
   },
   {
    "id": "psalms-029-2-part1",
@@ -1583,10 +1584,11 @@
     552,
     561
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
    "part": 1,
-   "parts": 4
+   "parts": 4,
+   "claimed": "2026-11-18T17:31:46Z"
   },
   {
    "id": "psalms-029-2-part2",
