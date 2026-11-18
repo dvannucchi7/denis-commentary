@@ -47,9 +47,12 @@ def show(book, ch, art, all_paras):
     for i, p in enumerate(art["paras"]):
         f = flagged(p, ch); q, c = evidence(p, ch)
         if not (all_paras or f): continue
-        out.append(f"  para {i + 1}: tag {label(tagged(p))}; quotes {label(q) if q else '-'}; cites {label(c) if c else '-'}"
-                   + (f"\n    NOT QUOTED OR CITED: {label(f)} (confirm each is discussed, or drop it)" if f else "")
-                   + "\n    " + p.get("en", "")[: (2000 if f else 200)].replace("\n", " "))
+        head = f"  para {i + 1}: tag {label(tagged(p))}; quotes {label(q) if q else '-'}; cites {label(c) if c else '-'}"
+        if f:     # needs a judgment: shown in full
+            out.append(head + f"\n    NOT QUOTED OR CITED: {label(f)} (confirm each is discussed, or drop it)"
+                       + "\n    " + p.get("en", "")[:2000].replace("\n", " "))
+        else:     # every tagged verse is quoted or cited: nothing to decide, one line
+            out.append(head)
     if out: print(f"== {book} {ch}, Art. {art['num']}\n" + "\n".join(out))
     return len(out)
 

@@ -23,7 +23,8 @@ the procedure.
    Keep going until about **45 minutes** after the run started; do not begin a new article after about
    40 minutes. Never leave an article half done: if you must stop mid-article, set it back to `"todo"`
    and push, so the next run takes it.
-2. **Get the Latin.** If `sources/<vol>/articles/<id>.txt` exists, start from it: it is that article's
+2. **Get the Latin.** *(For a transcribed item, the paragraph "Volumes transcribed by the API" below is
+   what applies.)* If `sources/<vol>/articles/<id>.txt` exists, start from it: it is that article's
    OCR text already cut at the article headings and joined in reading order. Otherwise read the OCR
    pages `sources/<vol>/pages/p<NNN>.txt` in the item's `pages` range (sections marked LEFT / RIGHT /
    HEADING, in reading order). The article starts at its heading (`ARTICULUS …` and its title) and ends
@@ -39,7 +40,7 @@ the procedure.
    An item with `"part"`/`"parts"` is one part of a long article: translate only its text, with the
    article's number and title; `tools/add_article.py` joins the parts (give it `"part"` and `"parts"`).
    `transcribed/p<NNN>.txt` holds each page.
-3. **Clean the Latin.** Put it in reading order (left column, then right, page by page), rejoin words
+3. **Clean the Latin.** *(OCR'd volumes; for transcribed ones see `tools/agent_brief.md` §1.)* Put it in reading order (left column, then right, page by page), rejoin words
    broken across lines, and correct obvious OCR slips (e.g. `eum`→`cum`, `seript`→`script`, `prae`→`præ`,
    commas read as full stops). Do not rewrite Denis's Latin; when unsure, keep what is printed.
 4. **Find the chapter and the verses.** The article title says which chapter it treats (e.g.
@@ -51,7 +52,8 @@ the procedure.
    or a general question (never "v. 1" by default).
 5. **References come from the margins only (Dave's rule).** The printed edition gives the source of
    each quotation in the margin; that is the only place a run takes references from.
-   - `python3 tools/margins.py <vol> <id> <chapter>` lists the margin references of the article's
+   - *(OCR'd volumes t11, t12 only; transcribed volumes have the notes inline as `⟦…⟧`.)*
+     `python3 tools/margins.py <vol> <id> <chapter>` lists the margin references of the article's
      pages, in reading order, each beside the Latin line it belongs to. Ignore notes on the first and
      last pages that belong to the neighbouring articles. Bare verse numbers in the margin show where
      each verse of the chapter treated begins (use them for the verse tags).
@@ -85,7 +87,7 @@ the procedure.
    - Lemmata (Denis quoting the chapter he is treating) are still marked as before, as `C:V`. Find
      them by reading the article alongside the chapter (`python3 tools/verses.py --chapter …`) and the
      margin's verse numbers, not by matching the article against the Vulgate.
-   - **If the margins of the article's pages have not been read yet** (`margins.py` prints "margins
+   - *(OCR'd volumes t11, t12 only.)* **If the margins of the article's pages have not been read yet** (`margins.py` prints "margins
      of PDF … not read yet"), do not translate it: set its status to `"needs-margins"` with a note
      giving the PDF pages, push, and take the next item. Reading margins needs the scan PDF, which
      runs do not have. They are read whenever pages are scanned (`tools/ocr_columns.py` does it in the
@@ -139,6 +141,8 @@ cheaper than splitting into 3–7 parts, with no loss of quality):
 
 ## Re-tagging published articles (Dave, 17 Nov 2026)
 
+*Runs may skip this section while `sources/retag.json` has no claimable items.*
+
 `sources/retag.json` lists published articles whose verse tags were made under the old "continuous" rule.
 Take these **before** the translation queues (step 1), claiming each as usual. For each: run
 `python3 tools/check_tags.py <book> <chapter> <art>`, read every flagged paragraph (and the Latin `t`
@@ -150,6 +154,8 @@ remove the tag from introductions and general paragraphs. Change nothing else in
 ("Re-tag John 1, Art. III"), pull --rebase and push. These are quick; do as many as time allows.
 
 ## Re-checking a published article
+
+*Runs may skip this section while `sources/t11/recheck.json` has no claimable items.*
 
 Articles published before the margin rule (step 5) are brought into line with it, in the order of
 `sources/t11/recheck.json` (Matthew from Art. I, then Mark). Claim, time limits and publishing are as in

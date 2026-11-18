@@ -108,7 +108,14 @@ verses it actually treats**, so that tapping a verse brings up only comments tha
   characters inside the brackets.
 - The English article title goes in `title_en`.
 
+`tools/agent_brief.md` restates the translation rules of this file and `TRANSLATING.md` in short for
+workers (see `TRANSLATING.md`, "Translating with workers"): when a rule about the Latin, the English, verse
+tags or quotation markers changes here, change it there too.
+
 ## Getting the Latin text
+
+*Runs may skip this section unless their item is from t. XI or t. XII (OCR'd volumes): the newer volumes'
+Latin and margin notes come ready in `sources/<vol>/articles/` (see `TRANSLATING.md` step 2).*
 
 Scans (Dave supplies the PDFs; the workspace cannot download from archive.org or Google Books).
 Scan pages with `python3 tools/ocr_columns.py <pdf> <first> <last> sources/<vol>/pages`, which reads the
@@ -130,10 +137,6 @@ catch-up `python3 tools/margins.py read <vol> <pdf> <first> <last>`:
   PDF page = printed page + 10. Commentary on PDF 11–630 (John's PROOEMIUM PDF 275–276, Art. I PDF 277);
   indexes after. OCR'd into `sources/t12/pages/` (all with the heading split); queue
   `sources/t12/queue.json`; pre-cut articles in `sources/t12/articles/`. Done after t. XI.
-
-`tools/agent_brief.md` restates the translation rules of this file and `TRANSLATING.md` in short for
-workers (see `TRANSLATING.md`, "Translating with workers"): when a rule about the Latin, the English, verse
-tags or quotation markers changes here, change it there too.
 
 Translation runs follow `TRANSLATING.md` (procedure) with `tools/verses.py` (Douay-Rheims + Vulgate
 lookup; Vulgate text is in `sources/vulgate/`, not shown in the app), `tools/find_quotes.py` (finds
@@ -161,6 +164,8 @@ such as "(Ps. lxxxiv, 9)"); join words hyphenated across lines. The marginal ref
 separately, by `tools/margins.py`.
 
 ## Interface features (for reference when changing index.html)
+
+*Translation runs may skip this section: they never change `index.html`.*
 
 - No home screen (Dave removed it, 17 Nov 2026): the app opens straight into the reader at the chapter last read.
 - Commentary heading: "Commentary by Bl. Denis the Carthusian" (no subheading), with the English/Latin

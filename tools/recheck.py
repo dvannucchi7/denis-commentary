@@ -83,9 +83,15 @@ def obvious(latin, book, ch):
                 out.append((book, ch, vi, " ".join(t[i:i + N_LEMMA]))); break
     return out
 
-def find_articles(book, num):
+def find_articles(book, num, near=None):
+    """The published article(s) with this number; with near (the item's chapter_guess), only those within a
+    chapter of it: article numbers start again in some books (each fifty of the Psalms has an Art. VII)."""
     data = json.load(open(os.path.join(ROOT, "data", "commentary", book + ".json")))
-    return [(int(ch), a) for ch, arts in data["chapters"].items() for a in arts if a["num"] == num]
+    found = [(int(ch), a) for ch, arts in data["chapters"].items() for a in arts if a["num"] == num]
+    if near:
+        close = [x for x in found if abs(x[0] - int(near)) <= 1]
+        if close: return close
+    return found
 
 def outside(ref, book, ch):
     m = re.match(r"^(.*?)\s*(\d+):(\d+)$", ref)
@@ -97,10 +103,15 @@ def outside(ref, book, ch):
 def main(vol, item_id):
     q = json.load(open(os.path.join(ROOT, "sources", vol, "queue.json")))
     item = next(i for i in q["items"] if i["id"] == item_id)
-    arts = find_articles(item["book"], roman(item["art"]))
+    arts = find_articles(item["book"], roman(item["art"]), item.get("chapter_guess"))
     if not arts: sys.exit(f"{item_id}: no published article {roman(item['art'])} in {item['book']}")
-    rows = margins.article(vol, item_id, str(arts[0][0]), quiet=True)
-    if margins.article.missing:
+    # volumes transcribed by the API have their margin notes inline in the Latin, not in margins/: there is
+    # nothing to compare the tags with, so only the obvious-quotation check applies (no "no-margin" lines)
+    inline = item.get("source") == "transcribed" or not os.path.isdir(os.path.join(ROOT, "sources", vol, "margins"))
+    rows = [] if inline else margins.article(vol, item_id, str(arts[0][0]), quiet=True)
+    if inline:
+        print("margin notes are inline in this volume's transcription: only obvious quotations and lemmata are checked")
+    elif margins.article.missing:
         print(f"margins not read yet for PDF {margins.article.missing}: references there cannot be checked")
     paras = [(ch, a["num"], i, p) for ch, a in arts for i, p in enumerate(a["paras"])]
     pw = [words(p["t"]) for _, _, _, p in paras]
@@ -132,6 +143,7 @@ def main(vol, item_id):
             else:
                 st = "no-margin"; info = ""
             total[st] += 1
+            if st == "no-margin" and inline: continue
             lines.append(f"   {st:<10} [{ref}] {dr[:60]!r} {info}")
         tagged = {(t[2][0], t[2][1], t[2][2]) for t in tags}
         for r in placed[k]:
@@ -157,7 +169,8 @@ def main(vol, item_id):
         if lines:
             print(f"-- ch. {ch}, Art. {num}, para {i + 1} ({'vv. %d-%d' % tuple(p['v']) if p.get('v') else 'no verse tag'})")
             print("\n".join(lines))
-    print("summary:", ", ".join(f"{k} {v}" for k, v in total.items()))
+    if inline: total = {k: v for k, v in total.items() if k not in ("ok", "differs", "no-margin", "untagged", "unread")}
+    print("summary:", ", ".join(f"{k} {v}" for k, v in total.items()) or "nothing to report")
 
 def export(vol, item_id):
     """Write the published article as work file(s) for editing and re-merging with tools/add_article.py."""
@@ -165,7 +178,7 @@ def export(vol, item_id):
     item = next(i for i in q["items"] if i["id"] == item_id)
     data = json.load(open(os.path.join(ROOT, "data", "commentary", item["book"] + ".json")))
     os.makedirs(os.path.join(ROOT, "work"), exist_ok=True)
-    for ch, a in find_articles(item["book"], roman(item["art"])):
+    for ch, a in find_articles(item["book"], roman(item["art"]), item.get("chapter_guess")):
         out = dict(book=item["book"], chapter=ch, work=data["work"], source=data["source"], **a)
         path = os.path.join(ROOT, "work", f"{item_id}-ch{ch}.json")
         json.dump(out, open(path, "w"), ensure_ascii=False, indent=1)
