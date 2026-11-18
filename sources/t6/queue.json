@@ -1127,9 +1127,10 @@
     391,
     395
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:05:00Z"
+   "claimed": "2026-11-18T16:05:00Z",
+   "note": "Published (scheduled run, worker). Part of the Latin title is unread in the transcription ('[…] : VENITE, EXULTEMUS DOMINO'): check the scan, PDF 391. Unreadable margins identified from the Latin: 'Hebr. […]' = Heb 13:9, '[…] 43.' = John 5:43, '[…] iv. 11.' given as Heb 4:11 (reference-only, note). Invitatory additions ('Quoniam non repellet…', 'Proximus fui…') noted."
   },
   {
    "id": "psalms-074",
@@ -1140,9 +1141,10 @@
     395,
     401
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:05:00Z"
+   "claimed": "2026-11-18T16:05:00Z",
+   "note": "Published (scheduled run, worker). Margin 'Ps. xxv, 1 sec. Hebr.' taken as Ps 113:9 (Hebr. 115:1, note). 'delirus ille Martinus' (v. 6) unidentified (note). 'A ligno' at v. 10 is not in the Vulgate (note)."
   },
   {
    "id": "psalms-075",
@@ -1153,9 +1155,10 @@
     401,
     405
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:05:00Z"
+   "claimed": "2026-11-18T16:05:00Z",
+   "note": "Published (scheduled run, worker). Denis's (and the margin's) verse numbers run one higher than the Vulgate (title counted as v. 1); tagged by the text."
   },
   {
    "id": "psalms-076",
