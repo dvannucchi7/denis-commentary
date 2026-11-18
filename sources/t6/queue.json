@@ -839,9 +839,10 @@
     289,
     297
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:28:00Z"
+   "claimed": "2026-11-18T15:28:00Z",
+   "note": "Published (scheduled run, two workers, split at v. 11). 'ALTAQUE duo primi versus' read as 'Atque' (check scan). Margin 'Allegorice' where the text says 'Moraliter' (noted). Margins corrected with notes: II Esdr. iv, 4 → 2 Esd 4:1; I Par. xvii, 18 → 1 Par 29:18; Jer. xxxiii, 10 → Jer 48:10 (ref-only); IV Reg. xvii → 4 Kings 17:1. 'pro Assyriis' in the title noted as Septuagint. Prayer tagged v. 10."
   },
   {
    "id": "psalms-053",
@@ -852,9 +853,10 @@
     297,
     300
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:28:00Z"
+   "claimed": "2026-11-18T15:28:00Z",
+   "note": "Published (scheduled run, one worker). Margins corrected with notes: Jer. xxiv, 23 → Jer 29:23; Num. xx + 13 → Num 20:12–13. Unmarked-margin quotations tagged where Denis names the speaker (Num 20:10, Ex 24:7, Ex 32:34). 'quinta sabbati' in the title noted (not in the Vulgate title)."
   },
   {
    "id": "psalms-054",
@@ -865,9 +867,10 @@
     300,
     304
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:28:00Z"
+   "claimed": "2026-11-18T15:28:00Z",
+   "note": "Published (scheduled run, one worker). Margins corrected with notes: Philipp. 13 → Phil 2:13; 1 Cor 10:24 ref-only (wording closer to Phil 2:4); Ecclesiasticus quotation marked 41:17 with ref-only 20:32. Read 'deformiores' as 'deiformiores'."
   },
   {
    "id": "psalms-055",
