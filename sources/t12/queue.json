@@ -662,10 +662,10 @@
     485,
     499
    ],
-   "status": "in-progress",
+   "status": "done",
    "claimed": "2026-11-18T02:00:30Z",
    "chapter_guess": 11,
-   "note": "batch stopped (API credit ran out)"
+   "note": "Done 18 Nov (PDF 486-499, pp. 476-489; the whole of John 11:1-46). Translated in seven parts by parallel workers. For a look against the scan: margin by verus in sermone, et justus in opere has one unreadable reference (noted in the text); many misread numerals corrected by the sense (e.g. Is 42:4 for Is. xiii, 4; Jer 17:5; Is 61:1; Ps 44:8; Gen 23:9 and 49:29 for the burial of the patriarchs; 2 Par 28:27, 4 Kings 16:20 for Achaz); ranges in the margin given as single-verse markers."
   },
   {
    "id": "john-29",
