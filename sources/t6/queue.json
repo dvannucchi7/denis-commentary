@@ -1169,9 +1169,10 @@
     405,
     408
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:16:00Z"
+   "claimed": "2026-11-18T16:16:00Z",
+   "note": "Published (scheduled run, worker). Data slip for Dave: in data/bible/drc/isaiah.json Is 46:12 holds the text of v. 13 and v. 13 is empty (v. 12 'Hear me, O ye hardhearted…' missing), so Denis's quotation of Is 46:13 is plain English with a reference-only marker. Margin Jas 5:8–9 also covers Denis's opening 'Patientes estote…' (= Jas 5:7, marked, note). Is 40:5 quoted in Luke 3:6's wording (note)."
   },
   {
    "id": "psalms-077",
@@ -1182,9 +1183,10 @@
     408,
     412
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:16:00Z"
+   "claimed": "2026-11-18T16:16:00Z",
+   "note": "Published (scheduled run, worker). v. 5 printed 'Confitentur' kept with a note (psalm: Confiteantur). Margin verse 7 stands at 'Invocabant Dominum', which the Douay-Rheims has in v. 6: split by the Douay-Rheims. Margin ranges (Ex 32:2–6, Num 12:1–2) given as one verse each; Ex 23:20 tagged without a margin note (Denis names it)."
   },
   {
    "id": "psalms-078",
