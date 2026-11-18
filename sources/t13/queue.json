@@ -1435,9 +1435,9 @@
     549,
     555
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Hebrews 13, Art. XIII (pp. 527–531) with gaps (marked […]): title ('C[…]'); v. 2 (PDF 549: lemma and following lines lost; 'in pede hominum' probably 'in specie hominum'); v. 3 (garbled, Latin kept with a note); v. 12 start (PDF 551); v. 14 (word after 'Civitas'); v. 15 (several words, PDF 552). On PDF 551 the transcriber put the line ends of the left column at the start of the right column's lines; vv. 10–12 were rebuilt from those overlaps (check 'participando', 'hanc figuram'). Margin numerals lost: I Tim. […] (= 1 Tim 6:10), Matth. […] 32, 33 (= Matt 6:32–33), Ps. […] (= Ps 117:6). 'Lev. xvi … 11 1 4' taken as Lev 16:14 (uncertain); 'Hebr.' beside 'similitudine carnis peccati' given as Rom 8:3. The cut file began with text on Heb 12:28–29 ('…nus, et reverentia … grave ad portandum'), left out here: Hebrews 12, Art. XII as published ends at v. 28 without it, so that end of Art. XII may be missing. PDF 554 failed to transcribe (the model replied that it saw no image); it lies after 'FINIS COMMENTARIORUM' and seems not to belong to Hebrews.",
    "claimed": "2026-11-18T07:54:41Z"
   },
   {
