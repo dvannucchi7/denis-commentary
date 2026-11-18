@@ -788,9 +788,9 @@
     326,
     330
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Ephesians 2, Art. II (pp. 304–308). About 50 line-ends lost in the transcription from the end of v. 16 to v. 19 (PDF 328–329): the missing letters were restored where certain (impietas, propria, vaticinium, natura, pacem, fuistis, cœlorum …); one word at v. 18 lost, 'id est p[…] affectu' (probably 'pari'). Check against the scan. Transcription slips corrected: 'Quo erat' → 'Quod eratis' (v. 12); duplicated 'mente fortiter innixi' (v. 20) kept once. Obvious quotations without margin note tagged: Heb 11:13, 1 Pet 2:11, Ps 38:13, 1 Tim 2:4, Heb 11:6. Douay-Rheims data slips: Eph 2:11 'gentiles is the flesh' (Challoner: in), Ps 38:13 'Be no silent' (not).",
    "claimed": "2026-11-18T06:26:24Z"
   },
   {
@@ -815,9 +815,9 @@
     334,
     341
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Ephesians 4, Art. IV (pp. 312–319) with gaps (marked […]): v. 6 (PDF 335: 'et […] omnibus', 'per […], caritatem'), v. 10 (PDF 336–337: about three lines lost after 'ipse'), v. 28 (PDF 340: 'operando, […] suis', 'temporale bonum […] ut […] egens'). A misplaced line from the end of Art. III (on 3:21) left out. Margin 'v. 4' at v. 26 read as Ps 4:5. Douay-Rheims data slip: Eph 4:12 'for the word of the ministry' (Challoner: work), so the lemma covers only 'of the ministry'.",
    "claimed": "2026-11-18T06:26:24Z"
   },
   {
