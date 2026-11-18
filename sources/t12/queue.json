@@ -908,10 +908,9 @@
     615,
     622
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 20,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T02:49:06Z"
+   "note": "Already published: the batch's translation was merged in commit c77ad11 (18 Nov, 01:16) but the queue item had been reset to todo when the batch stopped. Not re-translated. Its Latin title is still in capitals, and check_tags flags some paragraphs (worth a re-tag pass)."
   },
   {
    "id": "john-49",
@@ -921,9 +920,10 @@
     621,
     626
    ],
-   "status": "todo",
+   "status": "in-progress",
    "chapter_guess": 21,
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T02:49:42Z"
   },
   {
    "id": "john-50",
@@ -933,9 +933,9 @@
     625,
     630
    ],
-   "status": "todo",
+   "status": "done",
    "chapter_guess": 21,
-   "note": "batch stopped (API credit ran out)"
+   "note": "Already published: the batch's translation was merged in commit c77ad11 (18 Nov, 01:16) but the queue item had been reset to todo when the batch stopped. Not re-translated. Its Latin title is still in capitals, and check_tags flags some paragraphs (worth a re-tag pass)."
   }
  ]
 }
