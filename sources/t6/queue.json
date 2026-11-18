@@ -1,2033 +1,2035 @@
 {
- "volume": "t6",
- "items": [
-  {
-   "id": "psalms-087",
-   "book": "psalms",
-   "art": 87,
-   "chapter_guess": 44,
-   "pages": [
-    11,
-    22
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T10:47:04Z",
-   "note": "translated by scheduled run (first Psalms article; work title set as \"Commentaria in Psalmos\", PDF = printed page + 10). The edition's long footnote on the letters of Lentulus and Pilate (not Denis's text) is left out, with a bracketed note; the side-heads \"Expositiuncula quædam alia\" and \"Rursum alia expositio\" were dropped from the Latin; the edition's own parenthesised verse numbers were dropped. Margin numerals corrected with notes (Matt 17:5, Luke 3:22, 9:35, Luke 1:48)"
-  },
-  {
-   "id": "psalms-088",
-   "book": "psalms",
-   "art": 88,
-   "chapter_guess": 45,
-   "pages": [
-    22,
-    28
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T10:58:21Z",
-   "note": "translated by scheduled run; margin numerals corrected with notes (Acts 2:43 for \"Act. ii, 44\"); Amos 8:8 margin reference does not fit (reference-only, noted); Douay-Rheims data slips noticed: Mark 11:23 \"but be believe\", John 9:31 \"doth his, will\""
-  },
-  {
-   "id": "psalms-089",
-   "book": "psalms",
-   "art": 89,
-   "chapter_guess": 46,
-   "pages": [
-    28,
-    31
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:08:24Z",
-   "note": "translated by scheduled run; v. 9 printed \"Regnavit\" (margin * Regnabit), kept with a note; \"Leva ad Deum manus tuas\" (Jeremias, no margin note) given as reference-only Lam 2:19 with a note (Lam 3:41 also close); Is 29:13 from the margin, Denis follows Matt 15:8 wording (noted); Num 24:17 in the Septuagint form \"exsurget homo\" left unmarked with a note; obvious quotations tagged without margin notes: Jas 3:13, Ps 79:2. Douay-Rheims data slips noticed: Jas 3:13 \"by a good contestation\" (Challoner: conversation), Num 24:17 \"A STAR SHALL RISE\" in capitals"
-  },
-  {
-   "id": "psalms-090",
-   "book": "psalms",
-   "art": 90,
-   "chapter_guess": 47,
-   "pages": [
-    31,
-    36
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:13:18Z",
-   "note": "translated by scheduled run; Douay-Rheims data slip: Is 46:12 holds the words of 46:13 and 46:13 is empty (Is 46:13 given as reference-only, with a note); obvious quotations tagged without margin notes (Dan 2:34-35, Zach 9:9, Soph 3:14-17, Hab 2:1, Is 21:8, John 13:34-35, 1 Pet 5:1-3 etc.)"
-  },
-  {
-   "id": "psalms-091",
-   "book": "psalms",
-   "art": 91,
-   "chapter_guess": 48,
-   "pages": [
-    36,
-    42
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:13:18Z",
-   "note": "translated by scheduled run; margin numerals corrected with notes (Is 30:16→30:18, Sap. vii→Wis 2, 1 Cor xv→14:38, Ps cxlvii→143:15, Prov vi→11:7, Ezech 14:20→18:20, Matt 25:13→25:30); Is 26:10 cited \"juxta LXX\" given as reference-only with a note"
-  },
-  {
-   "id": "psalms-092",
-   "book": "psalms",
-   "art": 92,
-   "chapter_guess": 49,
-   "pages": [
-    42,
-    49
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:24:50Z",
-   "note": "translated by scheduled run; transcribed ⟦v. N⟧ notes one too high between v. 3 and v. 14 (tagged by the text); margin Matt 24:30 quotation is Matt 26:64 + Luke 21:27 (noted); Prov xiii,13 → 13:18; Douay-Rheims data slip: Matt 24:27 \"cowling\" for \"coming\""
-  },
-  {
-   "id": "psalms-093-part1",
-   "book": "psalms",
-   "art": 93,
-   "chapter_guess": 50,
-   "pages": [
-    49,
-    56
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "part": 1,
-   "parts": 2,
-   "claimed": "2026-11-18T11:24:50Z",
-   "note": "translated by scheduled run; the […] beside II Cor. x, 3 (PDF p. 55) hides no text; margin \"Is. xxxii, 13\" taken as Apoc 22:13 (noted); \"Oratio Manasse\" cited (not in the app Bible, note only)"
-  },
-  {
-   "id": "psalms-093-part2",
-   "book": "psalms",
-   "art": 93,
-   "chapter_guess": 50,
-   "pages": [
-    57,
-    63
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "part": 2,
-   "parts": 2,
-   "claimed": "2026-11-18T11:24:50Z",
-   "note": "translated by scheduled run; stray heading \"FINIS COMMENTARIORUM IN PRI…\" inside the closing paragraph removed and the text joined; margin \"Amos iv, 11\" taken as Amos 9:11 (noted); transcriptions of PDF pp. 60 and 62 failed (\"I can't see any page images\"): they hold the proœmium of the second fifty psalms, not this article; Douay-Rheims data slip: Rom 15:2 \"Please\" capitalised"
-  },
-  {
-   "id": "psalms-001",
-   "book": "psalms",
-   "art": 1,
-   "chapter_guess": 51,
-   "pages": [
-    63,
-    65
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:26:53Z",
-   "note": "translated by scheduled run (worker). Margin note at 1 Reg. xxii has unreadable verse numerals (bracketed note; 1 Kings 22:9, 22:18 used). Denis reads 'sapiens sapientior erit' at Prov 19:25 (note added). A stray margin '3' beside v. 11 dropped."
-  },
-  {
-   "id": "psalms-002",
-   "book": "psalms",
-   "art": 2,
-   "chapter_guess": 51,
-   "pages": [
-    65,
-    68
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:26:53Z",
-   "note": "translated by scheduled run (worker). The cut file stopped mid-sentence: the article's last lines (end of v. 10, v. 11, closing sentence) stand in the RIGHT column of transcribed p68 and were cut into psalms-003.txt (its lines 9-13): whoever translates Art. III must leave those out. Margin numerals corrected with notes (Ps 44:3, John 18:2, John 12:6, Ps 37:20). Mark 12:13 reference-only; wording closer to Matt 22:15-16 (note)."
-  },
-  {
-   "id": "psalms-003",
-   "book": "psalms",
-   "art": 3,
-   "chapter_guess": 51,
-   "pages": [
-    68,
-    71
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:35:26Z",
-   "note": "translated by scheduled run (worker). Lines 9-13 of the cut file (end of Art. II) left out. Margin Eccle. i, 15 placed at 'difficillime corriguntur'; Ephes. iv, 29 also covers Eph 4:31-32 (note). Several named quotations with no margin note tagged (Job 41:16 - Denis says Behemoth, Vulgate context Leviathan, note). Prayer left untagged."
-  },
-  {
-   "id": "psalms-004",
-   "book": "psalms",
-   "art": 4,
-   "chapter_guess": 52,
-   "pages": [
-    71,
-    74
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:35:26Z",
-   "note": "Published with a gap: PDF 72 (p. 62), foot of the left column (v. 5): the transcription stops at 'post hanc vitam experientur in' and the right column resumes 'in libro Sapientiæ de eis inducitur'; probably a line or so lost, marked […]. Please check the scan and fill it. Margin numerals corrected with notes (Prov 29:25 for 'xxiv, 25'; Job 23:13, 15 for 'xxxiii'). Denis reads 'pro Amalec' in the title (Vulgate 'pro Maeleth'), noted."
-  },
-  {
-   "id": "psalms-005",
-   "book": "psalms",
-   "art": 5,
-   "chapter_guess": 52,
-   "pages": [
-    74,
-    76
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:35:26Z",
-   "note": "translated by scheduled run (worker). 'pro Amalec' in the title noted; Matt 16:3 for margin 'xvi, 4, 2' (DR/Vulgate verse division, note); Zach 12:10 wording differs (note). Prayer left untagged."
-  },
-  {
-   "id": "psalms-006",
-   "book": "psalms",
-   "art": 6,
-   "chapter_guess": 53,
-   "pages": [
-    76,
-    80
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:38:41Z",
-   "note": "translated by scheduled run; margin numerals corrected with notes (\"Marc. ix, 48\" → Mark 9:18, \"Joann. vi, 48\" → John 11:48); Denis joins John 18:12 to Matt 26:50 (both marked, noted)"
-  },
-  {
-   "id": "psalms-007",
-   "book": "psalms",
-   "art": 7,
-   "chapter_guess": 53,
-   "pages": [
-    80,
-    83
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:38:41Z",
-   "note": "translated by scheduled run; possible Douay-Rheims slip: at Ps 53:8 the Vulgate has \"Domine\", the Douay-Rheims text \"O God\""
-  },
-  {
-   "id": "psalms-008",
-   "book": "psalms",
-   "art": 8,
-   "chapter_guess": 54,
-   "pages": [
-    83,
-    90
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:42:02Z",
-   "note": "translated by scheduled run (two workers, split at 'Deinde Christus orat', v. 10). Margin numerals corrected with notes: Is. xiii, 4 → Is 42:4; Joann. xi, 51 → John 11:54; Ibid. xi, 45 → John 12:42; Job xxxii, 15-16 → Job 22:15-16; Ps. xl, 1 marked at Ps 40:2. Ps. lxxxii, 5 given reference-only (no quotation fits, noted). Denis reads 'Jacob' at Jer 30:8 and 'salvavit' at v. 17 (noted). Text lost in v. 21: 'ut illis […] justam mercedem retribuat' (transcription [...], PDF p. 88-89) - worth checking against the scan. Misplaced ⟦v. 15⟧ and ⟦18⟧ margin numbers tagged by the text."
-  },
-  {
-   "id": "psalms-009",
-   "book": "psalms",
-   "art": 9,
-   "chapter_guess": 54,
-   "pages": [
-    90,
-    95
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:42:02Z",
-   "note": "translated by scheduled run (worker). Margin numerals corrected with notes: Matth. v, 23 → Matt 10:23; Jer. xxxiii, 9 → Jer 23:9; Ibid. vii, 10 → 2 Cor 7:10 (reference-only); Eccle. vii, 5 also marked Eccles 7:3. Joel 2:12 and Job 3:24 tagged without margin notes (Denis names them). A duplicated scrap '⟦20⟧ ta et moribus distant ab eis.' dropped. Douay-Rheims data slip: Jer 18:23 lacks 'forgive' ('not their iniquity')."
-  },
-  {
-   "id": "psalms-010",
-   "book": "psalms",
-   "art": 10,
-   "chapter_guess": 55,
-   "pages": [
-    95,
-    98
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:45:21Z",
-   "note": "translated by scheduled run (worker). Margin 'Ibid. viii, 30' → John 8:50 (note); the long list of Matthew references became one reference-only marker (Matt 9:3) with a note listing them; Ex 4:23 wording mixed with Ex 5:1 (note); margin reads 'scopus' where the text prints 'opus' (note); v. 10 gloss printed without its lemma (note)."
-  },
-  {
-   "id": "psalms-011",
-   "book": "psalms",
-   "art": 11,
-   "chapter_guess": 55,
-   "pages": [
-    98,
-    101
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:45:21Z",
-   "note": "translated by scheduled run (worker). Margin Ps. xxxv, 3 → Ps 36:5 and IV Reg. v, 5 → 4 Kings 20:5 (notes); Mich 7:6 kept as margin gives it, Denis gives it as Christ's (note). A stray 'meo' after 'timeo' (v. 4) dropped as a likely transcription slip: please check the print (PDF 99/100)."
-  },
-  {
-   "id": "psalms-012",
-   "book": "psalms",
-   "art": 12,
-   "chapter_guess": 56,
-   "pages": [
-    101,
-    104
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:45:21Z",
-   "note": "translated by scheduled run (worker). Misread margin verse numerals placed by the text; Job 22:5 + 22:10 joined by Denis (note); Abisai episode is 1 Kings 26:8-9, not the cave (note); Is 40:31 'volabunt' for 'ambulabunt' (note)."
-  },
-  {
-   "id": "psalms-013",
-   "book": "psalms",
-   "art": 13,
-   "chapter_guess": 56,
-   "pages": [
-    104,
-    107
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:46:26Z",
-   "note": "translated and published by scheduled run; one word unread in the closing paragraph (\"nobilem et […] ignitum\", PDF p. 107): check the scan; margin \"Is. xxxvi, 9\" is Is 26:9 (noted)"
-  },
-  {
-   "id": "psalms-014",
-   "book": "psalms",
-   "art": 14,
-   "chapter_guess": 57,
-   "pages": [
-    107,
-    110
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:50:21Z",
-   "note": "translated by scheduled run; the article file lacked its last paragraph (\"Postremo, quod dictum est…\", top of the right column of PDF p. 110), added from the page transcription; unread Osee margin number taken as Osee 7:13 (noted); printed \"verba et verba\" read as \"verba et verbera\" (noted)"
-  },
-  {
-   "id": "psalms-015",
-   "book": "psalms",
-   "art": 15,
-   "chapter_guess": 57,
-   "pages": [
-    110,
-    113
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:53:09Z",
-   "note": "Published with a gap: PDF 112 (p. 102), left column top: the transcription breaks off in Job 31:18 at 'et de utero ma-' and goes straight on to v. 5; a line or more lost, marked […]. Please check the scan. Lines 10-12 of the cut file belong to Art. XIV (already in it) and were left out. Margin Act. v, 34 → Acts 10:34, Matth. v, 5 → Matt 5:4, Apoc. xvi, 9 → 16:11 + 16:9 (notes)."
-  },
-  {
-   "id": "psalms-016",
-   "book": "psalms",
-   "art": 16,
-   "chapter_guess": 58,
-   "pages": [
-    113,
-    119
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:53:09Z",
-   "note": "Published with a gap: PDF 116 (p. 106), foot of the left column (v. 9): 'Christi Evan-' / 'verbo aut opere contradicentes' — a line lost between the columns, marked […]. Please check the scan. Margin Is. i, 7 → Is 50:7, Joann. viii, 12 → John 7:12, Job xv, 14 juxta LXX → Job 14:4 (notes). Denis says Acts 17:11 is of the Thessalonians (it is the Bereans; note). DR data slip: Is 53:1 reads 'Who a hath believed'."
-  },
-  {
-   "id": "psalms-017",
-   "book": "psalms",
-   "art": 17,
-   "chapter_guess": 58,
-   "pages": [
-    119,
-    123
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:53:09Z",
-   "note": "translated by scheduled run (worker). Margin Ps. v, 17 juxta Hebr. → Ps 9:38; Jer. iii, 2 → Jer 3:12; Joann. iii, 15 → 1 John 3:15 (notes). Ezech 18:22 for Denis's paraphrase of Ezech 18:21-22 (note)."
-  },
-  {
-   "id": "psalms-018",
-   "book": "psalms",
-   "art": 18,
-   "chapter_guess": 59,
-   "pages": [
-    123,
-    125
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:53:48Z",
-   "note": "translated by scheduled run (worker). Lemma printed '_et* vana salus *quia hominis_' cleaned, words out of order noted (59:13). Jer 23:15: Denis reads 'potabo impios' (noted). Margin ranges (II Reg. x; I Reg. xvi; II Reg. vii) given as reference-only markers on the verses that fit; 'Ibid. vi-viii' (Gedeon) as Judg 6:1."
-  },
-  {
-   "id": "psalms-019",
-   "book": "psalms",
-   "art": 19,
-   "chapter_guess": 59,
-   "pages": [
-    125,
-    128
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:53:48Z",
-   "note": "translated by scheduled run (worker). Margin numerals corrected with notes: Jer. xxxi, 33, 41 → Jer 32:39, 41; Matth. xxiii, 52 → Matt 13:52. 1 Cor 13:3 + 'nihil sum' of 13:2; Num 24:17 'exsurget homo' (noted). 2 Cor 3:5 tagged without a margin note. 'succedit' in the title lemma read as 'succendit'."
-  },
-  {
-   "id": "psalms-020",
-   "book": "psalms",
-   "art": 20,
-   "chapter_guess": 60,
-   "pages": [
-    128,
-    130
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:53:48Z",
-   "note": "translated by scheduled run (worker). Cutting error repaired: the article's last part (right column top of transcribed p130, 'est; veritas autem concernit…' to '…propitiatio pro peccatis nostris', vv. 7-9) had been cut into psalms-021.txt; it is translated here and left out of Art. XXI. '[…]' inside 'Pro[…]texit' (Is 49:2) at a page turn: word looks complete. Margin numerals corrected with notes: Joann. xvii, 27 → John 12:27; Is. iii, 13, 15 → Is 52:13, 15. Luke 22:43-44 recast in the first person: reference-only markers. Douay-Rheims data: Zach 9:9 prints 'BEHOLD THY KING' in capitals."
-  },
-  {
-   "id": "psalms-021",
-   "book": "psalms",
-   "art": 21,
-   "chapter_guess": 60,
-   "pages": [
-    130,
-    132
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T11:53:48Z",
-   "note": "translated by scheduled run (worker). The misplaced end of Art. XX (lines 17-43 of the cut file) left out. Margin numerals corrected with notes: Ps. cxiii, 8 → Ps 142:8; Job xxviii, 3 → Job 23:3; Eccli. ii, 1 → Ecclus 51:1. John 14:13 + John 16:23 for 'dabit vobis'; Wis 10:10 'Dominus' (noted)."
-  },
-  {
-   "id": "psalms-022",
-   "book": "psalms",
-   "art": 22,
-   "chapter_guess": 61,
-   "pages": [
-    132,
-    136
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:01:49Z",
-   "note": "translated by scheduled run (worker). Lines 21-26 of the cut file repeat the end of the v. 3 paragraph (used once). Margin Prov. x, 15 → Prov 10:25; Is. xlv, 11 → Is 43:11; Ibid. xviii, 24 → Luke 18:24 (notes). Several named quotations with no margin note tagged (Job, Prov, Wis, Heb 1:1)."
-  },
-  {
-   "id": "psalms-023",
-   "book": "psalms",
-   "art": 23,
-   "chapter_guess": 62,
-   "pages": [
-    136,
-    140
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:05:05Z",
-   "note": "translated by scheduled run (worker). Cutting error repaired: the article's last lines (right column top of transcribed p140, 'sequuntur ac implent. Quia obstructum est…' to '…eisque prævaleat', v. 12) had been cut into psalms-024.txt; translated here, left out of Art. XXIV. Luke 11:24 (margin) mixes in Matt 12:43 (noted); Prov 10:1 'filius sapiens est gloria patris' does not match (reference-only, noted); Gal 5:17, Job 27:9 wording differs (noted)."
-  },
-  {
-   "id": "psalms-024",
-   "book": "psalms",
-   "art": 24,
-   "chapter_guess": 62,
-   "pages": [
-    140,
-    143
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:05:05Z",
-   "note": "translated by scheduled run (worker). The misplaced end of Art. XXIII (lines 35-43 of the cut file) left out. Margin John iii, 31 → John 3:34 (noted); 2 Par 20:17 loose (noted); Job 5:13 in the wording of 1 Cor 3:19 (noted). 'tamque' read 'tuamque'. Douay-Rheims data slip: John 17:1 lacks 'Father,'."
-  },
-  {
-   "id": "psalms-025",
-   "book": "psalms",
-   "art": 25,
-   "chapter_guess": 63,
-   "pages": [
-    143,
-    146
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:05:05Z",
-   "note": "translated by scheduled run (worker). '[…]' in 'Prote[…]xisti' (v. 3) at a hyphen break: probably nothing missing. 'Ibid. x, 39' → John 10:39, 'Ibid. xxvii, 2, 31' → Matthew (noted). Denis reads 'Accedet homo et cor altum' (noted). Many obvious quotations without margin notes tagged (John 19:15, Matt 26:5, Acts 4:13, 6:10, Matt 27:54, Luke 23:48, Acts 2:37, 41, 4:4, John 8:28, Luke 24:49, John 16:13, Phil 4:4, Matt 25:34)."
-  },
-  {
-   "id": "psalms-026",
-   "book": "psalms",
-   "art": 26,
-   "chapter_guess": 63,
-   "pages": [
-    146,
-    149
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:05:05Z",
-   "note": "translated by scheduled run (worker). The heading is split in the transcription ('EXPOSITIO TROPOLOGICA SIVE MORALIS' + stray '### IS EJUSDEM PSALMI SEXAGESIMI TERTII' mid-text): joined as the title. Margin Is. ii, 7 → Is 51:7 (noted). Roman Psalter reading 'Quum tribulor' (noted); Deut 4:29 tagged without a margin note."
-  },
-  {
-   "id": "psalms-027",
-   "book": "psalms",
-   "art": 27,
-   "chapter_guess": 64,
-   "pages": [
-    149,
-    151
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:13:49Z",
-   "note": "Published (scheduled run, worker). v. 10: 'dando ei uberes' seems to lack a word (PDF 150, p. 140; the transcription has no gap mark), marked […]; please check the scan. Margin Jer. i, 28 (no such verse) → Jer 29:10 (note). Ranges Ezech. xxxiv, 21–28, Agg. i, 1–11, Dan. iii, 57–90 tagged at their first fitting verse with notes. Denis's title reading 'Jeremiæ et Aggæi, de verbo peregrinationis' noted. Baruch 4:25, 4:29 tagged (Denis names Baruch, no margin note)."
-  },
-  {
-   "id": "psalms-028",
-   "book": "psalms",
-   "art": 28,
-   "chapter_guess": 64,
-   "pages": [
-    151,
-    156
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:13:49Z",
-   "note": "translated by scheduled run (worker). Heading's first words unreadable ('[…]IS EJUSDEM…'), kept with […] in the Latin title. Margin 'Ibid. xii, 38' after an Ezechiel note → Luke 12:38 (note). Luke 15:10 tagged without margin note (word for word). 'per Prophetam Domini locutus es' kept as printed (perhaps 'Dominus'). Joel 2:28 tagged where recheck also suggests Acts 2:17."
-  },
-  {
-   "id": "psalms-029",
-   "book": "psalms",
-   "art": 29,
-   "chapter_guess": 65,
-   "pages": [
-    156,
-    162
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:16:47Z",
-   "note": "translated by scheduled run (worker). Title as transcribed has '[…]' (PSALMUM […] DICITE). Margin slips noted: Is. iii, 1 → Is 3:4; Eccli. ii, 31 → Ecclus 51:31 (reference-only); John 1:46 margin, Denis closer to John 7:52 (noted); 'Si quis cultor est Dei' cited as Job but is John 9:31 (noted). Job 5:17 tagged without a margin note. 'separari*' read 'superari' from the edition's footnote. Douay-Rheims data slip: John 9:31 'doth his, will'."
-  },
-  {
-   "id": "psalms-030",
-   "book": "psalms",
-   "art": 30,
-   "chapter_guess": 66,
-   "pages": [
-    162,
-    164
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:22:37Z",
-   "note": "Published (scheduled run, worker) with a gap: v. 7 moral reading, 'et dum […] animæ in cunctis deserviens' — text lost at a column/page change (PDF 163–164, pp. 153–154), marked […]; please check the scan. Margin Jer. xxiii, 29 → Jer 22:29 (note). Jer 10:23, Is 6:3, Zach 3:2 tagged where Denis names the source. Slips corrected: perfici→perficit, divinque→divinique."
-  },
-  {
-   "id": "psalms-031",
-   "book": "psalms",
-   "art": 31,
-   "chapter_guess": 67,
-   "pages": [
-    164,
-    173
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:22:37Z",
-   "note": "translated by scheduled run (two workers, split at v. 8). Margin Exod. iv, 23 beside words of Ex 9:17 (reference-only Ex 4:23 with note); Wis 7:27, Esth 13:9, Prov 8:31 reference-only (Denis's own wording). Variant readings noted: Is 63:4 retributionis, John 15:24 + gratis, Matt 8:29 ~ Mark 5:7. 'in another place' after Acts = Luke 24:50–51 (note). Article ends mid-v. 19; Art. XXXII continues."
-  },
-  {
-   "id": "psalms-032",
-   "book": "psalms",
-   "art": 32,
-   "chapter_guess": 67,
-   "pages": [
-    173,
-    181
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:26:02Z",
-   "note": "translated by scheduled run (two workers, split at \"Porro quæ dicta sunt\"); v. 21 lemma has only one \"Domini\" though Denis says the word is doubled (kept as printed); margin \"Act. vii–ix\" given as ref-only Acts 7:57 and 9:1 with a note; 2 Cor 12:2 marked beside the margin's 12:4. Douay-Rheims data slips noticed: Ps 67:29 \"O God confirm\" (comma missing), Acts 7:57 \"without the city. they stoned\"; Vulgate data slip: sources/vulgate 1 Thess 4:15 holds the text of 4:14"
-  },
-  {
-   "id": "psalms-033",
-   "book": "psalms",
-   "art": 33,
-   "chapter_guess": 68,
-   "pages": [
-    181,
-    187
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:26:02Z",
-   "note": "translated by scheduled run; the article's last paragraph (v. 16, \"Non me demergat … in inferno\", right column of PDF 187) had been cut into psalms-034.txt and is translated here (removed from psalms-034.txt; check Art. XXXIV does not repeat it). Margin verse numbers v. 6–9 are off by one and were judged by the text; quotations with no margin note tagged where Denis names the speaker (Acts 4:27–28, John 8:52, 8:22, 9:29, 9:22, Job 19:13, Jer 14:8). Douay-Rheims data slip: 1 Cor 4:10 \"Christs sake\""
-  },
-  {
-   "id": "psalms-034",
-   "book": "psalms",
-   "art": 34,
-   "chapter_guess": 68,
-   "pages": [
-    187,
-    192
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:31:22Z",
-   "note": "translated by scheduled run (worker). Line 6 of the cut file ('illatæ, de qua superius dixi, Tempestas demersit me…', with a margin Ps. xv, 10) is the end of Art. XXXIII (v. 16), continuing from its last words 'impetus mortis mihi'; left out of XXXIV and NOT yet added to XXXIII (another run's article) — please add. The transcription's three '[…]' at line starts lose no text (de viciniori; nun[tios], Is 42:19; magnificatio). Margin ⟦v. 21⟧ at 'Et ne avertas' is v. 18. 'injuriam verborum' read 'verberum' the first time (sense). Ibid. xi, 10 → Is 6:10 (ref-only); Rom. ix, xi and Exod. iv, vii, xi, xiv given single verses with notes. DR data slip: Jer 18:23 lacks 'forgive'."
-  },
-  {
-   "id": "psalms-035",
-   "book": "psalms",
-   "art": 35,
-   "chapter_guess": 68,
-   "pages": [
-    192,
-    199
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:31:22Z",
-   "note": "translated by scheduled run (two workers, split at v. 9). Margins corrected with notes: Matth. v, 22 → Matt 10:22; Joel i, 3 → Joel 1:5; Matth. v, 41 → Matt 5:44; Threni 20 → Lam 1:20. Variants noted: 2 Cor 7:5 spiritus for caro; 1 Pet 2:20 gratia; Luke 6:23 hora; v. 14 fudi. Jer 38:6 'usque ad renes' not in the verse (note). DR data slips: Is 47:10 stray comma; 3 Kings 19:3 'EIias'."
-  },
-  {
-   "id": "psalms-036",
-   "book": "psalms",
-   "art": 36,
-   "chapter_guess": 69,
-   "pages": [
-    199,
-    202
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:40:45Z",
-   "note": "translated by scheduled run; 69:6 Denis reads \"Deus meus, ne tardaveris\" (as Ps 39:18) for the Vulgate \"Domine, ne moreris\" (noted); Cassian reference given in a note as Conference X, ch. 10 (from the translator's knowledge, check); quotations with no margin note tagged where named or word for word (Is 64:6, Ps 39:2)"
-  },
-  {
-   "id": "psalms-037",
-   "book": "psalms",
-   "art": 37,
-   "chapter_guess": 70,
-   "pages": [
-    202,
-    209
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:40:45Z",
-   "note": "translated by scheduled run (two workers, split at v. 9 \"Ne projicias me\"); margin numerals corrected with notes (Ecclus 51:15–18 for \"Eccli. ii\", Ps 62:6 for \"Ps. lxxii, 6\", Ps 9:24 for \"Ps. x, 3 sec. Hebr.\", Heb 13:13, Jer 35:6, Wis 2:15, Is 52:10 for \"Is. xli, 10\", Gen 1:26); the transcription's \"[…]\" after Is 26:8 (PDF ~207) dropped as the sense runs on (check against the scan); v. 18 paragraph \"post suam mortem divinæ legis testimonia disserit\" translated literally, may need a look. Douay-Rheims data slips noticed: Is 25:1 \"I will exalt O thee\", Ezech 24:24 \"Ezekiel\""
-  },
-  {
-   "id": "psalms-038",
-   "book": "psalms",
-   "art": 38,
-   "chapter_guess": 70,
-   "pages": [
-    209,
-    215
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:41:52Z",
-   "note": "Margin numerals corrected with notes: Is. i, 9 → Is 50:9; Ibid. v. 20 (after John 8) → John 10:20; Is. liii, 14 → Is 52:14; Ibid. ii, 2 (Mark) → Mark 3:2. Margin note 'Joannes Baptista, Ibid. iii, 36': words Denis gives to Christ are the Baptist's (John 3:36), noted. Tagged without margin note (source named): Ps 21:2, Ps 68:8. 'quæserunt' (v. 24) kept as printed."
-  },
-  {
-   "id": "psalms-039",
-   "book": "psalms",
-   "art": 39,
-   "chapter_guess": 71,
-   "pages": [
-    215,
-    222
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:41:52Z",
-   "note": "End of the article (from '…die Pentecostes et postmodum…' to the end of the Precatio) was in the cut file of psalms-040 (lines 7–14); joined here. Margin corrections with notes: Job xii, 24 → Job 41:24; Gal. iii, 16 kept as reference-only, quoted words tagged Gen 22:18 / Gal 3:8. Margin '* auferretur' correction of printed 'auferatur' given in a note. Tagged without margin note (source named): 2 Thess 2:8, Zach 9:10, Luke 2:14. No comment on v. 20 here (Art. XL treats it as Ps 72's title)."
-  },
-  {
-   "id": "psalms-040",
-   "book": "psalms",
-   "art": 40,
-   "chapter_guess": 72,
-   "pages": [
-    222,
-    229
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:45:20Z",
-   "note": "Published (scheduled run, two workers, split at v. 16) with a gap: the closing prayer breaks off at 'fac nos' (end of PDF 229, p. 219; the transcription goes straight on to Art. XLI), marked […]; please check the scan. Lines 7–14 of the cut file are the end of Art. XXXIX (Ps 71: '…die Pentecostes et postmodum…', summary and prayer) — left out of XL; check that XXXIX has them. Opening put in reading order (dis-/ponentis; ad partem utramque). Margins corrected with notes: Is. xxxvi, 10 → Is 37:10 + 36:14; Ps. i, 8 → Ps 50:8; Cant. viii, 10 → Cant 7:10. 'Defecerunt laudes…' tagged Ps 71:20 (Denis reads it as this psalm's title)."
-  },
-  {
-   "id": "psalms-041",
-   "book": "psalms",
-   "art": 41,
-   "chapter_guess": 73,
-   "pages": [
-    229,
-    235
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:49:25Z",
-   "note": "Published with a gap: the transcription of PDF 233 (p. 223) has only the top of the left column; it breaks off at 'medio fluminum tuorum. Est ig' and PDF 234 resumes '…hilum cœlos, et expandit illos sicut tabernaculum'. The rest of v. 13, all of vv. 14–15 and the start of v. 16 are missing, marked […]. Please re-transcribe PDF 233. Also: lines of the previous article's prayer and a running head at the start of psalms-041.txt were dropped; margin numerals corrected with notes (Matt 15:24 for 'Ibid. xv, 24', Ecclus 3:29, Is 37:29); the Prayer of Manasses quotation has a note and no marker (not in the app's Bible); Ex 29:45 wording closer to Num 35:34 (noted)"
-  },
-  {
-   "id": "psalms-042",
-   "book": "psalms",
-   "art": 42,
-   "chapter_guess": 73,
-   "pages": [
-    235,
-    240
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:49:25Z",
-   "note": "translated by scheduled run; margin 'Joann. vi, 48-59' (manna) given as ref-only Ex 16:15 and John 6:49 with a note; '2 Mach. vii' marked at 7:2; Apoc 17:1, 15 loose (ref-only, noted). Douay-Rheims data slip noticed: Apoc 13:1 'coming up out the sea'"
-  },
-  {
-   "id": "psalms-043",
-   "book": "psalms",
-   "art": 43,
-   "chapter_guess": 74,
-   "pages": [
-    240,
-    241
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:53:28Z",
-   "note": "Margin corrections with notes: 1 Esdr. v, 4 → 1 Esd 5:1; Eccli. xliii, 17 → Ecclus 42:17; Jer. xxiii, 23 → Jer 29:23. Mich 2:3 tagged without margin note (Denis names Micheas)."
-  },
-  {
-   "id": "psalms-044",
-   "book": "psalms",
-   "art": 44,
-   "chapter_guess": 74,
-   "pages": [
-    241,
-    245
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:53:28Z",
-   "note": "Margin corrections with notes: Amos 'Ibid. i, 14' → Amos 6:14; Ps. xxxiv, 10 → Ps 24:10; Matth. xx, 22–23 → v. 23. Chapter-only notes (Dan. iii, vi, xiii, xiv; Jer. li) given as v. 1. Page-break 'fatalem / talem' read as 'fatalem'. 'Deus proprie Deus vocatur' kept as printed (a 'Jacob' may have dropped out; check the scan)."
-  },
-  {
-   "id": "psalms-045",
-   "book": "psalms",
-   "art": 45,
-   "chapter_guess": 75,
-   "pages": [
-    245,
-    248
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:53:28Z",
-   "note": "Title variant 'in carminibus' (margin: laudibus) kept with a note. Margin 'II Par. xxx et xxx' given as 2 Par 29:1 and 30:1 (reference-only, noted). Margin Dan. xiv, 42: Denis's words run on into Dan 6:27; both tagged, noted. Margin 'v. 5' before 'Dormierunt' taken as v. 6."
-  },
-  {
-   "id": "psalms-046",
-   "book": "psalms",
-   "art": 46,
-   "chapter_guess": 75,
-   "pages": [
-    248,
-    253
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:53:28Z",
-   "note": "Margin 'Luc. v, 5' taken as Luke 10:5 (noted). Old Latin form of Is 66:2 given reference-only with a note. 'Surgite, mortui, venite ad judicium' is not Scripture; 1 Cor 15:52 marked on 'tuba canet' only, noted. Tagged without margin note (source named): Eccles 5:3, Lam 4:12. Douay-Rheims slip: data/bible/drc 1 Thess 4:15 holds the text of Vulgate 4:16."
-  },
-  {
-   "id": "psalms-047",
-   "book": "psalms",
-   "art": 47,
-   "chapter_guess": 76,
-   "pages": [
-    253,
-    260
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T12:56:01Z",
-   "note": "translated by scheduled run (two workers, split at v. 11 \"Et dixi, Nunc cœpi\"); margin numerals corrected with notes (2 Mach 10:38 for \"II Mach. v. 38\", Dan 3:26–27 for \"Daniel 26. 27.\", Ezech 22:30); a second margin \"Philipp. iii, 8\" beside the v. 3 paragraph has no quotation there (ref-only, noted; may be a transcriber's repeat); quotations with no margin note tagged where named or word for word (Cant 8:6, Eccles 7:3, Luke 6:24)"
-  },
-  {
-   "id": "psalms-048",
-   "book": "psalms",
-   "art": 48,
-   "chapter_guess": 77,
-   "pages": [
-    260,
-    272
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:16:00Z",
-   "note": "Published (scheduled run, two workers, split before v. 30). The last part of the article (end of v. 69 to v. 72, upper right column of PDF 272) was in the cut file of psalms-049 and is included here. Margins corrected with notes: Gen. xlix, 32 → Gen 41:52 (ref-only); Num 14:27 + 14:11 joined by Denis; chapter-only notes given as v. 1 (Ex 34, 14, 7, 13; Num 10, 16, 25; Ex 12 → 12:29; Jos. xiii–xix → Jos 13:1). '4 Esdras 8:34' quoted without margin note: bracketed note, no marker. Readings: v. 21 'distulit' (put off) noted against the Douay 'was angry'; variants cœnomyiam (v. 45) and animabus (v. 50) noted."
-  },
-  {
-   "id": "psalms-049",
-   "book": "psalms",
-   "art": 49,
-   "chapter_guess": 77,
-   "pages": [
-    272,
-    283
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:16:00Z",
-   "note": "Published (scheduled run, two workers, split at v. 29) with a gap: after '…meo sanguine liberata, atque a me' (gloss on vv. 1–3) the lower right column of PDF 272 (p. 262) was not transcribed; marked […] — please check the scan. Also a lost word at v. 55 ('filii […] Patriarcharum'). Margins corrected with notes: Judic. xvii, 34 → John 19:34; Joann. v, 19 → 1 John 5:19; Eccli. xxxv, 23 → Ecclus 5:4; Is. ix, 8 → Is 60:8; Ps. cxxxviii, 14 → Ps 138:18; Ps. v, 3 Hebr. → Ps 9:24; Jer. xxiv, 9 → Jer 29:18–19; Eccli. xx → Ecclus 20:8. 'distinctionem' kept in the Latin, translated as *districtionem* (severity), with a note. Prayer tagged vv. 38–39."
-  },
-  {
-   "id": "psalms-050",
-   "book": "psalms",
-   "art": 50,
-   "chapter_guess": 78,
-   "pages": [
-    283,
-    287
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:28:00Z",
-   "note": "v. 8: transcription reads \"remisisse\" where the sense needs \"meminisse\" (kept, with a bracketed note); check against the scan (PDF 285)."
-  },
-  {
-   "id": "psalms-051",
-   "book": "psalms",
-   "art": 51,
-   "chapter_guess": 78,
-   "pages": [
-    287,
-    289
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:31:00Z"
-  },
-  {
-   "id": "psalms-052",
-   "book": "psalms",
-   "art": 52,
-   "chapter_guess": 79,
-   "pages": [
-    289,
-    297
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:28:00Z",
-   "note": "Published (scheduled run, two workers, split at v. 11). 'ALTAQUE duo primi versus' read as 'Atque' (check scan). Margin 'Allegorice' where the text says 'Moraliter' (noted). Margins corrected with notes: II Esdr. iv, 4 → 2 Esd 4:1; I Par. xvii, 18 → 1 Par 29:18; Jer. xxxiii, 10 → Jer 48:10 (ref-only); IV Reg. xvii → 4 Kings 17:1. 'pro Assyriis' in the title noted as Septuagint. Prayer tagged v. 10."
-  },
-  {
-   "id": "psalms-053",
-   "book": "psalms",
-   "art": 53,
-   "chapter_guess": 80,
-   "pages": [
-    297,
-    300
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:28:00Z",
-   "note": "Published (scheduled run, one worker). Margins corrected with notes: Jer. xxiv, 23 → Jer 29:23; Num. xx + 13 → Num 20:12–13. Unmarked-margin quotations tagged where Denis names the speaker (Num 20:10, Ex 24:7, Ex 32:34). 'quinta sabbati' in the title noted (not in the Vulgate title)."
-  },
-  {
-   "id": "psalms-054",
-   "book": "psalms",
-   "art": 54,
-   "chapter_guess": 80,
-   "pages": [
-    300,
-    304
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:28:00Z",
-   "note": "Published (scheduled run, one worker). Margins corrected with notes: Philipp. 13 → Phil 2:13; 1 Cor 10:24 ref-only (wording closer to Phil 2:4); Ecclesiasticus quotation marked 41:17 with ref-only 20:32. Read 'deformiores' as 'deiformiores'."
-  },
-  {
-   "id": "psalms-055",
-   "book": "psalms",
-   "art": 55,
-   "chapter_guess": 81,
-   "pages": [
-    304,
-    307
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:35:00Z"
-  },
-  {
-   "id": "psalms-056",
-   "book": "psalms",
-   "art": 56,
-   "chapter_guess": 82,
-   "pages": [
-    307,
-    310
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:35:00Z",
-   "note": "The first word or two of the article are missing from the transcription (it begins \"[…] iste est: Canticum, psalmus Asaph\"); \"Gebal, sic dictus\" may also lack a word. Check the scan (PDF 307)."
-  },
-  {
-   "id": "psalms-057",
-   "book": "psalms",
-   "art": 57,
-   "chapter_guess": 82,
-   "pages": [
-    310,
-    313
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:35:00Z"
-  },
-  {
-   "id": "psalms-058",
-   "book": "psalms",
-   "art": 58,
-   "chapter_guess": 83,
-   "pages": [
-    313,
-    319
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:36:00Z",
-   "note": "Published (scheduled run, one worker) with a gap: the closing prayer breaks off at '…virtus tua hac in valle plorationis;' (foot of the left column of PDF 319, p. 309; the rest, above the Art. LIX heading in the right column, was not transcribed), marked […]; please check the scan. Margins corrected with notes: Ps. lxxvii, 28 → Ps 72:28; Osee viii, 9 → Osee 13:9; Jac. iv, 5 → Jas 4:4."
-  },
-  {
-   "id": "psalms-059",
-   "book": "psalms",
-   "art": 59,
-   "chapter_guess": 84,
-   "pages": [
-    319,
-    325
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:36:00Z",
-   "note": "Published (scheduled run, one worker). Margins corrected with notes: Is. xliv, 8 → Is 45:8; Matt. xii, 29 ref-only (wording is Luke 11:21); Num. xvi → Num 16:1; Prov. x, 1 ref-only (Denis's own wording). Several obvious quotations tagged without margin notes (Jer 29:11, John 10:10, Osee 13:14 …). A repeated passage in the transcription (end of v. 3 gloss) kept once."
-  },
-  {
-   "id": "psalms-060",
-   "book": "psalms",
-   "art": 60,
-   "chapter_guess": 85,
-   "pages": [
-    325,
-    329
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:36:00Z",
-   "note": "Published (scheduled run, one worker). Two words lost in the transcription ('Oratio David, id est […] Christi'; v. 2 'in quantum vero […] est homo'), marked […]. Margins corrected with notes: Is. xix, 22 → Is 49:22; Judith xvi → Jdt 16:16; Gen 22:18 kept, Denis's wording is Acts 3:25. 4 Esdras 8:31 quoted: note only, no marker."
-  },
-  {
-   "id": "psalms-061",
-   "book": "psalms",
-   "art": 61,
-   "chapter_guess": 85,
-   "pages": [
-    329,
-    334
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:44:00Z",
-   "note": "Published (scheduled run, worker). Margin 'Eccli. xxxvii, 37' does not exist: reference-only at Ecclus 23:37 with a note. 'Salus populi ego sum…' is the Introit of the 19th Sunday after Pentecost (margin compares Is 43:11). Job 14:4–5 'juxta LXX' does not match the DR: reference-only."
-  },
-  {
-   "id": "psalms-062",
-   "book": "psalms",
-   "art": 62,
-   "chapter_guess": 86,
-   "pages": [
-    334,
-    338
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:44:00Z",
-   "note": "Published (scheduled run, worker). Margin 'Ps. lxxxvii, 19' is really Ps 82:19 (note added). 'ut requirant ceteri hominum Dominum' marked as Acts 15:17 (James's citation of Amos 9:11). DR slip: 1 Cor 2:4 'human wisdom. but' (full stop for comma)."
-  },
-  {
-   "id": "psalms-063",
-   "book": "psalms",
-   "art": 63,
-   "chapter_guess": 87,
-   "pages": [
-    338,
-    343
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:44:00Z",
-   "note": "Published (scheduled run, worker). Margin 'Is. i, 7' is Is 50:7 and 'Matth. xxvii, 12' is Matt 17:12 (notes added); the edition's footnote '*Ezrahitæ' at the title is given in a translator's note. DR slip: John 14:30 'prince of this world: cometh'."
-  },
-  {
-   "id": "psalms-064",
-   "book": "psalms",
-   "art": 64,
-   "chapter_guess": 87,
-   "pages": [
-    343,
-    346
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:45:00Z"
-  },
-  {
-   "id": "psalms-065",
-   "book": "psalms",
-   "art": 65,
-   "chapter_guess": 88,
-   "pages": [
-    346,
-    355
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:45:00Z",
-   "note": "Art. LXV covers vv. 1–19 (PDF 346–355). The rest of articles/psalms-065.txt, from \"TUNC locutus es in visione\" (v. 20, PDF 355) to the end, is Art. LXVI (running heads PDF 355–358), whose heading was not transcribed; its end (v. 53, \"Benedictus Dominus in æternum … aliorum affectum\") stands at the top of articles/psalms-067.txt. See item psalms-066-ps88. Also: data/bible/drc Wisdom 11:23 has the slip \"tho earth\"."
-  },
-  {
-   "id": "psalms-066-ps88",
-   "book": "psalms",
-   "art": 66,
-   "chapter_guess": 88,
-   "pages": [
-    355,
-    359
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Art. LXVI on Ps 88:20–53: heading and title not in the transcription (needs the scan, PDF 354–355). Text: articles/psalms-065.txt from \"TUNC locutus es in visione\" to the end, then the first lines of articles/psalms-067.txt up to \"aliorum affectum\". The queue item psalms-066 points to PDF 691–695 (Ps 147) and looks like a second-series article: check it."
-  },
-  {
-   "id": "psalms-067",
-   "book": "psalms",
-   "art": 67,
-   "chapter_guess": 88,
-   "pages": [
-    359,
-    363
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published (scheduled run, worker). Text assembled from articles/psalms-067.txt from 'TUNC locutus es' (v. 20) to the end, plus lines 5–11 of psalms-068.txt (end and PRECATIO); the opening v. 53 passage ('Sed quoniam Christus … aliorum affectum') and the transcriber's 'Correction' line were left out: they end Art. LXVI (psalms-066-ps88, still needs-scan). Margin 'Is. i, 9' = Is 50:8–9, 'Ps. lxxxi, 11' = Ps 71:11, 'Zach. xiii, 8' = Zach 12:8 (notes). DR slip: Ezech 34:23 has 'I WILL SET UP ONE SHEPHERD OVER THEM' in capitals.",
-   "claimed": "2026-11-18T15:58:00Z"
-  },
-  {
-   "id": "psalms-068",
-   "book": "psalms",
-   "art": 68,
-   "chapter_guess": 89,
-   "pages": [
-    363,
-    368
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:44:00Z",
-   "note": "Published (scheduled run, one worker). Lines 5–11 of the cut file (end of Art. LXVII and its prayer) left out: they belong to psalms-067. Margin Gen. i, 27, 28 given as ref-only (wording closer to Gen 1:26, noted). v. 16: Douay 'their works' vs Vulgate/Denis 'opera tua' (noted). Prayer tagged vv. 1–2, 16–17."
-  },
-  {
-   "id": "psalms-069",
-   "book": "psalms",
-   "art": 69,
-   "chapter_guess": 90,
-   "pages": [
-    368,
-    376
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:53:00Z"
-  },
-  {
-   "id": "psalms-070",
-   "book": "psalms",
-   "art": 70,
-   "chapter_guess": 91,
-   "pages": [
-    376,
-    382
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:53:00Z"
-  },
-  {
-   "id": "psalms-071",
-   "book": "psalms",
-   "art": 71,
-   "chapter_guess": 92,
-   "pages": [
-    382,
-    386
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:58:00Z",
-   "note": "Published (scheduled run, worker). Psalm title has no DR wording (reference-only marker + note). DR slip: Ps 92:2 'My throne' (Challoner: 'Thy throne'). Margin 'Matth. xxvi, 39' = Matt 26:42, 'II Cor. viii, 1' = 2 Cor 7:1 (notes)."
-  },
-  {
-   "id": "psalms-072",
-   "book": "psalms",
-   "art": 72,
-   "chapter_guess": 93,
-   "pages": [
-    386,
-    391
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-18T15:58:00Z",
-   "note": "Published (scheduled run, worker). v. 10 lemma 'Qui corripit gentes' illegible in the transcription, supplied from the psalm (note): check the scan, PDF 386–387. Ten unreadable margin notes (PDF ~389–390) identified from the Latin: Tob 3:22, 2 Cor 1:7, Ps 16:4, Deut 32:4, Prov 15:29, Is 59:2, Matt 5:5, Matt 11:12, 2 Tim 2:3, Jas 4:9. Margin 'III Reg. xxi, 10' = 3 Kings 19:10."
-  },
-  {
-   "id": "psalms-073",
-   "book": "psalms",
-   "art": 73,
-   "chapter_guess": 94,
-   "pages": [
-    391,
-    395
-   ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-18T16:05:00Z"
-  },
-  {
-   "id": "psalms-074",
-   "book": "psalms",
-   "art": 74,
-   "chapter_guess": 95,
-   "pages": [
-    395,
-    401
-   ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-18T16:05:00Z"
-  },
-  {
-   "id": "psalms-075",
-   "book": "psalms",
-   "art": 75,
-   "chapter_guess": 96,
-   "pages": [
-    401,
-    405
-   ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-18T16:05:00Z"
-  },
-  {
-   "id": "psalms-076",
-   "book": "psalms",
-   "art": 76,
-   "chapter_guess": 97,
-   "pages": [
-    405,
-    408
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-077",
-   "book": "psalms",
-   "art": 77,
-   "chapter_guess": 98,
-   "pages": [
-    408,
-    412
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-078",
-   "book": "psalms",
-   "art": 78,
-   "chapter_guess": 99,
-   "pages": [
-    412,
-    414
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-079",
-   "book": "psalms",
-   "art": 79,
-   "chapter_guess": 100,
-   "pages": [
-    414,
-    423
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-001-2",
-   "book": "psalms",
-   "art": 1,
-   "chapter_guess": 101,
-   "pages": [
-    423,
-    434
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-003-2",
-   "book": "psalms",
-   "art": 3,
-   "chapter_guess": 101,
-   "pages": [
-    434,
-    437
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-004-2",
-   "book": "psalms",
-   "art": 4,
-   "chapter_guess": 102,
-   "pages": [
-    437,
-    444
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-005-2",
-   "book": "psalms",
-   "art": 5,
-   "chapter_guess": 103,
-   "pages": [
-    444,
-    451
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-006-2",
-   "book": "psalms",
-   "art": 6,
-   "chapter_guess": 104,
-   "pages": [
-    451,
-    455
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-007-2",
-   "book": "psalms",
-   "art": 7,
-   "chapter_guess": 104,
-   "pages": [
-    455,
-    462
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-008-2",
-   "book": "psalms",
-   "art": 8,
-   "chapter_guess": 104,
-   "pages": [
-    462,
-    469
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-009-2",
-   "book": "psalms",
-   "art": 9,
-   "chapter_guess": 105,
-   "pages": [
-    469,
-    474
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-010-2",
-   "book": "psalms",
-   "art": 10,
-   "chapter_guess": 105,
-   "pages": [
-    474,
-    478
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-011-2",
-   "book": "psalms",
-   "art": 11,
-   "chapter_guess": 106,
-   "pages": [
-    479,
-    488
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-012-2",
-   "book": "psalms",
-   "art": 12,
-   "chapter_guess": 106,
-   "pages": [
-    488,
-    490
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-013-2",
-   "book": "psalms",
-   "art": 13,
-   "chapter_guess": 107,
-   "pages": [
-    490,
-    493
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-014-2",
-   "book": "psalms",
-   "art": 14,
-   "chapter_guess": 107,
-   "pages": [
-    493,
-    497
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-015-2",
-   "book": "psalms",
-   "art": 15,
-   "chapter_guess": 108,
-   "pages": [
-    497,
-    509
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-017-2",
-   "book": "psalms",
-   "art": 17,
-   "chapter_guess": 109,
-   "pages": [
-    509,
-    515
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-018-2",
-   "book": "psalms",
-   "art": 18,
-   "chapter_guess": 110,
-   "pages": [
-    515,
-    521
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-019-2",
-   "book": "psalms",
-   "art": 19,
-   "chapter_guess": 111,
-   "pages": [
-    521,
-    523
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-020-2",
-   "book": "psalms",
-   "art": 20,
-   "chapter_guess": 111,
-   "pages": [
-    523,
-    525
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-021-2",
-   "book": "psalms",
-   "art": 21,
-   "chapter_guess": 112,
-   "pages": [
-    525,
-    527
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-022-2",
-   "book": "psalms",
-   "art": 22,
-   "chapter_guess": 113,
-   "pages": [
-    527,
-    531
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-023-2",
-   "book": "psalms",
-   "art": 23,
-   "chapter_guess": 113,
-   "pages": [
-    531,
-    534
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-024-2",
-   "book": "psalms",
-   "art": 24,
-   "chapter_guess": 114,
-   "pages": [
-    534,
-    537
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-025-2",
-   "book": "psalms",
-   "art": 25,
-   "chapter_guess": 115,
-   "pages": [
-    537,
-    540
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-026-2",
-   "book": "psalms",
-   "art": 26,
-   "chapter_guess": 115,
-   "pages": [
-    540,
-    543
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-027-2",
-   "book": "psalms",
-   "art": 27,
-   "chapter_guess": 116,
-   "pages": [
-    543,
-    544
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-028-2",
-   "book": "psalms",
-   "art": 28,
-   "chapter_guess": 117,
-   "pages": [
-    544,
-    552
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-029-2-part1",
-   "book": "psalms",
-   "art": 29,
-   "chapter_guess": 118,
-   "pages": [
-    552,
-    561
-   ],
-   "status": "todo",
-   "source": "transcribed",
-   "part": 1,
-   "parts": 4
-  },
-  {
-   "id": "psalms-029-2-part2",
-   "book": "psalms",
-   "art": 29,
-   "chapter_guess": 118,
-   "pages": [
-    562,
-    571
-   ],
-   "status": "todo",
-   "source": "transcribed",
-   "part": 2,
-   "parts": 4
-  },
-  {
-   "id": "psalms-029-2-part3",
-   "book": "psalms",
-   "art": 29,
-   "chapter_guess": 118,
-   "pages": [
-    572,
-    581
-   ],
-   "status": "todo",
-   "source": "transcribed",
-   "part": 3,
-   "parts": 4
-  },
-  {
-   "id": "psalms-029-2-part4",
-   "book": "psalms",
-   "art": 29,
-   "chapter_guess": 118,
-   "pages": [
-    582,
-    590
-   ],
-   "status": "todo",
-   "source": "transcribed",
-   "part": 4,
-   "parts": 4
-  },
-  {
-   "id": "psalms-030-2",
-   "book": "psalms",
-   "art": 30,
-   "chapter_guess": 119,
-   "pages": [
-    590,
-    592
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-031-2",
-   "book": "psalms",
-   "art": 31,
-   "chapter_guess": 119,
-   "pages": [
-    592,
-    594
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-032-2",
-   "book": "psalms",
-   "art": 32,
-   "chapter_guess": 120,
-   "pages": [
-    594,
-    597
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-034-2",
-   "book": "psalms",
-   "art": 34,
-   "chapter_guess": 121,
-   "pages": [
-    597,
-    601
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-035-2",
-   "book": "psalms",
-   "art": 35,
-   "chapter_guess": 122,
-   "pages": [
-    601,
-    602
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-036-2",
-   "book": "psalms",
-   "art": 36,
-   "chapter_guess": 123,
-   "pages": [
-    602,
-    604
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-037-2",
-   "book": "psalms",
-   "art": 37,
-   "chapter_guess": 124,
-   "pages": [
-    604,
-    606
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-038-2",
-   "book": "psalms",
-   "art": 38,
-   "chapter_guess": 125,
-   "pages": [
-    606,
-    609
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-039-2",
-   "book": "psalms",
-   "art": 39,
-   "chapter_guess": 126,
-   "pages": [
-    609,
-    612
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-040-2",
-   "book": "psalms",
-   "art": 40,
-   "chapter_guess": 127,
-   "pages": [
-    612,
-    615
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-041-2",
-   "book": "psalms",
-   "art": 41,
-   "chapter_guess": 128,
-   "pages": [
-    615,
-    617
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-042-2",
-   "book": "psalms",
-   "art": 42,
-   "chapter_guess": 128,
-   "pages": [
-    617,
-    618
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-043-2",
-   "book": "psalms",
-   "art": 43,
-   "chapter_guess": 129,
-   "pages": [
-    619,
-    620
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-044-2",
-   "book": "psalms",
-   "art": 44,
-   "chapter_guess": 130,
-   "pages": [
-    620,
-    625
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-046-2",
-   "book": "psalms",
-   "art": 46,
-   "chapter_guess": 131,
-   "pages": [
-    625,
-    629
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-047-2",
-   "book": "psalms",
-   "art": 47,
-   "chapter_guess": 132,
-   "pages": [
-    629,
-    631
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-048-2",
-   "book": "psalms",
-   "art": 48,
-   "chapter_guess": 133,
-   "pages": [
-    631,
-    632
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-049-2",
-   "book": "psalms",
-   "art": 49,
-   "chapter_guess": 134,
-   "pages": [
-    632,
-    637
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-050-2",
-   "book": "psalms",
-   "art": 50,
-   "chapter_guess": 135,
-   "pages": [
-    637,
-    640
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-051-2",
-   "book": "psalms",
-   "art": 51,
-   "chapter_guess": 136,
-   "pages": [
-    640,
-    642
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-052-2",
-   "book": "psalms",
-   "art": 52,
-   "chapter_guess": 136,
-   "pages": [
-    642,
-    644
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-053-2",
-   "book": "psalms",
-   "art": 53,
-   "chapter_guess": 137,
-   "pages": [
-    644,
-    646
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-054-2",
-   "book": "psalms",
-   "art": 54,
-   "chapter_guess": 138,
-   "pages": [
-    646,
-    653
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-055-2",
-   "book": "psalms",
-   "art": 55,
-   "chapter_guess": 138,
-   "pages": [
-    653,
-    657
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-056-2",
-   "book": "psalms",
-   "art": 56,
-   "chapter_guess": 139,
-   "pages": [
-    657,
-    660
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-057-2",
-   "book": "psalms",
-   "art": 57,
-   "chapter_guess": 139,
-   "pages": [
-    660,
-    663
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-058-2",
-   "book": "psalms",
-   "art": 58,
-   "chapter_guess": 140,
-   "pages": [
-    663,
-    666
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-059-2",
-   "book": "psalms",
-   "art": 59,
-   "chapter_guess": 141,
-   "pages": [
-    666,
-    669
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-060-2",
-   "book": "psalms",
-   "art": 60,
-   "chapter_guess": 142,
-   "pages": [
-    669,
-    673
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-061-2",
-   "book": "psalms",
-   "art": 61,
-   "chapter_guess": 143,
-   "pages": [
-    673,
-    679
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-062-2",
-   "book": "psalms",
-   "art": 62,
-   "chapter_guess": 144,
-   "pages": [
-    679,
-    685
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-063-2",
-   "book": "psalms",
-   "art": 63,
-   "chapter_guess": 145,
-   "pages": [
-    685,
-    688
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-064-2",
-   "book": "psalms",
-   "art": 64,
-   "chapter_guess": 146,
-   "pages": [
-    688,
-    691
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-065-2",
-   "book": "psalms",
-   "art": 65,
-   "chapter_guess": 147,
-   "pages": [
-    691,
-    691
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-066",
-   "book": "psalms",
-   "art": 66,
-   "chapter_guess": 147,
-   "pages": [
-    691,
-    695
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-067-2",
-   "book": "psalms",
-   "art": 67,
-   "chapter_guess": 147,
-   "pages": [
-    695,
-    699
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-067-3",
-   "book": "psalms",
-   "art": 67,
-   "chapter_guess": 149,
-   "pages": [
-    699,
-    701
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "psalms-068-2",
-   "book": "psalms",
-   "art": 68,
-   "chapter_guess": 150,
-   "pages": [
-    701,
-    705
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  }
- ]
+  "volume": "t6",
+  "items": [
+    {
+      "id": "psalms-087",
+      "book": "psalms",
+      "art": 87,
+      "chapter_guess": 44,
+      "pages": [
+        11,
+        22
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T10:47:04Z",
+      "note": "translated by scheduled run (first Psalms article; work title set as \"Commentaria in Psalmos\", PDF = printed page + 10). The edition's long footnote on the letters of Lentulus and Pilate (not Denis's text) is left out, with a bracketed note; the side-heads \"Expositiuncula quædam alia\" and \"Rursum alia expositio\" were dropped from the Latin; the edition's own parenthesised verse numbers were dropped. Margin numerals corrected with notes (Matt 17:5, Luke 3:22, 9:35, Luke 1:48)"
+    },
+    {
+      "id": "psalms-088",
+      "book": "psalms",
+      "art": 88,
+      "chapter_guess": 45,
+      "pages": [
+        22,
+        28
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T10:58:21Z",
+      "note": "translated by scheduled run; margin numerals corrected with notes (Acts 2:43 for \"Act. ii, 44\"); Amos 8:8 margin reference does not fit (reference-only, noted); Douay-Rheims data slips noticed: Mark 11:23 \"but be believe\", John 9:31 \"doth his, will\""
+    },
+    {
+      "id": "psalms-089",
+      "book": "psalms",
+      "art": 89,
+      "chapter_guess": 46,
+      "pages": [
+        28,
+        31
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:08:24Z",
+      "note": "translated by scheduled run; v. 9 printed \"Regnavit\" (margin * Regnabit), kept with a note; \"Leva ad Deum manus tuas\" (Jeremias, no margin note) given as reference-only Lam 2:19 with a note (Lam 3:41 also close); Is 29:13 from the margin, Denis follows Matt 15:8 wording (noted); Num 24:17 in the Septuagint form \"exsurget homo\" left unmarked with a note; obvious quotations tagged without margin notes: Jas 3:13, Ps 79:2. Douay-Rheims data slips noticed: Jas 3:13 \"by a good contestation\" (Challoner: conversation), Num 24:17 \"A STAR SHALL RISE\" in capitals"
+    },
+    {
+      "id": "psalms-090",
+      "book": "psalms",
+      "art": 90,
+      "chapter_guess": 47,
+      "pages": [
+        31,
+        36
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:13:18Z",
+      "note": "translated by scheduled run; Douay-Rheims data slip: Is 46:12 holds the words of 46:13 and 46:13 is empty (Is 46:13 given as reference-only, with a note); obvious quotations tagged without margin notes (Dan 2:34-35, Zach 9:9, Soph 3:14-17, Hab 2:1, Is 21:8, John 13:34-35, 1 Pet 5:1-3 etc.)"
+    },
+    {
+      "id": "psalms-091",
+      "book": "psalms",
+      "art": 91,
+      "chapter_guess": 48,
+      "pages": [
+        36,
+        42
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:13:18Z",
+      "note": "translated by scheduled run; margin numerals corrected with notes (Is 30:16→30:18, Sap. vii→Wis 2, 1 Cor xv→14:38, Ps cxlvii→143:15, Prov vi→11:7, Ezech 14:20→18:20, Matt 25:13→25:30); Is 26:10 cited \"juxta LXX\" given as reference-only with a note"
+    },
+    {
+      "id": "psalms-092",
+      "book": "psalms",
+      "art": 92,
+      "chapter_guess": 49,
+      "pages": [
+        42,
+        49
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:24:50Z",
+      "note": "translated by scheduled run; transcribed ⟦v. N⟧ notes one too high between v. 3 and v. 14 (tagged by the text); margin Matt 24:30 quotation is Matt 26:64 + Luke 21:27 (noted); Prov xiii,13 → 13:18; Douay-Rheims data slip: Matt 24:27 \"cowling\" for \"coming\""
+    },
+    {
+      "id": "psalms-093-part1",
+      "book": "psalms",
+      "art": 93,
+      "chapter_guess": 50,
+      "pages": [
+        49,
+        56
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "part": 1,
+      "parts": 2,
+      "claimed": "2026-11-18T11:24:50Z",
+      "note": "translated by scheduled run; the […] beside II Cor. x, 3 (PDF p. 55) hides no text; margin \"Is. xxxii, 13\" taken as Apoc 22:13 (noted); \"Oratio Manasse\" cited (not in the app Bible, note only)"
+    },
+    {
+      "id": "psalms-093-part2",
+      "book": "psalms",
+      "art": 93,
+      "chapter_guess": 50,
+      "pages": [
+        57,
+        63
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "part": 2,
+      "parts": 2,
+      "claimed": "2026-11-18T11:24:50Z",
+      "note": "translated by scheduled run; stray heading \"FINIS COMMENTARIORUM IN PRI…\" inside the closing paragraph removed and the text joined; margin \"Amos iv, 11\" taken as Amos 9:11 (noted); transcriptions of PDF pp. 60 and 62 failed (\"I can't see any page images\"): they hold the proœmium of the second fifty psalms, not this article; Douay-Rheims data slip: Rom 15:2 \"Please\" capitalised"
+    },
+    {
+      "id": "psalms-001",
+      "book": "psalms",
+      "art": 1,
+      "chapter_guess": 51,
+      "pages": [
+        63,
+        65
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:26:53Z",
+      "note": "translated by scheduled run (worker). Margin note at 1 Reg. xxii has unreadable verse numerals (bracketed note; 1 Kings 22:9, 22:18 used). Denis reads 'sapiens sapientior erit' at Prov 19:25 (note added). A stray margin '3' beside v. 11 dropped."
+    },
+    {
+      "id": "psalms-002",
+      "book": "psalms",
+      "art": 2,
+      "chapter_guess": 51,
+      "pages": [
+        65,
+        68
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:26:53Z",
+      "note": "translated by scheduled run (worker). The cut file stopped mid-sentence: the article's last lines (end of v. 10, v. 11, closing sentence) stand in the RIGHT column of transcribed p68 and were cut into psalms-003.txt (its lines 9-13): whoever translates Art. III must leave those out. Margin numerals corrected with notes (Ps 44:3, John 18:2, John 12:6, Ps 37:20). Mark 12:13 reference-only; wording closer to Matt 22:15-16 (note)."
+    },
+    {
+      "id": "psalms-003",
+      "book": "psalms",
+      "art": 3,
+      "chapter_guess": 51,
+      "pages": [
+        68,
+        71
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:35:26Z",
+      "note": "translated by scheduled run (worker). Lines 9-13 of the cut file (end of Art. II) left out. Margin Eccle. i, 15 placed at 'difficillime corriguntur'; Ephes. iv, 29 also covers Eph 4:31-32 (note). Several named quotations with no margin note tagged (Job 41:16 - Denis says Behemoth, Vulgate context Leviathan, note). Prayer left untagged."
+    },
+    {
+      "id": "psalms-004",
+      "book": "psalms",
+      "art": 4,
+      "chapter_guess": 52,
+      "pages": [
+        71,
+        74
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:35:26Z",
+      "note": "Published with a gap: PDF 72 (p. 62), foot of the left column (v. 5): the transcription stops at 'post hanc vitam experientur in' and the right column resumes 'in libro Sapientiæ de eis inducitur'; probably a line or so lost, marked […]. Please check the scan and fill it. Margin numerals corrected with notes (Prov 29:25 for 'xxiv, 25'; Job 23:13, 15 for 'xxxiii'). Denis reads 'pro Amalec' in the title (Vulgate 'pro Maeleth'), noted."
+    },
+    {
+      "id": "psalms-005",
+      "book": "psalms",
+      "art": 5,
+      "chapter_guess": 52,
+      "pages": [
+        74,
+        76
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:35:26Z",
+      "note": "translated by scheduled run (worker). 'pro Amalec' in the title noted; Matt 16:3 for margin 'xvi, 4, 2' (DR/Vulgate verse division, note); Zach 12:10 wording differs (note). Prayer left untagged."
+    },
+    {
+      "id": "psalms-006",
+      "book": "psalms",
+      "art": 6,
+      "chapter_guess": 53,
+      "pages": [
+        76,
+        80
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:38:41Z",
+      "note": "translated by scheduled run; margin numerals corrected with notes (\"Marc. ix, 48\" → Mark 9:18, \"Joann. vi, 48\" → John 11:48); Denis joins John 18:12 to Matt 26:50 (both marked, noted)"
+    },
+    {
+      "id": "psalms-007",
+      "book": "psalms",
+      "art": 7,
+      "chapter_guess": 53,
+      "pages": [
+        80,
+        83
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:38:41Z",
+      "note": "translated by scheduled run; possible Douay-Rheims slip: at Ps 53:8 the Vulgate has \"Domine\", the Douay-Rheims text \"O God\""
+    },
+    {
+      "id": "psalms-008",
+      "book": "psalms",
+      "art": 8,
+      "chapter_guess": 54,
+      "pages": [
+        83,
+        90
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:42:02Z",
+      "note": "translated by scheduled run (two workers, split at 'Deinde Christus orat', v. 10). Margin numerals corrected with notes: Is. xiii, 4 → Is 42:4; Joann. xi, 51 → John 11:54; Ibid. xi, 45 → John 12:42; Job xxxii, 15-16 → Job 22:15-16; Ps. xl, 1 marked at Ps 40:2. Ps. lxxxii, 5 given reference-only (no quotation fits, noted). Denis reads 'Jacob' at Jer 30:8 and 'salvavit' at v. 17 (noted). Text lost in v. 21: 'ut illis […] justam mercedem retribuat' (transcription [...], PDF p. 88-89) - worth checking against the scan. Misplaced ⟦v. 15⟧ and ⟦18⟧ margin numbers tagged by the text."
+    },
+    {
+      "id": "psalms-009",
+      "book": "psalms",
+      "art": 9,
+      "chapter_guess": 54,
+      "pages": [
+        90,
+        95
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:42:02Z",
+      "note": "translated by scheduled run (worker). Margin numerals corrected with notes: Matth. v, 23 → Matt 10:23; Jer. xxxiii, 9 → Jer 23:9; Ibid. vii, 10 → 2 Cor 7:10 (reference-only); Eccle. vii, 5 also marked Eccles 7:3. Joel 2:12 and Job 3:24 tagged without margin notes (Denis names them). A duplicated scrap '⟦20⟧ ta et moribus distant ab eis.' dropped. Douay-Rheims data slip: Jer 18:23 lacks 'forgive' ('not their iniquity')."
+    },
+    {
+      "id": "psalms-010",
+      "book": "psalms",
+      "art": 10,
+      "chapter_guess": 55,
+      "pages": [
+        95,
+        98
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:45:21Z",
+      "note": "translated by scheduled run (worker). Margin 'Ibid. viii, 30' → John 8:50 (note); the long list of Matthew references became one reference-only marker (Matt 9:3) with a note listing them; Ex 4:23 wording mixed with Ex 5:1 (note); margin reads 'scopus' where the text prints 'opus' (note); v. 10 gloss printed without its lemma (note)."
+    },
+    {
+      "id": "psalms-011",
+      "book": "psalms",
+      "art": 11,
+      "chapter_guess": 55,
+      "pages": [
+        98,
+        101
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:45:21Z",
+      "note": "translated by scheduled run (worker). Margin Ps. xxxv, 3 → Ps 36:5 and IV Reg. v, 5 → 4 Kings 20:5 (notes); Mich 7:6 kept as margin gives it, Denis gives it as Christ's (note). A stray 'meo' after 'timeo' (v. 4) dropped as a likely transcription slip: please check the print (PDF 99/100)."
+    },
+    {
+      "id": "psalms-012",
+      "book": "psalms",
+      "art": 12,
+      "chapter_guess": 56,
+      "pages": [
+        101,
+        104
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:45:21Z",
+      "note": "translated by scheduled run (worker). Misread margin verse numerals placed by the text; Job 22:5 + 22:10 joined by Denis (note); Abisai episode is 1 Kings 26:8-9, not the cave (note); Is 40:31 'volabunt' for 'ambulabunt' (note)."
+    },
+    {
+      "id": "psalms-013",
+      "book": "psalms",
+      "art": 13,
+      "chapter_guess": 56,
+      "pages": [
+        104,
+        107
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:46:26Z",
+      "note": "translated and published by scheduled run; one word unread in the closing paragraph (\"nobilem et […] ignitum\", PDF p. 107): check the scan; margin \"Is. xxxvi, 9\" is Is 26:9 (noted)"
+    },
+    {
+      "id": "psalms-014",
+      "book": "psalms",
+      "art": 14,
+      "chapter_guess": 57,
+      "pages": [
+        107,
+        110
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:50:21Z",
+      "note": "translated by scheduled run; the article file lacked its last paragraph (\"Postremo, quod dictum est…\", top of the right column of PDF p. 110), added from the page transcription; unread Osee margin number taken as Osee 7:13 (noted); printed \"verba et verba\" read as \"verba et verbera\" (noted)"
+    },
+    {
+      "id": "psalms-015",
+      "book": "psalms",
+      "art": 15,
+      "chapter_guess": 57,
+      "pages": [
+        110,
+        113
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:53:09Z",
+      "note": "Published with a gap: PDF 112 (p. 102), left column top: the transcription breaks off in Job 31:18 at 'et de utero ma-' and goes straight on to v. 5; a line or more lost, marked […]. Please check the scan. Lines 10-12 of the cut file belong to Art. XIV (already in it) and were left out. Margin Act. v, 34 → Acts 10:34, Matth. v, 5 → Matt 5:4, Apoc. xvi, 9 → 16:11 + 16:9 (notes)."
+    },
+    {
+      "id": "psalms-016",
+      "book": "psalms",
+      "art": 16,
+      "chapter_guess": 58,
+      "pages": [
+        113,
+        119
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:53:09Z",
+      "note": "Published with a gap: PDF 116 (p. 106), foot of the left column (v. 9): 'Christi Evan-' / 'verbo aut opere contradicentes' — a line lost between the columns, marked […]. Please check the scan. Margin Is. i, 7 → Is 50:7, Joann. viii, 12 → John 7:12, Job xv, 14 juxta LXX → Job 14:4 (notes). Denis says Acts 17:11 is of the Thessalonians (it is the Bereans; note). DR data slip: Is 53:1 reads 'Who a hath believed'."
+    },
+    {
+      "id": "psalms-017",
+      "book": "psalms",
+      "art": 17,
+      "chapter_guess": 58,
+      "pages": [
+        119,
+        123
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:53:09Z",
+      "note": "translated by scheduled run (worker). Margin Ps. v, 17 juxta Hebr. → Ps 9:38; Jer. iii, 2 → Jer 3:12; Joann. iii, 15 → 1 John 3:15 (notes). Ezech 18:22 for Denis's paraphrase of Ezech 18:21-22 (note)."
+    },
+    {
+      "id": "psalms-018",
+      "book": "psalms",
+      "art": 18,
+      "chapter_guess": 59,
+      "pages": [
+        123,
+        125
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:53:48Z",
+      "note": "translated by scheduled run (worker). Lemma printed '_et* vana salus *quia hominis_' cleaned, words out of order noted (59:13). Jer 23:15: Denis reads 'potabo impios' (noted). Margin ranges (II Reg. x; I Reg. xvi; II Reg. vii) given as reference-only markers on the verses that fit; 'Ibid. vi-viii' (Gedeon) as Judg 6:1."
+    },
+    {
+      "id": "psalms-019",
+      "book": "psalms",
+      "art": 19,
+      "chapter_guess": 59,
+      "pages": [
+        125,
+        128
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:53:48Z",
+      "note": "translated by scheduled run (worker). Margin numerals corrected with notes: Jer. xxxi, 33, 41 → Jer 32:39, 41; Matth. xxiii, 52 → Matt 13:52. 1 Cor 13:3 + 'nihil sum' of 13:2; Num 24:17 'exsurget homo' (noted). 2 Cor 3:5 tagged without a margin note. 'succedit' in the title lemma read as 'succendit'."
+    },
+    {
+      "id": "psalms-020",
+      "book": "psalms",
+      "art": 20,
+      "chapter_guess": 60,
+      "pages": [
+        128,
+        130
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:53:48Z",
+      "note": "translated by scheduled run (worker). Cutting error repaired: the article's last part (right column top of transcribed p130, 'est; veritas autem concernit…' to '…propitiatio pro peccatis nostris', vv. 7-9) had been cut into psalms-021.txt; it is translated here and left out of Art. XXI. '[…]' inside 'Pro[…]texit' (Is 49:2) at a page turn: word looks complete. Margin numerals corrected with notes: Joann. xvii, 27 → John 12:27; Is. iii, 13, 15 → Is 52:13, 15. Luke 22:43-44 recast in the first person: reference-only markers. Douay-Rheims data: Zach 9:9 prints 'BEHOLD THY KING' in capitals."
+    },
+    {
+      "id": "psalms-021",
+      "book": "psalms",
+      "art": 21,
+      "chapter_guess": 60,
+      "pages": [
+        130,
+        132
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T11:53:48Z",
+      "note": "translated by scheduled run (worker). The misplaced end of Art. XX (lines 17-43 of the cut file) left out. Margin numerals corrected with notes: Ps. cxiii, 8 → Ps 142:8; Job xxviii, 3 → Job 23:3; Eccli. ii, 1 → Ecclus 51:1. John 14:13 + John 16:23 for 'dabit vobis'; Wis 10:10 'Dominus' (noted)."
+    },
+    {
+      "id": "psalms-022",
+      "book": "psalms",
+      "art": 22,
+      "chapter_guess": 61,
+      "pages": [
+        132,
+        136
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:01:49Z",
+      "note": "translated by scheduled run (worker). Lines 21-26 of the cut file repeat the end of the v. 3 paragraph (used once). Margin Prov. x, 15 → Prov 10:25; Is. xlv, 11 → Is 43:11; Ibid. xviii, 24 → Luke 18:24 (notes). Several named quotations with no margin note tagged (Job, Prov, Wis, Heb 1:1)."
+    },
+    {
+      "id": "psalms-023",
+      "book": "psalms",
+      "art": 23,
+      "chapter_guess": 62,
+      "pages": [
+        136,
+        140
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:05:05Z",
+      "note": "translated by scheduled run (worker). Cutting error repaired: the article's last lines (right column top of transcribed p140, 'sequuntur ac implent. Quia obstructum est…' to '…eisque prævaleat', v. 12) had been cut into psalms-024.txt; translated here, left out of Art. XXIV. Luke 11:24 (margin) mixes in Matt 12:43 (noted); Prov 10:1 'filius sapiens est gloria patris' does not match (reference-only, noted); Gal 5:17, Job 27:9 wording differs (noted)."
+    },
+    {
+      "id": "psalms-024",
+      "book": "psalms",
+      "art": 24,
+      "chapter_guess": 62,
+      "pages": [
+        140,
+        143
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:05:05Z",
+      "note": "translated by scheduled run (worker). The misplaced end of Art. XXIII (lines 35-43 of the cut file) left out. Margin John iii, 31 → John 3:34 (noted); 2 Par 20:17 loose (noted); Job 5:13 in the wording of 1 Cor 3:19 (noted). 'tamque' read 'tuamque'. Douay-Rheims data slip: John 17:1 lacks 'Father,'."
+    },
+    {
+      "id": "psalms-025",
+      "book": "psalms",
+      "art": 25,
+      "chapter_guess": 63,
+      "pages": [
+        143,
+        146
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:05:05Z",
+      "note": "translated by scheduled run (worker). '[…]' in 'Prote[…]xisti' (v. 3) at a hyphen break: probably nothing missing. 'Ibid. x, 39' → John 10:39, 'Ibid. xxvii, 2, 31' → Matthew (noted). Denis reads 'Accedet homo et cor altum' (noted). Many obvious quotations without margin notes tagged (John 19:15, Matt 26:5, Acts 4:13, 6:10, Matt 27:54, Luke 23:48, Acts 2:37, 41, 4:4, John 8:28, Luke 24:49, John 16:13, Phil 4:4, Matt 25:34)."
+    },
+    {
+      "id": "psalms-026",
+      "book": "psalms",
+      "art": 26,
+      "chapter_guess": 63,
+      "pages": [
+        146,
+        149
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:05:05Z",
+      "note": "translated by scheduled run (worker). The heading is split in the transcription ('EXPOSITIO TROPOLOGICA SIVE MORALIS' + stray '### IS EJUSDEM PSALMI SEXAGESIMI TERTII' mid-text): joined as the title. Margin Is. ii, 7 → Is 51:7 (noted). Roman Psalter reading 'Quum tribulor' (noted); Deut 4:29 tagged without a margin note."
+    },
+    {
+      "id": "psalms-027",
+      "book": "psalms",
+      "art": 27,
+      "chapter_guess": 64,
+      "pages": [
+        149,
+        151
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:13:49Z",
+      "note": "Published (scheduled run, worker). v. 10: 'dando ei uberes' seems to lack a word (PDF 150, p. 140; the transcription has no gap mark), marked […]; please check the scan. Margin Jer. i, 28 (no such verse) → Jer 29:10 (note). Ranges Ezech. xxxiv, 21–28, Agg. i, 1–11, Dan. iii, 57–90 tagged at their first fitting verse with notes. Denis's title reading 'Jeremiæ et Aggæi, de verbo peregrinationis' noted. Baruch 4:25, 4:29 tagged (Denis names Baruch, no margin note)."
+    },
+    {
+      "id": "psalms-028",
+      "book": "psalms",
+      "art": 28,
+      "chapter_guess": 64,
+      "pages": [
+        151,
+        156
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:13:49Z",
+      "note": "translated by scheduled run (worker). Heading's first words unreadable ('[…]IS EJUSDEM…'), kept with […] in the Latin title. Margin 'Ibid. xii, 38' after an Ezechiel note → Luke 12:38 (note). Luke 15:10 tagged without margin note (word for word). 'per Prophetam Domini locutus es' kept as printed (perhaps 'Dominus'). Joel 2:28 tagged where recheck also suggests Acts 2:17."
+    },
+    {
+      "id": "psalms-029",
+      "book": "psalms",
+      "art": 29,
+      "chapter_guess": 65,
+      "pages": [
+        156,
+        162
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:16:47Z",
+      "note": "translated by scheduled run (worker). Title as transcribed has '[…]' (PSALMUM […] DICITE). Margin slips noted: Is. iii, 1 → Is 3:4; Eccli. ii, 31 → Ecclus 51:31 (reference-only); John 1:46 margin, Denis closer to John 7:52 (noted); 'Si quis cultor est Dei' cited as Job but is John 9:31 (noted). Job 5:17 tagged without a margin note. 'separari*' read 'superari' from the edition's footnote. Douay-Rheims data slip: John 9:31 'doth his, will'."
+    },
+    {
+      "id": "psalms-030",
+      "book": "psalms",
+      "art": 30,
+      "chapter_guess": 66,
+      "pages": [
+        162,
+        164
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:22:37Z",
+      "note": "Published (scheduled run, worker) with a gap: v. 7 moral reading, 'et dum […] animæ in cunctis deserviens' — text lost at a column/page change (PDF 163–164, pp. 153–154), marked […]; please check the scan. Margin Jer. xxiii, 29 → Jer 22:29 (note). Jer 10:23, Is 6:3, Zach 3:2 tagged where Denis names the source. Slips corrected: perfici→perficit, divinque→divinique."
+    },
+    {
+      "id": "psalms-031",
+      "book": "psalms",
+      "art": 31,
+      "chapter_guess": 67,
+      "pages": [
+        164,
+        173
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:22:37Z",
+      "note": "translated by scheduled run (two workers, split at v. 8). Margin Exod. iv, 23 beside words of Ex 9:17 (reference-only Ex 4:23 with note); Wis 7:27, Esth 13:9, Prov 8:31 reference-only (Denis's own wording). Variant readings noted: Is 63:4 retributionis, John 15:24 + gratis, Matt 8:29 ~ Mark 5:7. 'in another place' after Acts = Luke 24:50–51 (note). Article ends mid-v. 19; Art. XXXII continues."
+    },
+    {
+      "id": "psalms-032",
+      "book": "psalms",
+      "art": 32,
+      "chapter_guess": 67,
+      "pages": [
+        173,
+        181
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:26:02Z",
+      "note": "translated by scheduled run (two workers, split at \"Porro quæ dicta sunt\"); v. 21 lemma has only one \"Domini\" though Denis says the word is doubled (kept as printed); margin \"Act. vii–ix\" given as ref-only Acts 7:57 and 9:1 with a note; 2 Cor 12:2 marked beside the margin's 12:4. Douay-Rheims data slips noticed: Ps 67:29 \"O God confirm\" (comma missing), Acts 7:57 \"without the city. they stoned\"; Vulgate data slip: sources/vulgate 1 Thess 4:15 holds the text of 4:14"
+    },
+    {
+      "id": "psalms-033",
+      "book": "psalms",
+      "art": 33,
+      "chapter_guess": 68,
+      "pages": [
+        181,
+        187
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:26:02Z",
+      "note": "translated by scheduled run; the article's last paragraph (v. 16, \"Non me demergat … in inferno\", right column of PDF 187) had been cut into psalms-034.txt and is translated here (removed from psalms-034.txt; check Art. XXXIV does not repeat it). Margin verse numbers v. 6–9 are off by one and were judged by the text; quotations with no margin note tagged where Denis names the speaker (Acts 4:27–28, John 8:52, 8:22, 9:29, 9:22, Job 19:13, Jer 14:8). Douay-Rheims data slip: 1 Cor 4:10 \"Christs sake\""
+    },
+    {
+      "id": "psalms-034",
+      "book": "psalms",
+      "art": 34,
+      "chapter_guess": 68,
+      "pages": [
+        187,
+        192
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:31:22Z",
+      "note": "translated by scheduled run (worker). Line 6 of the cut file ('illatæ, de qua superius dixi, Tempestas demersit me…', with a margin Ps. xv, 10) is the end of Art. XXXIII (v. 16), continuing from its last words 'impetus mortis mihi'; left out of XXXIV and NOT yet added to XXXIII (another run's article) — please add. The transcription's three '[…]' at line starts lose no text (de viciniori; nun[tios], Is 42:19; magnificatio). Margin ⟦v. 21⟧ at 'Et ne avertas' is v. 18. 'injuriam verborum' read 'verberum' the first time (sense). Ibid. xi, 10 → Is 6:10 (ref-only); Rom. ix, xi and Exod. iv, vii, xi, xiv given single verses with notes. DR data slip: Jer 18:23 lacks 'forgive'."
+    },
+    {
+      "id": "psalms-035",
+      "book": "psalms",
+      "art": 35,
+      "chapter_guess": 68,
+      "pages": [
+        192,
+        199
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:31:22Z",
+      "note": "translated by scheduled run (two workers, split at v. 9). Margins corrected with notes: Matth. v, 22 → Matt 10:22; Joel i, 3 → Joel 1:5; Matth. v, 41 → Matt 5:44; Threni 20 → Lam 1:20. Variants noted: 2 Cor 7:5 spiritus for caro; 1 Pet 2:20 gratia; Luke 6:23 hora; v. 14 fudi. Jer 38:6 'usque ad renes' not in the verse (note). DR data slips: Is 47:10 stray comma; 3 Kings 19:3 'EIias'."
+    },
+    {
+      "id": "psalms-036",
+      "book": "psalms",
+      "art": 36,
+      "chapter_guess": 69,
+      "pages": [
+        199,
+        202
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:40:45Z",
+      "note": "translated by scheduled run; 69:6 Denis reads \"Deus meus, ne tardaveris\" (as Ps 39:18) for the Vulgate \"Domine, ne moreris\" (noted); Cassian reference given in a note as Conference X, ch. 10 (from the translator's knowledge, check); quotations with no margin note tagged where named or word for word (Is 64:6, Ps 39:2)"
+    },
+    {
+      "id": "psalms-037",
+      "book": "psalms",
+      "art": 37,
+      "chapter_guess": 70,
+      "pages": [
+        202,
+        209
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:40:45Z",
+      "note": "translated by scheduled run (two workers, split at v. 9 \"Ne projicias me\"); margin numerals corrected with notes (Ecclus 51:15–18 for \"Eccli. ii\", Ps 62:6 for \"Ps. lxxii, 6\", Ps 9:24 for \"Ps. x, 3 sec. Hebr.\", Heb 13:13, Jer 35:6, Wis 2:15, Is 52:10 for \"Is. xli, 10\", Gen 1:26); the transcription's \"[…]\" after Is 26:8 (PDF ~207) dropped as the sense runs on (check against the scan); v. 18 paragraph \"post suam mortem divinæ legis testimonia disserit\" translated literally, may need a look. Douay-Rheims data slips noticed: Is 25:1 \"I will exalt O thee\", Ezech 24:24 \"Ezekiel\""
+    },
+    {
+      "id": "psalms-038",
+      "book": "psalms",
+      "art": 38,
+      "chapter_guess": 70,
+      "pages": [
+        209,
+        215
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:41:52Z",
+      "note": "Margin numerals corrected with notes: Is. i, 9 → Is 50:9; Ibid. v. 20 (after John 8) → John 10:20; Is. liii, 14 → Is 52:14; Ibid. ii, 2 (Mark) → Mark 3:2. Margin note 'Joannes Baptista, Ibid. iii, 36': words Denis gives to Christ are the Baptist's (John 3:36), noted. Tagged without margin note (source named): Ps 21:2, Ps 68:8. 'quæserunt' (v. 24) kept as printed."
+    },
+    {
+      "id": "psalms-039",
+      "book": "psalms",
+      "art": 39,
+      "chapter_guess": 71,
+      "pages": [
+        215,
+        222
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:41:52Z",
+      "note": "End of the article (from '…die Pentecostes et postmodum…' to the end of the Precatio) was in the cut file of psalms-040 (lines 7–14); joined here. Margin corrections with notes: Job xii, 24 → Job 41:24; Gal. iii, 16 kept as reference-only, quoted words tagged Gen 22:18 / Gal 3:8. Margin '* auferretur' correction of printed 'auferatur' given in a note. Tagged without margin note (source named): 2 Thess 2:8, Zach 9:10, Luke 2:14. No comment on v. 20 here (Art. XL treats it as Ps 72's title)."
+    },
+    {
+      "id": "psalms-040",
+      "book": "psalms",
+      "art": 40,
+      "chapter_guess": 72,
+      "pages": [
+        222,
+        229
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:45:20Z",
+      "note": "Published (scheduled run, two workers, split at v. 16) with a gap: the closing prayer breaks off at 'fac nos' (end of PDF 229, p. 219; the transcription goes straight on to Art. XLI), marked […]; please check the scan. Lines 7–14 of the cut file are the end of Art. XXXIX (Ps 71: '…die Pentecostes et postmodum…', summary and prayer) — left out of XL; check that XXXIX has them. Opening put in reading order (dis-/ponentis; ad partem utramque). Margins corrected with notes: Is. xxxvi, 10 → Is 37:10 + 36:14; Ps. i, 8 → Ps 50:8; Cant. viii, 10 → Cant 7:10. 'Defecerunt laudes…' tagged Ps 71:20 (Denis reads it as this psalm's title)."
+    },
+    {
+      "id": "psalms-041",
+      "book": "psalms",
+      "art": 41,
+      "chapter_guess": 73,
+      "pages": [
+        229,
+        235
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:49:25Z",
+      "note": "Published with a gap: the transcription of PDF 233 (p. 223) has only the top of the left column; it breaks off at 'medio fluminum tuorum. Est ig' and PDF 234 resumes '…hilum cœlos, et expandit illos sicut tabernaculum'. The rest of v. 13, all of vv. 14–15 and the start of v. 16 are missing, marked […]. Please re-transcribe PDF 233. Also: lines of the previous article's prayer and a running head at the start of psalms-041.txt were dropped; margin numerals corrected with notes (Matt 15:24 for 'Ibid. xv, 24', Ecclus 3:29, Is 37:29); the Prayer of Manasses quotation has a note and no marker (not in the app's Bible); Ex 29:45 wording closer to Num 35:34 (noted)"
+    },
+    {
+      "id": "psalms-042",
+      "book": "psalms",
+      "art": 42,
+      "chapter_guess": 73,
+      "pages": [
+        235,
+        240
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:49:25Z",
+      "note": "translated by scheduled run; margin 'Joann. vi, 48-59' (manna) given as ref-only Ex 16:15 and John 6:49 with a note; '2 Mach. vii' marked at 7:2; Apoc 17:1, 15 loose (ref-only, noted). Douay-Rheims data slip noticed: Apoc 13:1 'coming up out the sea'"
+    },
+    {
+      "id": "psalms-043",
+      "book": "psalms",
+      "art": 43,
+      "chapter_guess": 74,
+      "pages": [
+        240,
+        241
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:53:28Z",
+      "note": "Margin corrections with notes: 1 Esdr. v, 4 → 1 Esd 5:1; Eccli. xliii, 17 → Ecclus 42:17; Jer. xxiii, 23 → Jer 29:23. Mich 2:3 tagged without margin note (Denis names Micheas)."
+    },
+    {
+      "id": "psalms-044",
+      "book": "psalms",
+      "art": 44,
+      "chapter_guess": 74,
+      "pages": [
+        241,
+        245
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:53:28Z",
+      "note": "Margin corrections with notes: Amos 'Ibid. i, 14' → Amos 6:14; Ps. xxxiv, 10 → Ps 24:10; Matth. xx, 22–23 → v. 23. Chapter-only notes (Dan. iii, vi, xiii, xiv; Jer. li) given as v. 1. Page-break 'fatalem / talem' read as 'fatalem'. 'Deus proprie Deus vocatur' kept as printed (a 'Jacob' may have dropped out; check the scan)."
+    },
+    {
+      "id": "psalms-045",
+      "book": "psalms",
+      "art": 45,
+      "chapter_guess": 75,
+      "pages": [
+        245,
+        248
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:53:28Z",
+      "note": "Title variant 'in carminibus' (margin: laudibus) kept with a note. Margin 'II Par. xxx et xxx' given as 2 Par 29:1 and 30:1 (reference-only, noted). Margin Dan. xiv, 42: Denis's words run on into Dan 6:27; both tagged, noted. Margin 'v. 5' before 'Dormierunt' taken as v. 6."
+    },
+    {
+      "id": "psalms-046",
+      "book": "psalms",
+      "art": 46,
+      "chapter_guess": 75,
+      "pages": [
+        248,
+        253
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:53:28Z",
+      "note": "Margin 'Luc. v, 5' taken as Luke 10:5 (noted). Old Latin form of Is 66:2 given reference-only with a note. 'Surgite, mortui, venite ad judicium' is not Scripture; 1 Cor 15:52 marked on 'tuba canet' only, noted. Tagged without margin note (source named): Eccles 5:3, Lam 4:12. Douay-Rheims slip: data/bible/drc 1 Thess 4:15 holds the text of Vulgate 4:16."
+    },
+    {
+      "id": "psalms-047",
+      "book": "psalms",
+      "art": 47,
+      "chapter_guess": 76,
+      "pages": [
+        253,
+        260
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T12:56:01Z",
+      "note": "translated by scheduled run (two workers, split at v. 11 \"Et dixi, Nunc cœpi\"); margin numerals corrected with notes (2 Mach 10:38 for \"II Mach. v. 38\", Dan 3:26–27 for \"Daniel 26. 27.\", Ezech 22:30); a second margin \"Philipp. iii, 8\" beside the v. 3 paragraph has no quotation there (ref-only, noted; may be a transcriber's repeat); quotations with no margin note tagged where named or word for word (Cant 8:6, Eccles 7:3, Luke 6:24)"
+    },
+    {
+      "id": "psalms-048",
+      "book": "psalms",
+      "art": 48,
+      "chapter_guess": 77,
+      "pages": [
+        260,
+        272
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:16:00Z",
+      "note": "Published (scheduled run, two workers, split before v. 30). The last part of the article (end of v. 69 to v. 72, upper right column of PDF 272) was in the cut file of psalms-049 and is included here. Margins corrected with notes: Gen. xlix, 32 → Gen 41:52 (ref-only); Num 14:27 + 14:11 joined by Denis; chapter-only notes given as v. 1 (Ex 34, 14, 7, 13; Num 10, 16, 25; Ex 12 → 12:29; Jos. xiii–xix → Jos 13:1). '4 Esdras 8:34' quoted without margin note: bracketed note, no marker. Readings: v. 21 'distulit' (put off) noted against the Douay 'was angry'; variants cœnomyiam (v. 45) and animabus (v. 50) noted."
+    },
+    {
+      "id": "psalms-049",
+      "book": "psalms",
+      "art": 49,
+      "chapter_guess": 77,
+      "pages": [
+        272,
+        283
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:16:00Z",
+      "note": "Published (scheduled run, two workers, split at v. 29) with a gap: after '…meo sanguine liberata, atque a me' (gloss on vv. 1–3) the lower right column of PDF 272 (p. 262) was not transcribed; marked […] — please check the scan. Also a lost word at v. 55 ('filii […] Patriarcharum'). Margins corrected with notes: Judic. xvii, 34 → John 19:34; Joann. v, 19 → 1 John 5:19; Eccli. xxxv, 23 → Ecclus 5:4; Is. ix, 8 → Is 60:8; Ps. cxxxviii, 14 → Ps 138:18; Ps. v, 3 Hebr. → Ps 9:24; Jer. xxiv, 9 → Jer 29:18–19; Eccli. xx → Ecclus 20:8. 'distinctionem' kept in the Latin, translated as *districtionem* (severity), with a note. Prayer tagged vv. 38–39."
+    },
+    {
+      "id": "psalms-050",
+      "book": "psalms",
+      "art": 50,
+      "chapter_guess": 78,
+      "pages": [
+        283,
+        287
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:28:00Z",
+      "note": "v. 8: transcription reads \"remisisse\" where the sense needs \"meminisse\" (kept, with a bracketed note); check against the scan (PDF 285)."
+    },
+    {
+      "id": "psalms-051",
+      "book": "psalms",
+      "art": 51,
+      "chapter_guess": 78,
+      "pages": [
+        287,
+        289
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:31:00Z"
+    },
+    {
+      "id": "psalms-052",
+      "book": "psalms",
+      "art": 52,
+      "chapter_guess": 79,
+      "pages": [
+        289,
+        297
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:28:00Z",
+      "note": "Published (scheduled run, two workers, split at v. 11). 'ALTAQUE duo primi versus' read as 'Atque' (check scan). Margin 'Allegorice' where the text says 'Moraliter' (noted). Margins corrected with notes: II Esdr. iv, 4 → 2 Esd 4:1; I Par. xvii, 18 → 1 Par 29:18; Jer. xxxiii, 10 → Jer 48:10 (ref-only); IV Reg. xvii → 4 Kings 17:1. 'pro Assyriis' in the title noted as Septuagint. Prayer tagged v. 10."
+    },
+    {
+      "id": "psalms-053",
+      "book": "psalms",
+      "art": 53,
+      "chapter_guess": 80,
+      "pages": [
+        297,
+        300
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:28:00Z",
+      "note": "Published (scheduled run, one worker). Margins corrected with notes: Jer. xxiv, 23 → Jer 29:23; Num. xx + 13 → Num 20:12–13. Unmarked-margin quotations tagged where Denis names the speaker (Num 20:10, Ex 24:7, Ex 32:34). 'quinta sabbati' in the title noted (not in the Vulgate title)."
+    },
+    {
+      "id": "psalms-054",
+      "book": "psalms",
+      "art": 54,
+      "chapter_guess": 80,
+      "pages": [
+        300,
+        304
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:28:00Z",
+      "note": "Published (scheduled run, one worker). Margins corrected with notes: Philipp. 13 → Phil 2:13; 1 Cor 10:24 ref-only (wording closer to Phil 2:4); Ecclesiasticus quotation marked 41:17 with ref-only 20:32. Read 'deformiores' as 'deiformiores'."
+    },
+    {
+      "id": "psalms-055",
+      "book": "psalms",
+      "art": 55,
+      "chapter_guess": 81,
+      "pages": [
+        304,
+        307
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:35:00Z"
+    },
+    {
+      "id": "psalms-056",
+      "book": "psalms",
+      "art": 56,
+      "chapter_guess": 82,
+      "pages": [
+        307,
+        310
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:35:00Z",
+      "note": "The first word or two of the article are missing from the transcription (it begins \"[…] iste est: Canticum, psalmus Asaph\"); \"Gebal, sic dictus\" may also lack a word. Check the scan (PDF 307)."
+    },
+    {
+      "id": "psalms-057",
+      "book": "psalms",
+      "art": 57,
+      "chapter_guess": 82,
+      "pages": [
+        310,
+        313
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:35:00Z"
+    },
+    {
+      "id": "psalms-058",
+      "book": "psalms",
+      "art": 58,
+      "chapter_guess": 83,
+      "pages": [
+        313,
+        319
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:36:00Z",
+      "note": "Published (scheduled run, one worker) with a gap: the closing prayer breaks off at '…virtus tua hac in valle plorationis;' (foot of the left column of PDF 319, p. 309; the rest, above the Art. LIX heading in the right column, was not transcribed), marked […]; please check the scan. Margins corrected with notes: Ps. lxxvii, 28 → Ps 72:28; Osee viii, 9 → Osee 13:9; Jac. iv, 5 → Jas 4:4."
+    },
+    {
+      "id": "psalms-059",
+      "book": "psalms",
+      "art": 59,
+      "chapter_guess": 84,
+      "pages": [
+        319,
+        325
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:36:00Z",
+      "note": "Published (scheduled run, one worker). Margins corrected with notes: Is. xliv, 8 → Is 45:8; Matt. xii, 29 ref-only (wording is Luke 11:21); Num. xvi → Num 16:1; Prov. x, 1 ref-only (Denis's own wording). Several obvious quotations tagged without margin notes (Jer 29:11, John 10:10, Osee 13:14 …). A repeated passage in the transcription (end of v. 3 gloss) kept once."
+    },
+    {
+      "id": "psalms-060",
+      "book": "psalms",
+      "art": 60,
+      "chapter_guess": 85,
+      "pages": [
+        325,
+        329
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:36:00Z",
+      "note": "Published (scheduled run, one worker). Two words lost in the transcription ('Oratio David, id est […] Christi'; v. 2 'in quantum vero […] est homo'), marked […]. Margins corrected with notes: Is. xix, 22 → Is 49:22; Judith xvi → Jdt 16:16; Gen 22:18 kept, Denis's wording is Acts 3:25. 4 Esdras 8:31 quoted: note only, no marker."
+    },
+    {
+      "id": "psalms-061",
+      "book": "psalms",
+      "art": 61,
+      "chapter_guess": 85,
+      "pages": [
+        329,
+        334
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:44:00Z",
+      "note": "Published (scheduled run, worker). Margin 'Eccli. xxxvii, 37' does not exist: reference-only at Ecclus 23:37 with a note. 'Salus populi ego sum…' is the Introit of the 19th Sunday after Pentecost (margin compares Is 43:11). Job 14:4–5 'juxta LXX' does not match the DR: reference-only."
+    },
+    {
+      "id": "psalms-062",
+      "book": "psalms",
+      "art": 62,
+      "chapter_guess": 86,
+      "pages": [
+        334,
+        338
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:44:00Z",
+      "note": "Published (scheduled run, worker). Margin 'Ps. lxxxvii, 19' is really Ps 82:19 (note added). 'ut requirant ceteri hominum Dominum' marked as Acts 15:17 (James's citation of Amos 9:11). DR slip: 1 Cor 2:4 'human wisdom. but' (full stop for comma)."
+    },
+    {
+      "id": "psalms-063",
+      "book": "psalms",
+      "art": 63,
+      "chapter_guess": 87,
+      "pages": [
+        338,
+        343
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:44:00Z",
+      "note": "Published (scheduled run, worker). Margin 'Is. i, 7' is Is 50:7 and 'Matth. xxvii, 12' is Matt 17:12 (notes added); the edition's footnote '*Ezrahitæ' at the title is given in a translator's note. DR slip: John 14:30 'prince of this world: cometh'."
+    },
+    {
+      "id": "psalms-064",
+      "book": "psalms",
+      "art": 64,
+      "chapter_guess": 87,
+      "pages": [
+        343,
+        346
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:45:00Z"
+    },
+    {
+      "id": "psalms-065",
+      "book": "psalms",
+      "art": 65,
+      "chapter_guess": 88,
+      "pages": [
+        346,
+        355
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:45:00Z",
+      "note": "Art. LXV covers vv. 1–19 (PDF 346–355). The rest of articles/psalms-065.txt, from \"TUNC locutus es in visione\" (v. 20, PDF 355) to the end, is Art. LXVI (running heads PDF 355–358), whose heading was not transcribed; its end (v. 53, \"Benedictus Dominus in æternum … aliorum affectum\") stands at the top of articles/psalms-067.txt. See item psalms-066-ps88. Also: data/bible/drc Wisdom 11:23 has the slip \"tho earth\"."
+    },
+    {
+      "id": "psalms-066-ps88",
+      "book": "psalms",
+      "art": 66,
+      "chapter_guess": 88,
+      "pages": [
+        355,
+        359
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Art. LXVI on Ps 88:20–53: heading and title not in the transcription (needs the scan, PDF 354–355). Text: articles/psalms-065.txt from \"TUNC locutus es in visione\" to the end, then the first lines of articles/psalms-067.txt up to \"aliorum affectum\". The queue item psalms-066 points to PDF 691–695 (Ps 147) and looks like a second-series article: check it."
+    },
+    {
+      "id": "psalms-067",
+      "book": "psalms",
+      "art": 67,
+      "chapter_guess": 88,
+      "pages": [
+        359,
+        363
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published (scheduled run, worker). Text assembled from articles/psalms-067.txt from 'TUNC locutus es' (v. 20) to the end, plus lines 5–11 of psalms-068.txt (end and PRECATIO); the opening v. 53 passage ('Sed quoniam Christus … aliorum affectum') and the transcriber's 'Correction' line were left out: they end Art. LXVI (psalms-066-ps88, still needs-scan). Margin 'Is. i, 9' = Is 50:8–9, 'Ps. lxxxi, 11' = Ps 71:11, 'Zach. xiii, 8' = Zach 12:8 (notes). DR slip: Ezech 34:23 has 'I WILL SET UP ONE SHEPHERD OVER THEM' in capitals.",
+      "claimed": "2026-11-18T15:58:00Z"
+    },
+    {
+      "id": "psalms-068",
+      "book": "psalms",
+      "art": 68,
+      "chapter_guess": 89,
+      "pages": [
+        363,
+        368
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:44:00Z",
+      "note": "Published (scheduled run, one worker). Lines 5–11 of the cut file (end of Art. LXVII and its prayer) left out: they belong to psalms-067. Margin Gen. i, 27, 28 given as ref-only (wording closer to Gen 1:26, noted). v. 16: Douay 'their works' vs Vulgate/Denis 'opera tua' (noted). Prayer tagged vv. 1–2, 16–17."
+    },
+    {
+      "id": "psalms-069",
+      "book": "psalms",
+      "art": 69,
+      "chapter_guess": 90,
+      "pages": [
+        368,
+        376
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:53:00Z"
+    },
+    {
+      "id": "psalms-070",
+      "book": "psalms",
+      "art": 70,
+      "chapter_guess": 91,
+      "pages": [
+        376,
+        382
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:53:00Z"
+    },
+    {
+      "id": "psalms-071",
+      "book": "psalms",
+      "art": 71,
+      "chapter_guess": 92,
+      "pages": [
+        382,
+        386
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:58:00Z",
+      "note": "Published (scheduled run, worker). Psalm title has no DR wording (reference-only marker + note). DR slip: Ps 92:2 'My throne' (Challoner: 'Thy throne'). Margin 'Matth. xxvi, 39' = Matt 26:42, 'II Cor. viii, 1' = 2 Cor 7:1 (notes)."
+    },
+    {
+      "id": "psalms-072",
+      "book": "psalms",
+      "art": 72,
+      "chapter_guess": 93,
+      "pages": [
+        386,
+        391
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-18T15:58:00Z",
+      "note": "Published (scheduled run, worker). v. 10 lemma 'Qui corripit gentes' illegible in the transcription, supplied from the psalm (note): check the scan, PDF 386–387. Ten unreadable margin notes (PDF ~389–390) identified from the Latin: Tob 3:22, 2 Cor 1:7, Ps 16:4, Deut 32:4, Prov 15:29, Is 59:2, Matt 5:5, Matt 11:12, 2 Tim 2:3, Jas 4:9. Margin 'III Reg. xxi, 10' = 3 Kings 19:10."
+    },
+    {
+      "id": "psalms-073",
+      "book": "psalms",
+      "art": 73,
+      "chapter_guess": 94,
+      "pages": [
+        391,
+        395
+      ],
+      "status": "in-progress",
+      "source": "transcribed",
+      "claimed": "2026-11-18T16:05:00Z"
+    },
+    {
+      "id": "psalms-074",
+      "book": "psalms",
+      "art": 74,
+      "chapter_guess": 95,
+      "pages": [
+        395,
+        401
+      ],
+      "status": "in-progress",
+      "source": "transcribed",
+      "claimed": "2026-11-18T16:05:00Z"
+    },
+    {
+      "id": "psalms-075",
+      "book": "psalms",
+      "art": 75,
+      "chapter_guess": 96,
+      "pages": [
+        401,
+        405
+      ],
+      "status": "in-progress",
+      "source": "transcribed",
+      "claimed": "2026-11-18T16:05:00Z"
+    },
+    {
+      "id": "psalms-076",
+      "book": "psalms",
+      "art": 76,
+      "chapter_guess": 97,
+      "pages": [
+        405,
+        408
+      ],
+      "status": "in-progress",
+      "source": "transcribed",
+      "claimed": "2026-11-18T16:16:00Z"
+    },
+    {
+      "id": "psalms-077",
+      "book": "psalms",
+      "art": 77,
+      "chapter_guess": 98,
+      "pages": [
+        408,
+        412
+      ],
+      "status": "in-progress",
+      "source": "transcribed",
+      "claimed": "2026-11-18T16:16:00Z"
+    },
+    {
+      "id": "psalms-078",
+      "book": "psalms",
+      "art": 78,
+      "chapter_guess": 99,
+      "pages": [
+        412,
+        414
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-079",
+      "book": "psalms",
+      "art": 79,
+      "chapter_guess": 100,
+      "pages": [
+        414,
+        423
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-001-2",
+      "book": "psalms",
+      "art": 1,
+      "chapter_guess": 101,
+      "pages": [
+        423,
+        434
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-003-2",
+      "book": "psalms",
+      "art": 3,
+      "chapter_guess": 101,
+      "pages": [
+        434,
+        437
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-004-2",
+      "book": "psalms",
+      "art": 4,
+      "chapter_guess": 102,
+      "pages": [
+        437,
+        444
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-005-2",
+      "book": "psalms",
+      "art": 5,
+      "chapter_guess": 103,
+      "pages": [
+        444,
+        451
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-006-2",
+      "book": "psalms",
+      "art": 6,
+      "chapter_guess": 104,
+      "pages": [
+        451,
+        455
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-007-2",
+      "book": "psalms",
+      "art": 7,
+      "chapter_guess": 104,
+      "pages": [
+        455,
+        462
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-008-2",
+      "book": "psalms",
+      "art": 8,
+      "chapter_guess": 104,
+      "pages": [
+        462,
+        469
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-009-2",
+      "book": "psalms",
+      "art": 9,
+      "chapter_guess": 105,
+      "pages": [
+        469,
+        474
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-010-2",
+      "book": "psalms",
+      "art": 10,
+      "chapter_guess": 105,
+      "pages": [
+        474,
+        478
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-011-2",
+      "book": "psalms",
+      "art": 11,
+      "chapter_guess": 106,
+      "pages": [
+        479,
+        488
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-012-2",
+      "book": "psalms",
+      "art": 12,
+      "chapter_guess": 106,
+      "pages": [
+        488,
+        490
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-013-2",
+      "book": "psalms",
+      "art": 13,
+      "chapter_guess": 107,
+      "pages": [
+        490,
+        493
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-014-2",
+      "book": "psalms",
+      "art": 14,
+      "chapter_guess": 107,
+      "pages": [
+        493,
+        497
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-015-2",
+      "book": "psalms",
+      "art": 15,
+      "chapter_guess": 108,
+      "pages": [
+        497,
+        509
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-017-2",
+      "book": "psalms",
+      "art": 17,
+      "chapter_guess": 109,
+      "pages": [
+        509,
+        515
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-018-2",
+      "book": "psalms",
+      "art": 18,
+      "chapter_guess": 110,
+      "pages": [
+        515,
+        521
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-019-2",
+      "book": "psalms",
+      "art": 19,
+      "chapter_guess": 111,
+      "pages": [
+        521,
+        523
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-020-2",
+      "book": "psalms",
+      "art": 20,
+      "chapter_guess": 111,
+      "pages": [
+        523,
+        525
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-021-2",
+      "book": "psalms",
+      "art": 21,
+      "chapter_guess": 112,
+      "pages": [
+        525,
+        527
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-022-2",
+      "book": "psalms",
+      "art": 22,
+      "chapter_guess": 113,
+      "pages": [
+        527,
+        531
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-023-2",
+      "book": "psalms",
+      "art": 23,
+      "chapter_guess": 113,
+      "pages": [
+        531,
+        534
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-024-2",
+      "book": "psalms",
+      "art": 24,
+      "chapter_guess": 114,
+      "pages": [
+        534,
+        537
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-025-2",
+      "book": "psalms",
+      "art": 25,
+      "chapter_guess": 115,
+      "pages": [
+        537,
+        540
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-026-2",
+      "book": "psalms",
+      "art": 26,
+      "chapter_guess": 115,
+      "pages": [
+        540,
+        543
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-027-2",
+      "book": "psalms",
+      "art": 27,
+      "chapter_guess": 116,
+      "pages": [
+        543,
+        544
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-028-2",
+      "book": "psalms",
+      "art": 28,
+      "chapter_guess": 117,
+      "pages": [
+        544,
+        552
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-029-2-part1",
+      "book": "psalms",
+      "art": 29,
+      "chapter_guess": 118,
+      "pages": [
+        552,
+        561
+      ],
+      "status": "todo",
+      "source": "transcribed",
+      "part": 1,
+      "parts": 4
+    },
+    {
+      "id": "psalms-029-2-part2",
+      "book": "psalms",
+      "art": 29,
+      "chapter_guess": 118,
+      "pages": [
+        562,
+        571
+      ],
+      "status": "todo",
+      "source": "transcribed",
+      "part": 2,
+      "parts": 4
+    },
+    {
+      "id": "psalms-029-2-part3",
+      "book": "psalms",
+      "art": 29,
+      "chapter_guess": 118,
+      "pages": [
+        572,
+        581
+      ],
+      "status": "todo",
+      "source": "transcribed",
+      "part": 3,
+      "parts": 4
+    },
+    {
+      "id": "psalms-029-2-part4",
+      "book": "psalms",
+      "art": 29,
+      "chapter_guess": 118,
+      "pages": [
+        582,
+        590
+      ],
+      "status": "todo",
+      "source": "transcribed",
+      "part": 4,
+      "parts": 4
+    },
+    {
+      "id": "psalms-030-2",
+      "book": "psalms",
+      "art": 30,
+      "chapter_guess": 119,
+      "pages": [
+        590,
+        592
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-031-2",
+      "book": "psalms",
+      "art": 31,
+      "chapter_guess": 119,
+      "pages": [
+        592,
+        594
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-032-2",
+      "book": "psalms",
+      "art": 32,
+      "chapter_guess": 120,
+      "pages": [
+        594,
+        597
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-034-2",
+      "book": "psalms",
+      "art": 34,
+      "chapter_guess": 121,
+      "pages": [
+        597,
+        601
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-035-2",
+      "book": "psalms",
+      "art": 35,
+      "chapter_guess": 122,
+      "pages": [
+        601,
+        602
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-036-2",
+      "book": "psalms",
+      "art": 36,
+      "chapter_guess": 123,
+      "pages": [
+        602,
+        604
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-037-2",
+      "book": "psalms",
+      "art": 37,
+      "chapter_guess": 124,
+      "pages": [
+        604,
+        606
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-038-2",
+      "book": "psalms",
+      "art": 38,
+      "chapter_guess": 125,
+      "pages": [
+        606,
+        609
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-039-2",
+      "book": "psalms",
+      "art": 39,
+      "chapter_guess": 126,
+      "pages": [
+        609,
+        612
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-040-2",
+      "book": "psalms",
+      "art": 40,
+      "chapter_guess": 127,
+      "pages": [
+        612,
+        615
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-041-2",
+      "book": "psalms",
+      "art": 41,
+      "chapter_guess": 128,
+      "pages": [
+        615,
+        617
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-042-2",
+      "book": "psalms",
+      "art": 42,
+      "chapter_guess": 128,
+      "pages": [
+        617,
+        618
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-043-2",
+      "book": "psalms",
+      "art": 43,
+      "chapter_guess": 129,
+      "pages": [
+        619,
+        620
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-044-2",
+      "book": "psalms",
+      "art": 44,
+      "chapter_guess": 130,
+      "pages": [
+        620,
+        625
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-046-2",
+      "book": "psalms",
+      "art": 46,
+      "chapter_guess": 131,
+      "pages": [
+        625,
+        629
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-047-2",
+      "book": "psalms",
+      "art": 47,
+      "chapter_guess": 132,
+      "pages": [
+        629,
+        631
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-048-2",
+      "book": "psalms",
+      "art": 48,
+      "chapter_guess": 133,
+      "pages": [
+        631,
+        632
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-049-2",
+      "book": "psalms",
+      "art": 49,
+      "chapter_guess": 134,
+      "pages": [
+        632,
+        637
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-050-2",
+      "book": "psalms",
+      "art": 50,
+      "chapter_guess": 135,
+      "pages": [
+        637,
+        640
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-051-2",
+      "book": "psalms",
+      "art": 51,
+      "chapter_guess": 136,
+      "pages": [
+        640,
+        642
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-052-2",
+      "book": "psalms",
+      "art": 52,
+      "chapter_guess": 136,
+      "pages": [
+        642,
+        644
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-053-2",
+      "book": "psalms",
+      "art": 53,
+      "chapter_guess": 137,
+      "pages": [
+        644,
+        646
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-054-2",
+      "book": "psalms",
+      "art": 54,
+      "chapter_guess": 138,
+      "pages": [
+        646,
+        653
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-055-2",
+      "book": "psalms",
+      "art": 55,
+      "chapter_guess": 138,
+      "pages": [
+        653,
+        657
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-056-2",
+      "book": "psalms",
+      "art": 56,
+      "chapter_guess": 139,
+      "pages": [
+        657,
+        660
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-057-2",
+      "book": "psalms",
+      "art": 57,
+      "chapter_guess": 139,
+      "pages": [
+        660,
+        663
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-058-2",
+      "book": "psalms",
+      "art": 58,
+      "chapter_guess": 140,
+      "pages": [
+        663,
+        666
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-059-2",
+      "book": "psalms",
+      "art": 59,
+      "chapter_guess": 141,
+      "pages": [
+        666,
+        669
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-060-2",
+      "book": "psalms",
+      "art": 60,
+      "chapter_guess": 142,
+      "pages": [
+        669,
+        673
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-061-2",
+      "book": "psalms",
+      "art": 61,
+      "chapter_guess": 143,
+      "pages": [
+        673,
+        679
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-062-2",
+      "book": "psalms",
+      "art": 62,
+      "chapter_guess": 144,
+      "pages": [
+        679,
+        685
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-063-2",
+      "book": "psalms",
+      "art": 63,
+      "chapter_guess": 145,
+      "pages": [
+        685,
+        688
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-064-2",
+      "book": "psalms",
+      "art": 64,
+      "chapter_guess": 146,
+      "pages": [
+        688,
+        691
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-065-2",
+      "book": "psalms",
+      "art": 65,
+      "chapter_guess": 147,
+      "pages": [
+        691,
+        691
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-066",
+      "book": "psalms",
+      "art": 66,
+      "chapter_guess": 147,
+      "pages": [
+        691,
+        695
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-067-2",
+      "book": "psalms",
+      "art": 67,
+      "chapter_guess": 147,
+      "pages": [
+        695,
+        699
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-067-3",
+      "book": "psalms",
+      "art": 67,
+      "chapter_guess": 149,
+      "pages": [
+        699,
+        701
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "psalms-068-2",
+      "book": "psalms",
+      "art": 68,
+      "chapter_guess": 150,
+      "pages": [
+        701,
+        705
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    }
+  ]
 }
