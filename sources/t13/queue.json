@@ -842,9 +842,9 @@
     345,
     351
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Ephesians 6, Art. VI (pp. 323-329). The cut file held the end of Art. V (5:32-33, already published) after the opening lines and repeated the heading; put back in order. One word lost at v. 1 ('[…] enim justum est', surely 'Hoc'). Margin numerals corrected with notes: Prov 13:24, Ecclus 33:31, Job 29:14, Luke 8:5, Judg 3:15 (reference-only). John 15:19 tagged with no margin note.",
    "claimed": "2026-11-18T06:35:17Z"
   },
   {
@@ -856,9 +856,9 @@
     355,
     359
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Philippians 1, Art. I (pp. 333-337). The article's last lines (vv. 28-30 from 'meremini vitam æternam' to 'Quæ illic requirantur') were in the Art. II file and were joined here. Margin 'Prov. xi' is Prov 22:11, 'Ibid. v, 5' is Rom 5:5 (both noted); 'Act. xvi, 12-24' given as reference-only Acts 16:18, 22, 23. Eph 4:1 tagged with no margin note.",
    "claimed": "2026-11-18T06:35:17Z"
   },
   {
