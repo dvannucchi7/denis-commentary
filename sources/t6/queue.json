@@ -308,9 +308,10 @@
     107,
     110
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:50:21Z"
+   "claimed": "2026-11-18T11:50:21Z",
+   "note": "translated by scheduled run; the article file lacked its last paragraph (\"Postremo, quod dictum est…\", top of the right column of PDF p. 110), added from the page transcription; unread Osee margin number taken as Osee 7:13 (noted); printed \"verba et verba\" read as \"verba et verbera\" (noted)"
   },
   {
    "id": "psalms-015",
