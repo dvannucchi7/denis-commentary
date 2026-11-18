@@ -619,7 +619,8 @@
    "chapter": 5,
    "num": "XII",
    "flagged": 7,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:52:52Z"
   },
   {
    "id": "luke-5-XIII",
@@ -627,7 +628,8 @@
    "chapter": 5,
    "num": "XIII",
    "flagged": 8,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:52:52Z"
   },
   {
    "id": "luke-6-XIV",
@@ -635,7 +637,8 @@
    "chapter": 6,
    "num": "XIV",
    "flagged": 7,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:52:52Z"
   },
   {
    "id": "luke-6-XV",
@@ -643,7 +646,8 @@
    "chapter": 6,
    "num": "XV",
    "flagged": 6,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:52:52Z"
   },
   {
    "id": "luke-6-XVI",
@@ -651,7 +655,8 @@
    "chapter": 6,
    "num": "XVI",
    "flagged": 16,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:52:52Z"
   },
   {
    "id": "luke-7-XVII",
