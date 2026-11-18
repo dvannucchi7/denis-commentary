@@ -539,10 +539,9 @@
     408,
     417
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 6,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T01:27:06Z"
+   "note": "Margin readings checked: Is 40:7 (read as xi, 7), Ps 90:1 and Ps 77:31 from unread notes, Is 7:9 juxta LXX, 2 Thess 3:2 (read as II Tess. iii, 2), Matt 19:27, Mark 3:14 (printed iii, 14, 15, 19), Is 45:4 (printed xlv, 3–5; Denis's 'Elegi te' differs from the Vulgate), 2 Kings 12:25, Matt 27:5. Margins of PDF 410 empty. Latin cleaned from the OCR with automatic corrections."
   },
   {
    "id": "john-19",
