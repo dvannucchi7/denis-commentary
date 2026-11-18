@@ -1735,9 +1735,10 @@
     602,
     604
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:26:18Z"
+   "claimed": "2026-11-18T20:26:18Z",
+   "note": "Published (scheduled run, worker) with a gap: PDF 603 (p. 593), foot of the left column (v. 5): the 1 Cor 10:13 quotation breaks off at 'fecit cum tentatione proventum, dan-' and the right column resumes 'Nequaquam etenim'; a line or so lost (probably 'dans ut possimus sustinere'), marked […]. Also: v. 3 is marked ⟦5⟧ in the transcription; Is 26:12-13 and Rom 16:20 tagged without margin notes (word for word)."
   },
   {
    "id": "psalms-037-2",
@@ -1748,9 +1749,10 @@
     604,
     606
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:26:18Z"
+   "claimed": "2026-11-18T20:26:18Z",
+   "note": "Published (scheduled run, worker). Margin 'Is. vi, 31' taken as Is 40:31 (noted); notes where Denis's wording differs: Prov 18:10 salvabitur, Mal 4:1 quasi ignis."
   },
   {
    "id": "psalms-038-2",
@@ -1761,9 +1763,10 @@
     606,
     609
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:26:18Z"
+   "claimed": "2026-11-18T20:26:18Z",
+   "note": "Published (scheduled run, worker). A line repeated in the transcription (Bar 3:38 passage) dropped; margin 'I Esdr. iii, 11-13' marked at 1 Esd 3:11 with a note."
   },
   {
    "id": "psalms-039-2",
@@ -1774,9 +1777,10 @@
     609,
     612
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:26:18Z"
+   "claimed": "2026-11-18T20:26:18Z",
+   "note": "Published (scheduled run, worker). Margin 'Ps. xii, 4' taken as Ps 41:4 and 'Job xxxi, 25' as Job 30:25 (noted); Is 66:19-20 tagged without a margin note (Denis names Isaias); six margin notes stood inside a broken word in the transcription and were put back at their clauses."
   },
   {
    "id": "psalms-040-2",
