@@ -311,7 +311,7 @@
      {
       "v": [
        22,
-       23
+       22
       ],
       "t": "Non enim est aliquid absconditum, quod non manifestetur: quia ad minus in die judicii Christus omnia abscondita manifestabit, nisi interim in Confessione aperiantur; neque factum est occultum, hoc est, nullum opus Deum latet, sed ut in palam veniat, id est, manifestum fiat. Ideo namque permittit Deus fieri mala occulta, ut suo tempore ad honorem divinæ justitiæ publicentur. Non enim permitteret Deus mala, nisi posset ex illis elicere bona.",
       "en": "[[4:22|For there is nothing hid, which shall not be made manifest|Non enim est aliquid absconditum, quod non manifestetur]]: for at the least on the day of judgement Christ will make all hidden things manifest[[1 Cor 4:5||]], unless meanwhile they are laid open in Confession; [[4:22|neither was it made secret|neque factum est occultum]], that is, no work is hidden from God, [[4:22|but that it may come abroad|sed ut in palam veniat]], that is, be made manifest. For God permits hidden evils to be done for this reason, that in His own time they may be made public, to the honour of the divine justice. For God would not permit evils unless He could draw good out of them."
@@ -319,7 +319,7 @@
      {
       "v": [
        24,
-       25
+       24
       ],
       "t": "In qua mensura mensi fueritis, remetietur vobis, id est, juxta modum et exigentiam operum vestrorum, præmium recipietis, et adjicietur vobis: quoniam Deus remunerat ultra condignum, et bene agentibus ac Deum honorantibus, adjicit gratiam in præsenti, et gloriam in futuro.",
       "en": "[[4:24|In what measure you shall mete, it shall be measured to you again|In qua mensura mensi fueritis, remetietur vobis]], that is, according to the measure and the deserving of your works you will receive your reward, [[4:24|and more shall be given to you|et adjicietur vobis]]: for God rewards beyond what is deserved, and to those who do well and honour God He adds grace in the present and glory in the future."
@@ -343,7 +343,7 @@
      {
       "v": [
        30,
-       34
+       33
       ],
       "t": "Et dicebat Salvator: Cui assimilabimus regnum Dei, id est Ecclesiam militantem, seu statum atque negotium ejus? Aut cui parabolæ, id est rei per sermonem parabolicum designatæ, comparabimus illud? Quærit Christus, non quasi dubitans, sed attentos nos faciens. Sicut granum sinapis, etc. Parabola ista plenius habita atque explanata est in Matthæo. Et talibus multis parabolis (quæ in Matthæo describuntur) loquebatur eis, id est rudi indoctæque turbæ, prout poterant audire, hoc est capere. Proportionabat enim aliqualiter suum sermonem capacitati audientium. Ideo enim utebatur similitudinibus rerum notarum, ut aliquo modo intelligerent quæ dicebantur, quamvis sensum mysticum et perfectum non poterant capere.",
       "en": "[[4:30|And he said|Et dicebat]], the Saviour: [[4:30|To what shall we liken the kingdom of God?|Cui assimilabimus regnum Dei]], that is, the Church militant, or its state and business? [[4:30|or to what parable|Aut cui parabolæ]], that is, to what thing signified by a speech in parables, [[4:30|shall we compare it?|comparabimus illud?]] Christ asks, not as though in doubt, but to make us attentive. [[4:31|It is as a grain of mustard seed|Sicut granum sinapis]], etc. This parable has been given more fully and explained on Matthew[[Matt 13:31||]]. [[4:33|And with many such parables|Et talibus multis parabolis]] (which are described in Matthew[[Matt 13:34||]]) [[4:33|he spoke to them|loquebatur eis]], that is, to the rude and unlearned crowd, [[4:33|according as they were able to hear|prout poterant audire]], that is, to grasp. For He fitted His speech in some measure to the capacity of His hearers. For this reason He used likenesses of things they knew, so that they might in some way understand what was said, although they could not grasp the mystical and perfect sense."
@@ -392,7 +392,11 @@
      },
      {
       "v": [
-       18,
+       19,
+       43
+      ],
+      "verses": [
+       19,
        43
       ],
       "t": "Patet itaque ex Evangelio, quod Christus interdum prohibuit miracula sua publicare, quandoque vero jussit ea manifestari: ad instruendum quod fideles interdum debeant opera sua virtuosa manifestare ad gloriam Dei ædificationemque proximi, ex caritate, prout Paulus sæpissime fecit; interdum vero debent ea occultare, ex humilitate. Denique aliqui dicunt, quod Christus prædictum dæmoniacum non admisit ad suum discipulatum, propter præcedentis passionis horrorem, et ne dæmoni adscriberentur opera quæ faceret virtute Christi exsistendo cum eo: et ob id furiosi ac dæmoniaci, etiam post curationem, in Ecclesia non promoventur.",
@@ -485,7 +489,7 @@
      {
       "v": [
        18,
-       23
+       19
       ],
       "t": "Omne extrinsecus introiens in hominem, id est alimentum corporale, non potest eum coinquinare, id est hominem maculare, seu peccatoribus similem facere, quantum est ex natura vel parte alimenti, quia omnis creatura Dei bona est. Et in secessum exit, purgans materialiter omnes escas nutritivas, quæ in substantiam aliti convertuntur. Per hoc enim quod natura egerit superfluum alimenti, id quod remanet purificatur, separato superfluo et immundo a mundo et necessario.",
       "en": "[[7:18|every thing from without entering into a man|Omne extrinsecus introiens in hominem]], that is, bodily food, [[7:18|cannot defile him|non potest eum coinquinare]], that is, stain the man, or make him like to sinners, so far as the nature or the part of the food is concerned, because [[1 Tim 4:4|every creature of God is good|omnis creatura Dei bona est]]. [[7:19|and goeth out into the privy|Et in secessum exit]], [[7:19|purging|purgans]] materially [[7:19|all meats|omnes escas]] that nourish, which are turned into the substance of the one who is fed. For by nature's casting out what is superfluous in the food, what remains is purified, the superfluous and unclean being separated from the clean and necessary."
@@ -567,15 +571,15 @@
      {
       "v": [
        22,
-       26
+       25
       ],
       "t": "Et veniunt Bethsaidam; et adducunt ei cæcum, et rogabant eum ut illum cæcum tangeret, scientes quod tangendo eum illuminaret. Isti adducentes cæcum, videntur fuisse turbæ, non discipuli. Et apprehensa manu cæci, eduxit eum extra vicum, in quo fuit sibi adductus, ad demonstrandum quod eum qui divinitus illustrari desiderat, necesse est pristinos actus relinquere, imo se ipsum abnegare, et quasi de terrenis ad cœlestia transmeare. Et exspuens in oculos ejus, ad ostendendum quod interiorum oculorum illustratio sit per immissionem sapientiæ profluentis a Christo. Per salivam nempe sapientia designatur. Vel ideo exspuit in oculos ejus, ut potestatem suam ostenderet, quando et per contactum sputi sui cæcus reciperet visum. Impositis manibus suis super cæcum, et forte super oculos ejus, interrogavit eum, non quasi ignorans, si aliquid videret. Et adspiciens, ait, id est, cæcus iste videre incipiens et obscure illuminatus, respondit: Video homines quasi arbores ambulantes, id est, corpora video moveri, sed distinctionem membrorum et figuras lineamentorum non discerno in eis. Deinde iterum imposuit Jesus manus super oculos ejus, et cœpit videre, et restitutus est, id est, ad usum oculorum reductus est, ita ut clare videret omnia colorata seu lucida sibi objecta. Per impositionem manuum Salvatoris, designatur applicatio suæ divinæ virtutis, qua hominem illustrante, videt clare omnia ad veram salutem spectantia.",
       "en": "[[8:22|And they came to Bethsaida: and they bring to him a blind man. And they besought him that he would touch him|Et veniunt Bethsaidam; et adducunt ei cæcum, et rogabant eum ut illum cæcum tangeret]], knowing that by touching him he would give him light. Those who brought the blind man seem to have been the crowds, not the disciples. [[8:23|And taking the blind man by the hand, he led him out of the town|Et apprehensa manu cæci, eduxit eum extra vicum]] in which he had been brought to him, to show that whoever desires to be enlightened by God must leave his former acts, nay deny himself, and pass as it were from earthly to heavenly things. [[8:23|And spitting upon his eyes|Et exspuens in oculos ejus]], to show that the enlightening of the inward eyes is by the sending in of the wisdom that flows from Christ; for by spittle wisdom is signified. Or he spat on his eyes to show his power, when even by the touch of his spittle the blind man received his sight. [[8:23|laying his hands on him|Impositis manibus suis super cæcum]], and perhaps on his eyes, [[8:23|he asked him if he saw any thing|interrogavit eum, non quasi ignorans, si aliquid videret]], not as one who did not know. [[8:24|And looking up, he said|Et adspiciens, ait]], that is, this blind man, beginning to see and dimly enlightened, answered: [[8:24|I see men, as it were trees, walking|Video homines quasi arbores ambulantes]], that is, I see bodies moving, but I do not make out in them the distinction of limbs or the shapes of their features. [[8:25|After that again he laid his hands upon his eyes: and he began to see and was restored|Deinde iterum imposuit Jesus manus super oculos ejus, et cœpit videre, et restitutus est]], Jesus; restored, that is, brought back to the use of his eyes, [[8:25|so that he saw all things clearly|ita ut clare videret omnia]], all coloured or bright things set before him. By the laying on of the Saviour's hands the application of his divine power is signified, by which, when it enlightens a man, he sees clearly all that concerns true salvation."
      },
      {
       "v": [
-       22,
-       26
+       23,
+       25
       ],
       "t": "Sed cur Christus omnipotens curavit hunc cæcum successive, quem poterat in instanti perfecte curare? Dicendum quod primo, ad ostendendum quod homo paulatim crescit et proficit in gratia, ita quod purgatio præcedit illuminationem, illuminatio quoque perfectionem seu unionem. Secundo, ad ostendendum imperfectionem fidei, tam cæci istius, quam turbæ ac discipulorum. Quemadmodum enim Prophetæ interdum verbis, interdum signis et factis prophetaverunt; sic Christus aliquando verbis, aliquando factis aliquid designavit aut præmonstravit, ut quum maledixit ficulneam. Sic igitur in præsenti paulatim illuminavit hunc cæcum, significans homines istos obscuram fidem habere, et clariori lumine indigere.",
       "en": "But why did the almighty Christ heal this blind man by stages, when he could have healed him perfectly in an instant? It must be said: first, to show that man grows and advances in grace little by little, so that purgation goes before illumination, and illumination before perfection, or union [the three ways of the spiritual life]. Secondly, to show the imperfection of faith, both of this blind man and of the crowd and the disciples. For as the Prophets prophesied sometimes by words, sometimes by signs and deeds, so Christ sometimes by words, sometimes by deeds signified or showed something beforehand, as when he cursed the fig tree[[Matt 21:19||]]. So here he enlightened this blind man little by little, signifying that these men had a dim faith and needed a clearer light."
@@ -641,7 +645,7 @@
      {
       "v": [
        24,
-       28
+       26
       ],
       "t": "Et quum videret Jesus concurrentem turbam, comminatus est, id est, verbo minaci, duro et increpatorio locutus est, spiritui immundo, dicens illi: Surde et mute spiritus. Dicitur autem diabolus surdus et mutus, non formaliter, sed effective, hoc est ratione sui effectus, quoniam obsessum fecit surdum mutumque. Ego tibi præcipio, exi ab eo, et amplius ne introeas in eum. Et clamans diabolus ex dolore, et multum discerpens, id est, intus discrucians et quasi dilanians eum ex furore et invidia, exiit ab eo; et factus est quasi mortuus, propter disproportionem spirituum vitalium interiorumque sensuum, ita ut multi ad judicandum proni atque incauti, dicerent, Quia mortuus est. Hanc autem vexationem Christus permisit a dæmone fieri, ut sua potestas in ejus subitanea curatione ostenderetur ad gloriam Dei. Unde subjungitur: Jesus autem tenens manum ejus, elevavit eum, et surrexit.",
       "en": "[[9:24|And when Jesus saw the multitude running together, he threatened the unclean spirit|Et quum videret Jesus concurrentem turbam, comminatus est, id est, verbo minaci, duro et increpatorio locutus est, spiritui immundo]], that is, spoke with a threatening, harsh and rebuking word, [[9:24|saying to him: Deaf and dumb spirit|dicens illi: Surde et mute spiritus]]. The devil is called deaf and dumb not formally but effectively, that is, by reason of his effect, since he made the possessed boy deaf and dumb. [[9:24|I command thee, go out of him and enter not any more into him|Ego tibi præcipio, exi ab eo, et amplius ne introeas in eum]]. [[9:25|And crying out and greatly tearing him|Et clamans diabolus ex dolore, et multum discerpens]], the devil, crying out from pain, and 'tearing', that is, tormenting him within and as it were rending him from fury and envy, [[9:25|he went our of him|exiit ab eo]]; [[9:25|And he became as dead|et factus est quasi mortuus]], because of the disorder of the vital spirits and inward senses, [[9:25|so that many said: He is dead|ita ut multi dicerent: Quia mortuus est]], many who were quick to judge and incautious. Christ allowed this torment to be done by the demon so that his power might be shown in the sudden healing, to the glory of God. Hence it is added: [[9:26|But Jesus taking him by the hand, lifted him up. And he arose|Jesus autem tenens manum ejus, elevavit eum, et surrexit]]."
@@ -673,6 +677,11 @@
      {
       "v": [
        37,
+       40
+      ],
+      "verses": [
+       37,
+       38,
        40
       ],
       "t": "Respondit illi, videlicet Christo, Joannes apostolus, dicens: Magister, vidimus quemdam in nomine tuo ejicientem dæmonia, qui non sequitur nos, inter nos conversando, vel nostræ conversationis modum sectando, et prohibuimus eum ab hoc opere, tanquam indignum, quia non sequitur nos. De isto ejiciente dæmonia, aliqui dicunt quod credidit Jesum esse Christum: et ergo virtute suæ fidei per invocationem et adjurationem nominis Christi, ejecit dæmonia. Alii dicunt quod ita non credidit, sed experimentaliter videns Apostolos in nomine Jesu ejicere dæmones, credidit nomen Jesu esse virtuosum atque idoneum ad dæmones expellendos. Sicque in nomine ejus expulit dæmones, quemadmodum in Actibus leguntur septem filii archisynagogi principis sacerdotum dæmones ejecisse, dicendo: Adjuro vos in nomine Jesu quem Paulus prædicat. Jesus autem ait: Nolite prohibere eum, aut alium sibi consimilem; nemo enim est qui faciat virtutem, id est miraculosum effectum, in nomine meo, et possit cito male loqui de me: quia in suo opere experitur efficaciam nominis mei; et sive a fide apostatet, sive in infidelitate semper permaneat, non tamen habet occasionem aut frontem male loquendi de Christo, quum glorietur in signis in nomine Christi peractis. Quisquis potum dederit vobis calicem aquæ frigidæ in nomine meo, quia Christi estis, amen dico vobis, non perdet mercedem suam. Hæc sententia plenius scripta atque exposita est in Matthæo.",
@@ -715,7 +724,7 @@
      {
       "v": [
        1,
-       14
+       12
       ],
       "t": "Hoc loco S. Marcus describit quemadmodum Pharisæi animo tentandi sciscitabantur a Christo, an liceret marito uxorem dimittere: patetque intellectus hujus scripturæ ex his quæ in Matthæo dicta sunt, quamvis ordo verborum et modus loquendi hic et ibi parum mutetur. Hic enim habetur, quod Christus interrogavit Pharisæos: Quid vobis præcepit Moyses? Qui dixerunt: Moyses permisit libellum repudii scribere. Ibi vero habetur, quod Pharisæi interrogaverunt a Christo: Cur Moyses mandavit dare libellum repudii? Ad quod dici potest, quod Christus primo interrogavit eos, ut recitat Marcus; quumque Salvator dixisset verbum Moysis non esse intelligendum ut ipsi putabant, petierunt a Christo, cur Moyses illud mandasset seu permisisset.",
       "en": "In this place St Mark describes how the Pharisees, in a spirit of tempting, inquired of Christ whether it was lawful for a husband to put away his wife; and the meaning of this passage is plain from what was said on Matthew[[Matt 19:1||]], although the order of the words and the manner of speaking are a little changed here and there. For here we have that Christ asked the Pharisees: [[10:3|What did Moses command you?|Quid vobis præcepit Moyses?]] [[10:4|Who said: Moses permitted to write a bill of divorce|Qui dixerunt: Moyses permisit libellum repudii scribere]]. There, however, we have that the Pharisees asked Christ: [[Matt 19:7|Why then did Moses command to give a bill of divorce|Cur Moyses mandavit dare libellum repudii]]? To which it may be said that Christ first questioned them, as Mark relates; and when the Saviour had said that the word of Moses was not to be understood as they thought, they asked Christ why Moses had commanded or permitted it."
@@ -739,7 +748,7 @@
      {
       "v": [
        28,
-       31
+       30
       ],
       "t": "Et cœpit Petrus ei dicere: Ecce nos dimisimus omnia, et secuti sumus te. Locus iste in Matthæo expositus est. Aliquid tamen hic variatur quantum ad verba. Pauca verba adduntur, quum dicitur: Respondens Jesus, ait: Amen dico vobis, nemo est qui reliquerit domum, aut fratres, aut sorores, etc., propter me et Evangelium, id est, ut evangelicam observet doctrinam, qui non accipiat centies tantum nunc in tempore hoc, domos, et fratres, et sorores. Pro quo Matthæus scripsit: Centuplum accipiet. Quod in Matthæo expositum recolo. Non enim intelligendum est carnaliter, ut millenarii æstimabant, quasi talis pro uno patre habiturus sit in hoc sæculo centum patres, et pro una matre ac conjuge, centum matres atque uxores; sed accipiet talia centies multiplicata æquivalenter, et in potioribus bonis, id est, spiritualia bona, gratiam, virtutes, dona et fructus Spiritus Sancti in hoc sæculo obtinebit. Cum persecutionibus: quia per multas tribulationes oportet nos ingredi regnum cælorum. Sed quomodo persecutiones assignantur inter præmia, quum potius spectent ad merita? nisi quod donum Dei est et beneficium magnum, pati pro Christo adversa, quemadmodum dicit Apostolus: Vobis datum est pro Christo, non solum ut credatis in eum, verum etiam ut patiamini pro illo.",
       "en": "[[10:28|And Peter began to say unto him: Behold, we have left all things and have followed thee.|Et cœpit Petrus ei dicere: Ecce nos dimisimus omnia, et secuti sumus te.]] This passage has been explained on Matthew[[Matt 19:27||]]. Yet something is varied here as to the words. A few words are added, when it is said: [[10:29|Jesus answering said: Amen I say to you, there is no man who hath left house or brethren or sisters|Respondens Jesus, ait: Amen dico vobis, nemo est qui reliquerit domum, aut fratres, aut sorores]], etc., [[10:29|for my sake and for the gospel|propter me et Evangelium]], that is, in order to keep the teaching of the Gospel, [[10:30|Who shall not receive an hundred times as much, now in this time: houses and brethren and sisters|qui non accipiat centies tantum nunc in tempore hoc, domos, et fratres, et sorores]]. For which Matthew wrote: [[Matt 19:29|shall receive an hundredfold|Centuplum accipiet]]. This I remember explaining on Matthew. For it is not to be understood carnally, as the millenarians supposed, as though such a man were to have in this world a hundred fathers for one father, and for one mother and one wife a hundred mothers and wives; but he will receive such things multiplied a hundredfold by equivalence, and in better goods: that is, he will obtain in this world spiritual goods, grace, the virtues, and the gifts and fruits of the Holy Ghost. [[10:30|with persecutions|Cum persecutionibus]]: because [[Acts 14:21|through many tribulations we must enter into the kingdom of God|per multas tribulationes oportet nos ingredi regnum cælorum]]. But how are persecutions counted among the rewards, when they belong rather to merits? Only because it is a gift of God and a great benefit to suffer adversity for Christ, as the Apostle says: [[Phil 1:29|For unto you it is given for Christ, not only to believe in him, but also to suffer for him|Vobis datum est pro Christo, non solum ut credatis in eum, verum etiam ut patiamini pro illo]]."

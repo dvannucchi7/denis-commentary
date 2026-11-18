@@ -403,8 +403,8 @@
    "chapter": 4,
    "num": "IV",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:48:04Z"
+   "status": "done",
+   "note": "3 tags narrowed (para 3 to v. 22; para 4 to v. 24; para 7 to vv. 30–33); 2 confirmed (passages referred to Matthew)"
   },
   {
    "id": "mark-5-V",
@@ -412,8 +412,8 @@
    "chapter": 5,
    "num": "V",
    "flagged": 3,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:48:04Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 4, on forbidding or publishing miracles, to vv. 19, 43); 2 confirmed"
   },
   {
    "id": "mark-6-VI",
@@ -421,8 +421,8 @@
    "chapter": 6,
    "num": "VI",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:48:04Z"
+   "status": "done",
+   "note": "all 5 flagged tags confirmed (passages referred to Matthew); no change"
   },
   {
    "id": "mark-7-VII",
@@ -430,8 +430,8 @@
    "chapter": 7,
    "num": "VII",
    "flagged": 3,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:48:04Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 2 to vv. 18–19); 2 confirmed"
   },
   {
    "id": "mark-8-VIII",
@@ -439,8 +439,8 @@
    "chapter": 8,
    "num": "VIII",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:48:04Z"
+   "status": "done",
+   "note": "2 tags narrowed (para 3 to vv. 22–25; para 4, why healed by stages, to vv. 23–25); 3 confirmed"
   },
   {
    "id": "mark-9-IX",
@@ -448,8 +448,8 @@
    "chapter": 9,
    "num": "IX",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:48:04Z"
+   "status": "done",
+   "note": "2 tags narrowed (para 5 to vv. 24–26; para 9 to vv. 37, 38, 40); 3 confirmed"
   },
   {
    "id": "mark-10-X",
@@ -457,8 +457,8 @@
    "chapter": 10,
    "num": "X",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:48:04Z"
+   "status": "done",
+   "note": "2 tags narrowed (para 1, divorce, to vv. 1–12; para 4 to vv. 28–30); 3 confirmed"
   },
   {
    "id": "mark-11-XI",
