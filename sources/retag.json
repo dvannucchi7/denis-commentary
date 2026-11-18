@@ -241,8 +241,8 @@
    "chapter": 15,
    "num": "XXVIII",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:45:56Z"
+   "status": "done",
+   "note": "all 5 flagged tags confirmed; no change"
   },
   {
    "id": "matthew-16-XXIX",
@@ -250,8 +250,8 @@
    "chapter": 16,
    "num": "XXIX",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:45:56Z"
+   "status": "done",
+   "note": "both flagged tags confirmed; no change"
   },
   {
    "id": "matthew-18-XXXII",
@@ -259,8 +259,8 @@
    "chapter": 18,
    "num": "XXXII",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:45:56Z"
+   "status": "done",
+   "note": "all 8 flagged tags confirmed; no change"
   },
   {
    "id": "matthew-19-XXXIII",
@@ -268,8 +268,8 @@
    "chapter": 19,
    "num": "XXXIII",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:45:56Z"
+   "status": "done",
+   "note": "flagged tag confirmed; no change"
   },
   {
    "id": "matthew-20-XXXIV",
@@ -277,8 +277,8 @@
    "chapter": 20,
    "num": "XXXIV",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:45:56Z"
+   "status": "done",
+   "note": "2 tags changed (para 19 adds the quoted v. 23: vv. 21, 23; para 30, the blind men, vv. 30–34 to vv. 29–31); 2 confirmed"
   },
   {
    "id": "matthew-21-XXXV",
@@ -286,8 +286,8 @@
    "chapter": 21,
    "num": "XXXV",
    "flagged": 9,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:45:56Z"
+   "status": "done",
+   "note": "2 tags changed (para 8, mystical sense of the ass and colt, to vv. 1, 2, 7; para 39 adds the quoted v. 9: vv. 9, 38); 7 confirmed"
   },
   {
    "id": "matthew-22-XXXVI",
