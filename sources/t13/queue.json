@@ -303,9 +303,10 @@
     154,
     158
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T03:33:36Z"
+   "claimed": "2026-11-18T03:33:36Z",
+   "note": "Published as 1 Corinthians 2, Art. II (pp. 132-136) with gaps: the transcription of PDF 155 (printed p. 133) has lost the end of every line of one column (glosses on vv. 6-8, from 'Sapientiam non hujus sæculi' to '…nedo non in expectatione epistolæ'); the fragments are kept with […]. A word is also lost in the gloss on v. 10 ('qui […]'). Needs the scan of PDF 155. Unreadable margin 'Ps. […]' taken as Ps 92:5; 'Ps. cxv, 12' given as Ps 115:3; Acts margin 'x, 31' does not fit (Acts 10:44 used). Ecclus 1:26 tagged without margin note (Denis names it)."
   },
   {
    "id": "i-corinthians-003-2",
