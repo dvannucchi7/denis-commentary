@@ -133,8 +133,8 @@
    "chapter": 7,
    "num": "XV",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:11Z"
+   "status": "done",
+   "note": "2 tags changed (para 2 adds the quoted vv. 15, 16; para 21 narrowed to v. 22); 5 confirmed"
   },
   {
    "id": "matthew-8-XVI",
@@ -142,8 +142,8 @@
    "chapter": 8,
    "num": "XVI",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:11Z"
+   "status": "done",
+   "note": "1 tag removed (introduction); 4 confirmed"
   },
   {
    "id": "matthew-8-XVII",
@@ -151,8 +151,8 @@
    "chapter": 8,
    "num": "XVII",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:11Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 13, the boat mystically, to vv. 23–26); 3 confirmed"
   },
   {
    "id": "matthew-9-XVIII",
@@ -160,8 +160,8 @@
    "chapter": 9,
    "num": "XVIII",
    "flagged": 9,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:11Z"
+   "status": "done",
+   "note": "3 tags narrowed (para 13 to vv. 9–10; para 29 to v. 25; para 30 to vv. 18–19); 6 confirmed"
   },
   {
    "id": "matthew-10-XIX",
@@ -169,8 +169,8 @@
    "chapter": 10,
    "num": "XIX",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:11Z"
+   "status": "done",
+   "note": "all 4 flagged tags confirmed; no change"
   },
   {
    "id": "matthew-10-XX",
@@ -178,8 +178,8 @@
    "chapter": 10,
    "num": "XX",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:44:11Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 17, denying Christ, to v. 33); 1 confirmed"
   },
   {
    "id": "matthew-11-XXI",
