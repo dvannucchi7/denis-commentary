@@ -1045,9 +1045,9 @@
     359,
     363
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "Released unworked by a scheduled run (18 Nov): the transcription is disordered here. The cut file starts after the LXVII heading with 'Sed quoniam Christus hanc commutationem … Fiat, fiat' (v. 53 — probably the end of the preceding literal exposition of Ps 88, which may belong to Art. LXVI), then a transcriber's line 'Correction to the above: the right-column text follows the heading as:' and the article proper from 'TUNC locutus es in visione' (v. 20). The end of this article ('et salvatoris nostri cordialiter exsultare … fonte.' and the PRECATIO 'Deus, gloria virtutis Sanctorum … ad te valeamus pervenire.') is at lines 5–11 of psalms-068.txt. Check against the Ps 88 article(s) before it (psalms-065/066; 066's queue entry points to PDF 691–695, probably a mis-cut) so the v. 53 passage is not published twice.",
+   "note": "Published (scheduled run, worker). Text assembled from articles/psalms-067.txt from 'TUNC locutus es' (v. 20) to the end, plus lines 5–11 of psalms-068.txt (end and PRECATIO); the opening v. 53 passage ('Sed quoniam Christus … aliorum affectum') and the transcriber's 'Correction' line were left out: they end Art. LXVI (psalms-066-ps88, still needs-scan). Margin 'Is. i, 9' = Is 50:8–9, 'Ps. lxxxi, 11' = Ps 71:11, 'Zach. xiii, 8' = Zach 12:8 (notes). DR slip: Ezech 34:23 has 'I WILL SET UP ONE SHEPHERD OVER THEM' in capitals.",
    "claimed": "2026-11-18T15:58:00Z"
   },
   {
@@ -1099,9 +1099,10 @@
     382,
     386
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:58:00Z"
+   "claimed": "2026-11-18T15:58:00Z",
+   "note": "Published (scheduled run, worker). Psalm title has no DR wording (reference-only marker + note). DR slip: Ps 92:2 'My throne' (Challoner: 'Thy throne'). Margin 'Matth. xxvi, 39' = Matt 26:42, 'II Cor. viii, 1' = 2 Cor 7:1 (notes)."
   },
   {
    "id": "psalms-072",
@@ -1112,9 +1113,10 @@
     386,
     391
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:58:00Z"
+   "claimed": "2026-11-18T15:58:00Z",
+   "note": "Published (scheduled run, worker). v. 10 lemma 'Qui corripit gentes' illegible in the transcription, supplied from the psalm (note): check the scan, PDF 386–387. Ten unreadable margin notes (PDF ~389–390) identified from the Latin: Tob 3:22, 2 Cor 1:7, Ps 16:4, Deut 32:4, Prov 15:29, Is 59:2, Matt 5:5, Matt 11:12, 2 Tim 2:3, Jas 4:9. Margin 'III Reg. xxi, 10' = 3 Kings 19:10."
   },
   {
    "id": "psalms-073",
