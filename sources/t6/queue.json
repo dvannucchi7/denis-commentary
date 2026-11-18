@@ -1295,9 +1295,10 @@
     455,
     462
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:37:30Z"
+   "claimed": "2026-11-18T16:37:30Z",
+   "note": "Published (scheduled run, 2 workers). The end of this article (from 'ipsius, quatenus ex perceptione…' to Ex 20:12) had been cut into articles/psalms-008-2.txt; it is translated here. Margin numerals corrected with notes: Ecclus xvii,17→42:17, xi,1→11:4, vi,30→11:30, Gen xv,7→20:7, Gen xxxvii,28→32:28; 'Ibid. xxvi, 13-15' (Jacob) given as Gen 28:13 and 'Ibid. xxx, 25-33' (anointing oil) as Ex 30:25, Lev 8:2, 8:12, each noted. 1 Par xxix,13 does not fit (11, 12, 14, 16 marked). v. 22 read 'sensus ejus prudentiam docebat' (Vulgate: senes… doceret), noted. Data slip: Acts 20:27 in data/bible/drc reads 'spread' for 'spared'."
   },
   {
    "id": "psalms-008-2",
@@ -1308,9 +1309,10 @@
     462,
     469
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:37:30Z"
+   "claimed": "2026-11-18T16:37:30Z",
+   "note": "Published (scheduled run, worker). The lines 'ipsius, quatenus…sis longævus super terram' and a repeated heading in the cut file belong to Art. VII and were left out here. Margin numerals corrected with notes: Is ix,12→60:12, Rom xiv,13→14:23, 'Ibid. xii, 38'→John 7:38. Denis's readings noted: salvavit (v. 20), in terra Ægypti (v. 36), thirty pieces of silver for Joseph. Tagged without margin note (Denis names the source): Phil 4:7, Luke 12:49, Apoc 3:18, 2 Cor 12:9-10. Data slip: John 14:30 in data/bible/drc has a stray colon ('this world: cometh')."
   },
   {
    "id": "psalms-009-2",
