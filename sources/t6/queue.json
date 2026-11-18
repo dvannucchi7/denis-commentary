@@ -670,9 +670,10 @@
     222,
     229
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:45:20Z"
+   "claimed": "2026-11-18T12:45:20Z",
+   "note": "Published (scheduled run, two workers, split at v. 16) with a gap: the closing prayer breaks off at 'fac nos' (end of PDF 229, p. 219; the transcription goes straight on to Art. XLI), marked […]; please check the scan. Lines 7–14 of the cut file are the end of Art. XXXIX (Ps 71: '…die Pentecostes et postmodum…', summary and prayer) — left out of XL; check that XXXIX has them. Opening put in reading order (dis-/ponentis; ad partem utramque). Margins corrected with notes: Is. xxxvi, 10 → Is 37:10 + 36:14; Ps. i, 8 → Ps 50:8; Cant. viii, 10 → Cant 7:10. 'Defecerunt laudes…' tagged Ps 71:20 (Denis reads it as this psalm's title)."
   },
   {
    "id": "psalms-041",
