@@ -1055,9 +1055,10 @@
     363,
     368
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:44:00Z"
+   "claimed": "2026-11-18T15:44:00Z",
+   "note": "Published (scheduled run, one worker). Lines 5–11 of the cut file (end of Art. LXVII and its prayer) left out: they belong to psalms-067. Margin Gen. i, 27, 28 given as ref-only (wording closer to Gen 1:26, noted). v. 16: Douay 'their works' vs Vulgate/Denis 'opera tua' (noted). Prayer tagged vv. 1–2, 16–17."
   },
   {
    "id": "psalms-069",
