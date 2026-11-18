@@ -38,9 +38,10 @@
     28,
     31
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:08:24Z"
+   "claimed": "2026-11-18T11:08:24Z",
+   "note": "translated by scheduled run; v. 9 printed \"Regnavit\" (margin * Regnabit), kept with a note; \"Leva ad Deum manus tuas\" (Jeremias, no margin note) given as reference-only Lam 2:19 with a note (Lam 3:41 also close); Is 29:13 from the margin, Denis follows Matt 15:8 wording (noted); Num 24:17 in the Septuagint form \"exsurget homo\" left unmarked with a note; obvious quotations tagged without margin notes: Jas 3:13, Ps 79:2. Douay-Rheims data slips noticed: Jas 3:13 \"by a good contestation\" (Challoner: conversation), Num 24:17 \"A STAR SHALL RISE\" in capitals"
   },
   {
    "id": "psalms-090",
