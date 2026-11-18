@@ -1837,6 +1837,19 @@
    "chapter_guess": 130,
    "pages": [
     620,
+    621
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T20:11:29Z"
+  },
+  {
+   "id": "psalms-045-2",
+   "book": "psalms",
+   "art": 45,
+   "chapter_guess": 131,
+   "pages": [
+    622,
     625
    ],
    "status": "in-progress",
