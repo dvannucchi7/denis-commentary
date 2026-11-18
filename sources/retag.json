@@ -583,8 +583,8 @@
    "chapter": 3,
    "num": "VIII",
    "flagged": 18,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:52:00Z"
+   "status": "done",
+   "note": "all 18 flagged tags confirmed (each paragraph discusses its verse); no change"
   },
   {
    "id": "luke-3-IX",
@@ -592,8 +592,8 @@
    "chapter": 3,
    "num": "IX",
    "flagged": 10,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:52:00Z"
+   "status": "done",
+   "note": "4 tags changed (para 14 narrowed to v. 23; para 19 to v. 38; paras 20–21, general questions on the whole genealogy, untagged); 6 confirmed"
   },
   {
    "id": "luke-4-X",
@@ -601,8 +601,8 @@
    "chapter": 4,
    "num": "X",
    "flagged": 19,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:52:00Z"
+   "status": "done",
+   "note": "all 19 flagged tags confirmed; no change"
   },
   {
    "id": "luke-4-XI",
@@ -610,8 +610,8 @@
    "chapter": 4,
    "num": "XI",
    "flagged": 17,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:52:00Z"
+   "status": "done",
+   "note": "all 17 flagged tags confirmed; no change"
   },
   {
    "id": "luke-5-XII",
