@@ -588,9 +588,10 @@
     187,
     192
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:31:22Z"
+   "claimed": "2026-11-18T12:31:22Z",
+   "note": "translated by scheduled run (worker). Line 6 of the cut file ('illatæ, de qua superius dixi, Tempestas demersit me…', with a margin Ps. xv, 10) is the end of Art. XXXIII (v. 16), continuing from its last words 'impetus mortis mihi'; left out of XXXIV and NOT yet added to XXXIII (another run's article) — please add. The transcription's three '[…]' at line starts lose no text (de viciniori; nun[tios], Is 42:19; magnificatio). Margin ⟦v. 21⟧ at 'Et ne avertas' is v. 18. 'injuriam verborum' read 'verberum' the first time (sense). Ibid. xi, 10 → Is 6:10 (ref-only); Rom. ix, xi and Exod. iv, vii, xi, xiv given single verses with notes. DR data slip: Jer 18:23 lacks 'forgive'."
   },
   {
    "id": "psalms-035",
@@ -601,9 +602,10 @@
     192,
     199
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:31:22Z"
+   "claimed": "2026-11-18T12:31:22Z",
+   "note": "translated by scheduled run (two workers, split at v. 9). Margins corrected with notes: Matth. v, 22 → Matt 10:22; Joel i, 3 → Joel 1:5; Matth. v, 41 → Matt 5:44; Threni 20 → Lam 1:20. Variants noted: 2 Cor 7:5 spiritus for caro; 1 Pet 2:20 gratia; Luke 6:23 hora; v. 14 fudi. Jer 38:6 'usque ad renes' not in the verse (note). DR data slips: Is 47:10 stray comma; 3 Kings 19:3 'EIias'."
   },
   {
    "id": "psalms-036",
