@@ -322,9 +322,10 @@
     110,
     113
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:53:09Z"
+   "claimed": "2026-11-18T11:53:09Z",
+   "note": "Published with a gap: PDF 112 (p. 102), left column top: the transcription breaks off in Job 31:18 at 'et de utero ma-' and goes straight on to v. 5; a line or more lost, marked […]. Please check the scan. Lines 10-12 of the cut file belong to Art. XIV (already in it) and were left out. Margin Act. v, 34 → Acts 10:34, Matth. v, 5 → Matt 5:4, Apoc. xvi, 9 → 16:11 + 16:9 (notes)."
   },
   {
    "id": "psalms-016",
@@ -335,9 +336,10 @@
     113,
     119
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:53:09Z"
+   "claimed": "2026-11-18T11:53:09Z",
+   "note": "Published with a gap: PDF 116 (p. 106), foot of the left column (v. 9): 'Christi Evan-' / 'verbo aut opere contradicentes' — a line lost between the columns, marked […]. Please check the scan. Margin Is. i, 7 → Is 50:7, Joann. viii, 12 → John 7:12, Job xv, 14 juxta LXX → Job 14:4 (notes). Denis says Acts 17:11 is of the Thessalonians (it is the Bereans; note). DR data slip: Is 53:1 reads 'Who a hath believed'."
   },
   {
    "id": "psalms-017",
@@ -348,9 +350,10 @@
     119,
     123
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:53:09Z"
+   "claimed": "2026-11-18T11:53:09Z",
+   "note": "translated by scheduled run (worker). Margin Ps. v, 17 juxta Hebr. → Ps 9:38; Jer. iii, 2 → Jer 3:12; Joann. iii, 15 → 1 John 3:15 (notes). Ezech 18:22 for Denis's paraphrase of Ezech 18:21-22 (note)."
   },
   {
    "id": "psalms-018",
