@@ -1940,9 +1940,10 @@
     640,
     642
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:32:46Z"
+   "claimed": "2026-11-18T20:32:46Z",
+   "note": "The print's own verse numbers (1)-(12) differ from the Vulgate's; tagged by the Vulgate (margin) numbering. Margin 'IV Reg. xxv' (no verse) given as ref-only 4 Kings 25:9 (and 25:21), noted. v. 9: Denis reads 'parvulos suos' (edition's footnote: alias tuos), noted. The end of the article had been cut into psalms-052-2; restored."
   },
   {
    "id": "psalms-052-2",
@@ -1953,9 +1954,10 @@
     642,
     644
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:32:46Z"
+   "claimed": "2026-11-18T20:32:46Z",
+   "note": "One word of the Latin title unreadable ('EJUSDEM I[…]'). Margin numerals corrected: Hebr. vi, 13 → Heb 11:13; Joann. ii, 15 → 1 John 2:15; Ibid. v, 2 → Rom 5:2; Ibid. vii, 2 → Matt 7:2 (quoted as Luke 6:38, whose wording Denis follows). Margin 'Is. viii, 14; I Petr. ii, 6; Rom. ix, 33': words are 1 Pet 2:8 (noted)."
   },
   {
    "id": "psalms-053-2",
