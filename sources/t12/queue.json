@@ -551,10 +551,9 @@
     416,
     428
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 7,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T01:31:01Z"
+   "note": "Margin readings checked: Matt 10:28 (read as x, 98), Lev 23:43 (printed 43), 3 Kings 17:19 and 4 Kings 4:32 (Elias, Eliseus; read as Mark 2 and 1 Kings 4), Matt 8:4 (printed vi, 4; probably viii, 4), Prov 15:12 (printed xv, 2), Mark 6:2 (read as 31, 2), Is 7:9 juxta LXX, 1 Tim 1:17, Ex 3:22, Matt 7:1, Mal 3:2, Is 58:1, Is 42:2, Ps 68:4, John 8:55, Tit 1:2, Is 35:4–6 corrected from misread notes. Latin cleaned from the OCR with automatic corrections."
   },
   {
    "id": "john-20",
