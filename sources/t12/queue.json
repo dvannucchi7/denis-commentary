@@ -502,10 +502,9 @@
     383,
     392
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 5,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T01:16:59Z"
+   "note": "About 120 margin notes; misread numerals corrected from the Latin (e.g. 2 Pet 1:17 read as \"Matt 51:1\", Ps 52:6, 1 John 3:14, 1 Tim 1:5, Acts 17:11, Is 53:2); unread notes taken as Matt 26:39, 2 Tim 3:16, Gen 32:30, Is 6:1, Num 24:17. Notes on PDF 392 belong to Art. XVI. With Art. XIII and XIV, John 5 now has all its articles."
   },
   {
    "id": "john-16",
