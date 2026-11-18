@@ -1002,7 +1002,7 @@
     343,
     346
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-18T15:45:00Z"
   },
@@ -1013,11 +1013,25 @@
    "chapter_guess": 88,
    "pages": [
     346,
+    355
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T15:45:00Z",
+   "note": "Art. LXV covers vv. 1–19 (PDF 346–355). The rest of articles/psalms-065.txt, from \"TUNC locutus es in visione\" (v. 20, PDF 355) to the end, is Art. LXVI (running heads PDF 355–358), whose heading was not transcribed; its end (v. 53, \"Benedictus Dominus in æternum … aliorum affectum\") stands at the top of articles/psalms-067.txt. See item psalms-066-ps88. Also: data/bible/drc Wisdom 11:23 has the slip \"tho earth\"."
+  },
+  {
+   "id": "psalms-066-ps88",
+   "book": "psalms",
+   "art": 66,
+   "chapter_guess": 88,
+   "pages": [
+    355,
     359
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:45:00Z"
+   "note": "Art. LXVI on Ps 88:20–53: heading and title not in the transcription (needs the scan, PDF 354–355). Text: articles/psalms-065.txt from \"TUNC locutus es in visione\" to the end, then the first lines of articles/psalms-067.txt up to \"aliorum affectum\". The queue item psalms-066 points to PDF 691–695 (Ps 147) and looks like a second-series article: check it."
   },
   {
    "id": "psalms-067",
