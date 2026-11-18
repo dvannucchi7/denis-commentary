@@ -925,7 +925,8 @@
    "chapter": 22,
    "num": "XLVI",
    "flagged": 23,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:56:12Z"
   },
   {
    "id": "luke-22-XLVII",
@@ -933,7 +934,8 @@
    "chapter": 22,
    "num": "XLVII",
    "flagged": 11,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:56:12Z"
   },
   {
    "id": "luke-22-XLVIII",
@@ -941,7 +943,8 @@
    "chapter": 22,
    "num": "XLVIII",
    "flagged": 12,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:56:12Z"
   },
   {
    "id": "luke-23-XLIX",
