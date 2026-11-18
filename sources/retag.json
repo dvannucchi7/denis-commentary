@@ -1078,8 +1078,8 @@
    "chapter": 1,
    "num": "II",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all 4 tags removed: the article is on Jerome's prologue to the Epistles, treating no verse"
   },
   {
    "id": "romans-1-III",
@@ -1087,8 +1087,8 @@
    "chapter": 1,
    "num": "III",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all 5 flagged tags confirmed; no change"
   },
   {
    "id": "romans-1-IV",
@@ -1096,8 +1096,8 @@
    "chapter": 1,
    "num": "IV",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "flagged tag confirmed; no change"
   },
   {
    "id": "romans-8-XI",
@@ -1105,8 +1105,8 @@
    "chapter": 8,
    "num": "XI",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "1 tag widened (para 17 adds the quoted v. 16); 7 confirmed"
   },
   {
    "id": "romans-8-XII",
@@ -1114,8 +1114,8 @@
    "chapter": 8,
    "num": "XII",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "ii-corinthians-11-XI",
@@ -1123,8 +1123,8 @@
    "chapter": 11,
    "num": "XI",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "galatians-2-II",
@@ -1132,8 +1132,8 @@
    "chapter": 2,
    "num": "II",
    "flagged": 3,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "ephesians-1-I",
@@ -1141,8 +1141,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "ephesians-3-III",
@@ -1150,8 +1150,8 @@
    "chapter": 3,
    "num": "III",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "ephesians-5-V",
@@ -1159,8 +1159,8 @@
    "chapter": 5,
    "num": "V",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "ii-thessalonians-1-I",
@@ -1168,8 +1168,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "hebrews-6-VI",
@@ -1177,8 +1177,8 @@
    "chapter": 6,
    "num": "VI",
    "flagged": 3,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:59:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "james-1-II",
