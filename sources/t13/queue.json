@@ -1579,9 +1579,9 @@
     654,
     662
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "translated by scheduled run; margin numerals corrected with notes (Ps 147:9 for the margin's Hebrew-count 147:20, Luke 19:10 for \"Luc. xv, 10\", 1 Cor 2:6, Heb 5:14, Ps 30:20, Eph 2:15); one unreadable margin note (Ps.) identified as Ps 147:9",
    "claimed": "2026-11-18T10:26:34Z"
   },
   {
@@ -1593,9 +1593,9 @@
     662,
     667
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "translated by scheduled run; one Greek word lost in the transcription (ἐπί … […], 2:25: presumably σκοπός), kept as […]; Douay-Rheims data slip: Prov 7:1 in data/bible/drc/proverbs.json ends at \"Son,\" (the rest of the Vulgate verse is missing); several margin numerals corrected with notes",
    "claimed": "2026-11-18T10:26:34Z"
   },
   {
