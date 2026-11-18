@@ -667,10 +667,9 @@
     275,
     279
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T06:03:14Z"
+   "note": "needs scan: a few words lost at v. 7 (PDF 278)."
   },
   {
    "id": "ii-corinthians-013-3",
@@ -681,10 +680,9 @@
     279,
     285
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T06:03:14Z"
+   "note": "needs scan: the article starts at 12:14 (published under ch. 12 and ch. 13); text lost from 12:15 to 13:3 (the comment on 12:19–21 is missing), and at 13:5, 8, 9 (PDF 280–282). The Douay-Rheims data at 2 Cor 13:11 reads 'God of grace and of love' (Vulgate: Deus pacis)."
   },
   {
    "id": "galatians-001-4",
