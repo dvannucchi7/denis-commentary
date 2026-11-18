@@ -686,9 +686,10 @@
     229,
     235
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:49:25Z"
+   "claimed": "2026-11-18T12:49:25Z",
+   "note": "Published with a gap: the transcription of PDF 233 (p. 223) has only the top of the left column; it breaks off at 'medio fluminum tuorum. Est ig' and PDF 234 resumes '…hilum cœlos, et expandit illos sicut tabernaculum'. The rest of v. 13, all of vv. 14–15 and the start of v. 16 are missing, marked […]. Please re-transcribe PDF 233. Also: lines of the previous article's prayer and a running head at the start of psalms-041.txt were dropped; margin numerals corrected with notes (Matt 15:24 for 'Ibid. xv, 24', Ecclus 3:29, Is 37:29); the Prayer of Manasses quotation has a note and no marker (not in the app's Bible); Ex 29:45 wording closer to Num 35:34 (noted)"
   },
   {
    "id": "psalms-042",
@@ -699,9 +700,10 @@
     235,
     240
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:49:25Z"
+   "claimed": "2026-11-18T12:49:25Z",
+   "note": "translated by scheduled run; margin 'Joann. vi, 48-59' (manna) given as ref-only Ex 16:15 and John 6:49 with a note; '2 Mach. vii' marked at 7:2; Apoc 17:1, 15 loose (ref-only, noted). Douay-Rheims data slip noticed: Apoc 13:1 'coming up out the sea'"
   },
   {
    "id": "psalms-043",
