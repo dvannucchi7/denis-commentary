@@ -123,9 +123,10 @@
     63,
     65
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:26:53Z"
+   "claimed": "2026-11-18T11:26:53Z",
+   "note": "translated by scheduled run (worker). Margin note at 1 Reg. xxii has unreadable verse numerals (bracketed note; 1 Kings 22:9, 22:18 used). Denis reads 'sapiens sapientior erit' at Prov 19:25 (note added). A stray margin '3' beside v. 11 dropped."
   },
   {
    "id": "psalms-002",
@@ -136,9 +137,10 @@
     65,
     68
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:26:53Z"
+   "claimed": "2026-11-18T11:26:53Z",
+   "note": "translated by scheduled run (worker). The cut file stopped mid-sentence: the article's last lines (end of v. 10, v. 11, closing sentence) stand in the RIGHT column of transcribed p68 and were cut into psalms-003.txt (its lines 9-13): whoever translates Art. III must leave those out. Margin numerals corrected with notes (Ps 44:3, John 18:2, John 12:6, Ps 37:20). Mark 12:13 reference-only; wording closer to Matt 22:15-16 (note)."
   },
   {
    "id": "psalms-003",
