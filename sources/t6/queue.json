@@ -490,9 +490,10 @@
     149,
     151
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:13:49Z"
+   "claimed": "2026-11-18T12:13:49Z",
+   "note": "Published (scheduled run, worker). v. 10: 'dando ei uberes' seems to lack a word (PDF 150, p. 140; the transcription has no gap mark), marked […]; please check the scan. Margin Jer. i, 28 (no such verse) → Jer 29:10 (note). Ranges Ezech. xxxiv, 21–28, Agg. i, 1–11, Dan. iii, 57–90 tagged at their first fitting verse with notes. Denis's title reading 'Jeremiæ et Aggæi, de verbo peregrinationis' noted. Baruch 4:25, 4:29 tagged (Denis names Baruch, no margin note)."
   },
   {
    "id": "psalms-028",
@@ -503,9 +504,10 @@
     151,
     156
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:13:49Z"
+   "claimed": "2026-11-18T12:13:49Z",
+   "note": "translated by scheduled run (worker). Heading's first words unreadable ('[…]IS EJUSDEM…'), kept with […] in the Latin title. Margin 'Ibid. xii, 38' after an Ezechiel note → Luke 12:38 (note). Luke 15:10 tagged without margin note (word for word). 'per Prophetam Domini locutus es' kept as printed (perhaps 'Dominus'). Joel 2:28 tagged where recheck also suggests Acts 2:17."
   },
   {
    "id": "psalms-029",
