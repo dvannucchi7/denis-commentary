@@ -1323,9 +1323,10 @@
     469,
     474
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:43:00Z"
+   "claimed": "2026-11-18T16:43:00Z",
+   "note": "Published (scheduled run, one worker). The cut file ended mid-sentence ('quemadmodum in'); vv. 28b–31 ('libro Numerorum…pro Deo suo') were at the head of psalms-010-2.txt and belong here. A garbled duplicate near the start ('Correction for accurate layout') was dropped. Margins corrected with notes: Job xxxviii, 17 → Job 34:17; II Esdr. ix, 19 → 2 Esd 5:19; Deut. xxiv, 2, 4 → Deut 29:2, 4; Ibid. 3 (after Num. xi) → Num 16:3; Exod. xxxii, 4 → Ex 32:8. Num 14:11 mixed with 14:27 (note)."
   },
   {
    "id": "psalms-010-2",
@@ -1336,9 +1337,10 @@
     474,
     478
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:43:00Z"
+   "claimed": "2026-11-18T16:43:00Z",
+   "note": "Published (scheduled run, one worker) with gaps: the left column of PDF 478 (p. 468), moral reading of vv. 23 and 30 ('commisso instantissime…' to '…omnia legit[…]'), is badly damaged in the transcription: words lost at most line ends, marked […]; please re-transcribe PDF 478. Also lost: words after 'Et vidit quum tribularetur', 'iniquitatem fecimus', 'dolebitque', and the vv. 35–36 lemma after 'Ex eo autem quod dictum est, Et' (supplied only in a note). Article starts at 'CONSEQUENTER describitur jurgatio' (v. 32). Closing prayer taken from p478.txt (heading transcribed 'PRÆFATIO', presumably ORATIO). Margin Jud. ii, 18 → Judg 10:16 (note); Denis's 'interfecta' at v. 38 noted."
   },
   {
    "id": "psalms-011-2",
