@@ -192,9 +192,10 @@
     112,
     119
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:34:16Z"
+   "claimed": "2026-11-18T21:34:16Z",
+   "note": "Published (scheduled run, worker). v. 9: Denis reads 'Stultis illudit peccatum' (ref-only lemma marker, noted). Readings noted at vv. 23, 26, 28 ('neque ordinatos', perhaps 'atque'). Margin 'Joann. iv, 1' → 1 John 4:1. Tagged without margin note: Luke 13:5. Loose quotations ref-only: Tob 3:22, Prov 2:14, Ps 57:11, Hab 2:4/Rom 1:17. Wis 7:30 inverted and Jer 34:16 'holy' noted. Ranges given by first verse: 1 Kings 25:18, Dan 13:45."
   },
   {
    "id": "proverbs-015",
@@ -205,9 +206,10 @@
     119,
     127
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:34:16Z"
+   "claimed": "2026-11-18T21:34:16Z",
+   "note": "Published (scheduled run, two workers, split at v. 18). Margin 'Ps. xxvii, 1' → Ps 26:1; 'Matth. xviii, 20' → Matt 8:20 (noted); Job 14:2 note belongs to the clause before the Anna sentence. v. 14 'quærit' (margin correction of 'quæret'). Ranges at first verse: 1 Kings 25:24, Judg 8:2, 1 Mach 16:15, 2 Kings 13:27. Readings noted: v. 9 'vita impii', Rom 12:2, Jer 17:9, Matt 5:7, Mich 7:9 'Deducet', Deut 25:16 'impietatem'. Many obvious quotations tagged without margin note (Ps 33:16–17, Ezech 9:9, Soph 1:12, Ps 72:11, Ps 93:8–9, Prov 28:9, Gen 4:4–5, Ps 5:7, Ps 10:8, Ps 138:8, Ps 85:13, Gen 37:35, Ps 145:9, Deut 10:18, 1 Tim 5:3, Ps 147:3, Is 60:18, Is 1:16, Mich 2:1, Heb 4:12, Matt 17:5, Mark 16:20). Margin numeral for v. 31 missing. Kept 'digna in cathedra' (dignus?)."
   },
   {
    "id": "proverbs-016",
