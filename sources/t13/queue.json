@@ -1173,9 +1173,9 @@
     460,
     463
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 2 Timothy 2, Art. II (pp. 438–441) with gaps (marked […], with notes): 2:13, only '…test' survives of the lemma (PDF 461, probably 'negare seipsum non potest'); 2:16, the lemma 'multum enim proficiunt' lost (PDF 461); 2:25, first word of the lemma lost at the page turn (PDF 463; Vulgate 'nequando'). The end of the article (2:25b–26) stood at the top of the cut file for Art. III; moved back. Margin slips corrected with notes: Job 'xxxi, 13' → Job 24:13; 'Ibid. ix, 2' → Is 59:2; 'Matth. x, 33' → Luke 12:9 (Denis's wording); unread notes → John 3:21 (reference-only), Ecclus 28:28. Douay-Rheims data slips: 2 Tim 2:1 'be strong in Christ Jesus' (Challoner: in the grace which is in Christ Jesus); 2:22 omits 'hope'.",
    "claimed": "2026-11-18T07:09:23Z"
   },
   {
@@ -1187,9 +1187,9 @@
     463,
     465
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 2 Timothy 3, Art. III (pp. 441–443). The cut file began with the end of Art. II (moved there) and lacked 3:15b–17, taken from the right column of PDF 465. Latin corrected: 'continentes' → 'incontinentes' (3:3), 'Vae vanus' → 'Vir vanus'. The print has 'proditores' twice in 3:4 (Vulgate 'protervi' the second time): kept, noted. Multi-verse margin notes (Ex 7–8, Acts 13–14) given as reference-only markers with the full margin reading in a note. Without margin note: Prov 12:10, Job 11:12.",
    "claimed": "2026-11-18T07:09:23Z"
   },
   {
