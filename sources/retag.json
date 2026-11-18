@@ -565,7 +565,8 @@
    "chapter": 2,
    "num": "VI",
    "flagged": 17,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:51:17Z"
   },
   {
    "id": "luke-2-VII",
@@ -573,7 +574,8 @@
    "chapter": 2,
    "num": "VII",
    "flagged": 22,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:51:17Z"
   },
   {
    "id": "luke-3-VIII",
