@@ -1574,9 +1574,10 @@
     544,
     552
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:31:46Z"
+   "claimed": "2026-11-18T17:31:46Z",
+   "note": "Margin numerals corrected (notes in text): Ps cxlv, 9 → Ps 144:9; John xi, 19 → John 12:19; Is lii, 3 → Is 51:3; Ps lxxxviii, 5 → Ps 83:5; Is liii, 10 → Is 52:10; Act. x, 43 → Acts 10:45. Source file had 6 lines of Ps 116's closing prayer (majestati tuæ laudes … in æternum) and a repeated title inside the introduction: left out here. Douay-Rheims data slips: John 17:1 lacks 'Father,'; John 21:25 'the world itself. I think,'."
   },
   {
    "id": "psalms-029-2-part1",
@@ -1587,11 +1588,12 @@
     552,
     561
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 1,
    "parts": 4,
-   "claimed": "2026-11-18T17:31:46Z"
+   "claimed": "2026-11-18T17:31:46Z",
+   "note": "Part 1 = introduction, Aleph to Daleth (vv. 1–32) with their prayers; the start of He (v. 33 ff.) was moved into part2's text file. Each octonary's first paragraph starts with the letter's name; prayers are their own untagged paragraphs. v. 22: print 'dictum est Sauli', margin '* David' (noted). Douay-Rheims data slip: John 14:30 'the prince of this world: cometh:'."
   },
   {
    "id": "psalms-029-2-part2",
