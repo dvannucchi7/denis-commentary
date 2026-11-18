@@ -842,9 +842,10 @@
     345,
     351
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:35:17Z"
   },
   {
    "id": "philippians-001-6",
@@ -855,9 +856,10 @@
     355,
     359
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:35:17Z"
   },
   {
    "id": "philippians-002-6",
