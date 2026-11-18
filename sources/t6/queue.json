@@ -1791,9 +1791,10 @@
     612,
     615
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:32:12Z"
+   "claimed": "2026-11-18T20:32:12Z",
+   "note": "Published (scheduled run, worker). Margin 'Jer. n, 36' = Jer 2:36; Ecclus 24:23 tagged beside the margin's 24:22 (word for word); 1 Cor 2:9 marked with Is 64:4 as reference-only."
   },
   {
    "id": "psalms-041-2",
@@ -1804,9 +1805,10 @@
     615,
     617
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:32:12Z"
+   "claimed": "2026-11-18T20:32:12Z",
+   "note": "Published (scheduled run, worker). Margin Is. xxxiii, 9 does not fit: the words are Is 23:9 (noted); Matt 13:39 added beside the margin's Matth. xiii, 49, 30 (noted); 'cooperantur sunt mihi' (Rom 8:28): 'sunt' dropped as a slip."
   },
   {
    "id": "psalms-042-2",
@@ -1817,9 +1819,10 @@
     617,
     618
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:32:12Z"
+   "claimed": "2026-11-18T20:32:12Z",
+   "note": "Published (scheduled run, worker). Margin 'Joann. xi, 15' taken as John 19:15 (noted); Jer 5:12 and Is 6:10 tagged without margin notes (noted); v. 7 is not treated."
   },
   {
    "id": "psalms-043-2",
@@ -1914,9 +1917,10 @@
     632,
     637
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:32:12Z"
+   "claimed": "2026-11-18T20:32:12Z",
+   "note": "Published (scheduled run, worker). Margin numerals corrected with notes: Gen 32:28, Deut 10:15, Is 19:25, Ps 42:1; Ps. cxiii (Hebr.) = Vulgate Ps 113:12-16; edition prints 'Ammam' (kept, noted). Douay-Rheims data slip: John 9:31 'doth his, will'."
   },
   {
    "id": "psalms-050-2",
@@ -1927,9 +1931,10 @@
     637,
     640
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:32:12Z"
+   "claimed": "2026-11-18T20:32:12Z",
+   "note": "Published (scheduled run, worker). Margin numerals corrected with notes: Ps 144:9 ('cxiv, 9'), Ps 49:1 ('xliv, 1'); Ex 14:25 added beside the margin's Exod. xiv, 27-28; vv. 17-22 only referred back to Ps 134 by Denis."
   },
   {
    "id": "psalms-051-2",
