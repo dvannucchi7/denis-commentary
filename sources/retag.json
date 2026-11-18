@@ -1024,8 +1024,8 @@
    "chapter": 2,
    "num": "VII",
    "flagged": 14,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:58:20Z"
+   "status": "done",
+   "note": "all 14 flagged tags confirmed (moral readings follow the verses); no change"
   },
   {
    "id": "john-3-VIII",
@@ -1033,8 +1033,8 @@
    "chapter": 3,
    "num": "VIII",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:58:20Z"
+   "status": "done",
+   "note": "all 7 flagged tags confirmed; no change"
   },
   {
    "id": "john-3-IX",
@@ -1042,8 +1042,8 @@
    "chapter": 3,
    "num": "IX",
    "flagged": 14,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:58:20Z"
+   "status": "done",
+   "note": "2 tags changed (para 1, whether vv. 16–21 are Christ's words or John's, to vv. 16–21; para 10 adds the quoted v. 17); 12 confirmed"
   },
   {
    "id": "john-3-X",
@@ -1051,8 +1051,8 @@
    "chapter": 3,
    "num": "X",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:58:20Z"
+   "status": "done",
+   "note": "1 tag changed (para 29, moral of the Baptist's words, v. 36 to vv. 27–30); 7 confirmed"
   },
   {
    "id": "john-20-XLVIII",
@@ -1060,8 +1060,8 @@
    "chapter": 20,
    "num": "XLVIII",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:58:20Z"
+   "status": "done",
+   "note": "all 7 flagged tags confirmed; no change"
   },
   {
    "id": "john-21-L",
@@ -1069,8 +1069,8 @@
    "chapter": 21,
    "num": "L",
    "flagged": 3,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:58:20Z"
+   "status": "done",
+   "note": "all 3 flagged tags confirmed; no change. NOTE for Dave: para 13 (v. 22) has no English, only the text '[[22|placeholder]]', since the 13 Nov sample; the Latin is there. t12 queue item john-50 (this article) is still 'todo', so a translation run will replace the whole article"
   },
   {
    "id": "romans-1-II",
