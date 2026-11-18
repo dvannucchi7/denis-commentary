@@ -2067,9 +2067,10 @@
     669,
     673
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:43:51Z"
+   "claimed": "2026-11-18T20:43:51Z",
+   "note": "Lines 7-13 of the article file (the end of Ps 141 and its Precatio) belong to psalms-059-2 and were left out here (059-2 already took them from p669). Margin 'Judith xvi, 8-12' kept as ref-only with a note (it does not fit closely); 'Gen. iii', 'Gen. vii' as ref-only 3:1, 7:1; 'II Reg. xv-xviii' as 2 Kings 15:1 (noted). Tagged without margin note: Ps 31:10, Jer 39:18, Is 60:21, Jas 4:17. Denis's variants noted: Prov 24:16, Wis 9:15, Lam 2:19, 142:7, 142:11."
   },
   {
    "id": "psalms-061-2",
