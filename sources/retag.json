@@ -295,8 +295,8 @@
    "chapter": 22,
    "num": "XXXVI",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:46:28Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 29, whether the lawyer was tempting, to v. 35); 3 confirmed"
   },
   {
    "id": "matthew-23-XXXVII",
@@ -304,8 +304,8 @@
    "chapter": 23,
    "num": "XXXVII",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:46:28Z"
+   "status": "done",
+   "note": "both flagged tags confirmed; no change"
   },
   {
    "id": "matthew-24-XXXVIII",
@@ -313,8 +313,8 @@
    "chapter": 24,
    "num": "XXXVIII",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:46:28Z"
+   "status": "done",
+   "note": "3 tags changed (para 7 to vv. 3–4; para 21 to vv. 16–20; para 23 to vv. 16–18); 4 confirmed"
   },
   {
    "id": "matthew-25-XL",
@@ -322,8 +322,8 @@
    "chapter": 25,
    "num": "XL",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:46:28Z"
+   "status": "done",
+   "note": "3 tags changed (para 23, closing moral on the talents, untagged; para 34, exhortation, to vv. 34, 41, 46; para 35, why works of mercy, to vv. 35–36, 42–43); 4 confirmed"
   },
   {
    "id": "matthew-26-XLI",
@@ -331,8 +331,8 @@
    "chapter": 26,
    "num": "XLI",
    "flagged": 15,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:46:28Z"
+   "status": "done",
+   "note": "3 tags changed (para 1, introduction, untagged; para 19, the spiritual anointing, v. 13 to v. 7; para 35 adds the quoted vv. 21, 23–24); 12 confirmed"
   },
   {
    "id": "matthew-26-XLII",
@@ -340,8 +340,8 @@
    "chapter": 26,
    "num": "XLII",
    "flagged": 3,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:46:28Z"
+   "status": "done",
+   "note": "all 3 flagged tags confirmed; no change"
   },
   {
    "id": "matthew-27-XLIII",
