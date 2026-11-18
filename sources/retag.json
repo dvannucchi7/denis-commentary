@@ -7,7 +7,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 8,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:41:12Z"
   },
   {
    "id": "matthew-1-II",
@@ -15,7 +16,8 @@
    "chapter": 1,
    "num": "II",
    "flagged": 8,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:41:12Z"
   },
   {
    "id": "matthew-1-III",
@@ -23,7 +25,8 @@
    "chapter": 1,
    "num": "III",
    "flagged": 7,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:41:12Z"
   },
   {
    "id": "matthew-2-IV",
