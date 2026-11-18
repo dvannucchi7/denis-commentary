@@ -644,9 +644,10 @@
     209,
     215
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:41:52Z"
+   "claimed": "2026-11-18T12:41:52Z",
+   "note": "Margin numerals corrected with notes: Is. i, 9 → Is 50:9; Ibid. v. 20 (after John 8) → John 10:20; Is. liii, 14 → Is 52:14; Ibid. ii, 2 (Mark) → Mark 3:2. Margin note 'Joannes Baptista, Ibid. iii, 36': words Denis gives to Christ are the Baptist's (John 3:36), noted. Tagged without margin note (source named): Ps 21:2, Ps 68:8. 'quæserunt' (v. 24) kept as printed."
   },
   {
    "id": "psalms-039",
@@ -657,9 +658,10 @@
     215,
     222
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:41:52Z"
+   "claimed": "2026-11-18T12:41:52Z",
+   "note": "End of the article (from '…die Pentecostes et postmodum…' to the end of the Precatio) was in the cut file of psalms-040 (lines 7–14); joined here. Margin corrections with notes: Job xii, 24 → Job 41:24; Gal. iii, 16 kept as reference-only, quoted words tagged Gen 22:18 / Gal 3:8. Margin '* auferretur' correction of printed 'auferatur' given in a note. Tagged without margin note (source named): 2 Thess 2:8, Zach 9:10, Luke 2:14. No comment on v. 20 here (Art. XL treats it as Ps 72's title)."
   },
   {
    "id": "psalms-040",
