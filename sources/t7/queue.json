@@ -162,8 +162,9 @@
     100,
     106
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:26:39Z"
   },
   {
    "id": "proverbs-013",
@@ -174,8 +175,9 @@
     106,
     112
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:26:39Z"
   },
   {
    "id": "proverbs-014",
