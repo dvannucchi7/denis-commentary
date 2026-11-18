@@ -374,9 +374,10 @@
     194,
     198
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T22:04:49Z"
+   "claimed": "2026-11-18T22:04:49Z",
+   "note": "Published (scheduled run, worker). End of the article (vv. 25 end–28, PDF 198 right column) taken from proverbs-029.txt lines 7–8. Margin 'Ibid. xxx, 23' at v. 14 is Job 31:23 (noted). Ezech 45:9 'separate eorum vestra' kept as printed (garbled; Vulgate confinia vestra)."
   },
   {
    "id": "proverbs-029",
@@ -387,9 +388,10 @@
     198,
     203
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T22:04:49Z"
+   "claimed": "2026-11-18T22:04:49Z",
+   "note": "Published (scheduled run, worker). v. 1 joined across a column break ('dura cervice cordis | impatienter se habet'); the sentence seems short by a word ('contemnit'?): check the scan. '[…]' at v. 27 dropped (sense runs on). 'Gloria patris, filius sapiens' (v. 17) not in the Vulgate: left unmarked with a note."
   },
   {
    "id": "proverbs-030",
@@ -400,9 +402,10 @@
     203,
     214
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T22:04:49Z"
+   "claimed": "2026-11-18T22:04:49Z",
+   "note": "Published (scheduled run, two workers). DOUAY-RHEIMS DATA BUG: data/bible/drc/proverbs.json has v. 29's text under 30:19 and 30:29 empty, so the lemmata of 30:19 and 30:29 are plain English without markers; once the Bible file is fixed they should get markers. Also 30:22 reads 'when be is filled'. Kept as printed with notes: investigabiliter, alii destituti, instituisset; 'hericiaciis' (Ps 103:18) probably garbled. 'Ps. lxvi, 5' read as Ps 56:5, 'Is. iii … 13' as Is 3:15 (noted)."
   },
   {
    "id": "proverbs-031",
