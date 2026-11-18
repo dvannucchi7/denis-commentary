@@ -589,10 +589,9 @@
     254,
     257
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:55:07Z"
+   "note": "needs scan: a line or more lost at the start of v. 13 (PDF 256), and right-column line-ends cut off at vv. 4–8 (filled only where certain)."
   },
   {
    "id": "ii-corinthians-007-3",
@@ -603,10 +602,9 @@
     257,
     260
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:55:07Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "ii-corinthians-008-3",
