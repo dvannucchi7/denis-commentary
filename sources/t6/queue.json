@@ -1987,9 +1987,10 @@
     646,
     653
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:40:38Z"
+   "claimed": "2026-11-18T20:40:38Z",
+   "note": "Published (scheduled run, worker). Margin numerals corrected with notes: Ps 68:3 ('lxxviii, 3'), Ps 44:17 ('xvii, 17'), Matt 19:27 ('xx, 27'); part of the Matth. vii, 22-23 quotation is Luke 13:27 (noted); 'Ibid. xvi' taken as Mark 16:7 (noted)."
   },
   {
    "id": "psalms-055-2",
@@ -2000,9 +2001,10 @@
     653,
     657
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:40:38Z"
+   "claimed": "2026-11-18T20:40:38Z",
+   "note": "Published (scheduled run, worker). Margin numerals corrected: Job 9:2-3, 9:13-14 ('ii, 2, 3'), 1 Cor 8:3 ('xiii, 3'), Ps 18:13 ('xvii, 13'); margin variant '* devoti' for docti noted. Denis passes over vv. 17, 20-22."
   },
   {
    "id": "psalms-056-2",
@@ -2013,9 +2015,10 @@
     657,
     660
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:40:38Z"
+   "claimed": "2026-11-18T20:40:38Z",
+   "note": "Published (scheduled run, worker) with a gap: PDF 657 (p. 647), introduction: 'Cujus scripturam allegant Joannes et Paulus de' / 'hoc scriptum est, Delicta mea…' — a line seems lost at the column break (perhaps 'Christo; et tamen in eo de'), marked […]. Margin 'Ps. xviii, 8' is Ps 23:8 (noted); 'Ibid. xi, 19' taken as Jer 11:19."
   },
   {
    "id": "psalms-057-2",
@@ -2026,9 +2029,10 @@
     660,
     663
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:40:38Z"
+   "claimed": "2026-11-18T20:40:38Z",
+   "note": "Published (scheduled run, worker). Margin numerals corrected with notes: Ps 126:1 ('xxvi, 1'), Ecclus 27:30-31 ('xxxii, 30, 31'), Prov 29:20 ('xxx, 20'), Ps 9:35 ('x, 14, sec. Hebr.')."
   },
   {
    "id": "psalms-058-2",
