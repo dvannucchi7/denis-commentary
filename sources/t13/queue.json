@@ -1313,9 +1313,9 @@
     507,
     511
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Hebrews 4, Art. IV (pp. 485–489). Margin 'Joann. xi,' (no verse) taken as John 11:26; 'Matth. iv, 1-11; xxii, 16-18, 35' given as reference-only Matt 4:1, 22:18, 22:35. Doubtful readings kept and noted: 'Cur autem testimonium sit', 'illi sunt mecum', 'qui distinctus est Osee et Jesus' (probably 'dictus').",
    "claimed": "2026-11-18T07:36:15Z"
   },
   {
@@ -1327,9 +1327,9 @@
     511,
     514
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Hebrews 5, Art. V (pp. 489–492) with a small gap at v. 12 ('[…] id est simplicis doctrinæ', probably the lemma 'exordii'). Two margin notes unreadable (taken as Gal 5:17 and Num 17:8). Margin numerals corrected and noted: John 5:41, John 8:50, Heb 7:25, John 17:1, John 19:30, 1 John 5:20 (margin 'Joann. v, 20'). Douay-Rheims data: John 17:1 lacks 'Father,'.",
    "claimed": "2026-11-18T07:36:15Z"
   },
   {
