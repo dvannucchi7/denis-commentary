@@ -66,9 +66,10 @@
     62,
     65
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:11:23Z"
+   "claimed": "2026-11-18T21:11:23Z",
+   "note": "Published (scheduled run, worker). Margin 'Jer. x' does not fit: the words are Jer 23:24 (noted). Psalm number of the margin for 'Iniquitates meæ supergressæ' unreadable: Ps 37:5 marked (noted). Ps 48:13/21: v. 21 quoted, v. 13 ref-only. Denis reads 'Ipse iniquus morietur' at v. 23 (noted). Cyril's 'Proverbs' glossed as probably the Speculum sapientiae (uncertain). Douay-Rheims slip: Is 12:3 'Thou shall draw'."
   },
   {
    "id": "proverbs-006",
@@ -79,9 +80,10 @@
     65,
     72
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:11:23Z"
+   "claimed": "2026-11-18T21:11:23Z",
+   "note": "Published (scheduled run, two workers, split at v. 16). '[…]' in the first line ('de diligentia […] circa fidejussionem', PDF 65): check the scan. Margin readings corrected with notes: 'Ecclus. xxix, 20' → Ecclus 29:19 (DR numbering); 'Philip. 12' → Phil 2:12 (ref-only); 'Is. lvi' → Is 56:10; 'Ps. lxxxviii, 12' → Ps 78:12; 'Ezech. xvi' → Ezech 16:52 (ref-only, loose). Range margins (Ex 22:1–4, 7–13; Deut 22:22–25; Jer 3:1–13; Ezech 16:15–34) given ref-only markers to their first verse. Denis's readings noted: v. 5 'de insidiis aucupis', v. 15 'morte improvisa' in italics, v. 31 italics run past the Vulgate."
   },
   {
    "id": "proverbs-007",
