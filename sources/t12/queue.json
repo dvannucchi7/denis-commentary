@@ -625,10 +625,9 @@
     467,
     473
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 10,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T01:51:48Z"
+   "note": "Unconfirmed margin readings (unread or misread numerals; verses fit the words): 1 Tim 3:15, Ecclus 15:3, Is 51:3, Is 51:11 (also Is 35:10), Is 64:4, Col 2:5, Jer 23:21. Column edges of PDF 470-471 were clipped in the OCR; restored by the sense (e.g. ante eas vadit, signum, subditos)."
   },
   {
    "id": "john-26",
