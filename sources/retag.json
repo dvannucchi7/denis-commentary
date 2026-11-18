@@ -17,7 +17,7 @@
    "num": "II",
    "flagged": 8,
    "status": "done",
-   "note": "2 tags removed (general questions on the whole genealogy, paras 5\u20136); 6 confirmed"
+   "note": "2 tags removed (general questions on the whole genealogy, paras 5–6); 6 confirmed"
   },
   {
    "id": "matthew-1-III",
@@ -241,7 +241,8 @@
    "chapter": 15,
    "num": "XXVIII",
    "flagged": 5,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:45:56Z"
   },
   {
    "id": "matthew-16-XXIX",
@@ -249,7 +250,8 @@
    "chapter": 16,
    "num": "XXIX",
    "flagged": 2,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:45:56Z"
   },
   {
    "id": "matthew-18-XXXII",
@@ -257,7 +259,8 @@
    "chapter": 18,
    "num": "XXXII",
    "flagged": 8,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:45:56Z"
   },
   {
    "id": "matthew-19-XXXIII",
@@ -265,7 +268,8 @@
    "chapter": 19,
    "num": "XXXIII",
    "flagged": 1,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:45:56Z"
   },
   {
    "id": "matthew-20-XXXIV",
@@ -273,7 +277,8 @@
    "chapter": 20,
    "num": "XXXIV",
    "flagged": 4,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:45:56Z"
   },
   {
    "id": "matthew-21-XXXV",
@@ -281,7 +286,8 @@
    "chapter": 21,
    "num": "XXXV",
    "flagged": 9,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:45:56Z"
   },
   {
    "id": "matthew-22-XXXVI",
@@ -899,7 +905,7 @@
    "num": "II",
    "flagged": 16,
    "status": "done",
-   "note": "1 tag removed (introduction on theology and philosophy); the rest discuss v. 1\u20133"
+   "note": "1 tag removed (introduction on theology and philosophy); the rest discuss v. 1–3"
   },
   {
    "id": "john-1-III",
@@ -908,7 +914,7 @@
    "num": "III",
    "flagged": 18,
    "status": "done",
-   "note": "9 tags removed (the question whether the Trinity can be known by natural reason); the rest discuss vv. 3\u20135"
+   "note": "9 tags removed (the question whether the Trinity can be known by natural reason); the rest discuss vv. 3–5"
   },
   {
    "id": "john-1-IV",
