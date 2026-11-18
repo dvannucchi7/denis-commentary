@@ -747,10 +747,9 @@
     535,
     544
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 14,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T02:21:12Z"
+   "note": "Published with gaps (PDF 536-544, pp. 526-534; John 14:1-14). OCR lost a line or two at the foot of PDF 541 left column (p. 531; on v. 10, before 'Pater in me est. Pater igitur facit opera') and some lines at the foot of PDF 541 right / top of PDF 542 (on v. 12, 'Hoc constat in Apostolis adimpletum, quoniam [...] quam Christus. Ipsi quoque converterunt [...] eos qui nec legem scriptam receperunt'); marked [...] in the article. Margin numerals for 'Pater meus qui est in coelis' list several chapters of Matthew; Matt 16:17 used."
   },
   {
    "id": "john-36",
