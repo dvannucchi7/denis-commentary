@@ -1225,9 +1225,10 @@
     423,
     434
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:23:00Z"
+   "claimed": "2026-11-18T16:23:00Z",
+   "note": "Published (scheduled run, two workers). This item held two articles: Art. I (in the person of a penitent) and Art. II (allegorical, of Christ; its ARTICULUS II line was lost in the transcription, running head PDF 431 confirms Art. II), both now in Ps 101. Margin numerals corrected with notes: II Cor. vii, 7–9 = 2 Cor 12:7; Jer. xlviii, 30 = 48:36; Judic. xi, 18 = Judg 2:18; Is. liii, 14 = Is 52:14. '[…]' at a page break in Apoc 21:1 (PDF ~429) dropped as the words run on: check the scan. Data slip: 1 Par 29:15 in data/bible/drc has a stray 'I' ('…fathers. I Our days…')."
   },
   {
    "id": "psalms-003-2",
