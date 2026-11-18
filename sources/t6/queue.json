@@ -1477,9 +1477,10 @@
     525,
     527
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:23:26Z"
+   "claimed": "2026-11-18T17:23:26Z",
+   "note": "Margin Job xxxi, 21 read as Job 32:21; Jer. xxiv, 19 as Jer 49:19; 'Ibid. xiv' as Luke 14:11 (notes in text). The source file began with lines from the end of Ps 111's article, left out here."
   },
   {
    "id": "psalms-022-2",
@@ -1490,9 +1491,10 @@
     527,
     531
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:23:26Z"
+   "claimed": "2026-11-18T17:23:26Z",
+   "note": "Margin Gen. i, 23 read as Gen 50:23; Is. xliii, 8 as Is 42:8; Ps. lxxxviii, 8 as Ps 83:8; Gen. xxxv, 28 as Gen 32:28 (notes in text)."
   },
   {
    "id": "psalms-023-2",
@@ -1503,7 +1505,7 @@
     531,
     534
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-18T17:23:26Z"
   },
@@ -1516,9 +1518,10 @@
     534,
     537
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:23:26Z"
+   "claimed": "2026-11-18T17:23:26Z",
+   "note": "Margin Rom. xi, 24 read as Rom 7:24. Douay-Rheims data slips seen: Wis 11:23 'upon tho earth', Jer 31:16 'thy eyes tears' (missing 'from')."
   },
   {
    "id": "psalms-025-2",
