@@ -95,9 +95,9 @@
     55,
     61
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published with small gaps (Rom 4:1-25, pp. 33-39). The transcription marks lines lost in v. 3 (after 'In semine tuo benedicentur omnes gentes :', p. 33), v. 16 (after 'ut secundum gratiam Dei', p. 38) and v. 17 (after 'inane reputatae sunt ei :'). The cut article stopped at 'Tradidit in mor-' (v. 25); the rest of v. 25 was taken from transcribed/p61.txt. Please check those three places against the scan. Is 44:22 given for the margin's Is. xlv, 22; Ps 144:14 and 145:8 for 'Ps. xxxiv, 14; cxliv, 8'.",
    "claimed": "2026-11-18T02:57:27Z"
   },
   {
