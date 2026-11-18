@@ -520,8 +520,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 13,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:50:34Z"
+   "status": "done",
+   "note": "all 13 tags removed: the article is a prologue on the Gospel law, treating no verse"
   },
   {
    "id": "luke-1-II",
@@ -529,8 +529,8 @@
    "chapter": 1,
    "num": "II",
    "flagged": 12,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:50:34Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 50 to v. 24); 11 confirmed"
   },
   {
    "id": "luke-1-III",
@@ -538,8 +538,8 @@
    "chapter": 1,
    "num": "III",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:50:34Z"
+   "status": "done",
+   "note": "2 tags narrowed (paras 2–3, Nazareth and Gabriel's embassy, to v. 26)"
   },
   {
    "id": "luke-1-IV",
@@ -547,8 +547,8 @@
    "chapter": 1,
    "num": "IV",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:50:34Z"
+   "status": "done",
+   "note": "2 tags changed (para 6 moved to v. 46, the 'magnify' it discusses; para 21, on the canticle as a whole, untagged); 5 confirmed"
   },
   {
    "id": "luke-1-V",
@@ -556,8 +556,8 @@
    "chapter": 1,
    "num": "V",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:50:34Z"
+   "status": "done",
+   "note": "1 tag removed (para 36, closing exhortation on the whole canticle); 7 confirmed"
   },
   {
    "id": "luke-2-VI",
