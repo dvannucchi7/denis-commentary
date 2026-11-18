@@ -1382,10 +1382,9 @@
     526,
     531
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T07:41:56Z"
+   "note": "Published as Hebrews 9, Art. IX (pp. 504–509) with gaps where the transcription has […]: v. 4 (after 'arcam testamenti' and after 'annis quadraginta in deserto'), v. 17 ('Testamentum enim […]', end of paragraph) and vv. 20–21 (three gaps around 'Etiam … similiter adspersit, non tunc quando […]'). v. 1: printed 'immunditiam' kept in the Latin, rendered as 'cleanness' (munditiam) with a note. Margin numerals corrected (noted): Exod. xxv, 33 → Ex 26:33; Rom. viii, 24 → Rom 8:34; Ibid. xxx, 23 → Num 31:23; Joann. xxvi, 20 → John 18:20. Rom 5:9 at v. 28 fits only loosely (reference-only). vv. 14–21 have no italics in the transcription; lemmata found by the Vulgate."
   },
   {
    "id": "hebrews-010-4",
@@ -1396,10 +1395,9 @@
     531,
     536
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T07:41:56Z"
+   "note": "Published as Hebrews 10, Art. X (pp. 509–514) with a gap at v. 5 ('Christus Filius Dei […] assumens'). Unreadable margins identified (noted): 'Is. […]' = Is 45:25; 'Judith viii, […]' = Jdt 8:24–25. Margins that did not fit (noted in the text): 'Ps. xxx?' beside David's words = 2 Kings 24:14; 'Ibid. xxxi, 6' taken as Deut 31:6; 'Habac. ii, 3' beside a quotation of Apoc 3:3 (Hab 2:3 kept as reference-only at v. 37); 'Hebr. x, 32' at v. 36 fits nothing; 'Ezech. xx' (no verse) fits nothing. Renumbered: Ps 110:1 → Ps 109:1, Ps 125:6 → 125:7. Douay-Rheims slip noticed: Heb 10:25 'one anther'."
   },
   {
    "id": "hebrews-011-4",
