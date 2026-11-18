@@ -920,9 +920,9 @@
     621,
     626
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 21,
-   "note": "batch stopped (API credit ran out)",
+   "note": "Margin numerals guessed where misread: Luke 5:1, Matt 4:21 (margin 'iv, 21'), John 2:1, Matt 19:27 (margin read 'Meth,'), Ps 89:15 (margin 'lxxxix, 15'), Matt 14:26, 29, John 20:14, Ps 88:10, Gen 1:20, Luke 24:30, 35. Margin notes on PDF 625-626 after v. 14 belong to Art. L.",
    "claimed": "2026-11-18T02:49:42Z"
   },
   {
