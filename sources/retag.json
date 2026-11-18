@@ -7,8 +7,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:41:12Z"
+   "status": "done",
+   "note": "all 8 flagged tags confirmed (paragraphs discuss the verse); no change"
   },
   {
    "id": "matthew-1-II",
@@ -16,8 +16,8 @@
    "chapter": 1,
    "num": "II",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:41:12Z"
+   "status": "done",
+   "note": "2 tags removed (general questions on the whole genealogy, paras 5–6); 6 confirmed"
   },
   {
    "id": "matthew-1-III",
@@ -25,8 +25,8 @@
    "chapter": 1,
    "num": "III",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:41:12Z"
+   "status": "done",
+   "note": "all 7 flagged tags confirmed; no change"
   },
   {
    "id": "matthew-2-IV",
