@@ -871,8 +871,8 @@
    "chapter": 17,
    "num": "XL",
    "flagged": 11,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:38Z"
+   "status": "done",
+   "note": "1 tag widened (para 7, the 'woe' of scandal, v. 2 to vv. 1–2); 10 confirmed"
   },
   {
    "id": "luke-18-XLI",
@@ -880,8 +880,8 @@
    "chapter": 18,
    "num": "XLI",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:38Z"
+   "status": "done",
+   "note": "all 7 flagged tags confirmed; no change"
   },
   {
    "id": "luke-19-XLII",
@@ -889,8 +889,8 @@
    "chapter": 19,
    "num": "XLII",
    "flagged": 6,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:38Z"
+   "status": "done",
+   "note": "2 tags changed (para 6, climbing to seek Christ, v. 5 to vv. 4–5; para 13, Zacheus's restitution as example, v. 10 to v. 8); 4 confirmed"
   },
   {
    "id": "luke-20-XLIII",
@@ -898,8 +898,8 @@
    "chapter": 20,
    "num": "XLIII",
    "flagged": 12,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:38Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "luke-21-XLIV",
@@ -907,8 +907,8 @@
    "chapter": 21,
    "num": "XLIV",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:38Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "luke-21-XLV",
@@ -916,8 +916,8 @@
    "chapter": 21,
    "num": "XLV",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:55:38Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "luke-22-XLVI",
