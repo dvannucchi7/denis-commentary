@@ -1514,10 +1514,9 @@
     613,
     623
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T10:12:37Z"
+   "note": "published (Art. VI, James 4); small gaps in the transcription: PDF 615 (lemma \"An putatis\", v. 5, lost at the page foot, supplied from the verse) and PDF 619 (a word or two lost after \"ex aliis piis causis\", v. 9); v. 2 lemma read as \"Concupiscitis\" for the printed \"Concupiscentiæ\"; check against the scan"
   },
   {
    "id": "james-007-5",
@@ -1528,10 +1527,9 @@
     623,
     633
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T10:12:37Z"
+   "note": "published (Art. VII, James 5); gaps in the transcription: PDF 623 (\"nudorum indumen[…]\", v. 3) and PDF 625 (\"tunc scietis quia ego sum, […]\", v. 6); v. 10 lemma \"exitus mortis\" corrected to \"exitus mali\"; check against the scan"
   },
   {
    "id": "i-peter-001-16",
