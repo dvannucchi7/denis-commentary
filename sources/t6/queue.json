@@ -1379,9 +1379,10 @@
     490,
     493
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:57:00Z"
+   "claimed": "2026-11-18T16:57:00Z",
+   "note": "Published (scheduled run, one worker). Lines 7–11 of the cut file (end of Art. XII and its Precatio) belong to Art. XII and were left out (XII already has them). Margins corrected with notes: Joann. xiv, 20 → John 8:29; Ps. cxlix → Ps 149:4; John 17:6 wording closer to 17:26. v. 5: Denis calls the Apostles 'cœli' where the verse has 'nubes' (note). Acts 9:15 'kings and princes' differs from the Vulgate (note)."
   },
   {
    "id": "psalms-014-2",
@@ -1392,9 +1393,10 @@
     493,
     497
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:57:00Z"
+   "claimed": "2026-11-18T16:57:00Z",
+   "note": "Published (scheduled run, one worker). Margin I Cor. xii, 13 → 2 Cor 12:15 (note); Gen. xlviii, 17–20 as a reference-only Gen 48:20; Matth. x, 32 / Luc. xii, 8 mixed (Matt 10:32 marked, Luke 12:8 reference-only). 'De nobis auxilium' printed as 'Da nobis' (v. 13)."
   },
   {
    "id": "psalms-015-2",
