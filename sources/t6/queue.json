@@ -360,8 +360,9 @@
     123,
     125
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T11:53:48Z"
   },
   {
    "id": "psalms-019",
@@ -372,8 +373,9 @@
     125,
     128
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T11:53:48Z"
   },
   {
    "id": "psalms-020",
@@ -384,8 +386,9 @@
     128,
     130
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T11:53:48Z"
   },
   {
    "id": "psalms-021",
@@ -396,8 +399,9 @@
     130,
     132
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T11:53:48Z"
   },
   {
    "id": "psalms-022",
