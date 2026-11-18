@@ -1229,9 +1229,9 @@
     475,
     477
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Titus 2, Art. II (pp. 453–455) with gaps at 2:1 (PDF 475): 'tu, a[…] doctrinam […] aliorum antistes ac prædicator, […] legem quam prædicas' (fragments '_entiæ_', '_nestas tui_' dropped). The cut file held a block on Titus 1:15–16 ('autem, id est vitiosis … ad omne opus bonum reprobi'; margins 1 John 2:4, Rom 1:21, Wis 1:4) that belongs to Art. I: left out here; check Art. I has it. The end (2:14–15) stood in the right column of PDF 477 and was cut into Art. III's file: put back. 'credimus nos' read as 'erudiens nos' (2:12 lemma). Ps 38:2 and Ecclus 27:12 given as reference-only (loose).",
    "claimed": "2026-11-18T07:15:07Z"
   },
   {
@@ -1243,9 +1243,9 @@
     477,
     481
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Titus 3, Art. III (pp. 455–457) with gaps: 3:1 'In hoc […]' at the column end and the start of 3:2 ('neminem') lost (PDF 477); 3:10–11 'noluerit, […]: sciens' (PDF 479, probably 'devita'). Kept 'et servientes per devia' (3:3; sense calls for 'errantes'), noted. Margin 'Joann. iii, 3' is John 3:5 (noted). Without margin note: Rom 13:2, Is 53:6, Rom 8:17, Bar 3:38. Also: the transcription of PDF 480 failed (the file holds a model refusal, not text); it is after the end of this article, so check whether that page holds anything (e.g. the start of Philemon).",
    "claimed": "2026-11-18T07:15:07Z"
   },
   {
