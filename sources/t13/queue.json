@@ -734,10 +734,9 @@
     302,
     307
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T06:14:22Z"
+   "note": "needs scan: line-ends and words lost at vv. 22–25 (PDF 305–306), and at vv. 29–30 (PDF 306–307); published with fragments."
   },
   {
    "id": "galatians-005-4",
