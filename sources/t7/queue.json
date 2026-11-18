@@ -248,9 +248,10 @@
     142,
     148
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:41:30Z"
+   "claimed": "2026-11-18T21:41:30Z",
+   "note": "Published (scheduled run, worker). v. 1 Denis prints execrabilis (margin variant exprobrabilis), noted. Gen 19:7–9 quoted loosely: 19:7 reference-only, 19:9 marked in part. Bernard passage: Ps 26:3 and Gal 5:17 reference-only. Luke 14:11 marked with 18:14 in a note; Matt 5:32 / 19:9 reference-only. Ps 132:1 tagged without margin note (Denis names the Psalmist). Several of Denis's readings differing from the Vulgate noted."
   },
   {
    "id": "proverbs-019",
@@ -261,9 +262,10 @@
     148,
     159
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:41:59Z"
+   "claimed": "2026-11-18T21:41:59Z",
+   "note": "Published (scheduled run, two workers). Art. XIX treats chapters 19 AND 20 (no separate heading for ch. 20; the next article is numbered XXI): published under both chapters. Its last lines (20:30, 'do æquanimiter toleretur … vigent in homine.', top of PDF 159 right column) had been cut into proverbs-021.txt and were taken from there. 20:5 transcription garbled ('igno- * sed tum est'), read as 'ignotum est aliis; sed homo sapiens'. III Esdr. 3:18–24 (not in the DR) given as a note. Douay-Rheims data slip: Lev 24:20 reads 'eye for ere'."
   },
   {
    "id": "proverbs-021",
@@ -276,7 +278,8 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:48:17Z"
+   "claimed": "2026-11-18T21:48:17Z",
+   "note": "Lines 24–42 of articles/proverbs-021.txt ('do æquanimiter toleretur pœna … vigent in homine.') are the end of Art. XIX (Prov 20:30), already published there: leave them out of Art. XXI."
   },
   {
    "id": "proverbs-022",
