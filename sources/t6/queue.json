@@ -714,9 +714,10 @@
     240,
     241
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:53:28Z"
+   "claimed": "2026-11-18T12:53:28Z",
+   "note": "Margin corrections with notes: 1 Esdr. v, 4 → 1 Esd 5:1; Eccli. xliii, 17 → Ecclus 42:17; Jer. xxiii, 23 → Jer 29:23. Mich 2:3 tagged without margin note (Denis names Micheas)."
   },
   {
    "id": "psalms-044",
@@ -727,9 +728,10 @@
     241,
     245
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:53:28Z"
+   "claimed": "2026-11-18T12:53:28Z",
+   "note": "Margin corrections with notes: Amos 'Ibid. i, 14' → Amos 6:14; Ps. xxxiv, 10 → Ps 24:10; Matth. xx, 22–23 → v. 23. Chapter-only notes (Dan. iii, vi, xiii, xiv; Jer. li) given as v. 1. Page-break 'fatalem / talem' read as 'fatalem'. 'Deus proprie Deus vocatur' kept as printed (a 'Jacob' may have dropped out; check the scan)."
   },
   {
    "id": "psalms-045",
@@ -740,9 +742,10 @@
     245,
     248
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:53:28Z"
+   "claimed": "2026-11-18T12:53:28Z",
+   "note": "Title variant 'in carminibus' (margin: laudibus) kept with a note. Margin 'II Par. xxx et xxx' given as 2 Par 29:1 and 30:1 (reference-only, noted). Margin Dan. xiv, 42: Denis's words run on into Dan 6:27; both tagged, noted. Margin 'v. 5' before 'Dormierunt' taken as v. 6."
   },
   {
    "id": "psalms-046",
@@ -753,9 +756,10 @@
     248,
     253
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:53:28Z"
+   "claimed": "2026-11-18T12:53:28Z",
+   "note": "Margin 'Luc. v, 5' taken as Luke 10:5 (noted). Old Latin form of Is 66:2 given reference-only with a note. 'Surgite, mortui, venite ad judicium' is not Scripture; 1 Cor 15:52 marked on 'tuba canet' only, noted. Tagged without margin note (source named): Eccles 5:3, Lam 4:12. Douay-Rheims slip: data/bible/drc 1 Thess 4:15 holds the text of Vulgate 4:16."
   },
   {
    "id": "psalms-047",
