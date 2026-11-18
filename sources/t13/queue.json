@@ -275,9 +275,10 @@
     137,
     141
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T03:26:26Z"
+   "claimed": "2026-11-18T03:26:26Z",
+   "note": "Translated by a scheduled run. Unreadable margin note 'Psal. […]' identified as Ps 17:16 (word for word). Margin II Reg. xv, 3 for Absalom's kisses given as 2 Kings 15:5. Obvious quotations without margin notes tagged: 1 John 3:16, John 14:31, Tit 1:2. Denis skips vv. 9-10, 12, 14-15."
   },
   {
    "id": "i-corinthians-001-2",
