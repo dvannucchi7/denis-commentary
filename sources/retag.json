@@ -1078,7 +1078,8 @@
    "chapter": 1,
    "num": "II",
    "flagged": 4,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "romans-1-III",
@@ -1086,7 +1087,8 @@
    "chapter": 1,
    "num": "III",
    "flagged": 5,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "romans-1-IV",
@@ -1094,7 +1096,8 @@
    "chapter": 1,
    "num": "IV",
    "flagged": 1,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "romans-8-XI",
@@ -1102,7 +1105,8 @@
    "chapter": 8,
    "num": "XI",
    "flagged": 8,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "romans-8-XII",
@@ -1110,7 +1114,8 @@
    "chapter": 8,
    "num": "XII",
    "flagged": 2,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "ii-corinthians-11-XI",
@@ -1118,7 +1123,8 @@
    "chapter": 11,
    "num": "XI",
    "flagged": 1,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "galatians-2-II",
@@ -1126,7 +1132,8 @@
    "chapter": 2,
    "num": "II",
    "flagged": 3,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "ephesians-1-I",
@@ -1134,7 +1141,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 4,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "ephesians-3-III",
@@ -1142,7 +1150,8 @@
    "chapter": 3,
    "num": "III",
    "flagged": 2,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "ephesians-5-V",
@@ -1150,7 +1159,8 @@
    "chapter": 5,
    "num": "V",
    "flagged": 1,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "ii-thessalonians-1-I",
@@ -1158,7 +1168,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 1,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "hebrews-6-VI",
@@ -1166,7 +1177,8 @@
    "chapter": 6,
    "num": "VI",
    "flagged": 3,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:59:37Z"
   },
   {
    "id": "james-1-II",
