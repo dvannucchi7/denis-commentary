@@ -1488,10 +1488,9 @@
     594,
     604
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T08:04:48Z"
+   "note": "Published as James 2, Art. IV (pp. 572–582) with a gap at v. 15 (the transcription goes from 'et in-' to 'dicat': the lemma 'indigeant victu quotidiano' is lost; noted). Margins that did not fit (noted): Ps. v, 11 → Ps 9:35; Eccli. xxviii, 16, 17 → Ecclus 18:16–17; Ps. cxliv (chapter only) → Ps 144:9. Unreadable margins supplied from the words (noted): Ecclus 4:7, Is 41:8. At v. 8 the margin 'Lev. xix, 18; Matth. v, 43' stands beside the lemma (reference-only markers). The v. 6 lemma was bracketed in the transcription. Translated in two parts (split at the v. 12 lemma); recheck 'obvious' hits left are parallel passages of tagged quotations."
   },
   {
    "id": "james-005-8",
@@ -1502,10 +1501,9 @@
     604,
     613
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T08:04:48Z"
+   "note": "Published as James 3, Art. V (pp. 582–591), but the transcription stops mid-sentence at v. 18 ('…est seminatio respectu futuræ remunerationis,'): the end of the article (PDF 613) is missing, marked […] and with a note at the top of the article. Unreadable margins supplied (noted): 'Ps. […]' = Ps 72:9; one beside 'Est confusio adducens gratiam' = Ecclus 4:25. Margins that did not fit (noted): Eccli. xx, 10 → Eccles 7:10; 'Matt. xxiii, passim' → Matt 23:13. Unclear word 'immansive' translated 'obstinately' (noted). Translated in two parts (split at v. 9)."
   },
   {
    "id": "james-006-7",
