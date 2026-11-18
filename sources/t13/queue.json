@@ -965,9 +965,9 @@
     399,
     401
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 1 Thessalonians 1, Art. I (pp. 377-379). 'Act. xv-xvii' marked Acts 15:22 and the unread 'Ibid. […]' Acts 15:32 (both noted). Denis's readings 'Patrem vestrum' (v. 3), 'perfecta est' (v. 8), 'de vobis' (v. 9) noted. Doubled words in the transcription at v. 5 dropped.",
    "claimed": "2026-11-18T06:44:19Z"
   },
   {
@@ -979,9 +979,9 @@
     401,
     405
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 1 Thessalonians 2, Art. II (pp. 379-383). A sentence ('Effectum vero redemptionis … induet immortalitatem') stands in the transcription in the middle of the word 'Pro-pter' near the start (PDF 401-402); kept as its own untagged paragraph with a note: please check where it belongs on the scan. Small gap at v. 11 ('Tanquam pater filios suos […]'). Editor's footnote on 'emolimenta' dropped from the text (noted). Margin numerals corrected with notes: Prov 24:28, John 7:16, John 15:20, Ps 68:24-25 (Vulgate), Acts 16:12 (reference-only). Jer 12:8 and Ps 52:6 tagged with no margin note.",
    "claimed": "2026-11-18T06:44:19Z"
   },
   {
