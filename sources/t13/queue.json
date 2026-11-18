@@ -669,9 +669,10 @@
     275,
     279
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:03:14Z"
   },
   {
    "id": "ii-corinthians-013-3",
@@ -682,9 +683,10 @@
     279,
     285
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:03:14Z"
   },
   {
    "id": "galatians-001-4",
