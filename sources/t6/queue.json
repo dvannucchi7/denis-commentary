@@ -1826,8 +1826,9 @@
     619,
     620
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T20:11:29Z"
   },
   {
    "id": "psalms-044-2",
@@ -1838,8 +1839,9 @@
     620,
     625
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T20:11:29Z"
   },
   {
    "id": "psalms-046-2",
