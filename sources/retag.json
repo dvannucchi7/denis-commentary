@@ -17,7 +17,7 @@
    "num": "II",
    "flagged": 8,
    "status": "done",
-   "note": "2 tags removed (general questions on the whole genealogy, paras 5–6); 6 confirmed"
+   "note": "2 tags removed (general questions on the whole genealogy, paras 5\u20136); 6 confirmed"
   },
   {
    "id": "matthew-1-III",
@@ -889,7 +889,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 5,
-   "status": "todo"
+   "status": "done",
+   "note": "5 tags removed (prologue on St John, no verse)"
   },
   {
    "id": "john-1-II",
@@ -897,7 +898,8 @@
    "chapter": 1,
    "num": "II",
    "flagged": 16,
-   "status": "todo"
+   "status": "done",
+   "note": "1 tag removed (introduction on theology and philosophy); the rest discuss v. 1\u20133"
   },
   {
    "id": "john-1-III",
@@ -905,7 +907,8 @@
    "chapter": 1,
    "num": "III",
    "flagged": 18,
-   "status": "todo"
+   "status": "done",
+   "note": "9 tags removed (the question whether the Trinity can be known by natural reason); the rest discuss vv. 3\u20135"
   },
   {
    "id": "john-1-IV",
