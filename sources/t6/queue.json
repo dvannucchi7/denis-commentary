@@ -532,9 +532,10 @@
     162,
     164
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:22:37Z"
+   "claimed": "2026-11-18T12:22:37Z",
+   "note": "Published (scheduled run, worker) with a gap: v. 7 moral reading, 'et dum […] animæ in cunctis deserviens' — text lost at a column/page change (PDF 163–164, pp. 153–154), marked […]; please check the scan. Margin Jer. xxiii, 29 → Jer 22:29 (note). Jer 10:23, Is 6:3, Zach 3:2 tagged where Denis names the source. Slips corrected: perfici→perficit, divinque→divinique."
   },
   {
    "id": "psalms-031",
@@ -545,9 +546,10 @@
     164,
     173
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:22:37Z"
+   "claimed": "2026-11-18T12:22:37Z",
+   "note": "translated by scheduled run (two workers, split at v. 8). Margin Exod. iv, 23 beside words of Ex 9:17 (reference-only Ex 4:23 with note); Wis 7:27, Esth 13:9, Prov 8:31 reference-only (Denis's own wording). Variant readings noted: Is 63:4 retributionis, John 15:24 + gratis, Matt 8:29 ~ Mark 5:7. 'in another place' after Acts = Luke 24:50–51 (note). Article ends mid-v. 19; Art. XXXII continues."
   },
   {
    "id": "psalms-032",
