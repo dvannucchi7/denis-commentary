@@ -374,8 +374,9 @@
     194,
     198
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:04:49Z"
   },
   {
    "id": "proverbs-029",
@@ -386,8 +387,9 @@
     198,
     203
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:04:49Z"
   },
   {
    "id": "proverbs-030",
@@ -398,8 +400,9 @@
     203,
     214
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:04:49Z"
   },
   {
    "id": "proverbs-031",
