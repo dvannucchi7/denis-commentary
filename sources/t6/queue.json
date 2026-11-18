@@ -766,9 +766,10 @@
     253,
     260
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:56:01Z"
+   "claimed": "2026-11-18T12:56:01Z",
+   "note": "translated by scheduled run (two workers, split at v. 11 \"Et dixi, Nunc cœpi\"); margin numerals corrected with notes (2 Mach 10:38 for \"II Mach. v. 38\", Dan 3:26–27 for \"Daniel 26. 27.\", Ezech 22:30); a second margin \"Philipp. iii, 8\" beside the v. 3 paragraph has no quotation there (ref-only, noted; may be a transcriber's repeat); quotations with no margin note tagged where named or word for word (Cant 8:6, Eccles 7:3, Luke 6:24)"
   },
   {
    "id": "psalms-048",
