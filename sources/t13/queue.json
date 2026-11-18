@@ -1201,9 +1201,9 @@
     465,
     469
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 2 Timothy 4, Art. IV (pp. 443–447). The article file also held the end of Art. III (2 Tim 3:15b–17, 'quæ est in Christo Jesu … instructus per Scripturas', left column of PDF 465); left out here. Unconfirmed: v. 4 and v. 9 margin numbers missing; Acts 19:24 (margin 'Ibid. xix, 24') names Demetrius, not Alexander (noted).",
    "claimed": "2026-11-18T07:12:38Z"
   },
   {
@@ -1215,9 +1215,9 @@
     473,
     475
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Titus 1, Art. I (pp. 451–454) with gaps (marked […]): v. 5 (PDF 473, 'id est […] corrigeres'); v. 15 (PDF 475, right column: about eight line-starts lost, from 'Om[…] cooperantur' to '[…]inda deformiter'). The end of the article (vv. 15b–16) was in the titus-002-12 file; 'mundum' after 'nihil est' (v. 15) restored from the Vulgate. The Titus prologue page (PDF 472) is untranscribed.",
    "claimed": "2026-11-18T07:12:38Z"
   },
   {
