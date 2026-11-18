@@ -94,9 +94,10 @@
     72,
     75
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:15:33Z"
+   "claimed": "2026-11-18T21:15:33Z",
+   "note": "Published (scheduled run, worker). Title completed from the right-column heading on p72 ('FILI MI, CUSTODI SERMONES MEOS'). Bible data: Prov 7:1 in both data/bible/drc and the Vulgate file stops at 'Son,' / 'Fili,' (missing 'honour the Lord, and thou shalt be strong: and besides him fear no other'); that half of the lemma is plain English for now. Margin 'Is. ii, 12' → Is 51:12 (noted). Tagged without margin note: 1 Kings 2:30, 2 Mach 15:2, Ps 143:1, Ps 48:15, Matt 16:18. The printed '*victimam' (likely an edition footnote) left out."
   },
   {
    "id": "proverbs-008",
