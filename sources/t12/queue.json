@@ -527,7 +527,8 @@
     397,
     409
    ],
-   "status": "todo",
+   "status": "in-progress",
+   "claimed": "2026-11-18T01:27:00Z",
    "chapter_guess": 6,
    "note": "batch stopped (API credit ran out)"
   },
