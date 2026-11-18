@@ -154,9 +154,10 @@
     68,
     71
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:35:26Z"
+   "claimed": "2026-11-18T11:35:26Z",
+   "note": "translated by scheduled run (worker). Lines 9-13 of the cut file (end of Art. II) left out. Margin Eccle. i, 15 placed at 'difficillime corriguntur'; Ephes. iv, 29 also covers Eph 4:31-32 (note). Several named quotations with no margin note tagged (Job 41:16 - Denis says Behemoth, Vulgate context Leviathan, note). Prayer left untagged."
   },
   {
    "id": "psalms-004",
@@ -167,9 +168,10 @@
     71,
     74
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:35:26Z"
+   "claimed": "2026-11-18T11:35:26Z",
+   "note": "Published with a gap: PDF 72 (p. 62), foot of the left column (v. 5): the transcription stops at 'post hanc vitam experientur in' and the right column resumes 'in libro Sapientiæ de eis inducitur'; probably a line or so lost, marked […]. Please check the scan and fill it. Margin numerals corrected with notes (Prov 29:25 for 'xxiv, 25'; Job 23:13, 15 for 'xxxiii'). Denis reads 'pro Amalec' in the title (Vulgate 'pro Maeleth'), noted."
   },
   {
    "id": "psalms-005",
@@ -180,9 +182,10 @@
     74,
     76
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:35:26Z"
+   "claimed": "2026-11-18T11:35:26Z",
+   "note": "translated by scheduled run (worker). 'pro Amalec' in the title noted; Matt 16:3 for margin 'xvi, 4, 2' (DR/Vulgate verse division, note); Zach 12:10 wording differs (note). Prayer left untagged."
   },
   {
    "id": "psalms-006",
