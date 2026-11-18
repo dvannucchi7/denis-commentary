@@ -514,10 +514,9 @@
     391,
     398
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 6,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T01:21:35Z"
+   "note": "Published with gaps: the lower part of both columns of PDF 396 (p. 386; start of the moral exposition, on v. 1 and v. 2) is garbled in the OCR. Recovered from the margin reader's lines where possible; missing words marked […] (after 'quod Jesus facto ac', after 'Per locum enim', and in the list of miracles: 'Nam et per […] contactum sudariorum Pauli, sanabantur […] per superpositionem baculi Petri'). Please rescan PDF 396 and fill the gaps. Margin readings checked: Deut 8:2 (printed vii, 2), Luke 2:40 (read as i, 80), Ps 72:26 (printed lxxii, 26), Is 40:6 (read as ix), Rom 15:4 and Matt 15:24 from unread notes, 1 Mach 12:9, Ps 67:19, 34."
   },
   {
    "id": "john-17",
