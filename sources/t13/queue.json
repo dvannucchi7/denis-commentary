@@ -399,10 +399,9 @@
     184,
     190
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:44:31Z"
+   "note": "Published as 1 Corinthians 9, Art. IX (pp. 162-168) with a small gap: a word-beginning is lost at a column break in vv. 17-18 ('non tantum mercedem habent […]lo, quantum Paulus'). The end of the article (v. 27 from 'rationis imperio cultuique divino') was in the Art. X file and was joined back. Margin numerals corrected, with notes: 'Act. ix, 1' -> Acts 9:4; 'Luc. v. 3' -> Luke 10:3; 'Ps. cxlvii, 15' -> Ps 147:4. Possible Douay-Rheims data slips seen: 1 Cor 9:1 'Am I not I free?', 9:8 'also say; these things?'. Please check the gap against the scan."
   },
   {
    "id": "i-corinthians-010-2",
@@ -413,10 +412,9 @@
     190,
     196
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:44:31Z"
+   "note": "Published as 1 Corinthians 10, Art. X (pp. 168-174) with a gap: at v. 17 about six lines survive only as fragments (line-beginnings lost); certain words kept, with a note. Margin numerals corrected, with notes: 'Eccli. xxxiii, 30' -> Ecclus 18:30; 'Exod. xvi, 7' -> Ex 17:7; '1 Tim. ii, 5' -> 2 Tim 2:5; 'Ps. lm' read as Ps 52:6. Reading 'contumeretur' (v. 28) taken as 'be confirmed'. Please check against the scan."
   },
   {
    "id": "i-corinthians-011-2",
