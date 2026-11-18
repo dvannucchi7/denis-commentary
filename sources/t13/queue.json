@@ -470,10 +470,9 @@
     212,
     217
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:26:25Z"
+   "note": "Published as 1 Corinthians 14, Art. XIV (pp. 190-195) with a gap. The cutter had put the end of the article (vv. 36-40, from 'quiescere nostris statutis') at the head of the Art. XV file; it was joined back here. A line or more is lost at a column break in v. 24 after 'dijudicatur ab omnibus.' (PDF 215; the next words are '...phetantibus, quod sit in aliquo errore'). No margin references are checkable (transcribed volume): Is 65:20, Is 28:11, Acts 2:4, Matt 7:6 given as reference-only; Wis 6:16 noted. Please check against the scan."
   },
   {
    "id": "i-corinthians-015-2",
@@ -484,10 +483,9 @@
     217,
     223
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:26:25Z"
+   "note": "Published as 1 Corinthians 15, Art. XV (pp. 195-201) with gaps. A line or so is lost in v. 20 after 'Horum dicitur Christus primitiæ' (PDF 219). The end of the article (end of v. 30, all of v. 31) is at the top of the right column of PDF 223, whose line-ends the transcription lost: only line-beginnings kept, with a note. v. 15 the transcription reads 'testes fidei Dei' (Vulgate 'falsi testes Dei'; noted). Margin numerals corrected: 'Ibid. 20' -> John 20:26, 'Luc. xii, 14, 15' -> Luke 7:14, 'Joan. xi, 13, 14' -> John 11:43, 'Ps. cx, 1' -> Ps 109:1. Please check against the scan."
   },
   {
    "id": "i-corinthians-016-2",
