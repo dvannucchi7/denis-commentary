@@ -558,7 +558,12 @@
      {
       "v": [
        2,
-       2
+       10
+      ],
+      "verses": [
+       2,
+       9,
+       10
       ],
       "t": "Præterea, Magis Judæam ingressis, stella ad tempus disparuit. Dicuntque aliqui, quod idcirco disparuit, quoniam Magi recurrentes ad humanum præsidium, scilicet ad Jerosolymitas, perdere meruerunt divinum ducatum. Et ita ingressi fuissent, vel ingredi Jerosolymam proposuissent, antequam stella disparuit, nec ejus ducatum secuti fuissent assidue. Quod non est verisimile, quoniam avidissima ac devotissima mente sectabantur hanc stellam. Unde et ea denuo visa, gavisi sunt gaudio magno valde. Probabilius itaque dicitur, quod stella ex divina dispensatione disparuit: qua non apparente, Magi opinati sunt regium puerum in urbe regali Jerusalem esse quærendum. Voluit ergo Deus ut Jerosolymam introirent, ad majorem sui confirmationem, et Judæorum confusionem ac condemnationem, videlicet, ut testimonio prophetali certificarentur de puero nato, et ut Judæi inexcusabiles fierent, eorumque cæcitas atque desidia confunderetur, dum gentibus Christum confitentibus, ac desideranter quærentibus, ipsi nec crediderunt, nec quæsierunt, imo regem suum, quem ex libris Prophetarum aliis monstraverunt, ipsi videre neglexerunt.",
       "en": "Furthermore, when the Magi had entered Judea, the star disappeared for a time. Some say that it disappeared because the Magi, by having recourse to human help, namely to the people of Jerusalem, deserved to lose the divine leading. In that case they would have entered Jerusalem, or meant to enter it, before the star disappeared, and would not have followed its leading steadily. This is not likely, since they followed this star with a most eager and devout mind; and so, when it was seen again, [[2:10|they rejoiced with exceeding great joy|gavisi sunt gaudio magno valde]]. It is more probably said, therefore, that the star disappeared by divine dispensation; and while it did not appear, the Magi supposed that the royal Child was to be sought in the royal city of Jerusalem. God willed, then, that they should enter Jerusalem, for their own greater confirmation and for the confusion and condemnation of the Jews: namely, that they might be made certain of the Child's birth by the testimony of the prophets, and that the Jews might be left without excuse and their blindness and sloth put to shame; since, while the Gentiles confessed Christ and sought Him with longing, they themselves neither believed nor sought; nay, their own king, whom they pointed out to others from the books of the Prophets, they themselves neglected to see."
@@ -661,8 +666,13 @@
      },
      {
       "v": [
-       12,
-       12
+       1,
+       11
+      ],
+      "verses": [
+       1,
+       2,
+       11
       ],
       "t": "Præterea hi tres Magi omnium gentium conversionem figuraverunt: ternarius namque est numerus perfectionis. In quibus impleri cœpit illud Isaiæ: Ecce gentem quam nesciebas vocabis, et gentes quæ non cognoverunt te, ad te current. Per fulgorem insuper stellæ, præsignata est claritas gratiæ per quam corda gentilium contemplata sunt Christum. Bethlehem quoque interpretatur, domus panis: per quam intelligitur anima religiosa, quæ pane obedientiæ, pane lacrimarum, et pane sacramentali, fovetur. In tali anima nascitur Christus: quo cognito, Magi, id est pœnitentes, veniunt, et Christum in anima tali honorant.",
       "en": "Moreover, these three Magi figured the conversion of all the nations; for three is the number of perfection. In them began to be fulfilled that word of Isaias: [[Is 55:5|Behold thou shalt call a nation, which thou knewest not: and the nations that knew not thee shall run to thee|Ecce gentem quam nesciebas vocabis, et gentes quæ non cognoverunt te, ad te current]]. By the brightness of the star, again, was foreshown the brightness of grace, through which the hearts of the Gentiles have contemplated Christ. Bethlehem, too, is interpreted “house of bread”: by which is understood the religious soul, which is nourished with the bread of obedience, the bread of tears, and the sacramental bread. In such a soul Christ is born; and when this is known, the Magi, that is, penitents, come and honour Christ in such a soul."
@@ -822,10 +832,6 @@
     "pages": "pp. 31–40",
     "paras": [
      {
-      "v": [
-       1,
-       1
-      ],
       "t": "Tractaturus beatissimus Evangelista in sequentibus de conversatione, doctrina atque miraculis Christi, primo de præcursore ipsius mentionem inducit, sanctitatem, idoneitatem, doctrinam et vitam Joannis describens, ut innotescat quam dignum et credibile sit testimonium ejus de Christo. Christus ergo, qui est lux vera, summa et infinita, sciens mundum sui immediate non esse capacem, præmisit magnum quemdam sui adventus præparatorem, qui corda Judæorum ad Christi receptionem disponeret.",
       "en": "The most blessed Evangelist, being about to treat in what follows of the life, teaching and miracles of Christ, first makes mention of His forerunner, describing the holiness, fitness, teaching and life of John, so that it may be known how worthy and credible is his testimony concerning Christ. Christ, then, who is the true light[[John 1:9||]], supreme and infinite, knowing that the world was not capable of receiving Him immediately, sent before Him a great preparer of His coming, to dispose the hearts of the Jews to receive Christ."
      },
@@ -1204,6 +1210,12 @@
        4,
        10
       ],
+      "verses": [
+       4,
+       6,
+       7,
+       10
+      ],
       "t": "Considerandum in Christi responsionibus, quomodo falsas de Scripturis a diabolo sumptas sagittas, veris Scripturarum clypeis rejiciat atque confringat.",
       "en": "Consider in Christ’s answers how He drives back and breaks the false arrows the devil took from the Scriptures with the true shields of the Scriptures."
      },
@@ -1226,7 +1238,11 @@
      {
       "v": [
        5,
-       9
+       8
+      ],
+      "verses": [
+       5,
+       8
       ],
       "t": "Insuper quæritur, an tentator duxit Christum invitum, vel quasi spontaneum, hoc est, an putavit quod Christus secum tendebat libenter, vel magis coacte. Respondendum secundum Hieronymum et Chrysostomum, quod dæmon voluntatem Christi putavit infirmitatem ac necessitatem, putans se eum compellere ad proficiscendum secum. Alii vero satis probabiliter dicunt, quod dæmon in specie viri religiosi apparens, et Christum decipere cupiens, blandiebatur ei, et suam malitiam occultabat, ne sciretur esse diabolus: sicque Christum quasi spontaneum secum assumpsit. Ex quo sequi videtur, quod non volavit secum per aera. Sic enim patuisset eum non hominem esse. Nihilo minus in tertia tentatione, in qua manifestum crimen suasit, ostendit se non esse talem qualis apparuit. Cernens quippe se per simulationem sanctitatis et allegationem Scripturarum nihil proficere, manifestam iniquitatem proposuit, ad quam ut induceret, magnum obtulit præmium, utpote omnia regna mundi. Qui quia diabolus dicit se posse dare, Manichæi opinabantur omnia ista terrena a diabolo esse creata, ejusque imperio ad nutum subjecta. Sed hoc dictum stultum ac debile est. Quum enim diabolus sit mendax et arrogans, non vere sed præsumptuose asseruit se regna omnia posse dare alicui: nisi intelligatur quod permissione divina frequenter diabolus cooperatur aliquibus ad obtinenda dominia mundi. Quod vero non sit sic intelligendum, quasi propria potestate et jure creationis valeat ea dare alicui, evidentissime constat per illud quod apud Lucam habetur, dicente ad Christum diabolo: Tibi dabo potestatem hanc universam et gloriam illorum, quoniam mihi tradita sunt.",
       "en": "It is asked further whether the tempter led Christ against His will or as one going of His own accord; that is, whether he thought that Christ went with him willingly, or rather under constraint. The answer, according to Jerome and Chrysostom, is that the demon took Christ’s will for weakness and necessity, thinking that he was compelling Him to go with him. Others, however, say quite probably that the demon, appearing in the guise of a religious man and wishing to deceive Christ, flattered Him and hid his malice, lest he should be known to be the devil; and so he took Christ with him as one going of His own accord. From this it seems to follow that he did not fly with Him through the air, for so it would have been plain that he was not a man. Nevertheless, in the third temptation, in which he urged an open crime, he showed that he was not such as he had appeared. For seeing that he gained nothing by feigning holiness and by citing the Scriptures, he proposed open iniquity, and to lead Him to it he offered a great reward, namely all the kingdoms of the world. Because the devil says he can give these, the Manichees held that all these earthly things were created by the devil and are subject to his rule at his nod. But this saying is foolish and weak. For since the devil is a liar[[John 8:44||]] and arrogant, he asserted not truly but presumptuously that he could give all the kingdoms to anyone; unless it be understood that by divine permission the devil often works together with some men to gain the lordships of the world. That it is not to be understood as though by his own power and by right of creation he could give them to anyone is most evidently clear from what is found in Luke, where the devil says to Christ: [[Luke 4:6|To thee will I give all this power and the glory of them. For to me they are delivered|Tibi dabo potestatem hanc universam et gloriam illorum, quoniam mihi tradita sunt]]."
@@ -1250,6 +1266,11 @@
      {
       "v": [
        4,
+       10
+      ],
+      "verses": [
+       4,
+       7,
        10
       ],
       "t": "Rursus, per hoc quod Christus dejecit diabolum allegando Scripturas, instruimur tentationibus obviandum esse Scripturis divinis, unicuique tentationi objiciendo Scripturam contra tale vel tale peccatum de quo tentamur: ut si de elatione tentemur, cogitemus quod scriptum est, Odibilis coram Deo et hominibus est superbia; et illud, Deus superbis resistit, humilibus autem dat gratiam. Si de invidia, cogitemus illud B. Joannis: Omnis qui odit fratrem suum, homicida est.",

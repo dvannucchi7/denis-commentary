@@ -34,8 +34,8 @@
    "chapter": 2,
    "num": "IV",
    "flagged": 6,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:42:20Z"
+   "status": "done",
+   "note": "2 tags changed (para 7 to vv. 2, 9, 10; para 20, mystical reading of the Magi, to vv. 1, 2, 11); 4 confirmed"
   },
   {
    "id": "matthew-2-V",
@@ -43,8 +43,8 @@
    "chapter": 2,
    "num": "V",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:42:20Z"
+   "status": "done",
+   "note": "all 5 flagged tags confirmed; no change"
   },
   {
    "id": "matthew-3-VI",
@@ -52,8 +52,8 @@
    "chapter": 3,
    "num": "VI",
    "flagged": 11,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:42:20Z"
+   "status": "done",
+   "note": "1 tag removed (introduction); 10 confirmed"
   },
   {
    "id": "matthew-4-VII",
@@ -61,8 +61,8 @@
    "chapter": 4,
    "num": "VII",
    "flagged": 9,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:42:20Z"
+   "status": "done",
+   "note": "3 tags narrowed to verse lists (paras 15, 21: Christ's answers, vv. 4, 7, 10; para 18: vv. 5, 8); 6 confirmed"
   },
   {
    "id": "matthew-4-VIII",
@@ -70,8 +70,8 @@
    "chapter": 4,
    "num": "VIII",
    "flagged": 6,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:42:20Z"
+   "status": "done",
+   "note": "all 6 flagged tags confirmed; no change"
   },
   {
    "id": "matthew-5-IX",
