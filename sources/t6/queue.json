@@ -1045,9 +1045,10 @@
     359,
     363
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "Released unworked by a scheduled run (18 Nov): the transcription is disordered here. The cut file starts after the LXVII heading with 'Sed quoniam Christus hanc commutationem … Fiat, fiat' (v. 53 — probably the end of the preceding literal exposition of Ps 88, which may belong to Art. LXVI), then a transcriber's line 'Correction to the above: the right-column text follows the heading as:' and the article proper from 'TUNC locutus es in visione' (v. 20). The end of this article ('et salvatoris nostri cordialiter exsultare … fonte.' and the PRECATIO 'Deus, gloria virtutis Sanctorum … ad te valeamus pervenire.') is at lines 5–11 of psalms-068.txt. Check against the Ps 88 article(s) before it (psalms-065/066; 066's queue entry points to PDF 691–695, probably a mis-cut) so the v. 53 passage is not published twice."
+   "note": "Released unworked by a scheduled run (18 Nov): the transcription is disordered here. The cut file starts after the LXVII heading with 'Sed quoniam Christus hanc commutationem … Fiat, fiat' (v. 53 — probably the end of the preceding literal exposition of Ps 88, which may belong to Art. LXVI), then a transcriber's line 'Correction to the above: the right-column text follows the heading as:' and the article proper from 'TUNC locutus es in visione' (v. 20). The end of this article ('et salvatoris nostri cordialiter exsultare … fonte.' and the PRECATIO 'Deus, gloria virtutis Sanctorum … ad te valeamus pervenire.') is at lines 5–11 of psalms-068.txt. Check against the Ps 88 article(s) before it (psalms-065/066; 066's queue entry points to PDF 691–695, probably a mis-cut) so the v. 53 passage is not published twice.",
+   "claimed": "2026-11-18T15:58:00Z"
   },
   {
    "id": "psalms-068",
@@ -1098,8 +1099,9 @@
     382,
     386
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T15:58:00Z"
   },
   {
    "id": "psalms-072",
@@ -1110,8 +1112,9 @@
     386,
     391
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T15:58:00Z"
   },
   {
    "id": "psalms-073",
