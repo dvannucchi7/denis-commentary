@@ -997,8 +997,8 @@
    "chapter": 1,
    "num": "IV",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:57:42Z"
+   "status": "done",
+   "note": "both flagged tags confirmed; no change"
   },
   {
    "id": "john-1-V",
@@ -1006,8 +1006,8 @@
    "chapter": 1,
    "num": "V",
    "flagged": 34,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:57:42Z"
+   "status": "done",
+   "note": "1 tag widened (para 53 adds the quoted v. 29); 33 confirmed"
   },
   {
    "id": "john-1-VI",
@@ -1015,8 +1015,8 @@
    "chapter": 1,
    "num": "VI",
    "flagged": 14,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:57:42Z"
+   "status": "done",
+   "note": "3 tags changed (para 9 adds the quoted vv. 33–34; para 23 adds v. 29, which it discusses; para 48, closing reflection on the choice of the Apostles, untagged); 11 confirmed"
   },
   {
    "id": "john-2-VII",
