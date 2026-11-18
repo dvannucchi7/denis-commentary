@@ -187,7 +187,8 @@
    "chapter": 11,
    "num": "XXI",
    "flagged": 7,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:44:56Z"
   },
   {
    "id": "matthew-11-XXII",
@@ -195,7 +196,8 @@
    "chapter": 11,
    "num": "XXII",
    "flagged": 8,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:44:56Z"
   },
   {
    "id": "matthew-12-XXIII",
@@ -203,7 +205,8 @@
    "chapter": 12,
    "num": "XXIII",
    "flagged": 1,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:44:56Z"
   },
   {
    "id": "matthew-12-XXIV",
@@ -211,7 +214,8 @@
    "chapter": 12,
    "num": "XXIV",
    "flagged": 2,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:44:56Z"
   },
   {
    "id": "matthew-13-XXV",
@@ -219,7 +223,8 @@
    "chapter": 13,
    "num": "XXV",
    "flagged": 5,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:44:56Z"
   },
   {
    "id": "matthew-14-XXVII",
@@ -227,7 +232,8 @@
    "chapter": 14,
    "num": "XXVII",
    "flagged": 1,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:44:56Z"
   },
   {
    "id": "matthew-15-XXVIII",
