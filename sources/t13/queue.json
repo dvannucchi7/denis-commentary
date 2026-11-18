@@ -79,11 +79,12 @@
     48,
     55
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
    "part": 2,
    "parts": 2,
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T02:54:47Z"
   },
   {
    "id": "romans-007",
