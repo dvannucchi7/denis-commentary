@@ -247,9 +247,9 @@
     125,
     131
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Romans 14, Art. XVIII (pp. 103-109) with small gaps. The transcription of PDF 125 is damaged: the left column (introduction) lost its line-ends, which were put back from fragments printed beside the next column; lines of v. 2 are lost (PDF 125 right column foot / PDF 126 top: 'credit, id est, fideliter noscit, [...] manae vitae'; 'inter cibos dis[...] per [...] ad vitandum consentire scrupulum'). Also lost: a few words at the page break in v. 9 ('sua passione [...] talem dominationem', PDF 127/128), in v. 11 ('praesertim [...] bitur Domino', PDF 128/129) and in v. 20 ('Noli, o homo, [...]', PDF 130). Margin readings: bare '13' at v. 11 taken as Heb 6:13; 'Act. xv, 10, 11; xvi, 3; xviii, 18; xxi, 21-26' as reference-only markers. Unmarked quotations tagged: Is 33:1, Phil 2:10, 1 Cor 8:8, Zach 8:19.",
    "claimed": "2026-11-18T03:21:14Z"
   },
   {
