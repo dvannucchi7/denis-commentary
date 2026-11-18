@@ -952,7 +952,8 @@
    "chapter": 23,
    "num": "XLIX",
    "flagged": 33,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:56:52Z"
   },
   {
    "id": "luke-24-L",
@@ -960,7 +961,8 @@
    "chapter": 24,
    "num": "L",
    "flagged": 7,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:56:52Z"
   },
   {
    "id": "john-1-I",
