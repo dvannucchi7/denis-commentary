@@ -2141,9 +2141,9 @@
     691,
     691
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "Cut fixed 18 Nov: the end of Ps 146's article (salvabit animam suam … and its Precatio) moved into psalms-064-2. What is left here is only Art. LXV's heading and first three lines ('Habet psalmus … non ponitur nisi,'); the article goes on in psalms-066 (from 'Alleluia. Quid autem…', after a heading the transcription repeats), so translate 065-2 and 066 together as one article. Note also that psalms-067-2 opens with Art. LXVI's heading and first paragraph (Ps 148) before Ps 147's Precatio: check the order against PDF 694-695.",
+   "note": "Published (scheduled run, worker) as Ps 147, Art. LXV, from psalms-065-2 + psalms-066 + the Precatio that the cut had put at the top of psalms-067-2 (order confirmed from transcribed/p695: the heading of Art. LXVI spans the page between Ps 147's end and Ps 148's start). Margin verse numerals ⟦12⟧-⟦20⟧ are the Hebrew numbering; tagged by the Vulgate vv. 1-9. Margin 'Zach. i,u' read as ref-only Zach 1:16; 'Cf. Mich. v, 5, 6' ref-only Mich 5:5 (noted). Tagged without margin note: Luke 1:33, Luke 11:2, Is 60:17, Heb 1:14, Gen 49:1, 1 Cor 13:12.",
    "claimed": "2026-11-18T20:55:41Z"
   },
   {
@@ -2155,9 +2155,10 @@
     691,
     695
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:55:41Z"
+   "claimed": "2026-11-18T20:55:41Z",
+   "note": "Translated together with psalms-065-2 (Ps 147, Art. LXV); see its note."
   },
   {
    "id": "psalms-067-2",
@@ -2168,9 +2169,10 @@
     695,
     699
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:55:41Z"
+   "claimed": "2026-11-18T20:55:41Z",
+   "note": "Published (scheduled run, worker) as Ps 148, Art. LXVI (Ps 147's Precatio at the top of the cut belongs to Art. LXV and went there). Needs the scan of p. 686 (PDF 696): some words lost in the v. 3 paragraph ('si, inquam, taliter poneremus corpora cœlestia, … videlicet orbes et astra … invitare'), marked […]. The cut repeated the end of the Jerome quotation and the vv. 7-10 paragraph; one copy kept. Denis reads 'exaltabit' at v. 14 (Vulgate 'exaltavit'): noted. 'cœlibus angelicis' in the Precatio read as 'cœtibus'. Gen 2:1 / 2 Esd 9:6 blend: ref-only markers with a note."
   },
   {
    "id": "psalms-067-3",
