@@ -784,9 +784,10 @@
     260,
     272
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:16:00Z"
+   "claimed": "2026-11-18T15:16:00Z",
+   "note": "Published (scheduled run, two workers, split before v. 30). The last part of the article (end of v. 69 to v. 72, upper right column of PDF 272) was in the cut file of psalms-049 and is included here. Margins corrected with notes: Gen. xlix, 32 → Gen 41:52 (ref-only); Num 14:27 + 14:11 joined by Denis; chapter-only notes given as v. 1 (Ex 34, 14, 7, 13; Num 10, 16, 25; Ex 12 → 12:29; Jos. xiii–xix → Jos 13:1). '4 Esdras 8:34' quoted without margin note: bracketed note, no marker. Readings: v. 21 'distulit' (put off) noted against the Douay 'was angry'; variants cœnomyiam (v. 45) and animabus (v. 50) noted."
   },
   {
    "id": "psalms-049",
@@ -797,9 +798,10 @@
     272,
     283
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:16:00Z"
+   "claimed": "2026-11-18T15:16:00Z",
+   "note": "Published (scheduled run, two workers, split at v. 29) with a gap: after '…meo sanguine liberata, atque a me' (gloss on vv. 1–3) the lower right column of PDF 272 (p. 262) was not transcribed; marked […] — please check the scan. Also a lost word at v. 55 ('filii […] Patriarcharum'). Margins corrected with notes: Judic. xvii, 34 → John 19:34; Joann. v, 19 → 1 John 5:19; Eccli. xxxv, 23 → Ecclus 5:4; Is. ix, 8 → Is 60:8; Ps. cxxxviii, 14 → Ps 138:18; Ps. v, 3 Hebr. → Ps 9:24; Jer. xxiv, 9 → Jer 29:18–19; Eccli. xx → Ecclus 20:8. 'distinctionem' kept in the Latin, translated as *districtionem* (severity), with a note. Prayer tagged vv. 38–39."
   },
   {
    "id": "psalms-050",
