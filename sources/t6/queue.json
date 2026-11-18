@@ -224,9 +224,10 @@
     83,
     90
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:42:02Z"
+   "claimed": "2026-11-18T11:42:02Z",
+   "note": "translated by scheduled run (two workers, split at 'Deinde Christus orat', v. 10). Margin numerals corrected with notes: Is. xiii, 4 → Is 42:4; Joann. xi, 51 → John 11:54; Ibid. xi, 45 → John 12:42; Job xxxii, 15-16 → Job 22:15-16; Ps. xl, 1 marked at Ps 40:2. Ps. lxxxii, 5 given reference-only (no quotation fits, noted). Denis reads 'Jacob' at Jer 30:8 and 'salvavit' at v. 17 (noted). Text lost in v. 21: 'ut illis […] justam mercedem retribuat' (transcription [...], PDF p. 88-89) - worth checking against the scan. Misplaced ⟦v. 15⟧ and ⟦18⟧ margin numbers tagged by the text."
   },
   {
    "id": "psalms-009",
@@ -237,9 +238,10 @@
     90,
     95
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:42:02Z"
+   "claimed": "2026-11-18T11:42:02Z",
+   "note": "translated by scheduled run (worker). Margin numerals corrected with notes: Matth. v, 23 → Matt 10:23; Jer. xxxiii, 9 → Jer 23:9; Ibid. vii, 10 → 2 Cor 7:10 (reference-only); Eccle. vii, 5 also marked Eccles 7:3. Joel 2:12 and Job 3:24 tagged without margin notes (Denis names them). A duplicated scrap '⟦20⟧ ta et moribus distant ab eis.' dropped. Douay-Rheims data slip: Jer 18:23 lacks 'forgive' ('not their iniquity')."
   },
   {
    "id": "psalms-010",
