@@ -838,8 +838,9 @@
     289,
     297
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T15:28:00Z"
   },
   {
    "id": "psalms-053",
@@ -850,8 +851,9 @@
     297,
     300
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T15:28:00Z"
   },
   {
    "id": "psalms-054",
@@ -862,8 +864,9 @@
     300,
     304
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T15:28:00Z"
   },
   {
    "id": "psalms-055",
