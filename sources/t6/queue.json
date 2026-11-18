@@ -1868,9 +1868,10 @@
     625,
     629
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:21:12Z"
+   "claimed": "2026-11-18T20:21:12Z",
+   "note": "Published with a gap: the transcription of PDF 626 (p. 616) breaks off in the right column at 'sicut Apostol' and PDF 627 resumes at 'qui non interrogabant de me' (Is 65:1 / Rom 10:20): the rest of v. 5 and all of v. 6 are lost, marked […]; the scan of PDF 626, right column, is needed. Margin numerals corrected with notes: Is. liii, 7 → Is 52:7; Is. xlv, 23 → Is 45:25; Ps. lxxxix, 6 → Ps 79:6; Ps. cix, 3. Mich 3:1-2 introduced by 'Et iterum' after a saying of the Saviour, and Denis leaves out 'non' (noted). DR data slip: Ezech 34:23 is stored partly in capitals in data/bible/drc."
   },
   {
    "id": "psalms-047-2",
