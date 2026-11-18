@@ -1354,9 +1354,9 @@
     518,
     523
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Hebrews 7, Art. VII (pp. 496–501) with gaps (marked […]) on PDF 520–521: v. 7 (the lemma 'Sine ulla autem contradictione' lost); v. 12 (a whole line of the lemma after 'Translato enim', 'unde […] mutato', 'per […]stum'); vv. 13–14 ('ecce […] Christus non sit', 'de tribu Juda […]cessit', 'habetur […] leo de tribu Juda'); vv. 15–16 (several words: '[…]tum et ordinem', 'sicut Melchisedech […] et vinum', 'legis Mosaicæ […]nalia', 'nec […] sacrificia'). Words restored from letters stranded at the left edge of p521's right column ('surgeret', 'consummaret', 'simul', 'unum prodest', 'quod de uno') and half-words at line breaks (sacer-dos, Chri-stus, secun-dum, vide-licet, le-galis): check against the scan. Margins corrected: Ps. cx, 4 = Ps 109:4; Luc. v, 10 = Luke 19:10; Ps. viii, 7 = Ps 8:8; Is. liii, 9 marked as 1 Pet 2:22 (Denis's wording) with a reference to Is 53:9; Gen. xlix (number unreadable) taken as 49:10; Gen. v as 5:1.",
    "claimed": "2026-11-18T07:38:18Z"
   },
   {
@@ -1368,9 +1368,9 @@
     523,
     526
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Hebrews 8, Art. VIII (pp. 501–504) with gaps (marked […]): v. 1 ('a principio […] dextera sedis', 'sedentis, […] id est paternæ majestatis'); v. 9 ('viæ ignarum, […] […] terram Ægypti, quod et le[…]ci', end of the sentence lost); v. 11 ('Omnes enim quos beati Deum in medio cum pertinet[…] […] […]': transcription cannot be construed, kept with a note). 'Capitulum s[…]per' restored to 'super' from the lemma. Margins: Jer. xxxi, 31–34 given as a reference to Jer 31:31; Exod. xxxii, 1–6 as Ex 32:4. Obvious quotations without margin notes tagged: Luke 12:37, Apoc 21:3, Ps 14:1, Matt 20:28, Is 11:9, Ps 18:5.",
    "claimed": "2026-11-18T07:38:18Z"
   },
   {
