@@ -1793,7 +1793,7 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:53:56Z"
+   "claimed": "2026-11-18T20:32:12Z"
   },
   {
    "id": "psalms-041-2",
@@ -1806,7 +1806,7 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:53:56Z"
+   "claimed": "2026-11-18T20:32:12Z"
   },
   {
    "id": "psalms-042-2",
@@ -1819,7 +1819,7 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:53:56Z"
+   "claimed": "2026-11-18T20:32:12Z"
   },
   {
    "id": "psalms-043-2",
@@ -1912,8 +1912,9 @@
     632,
     637
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T20:32:12Z"
   },
   {
    "id": "psalms-050-2",
@@ -1924,8 +1925,9 @@
     637,
     640
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T20:32:12Z"
   },
   {
    "id": "psalms-051-2",
