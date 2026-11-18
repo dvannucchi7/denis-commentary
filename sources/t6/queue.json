@@ -52,9 +52,10 @@
     31,
     36
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:13:18Z"
+   "claimed": "2026-11-18T11:13:18Z",
+   "note": "translated by scheduled run; Douay-Rheims data slip: Is 46:12 holds the words of 46:13 and 46:13 is empty (Is 46:13 given as reference-only, with a note); obvious quotations tagged without margin notes (Dan 2:34-35, Zach 9:9, Soph 3:14-17, Hab 2:1, Is 21:8, John 13:34-35, 1 Pet 5:1-3 etc.)"
   },
   {
    "id": "psalms-091",
@@ -65,9 +66,10 @@
     36,
     42
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:13:18Z"
+   "claimed": "2026-11-18T11:13:18Z",
+   "note": "translated by scheduled run; margin numerals corrected with notes (Is 30:16→30:18, Sap. vii→Wis 2, 1 Cor xv→14:38, Ps cxlvii→143:15, Prov vi→11:7, Ezech 14:20→18:20, Matt 25:13→25:30); Is 26:10 cited \"juxta LXX\" given as reference-only with a note"
   },
   {
    "id": "psalms-092",
