@@ -911,9 +911,9 @@
     377,
     383
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Colossians 1, Art. I (pp. 355–361) with gaps (marked […]): v. 6 'cau[…]sa' (PDF 377, probably only the page turn); v. 14 three gaps in one sentence and one before 'dilexit nos' (PDF 379); v. 12 'Dominus pars hereditatis meæ […] etiam de lumine' and v. 13 '[…] hoc elucescit' (PDF 379, words evidently lost); v. 24 'pro Ecclesia […]', the sentence before it garbled ('Qui etiam in Ephesso incarceratus, quæ dico…', translated literally with a note), and v. 25 'id est […]do ad effectum perducam' (PDF 381). Check against the scan. Margin slips corrected with notes: 'Ps. xv, 10' is Ps 35:10; 'I Cor. v, 19' is 2 Cor 5:19; 'Ephes. i, 22, 23' given as Eph 1:22 (reference-only). Obvious quotations without margin note tagged: Mark 16:15, Ps 18:5, Is 11:2, Apoc 1:5, Ps 118:168, Acts 9:4. Possible slips kept: 'Gratias ipsius Dei et Patris' (v. 3; probably 'Gratias agimus Deo et Patri'), 'in omnibus vestris' (v. 23, noted).",
    "claimed": "2026-11-18T06:41:32Z"
   },
   {
@@ -938,9 +938,9 @@
     387,
     391
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Colossians 3, Art. III (pp. 365–369) with gaps (marked […]): v. 2, two (PDF 387: probably the lemma 'non quæ super terram', and a word or so in Is 26:8); v. 16, one (PDF 389: probably 'abundanter, in omni sapientia, id est'). Check against the scan. The cut file held the end of Art. II (on 2:23, top of the right column of PDF 387) and repeated the heading: left out. The article ends with Col 4:1 (untagged paragraph). Margin 'v. 19' at 3:1 is Mark 16:19; 'Eccli. ii, 8' is Ecclus 51:8 (both noted). The last page has no margin notes; obvious quotations tagged: Ps 145:7, Rom 12:19, John 6:37, Job 34:11, Job 34:14, Luke 6:38; also 1 Cor 2:9, John 13:34, 1 Pet 4:8, 1 Cor 7:15, Matt 25:29, and Matt 18:35 + Matt 6:15 for a conflated quotation. Readings: 'homini' for 'hominum', 'potioribus' for 'polioribus', 'estote' for 'extote'.",
    "claimed": "2026-11-18T06:41:32Z"
   },
   {
