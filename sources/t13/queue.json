@@ -1103,9 +1103,9 @@
     440,
     443
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 1 Timothy 3, Art. III (pp. 418–421). Margin corrections, each noted in the text: 'Prov. xx, 1' → Prov 20:3; 'Luc. x, 2' → Ecclus 10:2 (reference-only); 'Is. liii, 6' → Is 52:6, 'Ibid. 8' → Is 52:8; 'I Tim. ii, 15' → 1 Tim 2:9 (reference-only). Denis reads 'episcopatum' and 'sine crimine' in v. 2 (noted).",
    "claimed": "2026-11-18T06:56:57Z"
   },
   {
@@ -1117,9 +1117,9 @@
     443,
     445
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 1 Timothy 4, Art. IV (pp. 421–423) with gaps (marked […]): start of the gloss on v. 4 (PDF 443/444); v. 6 a word before 'ejus efficaciter instruendo' and '[…]nationem divinam'; v. 7 text lost after 'recitari a', 'quo[…]tur', and after 2 Pet 1:16 ('notam […]m vobis fecimus') the rest of the quotation and the gloss on 'devita; exerce te ad pietatem' up to 'benignitatem cordialem'. Garbled line at v. 6 read as 'fructuosus prælatus laudabilisque vicarius Christi Jesu'. Matt 4:4 tagged (Denis's wording), Deut 8:3 reference-only; Matt 7:15 tagged with no margin note.",
    "claimed": "2026-11-18T06:56:57Z"
   },
   {
