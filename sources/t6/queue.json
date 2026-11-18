@@ -1195,9 +1195,10 @@
     412,
     414
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:16:00Z"
+   "claimed": "2026-11-18T16:16:00Z",
+   "note": "Published (scheduled run, worker). Margin 'Ibid. 1' after Gen. xxxi, 50 taken as Gen 1:1 (reference-only): check the scan, PDF 412–413. Matt 24:35, Ecclus 51:1, 51:15 and Is 40:8 marked without margin notes (notes)."
   },
   {
    "id": "psalms-079",
@@ -1208,9 +1209,10 @@
     414,
     423
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:16:00Z"
+   "claimed": "2026-11-18T16:16:00Z",
+   "note": "Published (scheduled run, worker). Cut file trimmed after the PRECATIO: what follows in articles/psalms-079.txt is the heading of the third fifty (COMMENTARIA IN TERTIAM QUINQUAGENAM PSALTERII, partly unread), a transcriber's message that a page image was missing, and the start of psalms-001-2: check that page (PDF ~423) before psalms-001-2 is translated. Margin 'II Cor. xi, 11' = 2 Cor 12:11; 'Matth. xviii, 19' does not fit (ref-only Matt 13:49, note); 'Joann. xv, 3-8' ref-only John 15:3."
   },
   {
    "id": "psalms-001-2",
