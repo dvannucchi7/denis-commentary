@@ -952,8 +952,8 @@
    "chapter": 23,
    "num": "XLIX",
    "flagged": 33,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:56:52Z"
+   "status": "done",
+   "note": "15 tags changed: passages Denis brings in from the other Gospels now carry the Luke verses of the same event (paras 5, 6, 8, 22, 29, 30, 73; para 10 to vv. 1–5; paras 66–67, the eclipse, to vv. 44–45; para 85 to vv. 53, 56); 4 untagged because Luke has no such event (paras 28 John 19:9, 64 the Mother at the cross, 70 'he calleth Elias', 84 the guard at the tomb); 18 confirmed. Dave may prefer these four kept under a nearby verse"
   },
   {
    "id": "luke-24-L",
@@ -961,8 +961,8 @@
    "chapter": 24,
    "num": "L",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:56:52Z"
+   "status": "done",
+   "note": "2 tags removed (para 1, introduction; para 54, general note on the proofs of the resurrection); 5 confirmed"
   },
   {
    "id": "john-1-I",
