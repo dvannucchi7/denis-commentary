@@ -372,9 +372,10 @@
     173,
     181
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T03:41:48Z"
   },
   {
    "id": "i-corinthians-008-2",
