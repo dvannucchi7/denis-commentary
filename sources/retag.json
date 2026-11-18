@@ -466,8 +466,8 @@
    "chapter": 11,
    "num": "XI",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:49:46Z"
+   "status": "done",
+   "note": "2 tags narrowed (para 3 to v. 13; para 4 to vv. 15–16); 2 confirmed (passages referred to Matthew)"
   },
   {
    "id": "mark-12-XII",
@@ -475,8 +475,8 @@
    "chapter": 12,
    "num": "XII",
    "flagged": 6,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:49:46Z"
+   "status": "done",
+   "note": "all 6 flagged tags confirmed (passages referred to Matthew); no change"
   },
   {
    "id": "mark-13-XIII",
@@ -484,8 +484,8 @@
    "chapter": 13,
    "num": "XIII",
    "flagged": 3,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:49:46Z"
+   "status": "done",
+   "note": "all 3 flagged tags confirmed (passages referred to Matthew); no change"
   },
   {
    "id": "mark-14-XIV",
@@ -493,8 +493,8 @@
    "chapter": 14,
    "num": "XIV",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:49:46Z"
+   "status": "done",
+   "note": "7 tags narrowed to the verses glossed (paras 1, 3–8); 1 confirmed"
   },
   {
    "id": "mark-15-XV",
@@ -502,8 +502,8 @@
    "chapter": 15,
    "num": "XV",
    "flagged": 9,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:49:46Z"
+   "status": "done",
+   "note": "8 tags narrowed to the verses glossed (paras 1–8); 1 confirmed (para 9 refers the rest to Matthew)"
   },
   {
    "id": "mark-16-XVI",
@@ -511,8 +511,8 @@
    "chapter": 16,
    "num": "XVI",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:49:46Z"
+   "status": "done",
+   "note": "flagged tag confirmed; no change"
   },
   {
    "id": "luke-1-I",
