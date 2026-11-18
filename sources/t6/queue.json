@@ -420,9 +420,10 @@
     132,
     136
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:01:49Z"
+   "claimed": "2026-11-18T12:01:49Z",
+   "note": "translated by scheduled run (worker). Lines 21-26 of the cut file repeat the end of the v. 3 paragraph (used once). Margin Prov. x, 15 → Prov 10:25; Is. xlv, 11 → Is 43:11; Ibid. xviii, 24 → Luke 18:24 (notes). Several named quotations with no margin note tagged (Job, Prov, Wis, Heb 1:1)."
   },
   {
    "id": "psalms-023",
