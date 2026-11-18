@@ -349,8 +349,8 @@
    "chapter": 27,
    "num": "XLIII",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:47:20Z"
+   "status": "done",
+   "note": "2 tags changed (para 13, Pilate's wish to release and the scourging, v. 18 to vv. 17, 26; para 25, devotional exclamation, untagged); 2 confirmed"
   },
   {
    "id": "matthew-27-XLIV",
@@ -358,8 +358,8 @@
    "chapter": 27,
    "num": "XLIV",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:47:20Z"
+   "status": "done",
+   "note": "1 tag removed (para 26, closing exhortation on the Passion); 3 confirmed"
   },
   {
    "id": "matthew-28-XLV",
@@ -367,8 +367,8 @@
    "chapter": 28,
    "num": "XLV",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:47:20Z"
+   "status": "done",
+   "note": "1 tag changed (para 11, Easter appearances, v. 10 to v. 9); 3 confirmed"
   },
   {
    "id": "mark-1-I",
@@ -376,8 +376,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 3,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:47:20Z"
+   "status": "done",
+   "note": "all 3 flagged tags confirmed (passages Denis refers to Matthew for); no change"
   },
   {
    "id": "mark-2-II",
@@ -385,8 +385,8 @@
    "chapter": 2,
    "num": "II",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:47:20Z"
+   "status": "done",
+   "note": "all 4 flagged tags confirmed (passages referred to Matthew); no change"
   },
   {
    "id": "mark-3-III",
@@ -394,8 +394,8 @@
    "chapter": 3,
    "num": "III",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:47:20Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 3 to vv. 7, 9, 10); 3 confirmed (passages referred to Matthew)"
   },
   {
    "id": "mark-4-IV",

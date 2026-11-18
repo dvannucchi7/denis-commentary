@@ -8738,8 +8738,12 @@
      },
      {
       "v": [
-       18,
-       18
+       17,
+       26
+      ],
+      "verses": [
+       17,
+       26
       ],
       "t": "Omittit hoc loco Matthæus, quod refert evangelista Lucas, quemadmodum Christo ab Herode reverso, dixit Pilatus Judæis: Nullam causam mortis invenio in eo. Corripiam ergo, hoc est, flagellari faciam illum; et dimittam: quia si in verbis offendit, pro hoc sufficit pœna flagellationis. Tuncque Pilatus fecit eum gravissime flagellari, ut Judæorum mitigaret furorem.",
       "en": "Here Matthew leaves out what the evangelist Luke relates: how, when Christ had come back from Herod, Pilate said to the Jews: [[Luke 23:22|I find no cause of death in him|Nullam causam mortis invenio in eo]]. [[Luke 23:22|I will chastise him therefore|Corripiam ergo]], that is, I will have him scourged, [[Luke 23:22|and let him go|et dimittam]]: for if he has given offence in words, the punishment of scourging is enough for that. And then Pilate had him most grievously scourged, to soften the fury of the Jews."
@@ -8833,10 +8837,6 @@
       "en": "[[27:32|And going out, they found a man of Cyrene|Exeuntes autem, invenerunt hominem Cyrenæum]], that is, born in or named from such a place, coming from some country place[[Mark 15:21||]] towards Jerusalem to meet them, [[27:32|named Simon|nomine Simonem]], [[Mark 15:21|the father of Alexander and of Rufus|patrem Alexandri et Rufi]], according to Mark: who were disciples of Christ, as Jerome says. [[27:32|him they forced|Hunc angariaverunt]], that is, compelled by fear and threats, [[27:32|to take up his cross|ut tolleret crucem ejus]]. It should be known that, as John says, Jesus, going out from the hall and the city, carried the wood of the cross on his own shoulders[[John 19:17||]] for some distance; then the soldiers or the Jews, fearing that Christ would give way on the road under the weight of the cross and so escape by a kind of short cut the pains to come, laid the cross on this Simon to carry. Moreover, they led Jesus out between two thieves who were to be crucified[[Luke 23:32||]], who are not read to have carried their own gibbets, so that Jesus's leading out might seem the more shameful for it."
      },
      {
-      "v": [
-       32,
-       32
-      ],
       "t": "O Pater æterne, quanta pro nobis infelicissimis hominibus et miseris vermiculis, pertulit unigenitus Filius tuus! Quantum tibi et illi regratiari tenemur! Sed et hoc in omnibus his consideratione dignissimum, quid in universis pœnis Christi prædictis atque dicendis, passa sit affectuosissima, mitissima atque piissima mater ejus.",
       "en": "O eternal Father, how much your only-begotten Son bore for us most unhappy men and wretched little worms! How much we are bound to give thanks to you and to him! And in all these things this too is most worthy of consideration: what his most loving, most gentle and most tender mother suffered in all the pains of Christ that have been told and are yet to be told."
      },
@@ -9073,10 +9073,6 @@
       "en": "[[27:65|Pilate saith to them: You have a guard|Ait illis Pilatus: Habetis custodiam]], that is, I grant you soldiers to guard the monument; [[27:65|Go, guard it|ite, custodite]], that is, have the monument guarded by armed soldiers, [[27:65|as you know|sicut scitis]] to be expedient. [[27:66|And they departing|Illi autem abeuntes]] from Pilate to the place of burial, [[27:66|made the sepulchre sure, sealing the stone|munierunt sepulcrum, signantes lapidem]] with their own seal, [[27:66|and setting guards|cum custodibus]], that is, with soldiers appointed to guard it. Wholly true is what Solomon says: [[Prov 21:30|There is no wisdom, there is no prudence, there is no counsel against the Lord|Non est sapientia, non est prudentia, non est consilium contra Dominum]]. Hence the more shrewdly the Jews planned to extinguish the name, faith and fame of Christ, the more they glorified him. For their having the tomb guarded so carefully is a most certain sign that Christ's body was not taken away by theft but raised up, as will be shown in the following chapter."
      },
      {
-      "v": [
-       66,
-       66
-      ],
       "t": "Ecce commemorata est passio Domini nostri Jesu Christi, quam imitari debemus, et affectuosissime rememorari. Ejusque virtute et merito omnem gratiam nobis necessariam obtinere speremus et enitamur. Si enim compatimur et conregnabimus, si commorimur et convivemus. Præterea, quanto jam Christo magis assimilamur in adversorum perpessione constanti, tanto ei conformiores in patria erimus in glorificatione felici.",
       "en": "See, the passion of our Lord Jesus Christ has been recounted, which we ought to imitate and to recall with the deepest affection. And by its power and merit let us hope and strive to obtain every grace we need. For if we suffer with him we shall also reign with him[[Rom 8:17||]][[2 Tim 2:12||]]; if we die with him, we shall also live with him[[2 Tim 2:11||]]. Moreover, the more we are now made like Christ in constant endurance of adversities, the more conformed to him we shall be in our homeland in happy glorification."
      }
@@ -9172,8 +9168,8 @@
      },
      {
       "v": [
-       10,
-       10
+       9,
+       9
       ],
       "t": "Præterea Christus in die sancto Paschæ quinquies apparuit: primo, Magdalenæ; secundo, mulieribus a sepulcro pergentibus; tertio, Petro, quamvis locus ignoretur; quarto, duobus discipulis euntibus in Emmaus. Quinto, discipulis congregatis, quos duo prædicti discipuli redeuntes, invenerunt collectos atque dicentes: Quia surrexit Dominus vere, et apparuit Simoni. Quibus ita loquentibus, venit et stetit Jesus in medio eorum, ut Lucas refert. Apparuit quoque Jacobo Minori, qui legitur jurasse non comedere donec Filius hominis resurrexisset a mortuis. Insuper, post diem resurrectionis apparuit quinquies: primo, post octo dies, præsente Thoma; secundo, septem discipulis piscantibus ad mare Tiberiadis. Et has duas apparitiones describit Joannes. Tertio, undecim Apostolis in monte Thabor, de qua apparitione infra habetur; quarto, in die ascensionis in Jerusalem; quinto, eodem die in monte Oliveti. Apparuit etiam semel plus quam quingentis fratribus, secundum Apostolum: quam apparitionem aliqui dicunt factam in monte Thabor, quando apparuit undecim Apostolis.",
       "en": "Further, on the holy day of Easter Christ appeared five times: first, to Magdalen[[Mark 16:9||]]; secondly, to the women going from the tomb; thirdly, to Peter[[Luke 24:34||]], though the place is not known; fourthly, to two disciples going to Emmaus[[Luke 24:13||]]. Fifthly, to the disciples gathered together, whom the two said disciples, returning, found assembled and saying: [[Luke 24:34|The Lord is risen indeed and hath appeared to Simon|Quia surrexit Dominus vere, et apparuit Simoni]]. And as they were speaking so, Jesus came and [[Luke 24:36|stood in the midst of them|stetit Jesus in medio eorum]], as Luke relates. He appeared also to James the Less[[1 Cor 15:7||]], who is read to have sworn not to eat until the Son of man had risen from the dead. Moreover, after the day of the resurrection he appeared five times: first, after eight days, when Thomas was present[[John 20:26||]]; secondly, to seven disciples fishing at the sea of Tiberias[[John 21:1||]]. And these two appearances John describes. Thirdly, to the eleven Apostles on Mount Thabor, of which appearance we have it below; fourthly, on the day of the ascension, in Jerusalem[[Acts 1:4||]]; fifthly, on the same day on Mount Olivet[[Luke 24:50||]]. He appeared also once to more than five hundred brethren, according to the Apostle[[1 Cor 15:6||]]: which appearance some say took place on Mount Thabor, when he appeared to the eleven Apostles."
