@@ -687,10 +687,9 @@
     502,
     511
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 12,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T02:05:14Z"
+   "note": "Published with a gap: the OCR of the foot of PDF 503 right column / top of PDF 504 (end of v. 2, start of the passage on why Christ came to Bethania first) is garbled; missing lines marked […]. Please rescan PDF 503-504. Unconfirmed margin readings: Is 47:1, Ecclus 34:16, Ps 56:12 (margin unread; Ps 107:6 has the same words), Acts 21:28, 2 Mach 3:2."
   },
   {
    "id": "john-31",
