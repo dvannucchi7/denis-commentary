@@ -2183,9 +2183,10 @@
     699,
     701
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:58:22Z"
+   "claimed": "2026-11-18T20:58:22Z",
+   "note": "Published (scheduled run, worker). Margin numerals corrected with notes: Ps 57:11 ('lxvii, 11'), Matt 22:13 ('xxv, 13'); notes on Denis's readings filiæ Sion (v. 2) and Exsultationes (v. 6). The 'Alleluia' title paragraph is untagged, since the Douay-Rheims prints Alleluia at the end of Ps 148:14."
   },
   {
    "id": "psalms-068-2",
@@ -2196,9 +2197,10 @@
     701,
     705
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:58:22Z"
+   "claimed": "2026-11-18T20:58:22Z",
+   "note": "Published (scheduled run, worker), with Denis's closing words on the whole Psalter ('Ecce ad laudem … Amen.') as untagged paragraphs. Ps 150:6 is empty in the Douay-Rheims data ('let every spirit praise the Lord' stands in v. 5), so the lemma is marked 150:5 (noted). The worker's note naming Dionysius's work (Eccl. Hier. ch. 3) is its own identification: please check. Not translated: the 'Tractatulus de modo devote psallendi' that follows; its first page's transcription failed (the file holds the transcriber's error message instead of the Latin), so that page needs transcribing again."
   }
  ]
 }
