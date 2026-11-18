@@ -872,7 +872,7 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "batch stopped (API credit ran out) | Lines 6-11 of the cut file ('A meremini vitam æternam … Quæ illic requirantur.') are the end of Art. I, published with Art. I: leave them out.",
    "claimed": "2026-11-18T06:35:57Z"
   },
   {
@@ -965,9 +965,10 @@
     399,
     401
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:44:19Z"
   },
   {
    "id": "i-thessalonians-002-8",
@@ -978,9 +979,10 @@
     401,
     405
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:44:19Z"
   },
   {
    "id": "i-thessalonians-003-8",
