@@ -524,9 +524,9 @@
     235,
     241
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 2 Corinthians 1, Art. I (pp. 213-219). Small gaps at v. 6 and v. 8; the transcription repeats v. 22-23 (dropped). The Douay-Rheims and Vulgate files have 2 Cor 1:24 empty, its words inside v. 23, so Denis's v. 24 paragraphs are tagged and marked as 1:23. Margin 'Prov. iii, 21' is Prov 2:21 (noted); illegible margin notes taken as Matt 6:9 and Luke 2:14; 'II Tim. ii' as 2 Tim 2:12.",
    "claimed": "2026-11-18T05:36:27Z"
   },
   {
@@ -538,9 +538,9 @@
     241,
     243
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 2 Corinthians 2, Art. II (pp. 219-221) with gaps: from 'per experientiam' in v. 4 to 'moderate, prout caritas exigit' in v. 5 (PDF 241/242) every line has lost its start; only fragments kept. The article's last column (2:14-17, from '_guentorum tuorum_') had been cut into the Art. III file and was joined here. Margin 'I Cor. i, 14' at v. 14 does not fit (noted, no marker). The Douay-Rheims text of 2 Cor 2:1 ('to come to you again in sorrow') lacks the 'not' of the Vulgate 'ne' (noted in the English). Please check against the scan.",
    "claimed": "2026-11-18T05:36:27Z"
   },
   {
