@@ -1145,9 +1145,9 @@
     448,
     453
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 1 Timothy 6, Art. VI (pp. 426–431) with a large gap: the transcription jumps from 6:10 ('…esse futuros; et', PDF 450) to the middle of 6:15 ('omne tempus comprehendit', PDF 451), so the comment on vv. 11–14 is missing (marked […]). Smaller gaps: 6:9 'id est, […]) […]mines avaros' (lemma 'quæ mergunt homines' lost), and two at 6:17–19 (PDF 452). 'Sed hoc vivo' (6:17) stands for the lemma 'sed in Deo vivo' (noted); 'perdilitiæ' (6:9) garbled, kept with a note. Margin numerals corrected with notes: Ecclus 10:15, Ps 94:3, Ps 17:12, Job 36:25, Dan 4:31 (margin Dan. vii, 14), Ps 48:18. Matt 19:24 tagged without margin note ('possibilius' for 'facilius'). Check against the scan.",
    "claimed": "2026-11-18T07:03:32Z"
   },
   {
@@ -1159,9 +1159,9 @@
     457,
     460
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 2 Timothy 1, Art. I (pp. 435–438). One gap at 1:6 'per impositionem manuum […] quæ tibi positio' (PDF 458; probably 'mearum. Quæ im-'). Margin 'Jer. xx, 12' does not fit (reference-only Jer 9:18, noted); 'Ibid. v. 26' is John 11:26 (noted). Without margin note: Matt 10:20 (reference-only), 1 Cor 1:18, Apoc 2:2, Apoc 3:20. Denis's readings noted: 'Deo meo' (1:3), 'habens' (1:13), 'Dominus Pater' (1:18).",
    "claimed": "2026-11-18T07:03:32Z"
   },
   {
