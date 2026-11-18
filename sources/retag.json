@@ -1024,7 +1024,8 @@
    "chapter": 2,
    "num": "VII",
    "flagged": 14,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:58:20Z"
   },
   {
    "id": "john-3-VIII",
@@ -1032,7 +1033,8 @@
    "chapter": 3,
    "num": "VIII",
    "flagged": 7,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:58:20Z"
   },
   {
    "id": "john-3-IX",
@@ -1040,7 +1042,8 @@
    "chapter": 3,
    "num": "IX",
    "flagged": 14,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:58:20Z"
   },
   {
    "id": "john-3-X",
@@ -1048,7 +1051,8 @@
    "chapter": 3,
    "num": "X",
    "flagged": 8,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:58:20Z"
   },
   {
    "id": "john-20-XLVIII",
@@ -1056,7 +1060,8 @@
    "chapter": 20,
    "num": "XLVIII",
    "flagged": 7,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:58:20Z"
   },
   {
    "id": "john-21-L",
@@ -1064,7 +1069,8 @@
    "chapter": 21,
    "num": "L",
    "flagged": 3,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:58:20Z"
   },
   {
    "id": "romans-1-II",
