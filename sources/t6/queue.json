@@ -2039,9 +2039,10 @@
     663,
     666
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:41:24Z"
+   "claimed": "2026-11-18T20:41:24Z",
+   "note": "Published (scheduled run, worker). Margin 'Eccli. xxxiii, 33' fits Ecclus 22:33 (noted); 'Amos vi, 1, 13': ref-only 6:1, quotation 6:13 (noted); Exod. xxix, 38-41 as ref-only 29:41 (noted). The transcription's inline print verse numbers '(5)', '6)' etc. dropped from the Latin. Title paragraph untagged (Douay-Rheims v. 1 has no title words)."
   },
   {
    "id": "psalms-059-2",
@@ -2052,9 +2053,10 @@
     666,
     669
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:41:24Z"
+   "claimed": "2026-11-18T20:41:24Z",
+   "note": "Published (scheduled run, worker). The article file was cut short at 'Me exspectant justi in'; the rest (to the end of the Precatio) taken from transcribed/p669.txt. Margin 'Ps. xxxvii, 9' beside 'Traditus sum, et non egrediebar' tagged Ps 87:9 (noted); 'Ibid. iii, 20' after Rom. vii, 24 is Phil 3:20 (noted); Matth. xxvii, 15-26 as ref-only Matt 27:24. Tagged without margin note: Matt 27:46, Luke 23:46, Phil 1:23, 2 Cor 3:18. Margin verse numerals in the literal part follow another numbering; tagged by the Vulgate."
   },
   {
    "id": "psalms-060-2",
