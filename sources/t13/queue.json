@@ -137,9 +137,9 @@
     74,
     80
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Romans 7, Art. X (pp. 52-58) with a small gap: the transcription loses the lines at the start of v. 8 (PDF 75 foot / PDF 76 top, after 'ne nostra libertas videatur arceri'), and resumes with 'mandatum, id est concupiscentia' (probably 'peccatum'). Also please check against the scan: 'inclinamur ad mutuam in veritatem' (v. 7, PDF 75; probably 'nitimur in vetitum'), 'In quo legi passi sumus' (v. 6 lemma; Vulgate 'in qua detinebamur'), 'Qui percusserit hominem vel hoc' (Ex 21:12). Margin 'Rom. vi, 4' (v. 5) given as a reference to Rom 6:13; 'Joan. xv, 6' tagged as John 15:5 (the words quoted); unreadable margin at 'per Isaiam' tagged Is 50:1; 'III Reg. xxi' tagged 3 Kings 21:20.",
    "claimed": "2026-11-18T03:11:28Z"
   },
   {
