@@ -1,1641 +1,1641 @@
 {
-  "volume": "t13",
-  "items": [
-    {
-      "id": "romans-001",
-      "book": "romans",
-      "art": 1,
-      "chapter_guess": null,
-      "pages": [
-        25,
-        26
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Translated by a scheduled run (prologue article on St Paul; filed under chapter 1 with no verse tags). Obvious quotations without margin notes tagged: John 8:13-16, 2 Cor 12:12, 1 Cor 2:4-5, Heb 2:3-4, Acts 9:15, 2 Pet 3:15-16.",
-      "claimed": "2026-11-18T02:52:41Z"
-    },
-    {
-      "id": "romans-002",
-      "book": "romans",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        26,
-        27
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.05)"
-    },
-    {
-      "id": "romans-003",
-      "book": "romans",
-      "art": 3,
-      "chapter_guess": 1,
-      "pages": [
-        27,
-        34
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.34) | unreadable: p. 9, right column, last lines: one word after 'duodecim' (before 'discipulos') is too faint to read; the following words 'quibus et ait. Nonne ego vos duodecim elegi?' are faint but legible. The margin notes beside these lines (apparently Luke vi and John vi) are illegible."
-    },
-    {
-      "id": "romans-004",
-      "book": "romans",
-      "art": 4,
-      "chapter_guess": 1,
-      "pages": [
-        34,
-        40
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.32)"
-    },
-    {
-      "id": "romans-005-part1",
-      "book": "romans",
-      "art": 5,
-      "chapter_guess": 2,
-      "pages": [
-        40,
-        47
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "part": 1,
-      "parts": 2,
-      "note": "Part 1 (Rom 2:1-29, pp. 18-25) published with small gaps. The transcription has [...] at the end of v. 29 (last lines of p. 25: 'confitens Domino confessione laudis divinae : [...] [...]dis, id est circumcisio spiritualis' and 'laus non [...] ex hominibus ... [...] judicant, sed [...] qui inspector [...]'), and one word in v. 27 ('dignum ostendet, [...] Judaee'). Please check p. 25 (PDF 47) against the scan. Obvious quotations without margin notes tagged (1 Cor 2:15, Is 48:4, Prov 1:24-27 and others). Ps 147:9 given for the margin's Ps. cxlvii, 20 (Hebrew numbering).",
-      "claimed": "2026-11-18T02:54:02Z"
-    },
-    {
-      "id": "romans-005-part2",
-      "book": "romans",
-      "art": 5,
-      "chapter_guess": 2,
-      "pages": [
-        48,
-        55
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "part": 2,
-      "parts": 2,
-      "note": "This item is not part 2 of Art. V: the running heads of PDF 48-55 read ART. VI, and the text is Art. VI (Romans 3). Published as Romans 3, Art. VI. Needs scan of PDF 48 (printed p. 26), whose transcription is almost empty: it holds the end of Art. V (rest of 2:29) and the title and start of Art. VI (3:1-4). Also half-lines lost in the left column of the page with 3:19-20 (about PDF 51-52), and the lemmas 'in sanguine' (3:25) and 'et justificans eum qui est ex fide Jesu' (3:26) are missing. Note: romans-005-part1 carries parts=2, so Art. V will wait for a part 2 that is really the missing page 48.",
-      "claimed": "2026-11-18T02:54:47Z"
-    },
-    {
-      "id": "romans-007",
-      "book": "romans",
-      "art": 7,
-      "chapter_guess": 4,
-      "pages": [
-        55,
-        61
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published with small gaps (Rom 4:1-25, pp. 33-39). The transcription marks lines lost in v. 3 (after 'In semine tuo benedicentur omnes gentes :', p. 33), v. 16 (after 'ut secundum gratiam Dei', p. 38) and v. 17 (after 'inane reputatae sunt ei :'). The cut article stopped at 'Tradidit in mor-' (v. 25); the rest of v. 25 was taken from transcribed/p61.txt. Please check those three places against the scan. Is 44:22 given for the margin's Is. xlv, 22; Ps 144:14 and 145:8 for 'Ps. xxxiv, 14; cxliv, 8'.",
-      "claimed": "2026-11-18T02:57:27Z"
-    },
-    {
-      "id": "romans-008",
-      "book": "romans",
-      "art": 8,
-      "chapter_guess": 5,
-      "pages": [
-        61,
-        69
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as Romans 5, Art. VIII with small gaps: lines missing from the transcription in the glosses on vv. 1 (before 'pacem habeamus'), 8-9 ('secundum tempus, id est tri[duum]...'), 13 (the start of 'peccatum autem non imputabatur'), 17 and 19 (the word 'obedientiam' and the lines after it); left-column line ends of the page with vv. 4-5 were restored by sense. The transcription of this item also opens with a stray block from the end of Art. VII (Rom 4:25, 'Et resurrexit propter justificationem nostram...'), which may be missing from Art. VII.",
-      "claimed": "2026-11-18T03:01:08Z"
-    },
-    {
-      "id": "romans-009",
-      "book": "romans",
-      "art": 9,
-      "chapter_guess": 6,
-      "pages": [
-        69,
-        74
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published with gaps (Rom 6:1-23, pp. 47-52). The transcription has lost: the start of v. 3 (p. 48, after 'quomodo mortui sumus ipsi peccato'), a line in v. 4 (after 'per gloriam, id est majestatem'), the start of v. 14 (p. 50/51, after 'ad Dei honorem ac laudem'), a word after 'Mors et vita ab ipso' (v. 23). Please check those places against the scan. Ecclus 18:30 given for the margin's 'Eccli. xxxvi, 30'. The end of v. 23 ('Haec autem vita aeterna est in Christo Jesu...') was found at the top of the right column of transcribed/p74.txt (it had been cut into romans-010.txt) and added.",
-      "claimed": "2026-11-18T03:01:49Z"
-    },
-    {
-      "id": "romans-010",
-      "book": "romans",
-      "art": 10,
-      "chapter_guess": 7,
-      "pages": [
-        74,
-        80
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as Romans 7, Art. X (pp. 52-58) with a small gap: the transcription loses the lines at the start of v. 8 (PDF 75 foot / PDF 76 top, after 'ne nostra libertas videatur arceri'), and resumes with 'mandatum, id est concupiscentia' (probably 'peccatum'). Also please check against the scan: 'inclinamur ad mutuam in veritatem' (v. 7, PDF 75; probably 'nitimur in vetitum'), 'In quo legi passi sumus' (v. 6 lemma; Vulgate 'in qua detinebamur'), 'Qui percusserit hominem vel hoc' (Ex 21:12). Margin 'Rom. vi, 4' (v. 5) given as a reference to Rom 6:13; 'Joan. xv, 6' tagged as John 15:5 (the words quoted); unreadable margin at 'per Isaiam' tagged Is 50:1; 'III Reg. xxi' tagged 3 Kings 21:20.",
-      "claimed": "2026-11-18T03:11:28Z"
-    },
-    {
-      "id": "romans-011",
-      "book": "romans",
-      "art": 11,
-      "chapter_guess": 8,
-      "pages": [
-        80,
-        87
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.33)"
-    },
-    {
-      "id": "romans-012",
-      "book": "romans",
-      "art": 12,
-      "chapter_guess": 8,
-      "pages": [
-        87,
-        94
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.38)"
-    },
-    {
-      "id": "romans-013",
-      "book": "romans",
-      "art": 13,
-      "chapter_guess": 9,
-      "pages": [
-        94,
-        104
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as Romans 9, Art. XIII with two small gaps in the transcription: in the gloss on v. 8 (the lemmas 'non qui filii carnis' and 'hi filii Dei' are lost) and on v. 26 (a line with 'ubi dictum est eis'). The margin reference for Ps 118:32 is illegible ('Ps. [...]'). The margin gives Is 55:11 for 'Egredietur de ore meo justitiae verbum', whose first words are Is 45:23 (both tagged).",
-      "claimed": "2026-11-18T03:06:08Z"
-    },
-    {
-      "id": "romans-014",
-      "book": "romans",
-      "art": 14,
-      "chapter_guess": 10,
-      "pages": [
-        104,
-        109
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Translated by a scheduled run. The margin's reference to Numbers for v. 5 is illegible in the transcription ('Num. [...]'); the margin gives 1 John 5:1 for 'Quis est qui vincit mundum', which is 1 John 5:5 (tagged 5:5).",
-      "claimed": "2026-11-18T03:11:51Z"
-    },
-    {
-      "id": "romans-015",
-      "book": "romans",
-      "art": 15,
-      "chapter_guess": 11,
-      "pages": [
-        109,
-        116
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as Romans 11, Art. XV with small gaps in the transcription: the start of the lemma 'An nescitis' (v. 2), the words after 'omnis Israel' (v. 26, 'salvus fieret'), and 'aut' before 'quis consiliarius' (v. 34); the margin's chapter number for Is 59:19-21 is illegible ('Is. [...] 21').",
-      "claimed": "2026-11-18T03:15:21Z"
-    },
-    {
-      "id": "romans-016",
-      "book": "romans",
-      "art": 16,
-      "chapter_guess": 12,
-      "pages": [
-        116,
-        122
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as Romans 12, Art. XVI (pp. 94-99) with small gaps: a few words lost in v. 2 (PDF 117, after 'Probetis, per exsecutionem, quae sit'); the end of the left column of PDF 121 (v. 17, after 'et Salvator : Luceat lux'); and the end of the article (PDF 121 right column, after 'sed quo al-'). Margin readings corrected from the words quoted: Ps xxxvi,22 -> Ps 43:22; Jer xxxvi,36 -> Jer 48:36; Prov vi,22 -> Ecclus 6:36; Judith xiii,24-25 -> Jdt 8:24-25; Ps xxx,1 -> Ps 130:1; Prov xxvi,4 -> Prov 23:4; Ps xxxiv,5 -> Ps 7:5; Ps cxxv,7 -> Ps 145:7. 'Honeste ambulemus ad eos qui foris sunt' tagged Rom 13:13 as the margin gives, with a note that the rest is 1 Thess 4:11.",
-      "claimed": "2026-11-18T03:17:04Z"
-    },
-    {
-      "id": "romans-017",
-      "book": "romans",
-      "art": 17,
-      "chapter_guess": 13,
-      "pages": [
-        122,
-        125
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as Romans 13, Art. XVII with gaps: for vv. 4-7 the transcription kept only the first half of each line of one column (about 45 lines, PDF 123-124). The end of the article (rest of v. 14) stands at the top of the right column of PDF 125, in the transcription of romans-018; it is included here.",
-      "claimed": "2026-11-18T03:19:27Z"
-    },
-    {
-      "id": "romans-018",
-      "book": "romans",
-      "art": 18,
-      "chapter_guess": 14,
-      "pages": [
-        125,
-        131
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as Romans 14, Art. XVIII (pp. 103-109) with small gaps. The transcription of PDF 125 is damaged: the left column (introduction) lost its line-ends, which were put back from fragments printed beside the next column; lines of v. 2 are lost (PDF 125 right column foot / PDF 126 top: 'credit, id est, fideliter noscit, [...] manae vitae'; 'inter cibos dis[...] per [...] ad vitandum consentire scrupulum'). Also lost: a few words at the page break in v. 9 ('sua passione [...] talem dominationem', PDF 127/128), in v. 11 ('praesertim [...] bitur Domino', PDF 128/129) and in v. 20 ('Noli, o homo, [...]', PDF 130). Margin readings: bare '13' at v. 11 taken as Heb 6:13; 'Act. xv, 10, 11; xvi, 3; xviii, 18; xxi, 21-26' as reference-only markers. Unmarked quotations tagged: Is 33:1, Phil 2:10, 1 Cor 8:8, Zach 8:19.",
-      "claimed": "2026-11-18T03:21:14Z"
-    },
-    {
-      "id": "romans-019",
-      "book": "romans",
-      "art": 19,
-      "chapter_guess": 15,
-      "pages": [
-        131,
-        137
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as Romans 15, Art. XIX (pp. 109-115) with a large gap: the transcription of one page (PDF 133, the commentary on the end of v. 8 to v. 13) says the scan is too faint to read; only fragments were translated, marked as such. Also a word or two lost at the page break in v. 25 ('eleemosynas [...] gentium'). Please transcribe PDF 133 again from the scan. Margin 'Galat. v, 2' given as Gal 6:2; unmarked quotations tagged: John 8:50, John 8:29, Mark 14:36. Corrected 'deduci ad' to 'deduci illuc' (v. 24) and 'finitis' to 'factis' (v. 18).",
-      "claimed": "2026-11-18T03:25:20Z"
-    },
-    {
-      "id": "romans-020",
-      "book": "romans",
-      "art": 20,
-      "chapter_guess": 16,
-      "pages": [
-        137,
-        141
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T03:26:26Z",
-      "note": "Translated by a scheduled run. Unreadable margin note 'Psal. […]' identified as Ps 17:16 (word for word). Margin II Reg. xv, 3 for Absalom's kisses given as 2 Kings 15:5. Obvious quotations without margin notes tagged: 1 John 3:16, John 14:31, Tit 1:2. Denis skips vv. 9-10, 12, 14-15."
-    },
-    {
-      "id": "i-corinthians-001-2",
-      "book": "i-corinthians",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        145,
-        154
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Translated by a scheduled run (1 Cor 1:1-31, pp. 123-132). One word lost in the transcription in the paragraph on v. 1 ('quasi impium [...] sit aliter opinari'). Margin 'Is. xi, 5' given as Is 40:5 (the words 'videbit omnis caro'); unmarked quotations tagged (John 14:23, Matt 24:42, Apoc 3:3, Jas 5:7, 5:9, Ps 144:13, John 1:16, Rom 8:29, John 2:18, Matt 11:6, Is 52:10, John 17:25, John 1:5, Osee 10:12, Joel 2:23, Is 49:6, Ps 32:6, Wis 2:24, John 1:9).",
-      "claimed": "2026-11-18T03:29:22Z"
-    },
-    {
-      "id": "i-corinthians-002-2",
-      "book": "i-corinthians",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        154,
-        158
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "claimed": "2026-11-18T03:33:36Z",
-      "note": "Published as 1 Corinthians 2, Art. II (pp. 132-136) with gaps: the transcription of PDF 155 (printed p. 133) has lost the end of every line of one column (glosses on vv. 6-8, from 'Sapientiam non hujus sæculi' to '…nedo non in expectatione epistolæ'); the fragments are kept with […]. A word is also lost in the gloss on v. 10 ('qui […]'). Needs the scan of PDF 155. Unreadable margin 'Ps. […]' taken as Ps 92:5; 'Ps. cxv, 12' given as Ps 115:3; Acts margin 'x, 31' does not fit (Acts 10:44 used). Ecclus 1:26 tagged without margin note (Denis names it)."
-    },
-    {
-      "id": "i-corinthians-003-2",
-      "book": "i-corinthians",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        158,
-        163
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Translated by a scheduled run (1 Cor 3:1-23, pp. 136-141). Small gaps in the transcription: a verb after 'Ut autem Dionysius' (v. 9, PDF 160) and a word after 'salvus erit, quum' (v. 15, PDF 162). The words 'alius autem superaedificat' stand in brackets in the transcription (v. 10). Wis 7:27 given as a reference-only marker for 'anima justi sedes est sapientiae'.",
-      "claimed": "2026-11-18T03:34:17Z"
-    },
-    {
-      "id": "i-corinthians-004-2",
-      "book": "i-corinthians",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        163,
-        166
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Translated by a scheduled run (1 Cor 4:1-21, pp. 141-144). Small gaps in the transcription: a word after 'ab hominibus die' (v. 3, PDF 163), the words between 'quod non revelabitur' and '-stabit consilia cordium' (v. 5, PDF 163/164), and a few words after 'Non enim in sermone, id est' (v. 20, PDF 165/166). Margin 'Jacob. iv, 13' given as Jas 4:15 (the words quoted).",
-      "claimed": "2026-11-18T03:37:18Z"
-    },
-    {
-      "id": "i-corinthians-005-2",
-      "book": "i-corinthians",
-      "art": 5,
-      "chapter_guess": 5,
-      "pages": [
-        166,
-        169
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 5, Art. V (pp. 144-147). The end of the article (vv. 12-13, PDF 169, left part of the right column) is damaged in the transcription: the beginnings of the lines are lost; they were filled from the sense in square brackets in the Latin and marked in the English. Please check against the scan. Margin 'Deut. xiii, 19, 20' given as Deut 19:19-20 (the words quoted); 'Qui tetigerit picem' tagged Ecclus 13:1 (no margin note read for it; the margin there gives Levit. xx, 11).",
-      "claimed": "2026-11-18T03:39:29Z"
-    },
-    {
-      "id": "i-corinthians-006",
-      "book": "i-corinthians",
-      "art": 6,
-      "chapter_guess": 6,
-      "pages": [
-        169,
-        173
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 6, Art. VI (pp. 147-151) with gaps. The transcription loses several lines at vv. 12-13 (PDF 171/172: the lemma 'sed ego sub nullius redigar potestate' and the start of v. 13, 'Esca ventri'), the ends of lines on the last page (PDF 173, v. 19-20, filled from the sense in square brackets in the Latin), and the end of the article (after 'morte et sanguine Chr[isti]'). Also: 'ab errore circa matrimonium' at the start (ch. 5 was about incest); the margin note for 'Ne contendas cum homine loquace' is unreadable (given as Ecclus 8:4, reference only). Please check against the scan.",
-      "claimed": "2026-11-18T03:41:33Z"
-    },
-    {
-      "id": "i-corinthians-007-2",
-      "book": "i-corinthians",
-      "art": 7,
-      "chapter_guess": 7,
-      "pages": [
-        173,
-        181
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "needs scan: text lost at vv. 1–4 (lower right column of PDF 173 not transcribed) and the lemma of v. 33 (PDF 179/180). The right column of PDF 173 holds the lost end of Art. VI (6:20)."
-    },
-    {
-      "id": "i-corinthians-008-2",
-      "book": "i-corinthians",
-      "art": 8,
-      "chapter_guess": 8,
-      "pages": [
-        181,
-        184
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "needs scan: a line or more lost at v. 1 ('Si autem scientia pertinaci[…]tur caritate', between PDF 181 and 182)."
-    },
-    {
-      "id": "i-corinthians-009-2",
-      "book": "i-corinthians",
-      "art": 9,
-      "chapter_guess": 9,
-      "pages": [
-        184,
-        190
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 9, Art. IX (pp. 162-168) with a small gap: a word-beginning is lost at a column break in vv. 17-18 ('non tantum mercedem habent […]lo, quantum Paulus'). The end of the article (v. 27 from 'rationis imperio cultuique divino') was in the Art. X file and was joined back. Margin numerals corrected, with notes: 'Act. ix, 1' -> Acts 9:4; 'Luc. v. 3' -> Luke 10:3; 'Ps. cxlvii, 15' -> Ps 147:4. Possible Douay-Rheims data slips seen: 1 Cor 9:1 'Am I not I free?', 9:8 'also say; these things?'. Please check the gap against the scan."
-    },
-    {
-      "id": "i-corinthians-010-2",
-      "book": "i-corinthians",
-      "art": 10,
-      "chapter_guess": 10,
-      "pages": [
-        190,
-        196
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 10, Art. X (pp. 168-174) with a gap: at v. 17 about six lines survive only as fragments (line-beginnings lost); certain words kept, with a note. Margin numerals corrected, with notes: 'Eccli. xxxiii, 30' -> Ecclus 18:30; 'Exod. xvi, 7' -> Ex 17:7; '1 Tim. ii, 5' -> 2 Tim 2:5; 'Ps. lm' read as Ps 52:6. Reading 'contumeretur' (v. 28) taken as 'be confirmed'. Please check against the scan."
-    },
-    {
-      "id": "i-corinthians-011-2",
-      "book": "i-corinthians",
-      "art": 11,
-      "chapter_guess": 11,
-      "pages": [
-        196,
-        204
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 11, Art. XI (pp. 174-182) with gaps. The transcription loses: the end of the v. 5-6 paragraph and the start of v. 7 (PDF 197); the end of v. 13 and start of v. 14; the start of v. 17 and a few words after 'vel quod dicam'; the start of the v. 26 lemma; the line-ends of one column at vv. 29-30 (PDF 203: v. 29 mostly rejoined from fragments, v. 30 and the Old/New Testament punishments about ten line-ends lost, certain words filled in brackets in the Latin); words at the page break in v. 33 and after 'non potens' in v. 34. Also: v. 10 Denis reads 'velamen' for 'potestatem' (noted); Decretum margin notes (33, q. 1, c. Hæc imago; 33, q. 5, c. Nec illud) kept as bracketed notes; margin 'Luke xxii, 17' marked as Luke 22:19 (the bread); 'II Mach. vi' given as 2 Mach 6:13. Please check against the scan.",
-      "claimed": "2026-11-18T05:11:29Z"
-    },
-    {
-      "id": "i-corinthians-012-2",
-      "book": "i-corinthians",
-      "art": 12,
-      "chapter_guess": 12,
-      "pages": [
-        204,
-        209
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 12, Art. XII (pp. 182-187). The article's last column (from 'sonarum, ut sunt presbyteri' to 'scilicet caritatem', vv. 28-31) had been cut into the Art. XIII file; it was joined here. Small gaps: a line at the start of v. 5 (PDF 205, the lemma 'Et divisiones ministrationum sunt') and a few words at v. 7. Margin 'Ps. cxiii, 5 sec. Hebr.' given as Ps 113:13; 'Num. xxiv, 8' (Balaam) as reference-only Num 24:3; 'Matth. vii' as Matt 7:22; 'Ps. xxxvi, 16' beside 'principes populorum' does not fit, Ps 46:10 marked with a note.",
-      "claimed": "2026-11-18T05:20:26Z"
-    },
-    {
-      "id": "i-corinthians-013-2",
-      "book": "i-corinthians",
-      "art": 13,
-      "chapter_guess": 13,
-      "pages": [
-        209,
-        212
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 13, Art. XIII (pp. 187-190) with gaps. The transcription loses words in the opening (v. 1, 'ut […] hominum universorum […]'), the line-ends of one column at vv. 8-10 (PDF 210/211; certain words completed in brackets in the Latin, the rest left as […]), and one margin note at v. 12 (beside 'facie ad faciem, cognoscere eum'). The article number is damaged in the print ('ARTICUL[…]'). The column at the start of the file belonged to Art. XII and was moved there. Please check against the scan.",
-      "claimed": "2026-11-18T05:20:26Z"
-    },
-    {
-      "id": "i-corinthians-014-2",
-      "book": "i-corinthians",
-      "art": 14,
-      "chapter_guess": 14,
-      "pages": [
-        212,
-        217
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 14, Art. XIV (pp. 190-195) with a gap. The cutter had put the end of the article (vv. 36-40, from 'quiescere nostris statutis') at the head of the Art. XV file; it was joined back here. A line or more is lost at a column break in v. 24 after 'dijudicatur ab omnibus.' (PDF 215; the next words are '...phetantibus, quod sit in aliquo errore'). No margin references are checkable (transcribed volume): Is 65:20, Is 28:11, Acts 2:4, Matt 7:6 given as reference-only; Wis 6:16 noted. Please check against the scan."
-    },
-    {
-      "id": "i-corinthians-015-2",
-      "book": "i-corinthians",
-      "art": 15,
-      "chapter_guess": 15,
-      "pages": [
-        217,
-        223
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 15, Art. XV (pp. 195-201) with gaps. A line or so is lost in v. 20 after 'Horum dicitur Christus primitiæ' (PDF 219). The end of the article (end of v. 30, all of v. 31) is at the top of the right column of PDF 223, whose line-ends the transcription lost: only line-beginnings kept, with a note. v. 15 the transcription reads 'testes fidei Dei' (Vulgate 'falsi testes Dei'; noted). Margin numerals corrected: 'Ibid. 20' -> John 20:26, 'Luc. xii, 14, 15' -> Luke 7:14, 'Joan. xi, 13, 14' -> John 11:43, 'Ps. cx, 1' -> Ps 109:1. Please check against the scan."
-    },
-    {
-      "id": "i-corinthians-016-2",
-      "book": "i-corinthians",
-      "art": 16,
-      "chapter_guess": 15,
-      "pages": [
-        223,
-        228
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 15, Art. XVI (pp. 201-206; title damaged in the transcription: 'Prosequtio explanationis hujus capituli quintidecimi, a[b eo loco: Si secundum] hominem ad bestias pugnavi Ephesi … est'). PDF 223's right column was transcribed in split half-lines: vv. 33-35 are fragmentary (v. 33 rejoined; the gloss on 'ad reverentiam vobis loquor' and most of v. 35 lost). The top of that column (from '[suppli]cia ducimur' to 'contemplationem ipsius', the end of v. 30 and v. 31) belongs to the end of Art. XV, which the cut file i-corinthians-015-2 stops before ('vel ad suppli-'); it is fragmentary too and was left out of both articles. The article's last lines ('[…]t itaque perfectio, cordis stabilitas in Domino … ut luna', v. 58) had been cut into the Art. XVII file and were joined here; a word is lost at the join ('Magna est […]t itaque perfectio'). Margin 'Ibid. vi, 38' does not fit: John 16:28 marked with a note. Please check against the scan.",
-      "claimed": "2026-11-18T05:28:06Z"
-    },
-    {
-      "id": "i-corinthians-017-2",
-      "book": "i-corinthians",
-      "art": 17,
-      "chapter_guess": 16,
-      "pages": [
-        228,
-        231
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 1 Corinthians 16, Art. XVII (pp. 206-209). Five small gaps in the transcription at v. 19 (PDF 230, 'Salutant vos … Asiæ … domestica [ec]clesia'). The first lines of the cut file belonged to Art. XVI and were moved there. v. 6 footnote variant 'deducatis' and v. 7 'Volo' (Vulgate 'Nolo') noted in the English. Please check v. 19 against the scan.",
-      "claimed": "2026-11-18T05:28:06Z"
-    },
-    {
-      "id": "ii-corinthians-001-3",
-      "book": "ii-corinthians",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        235,
-        241
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Published as 2 Corinthians 1, Art. I (pp. 213-219). Small gaps at v. 6 and v. 8; the transcription repeats v. 22-23 (dropped). The Douay-Rheims and Vulgate files have 2 Cor 1:24 empty, its words inside v. 23, so Denis's v. 24 paragraphs are tagged and marked as 1:23. Margin 'Prov. iii, 21' is Prov 2:21 (noted); illegible margin notes taken as Matt 6:9 and Luke 2:14; 'II Tim. ii' as 2 Tim 2:12.",
-      "claimed": "2026-11-18T05:36:27Z"
-    },
-    {
-      "id": "ii-corinthians-002-3",
-      "book": "ii-corinthians",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        241,
-        243
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 2 Corinthians 2, Art. II (pp. 219-221) with gaps: from 'per experientiam' in v. 4 to 'moderate, prout caritas exigit' in v. 5 (PDF 241/242) every line has lost its start; only fragments kept. The article's last column (2:14-17, from '_guentorum tuorum_') had been cut into the Art. III file and was joined here. Margin 'I Cor. i, 14' at v. 14 does not fit (noted, no marker). The Douay-Rheims text of 2 Cor 2:1 ('to come to you again in sorrow') lacks the 'not' of the Vulgate 'ne' (noted in the English). Please check against the scan.",
-      "claimed": "2026-11-18T05:36:27Z"
-    },
-    {
-      "id": "ii-corinthians-003-3",
-      "book": "ii-corinthians",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        243,
-        247
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 2 Corinthians 3, Art. III (pp. 221-225) with a gap. The cutter had put the end of Art. II (2:14-17, from '_guentorum tuorum_') inside this article's file, and the end of this article (v. 18 from 'commutamur, a claritate') at the head of the Art. IV file; both were put back here (Art. II's end was left for the run doing Art. II). In v. 9 the lemma words before 'ministerium justitiæ' (probably 'multo magis abundat') are lost (PDF 245). Margin 'Exod. xxxiv, 33' given as reference-only Ex 34:30 (the horned face), noted. Please check against the scan."
-    },
-    {
-      "id": "ii-corinthians-004-3",
-      "book": "ii-corinthians",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        247,
-        250
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 2 Corinthians 4, Art. IV (pp. 225-228) with a small gap: in v. 15 a few words may be lost at a column break before 'quatenus' (PDF 249). The article's text after 'occulta dedecoris, id est' was restored from transcribed/p247.txt (the cut file truncated the line). Margin 'Ps. cxv, 10' given as Ps 115:1 (Vulgate numbering); 'Matt. x / xxiv, 9' as Matt 10:22 + reference-only Matt 24:9. Please check the gap against the scan."
-    },
-    {
-      "id": "ii-corinthians-005-3",
-      "book": "ii-corinthians",
-      "art": 5,
-      "chapter_guess": 5,
-      "pages": [
-        250,
-        254
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Published as 2 Corinthians 5, Art. V (pp. 228-232). One small gap at v. 10 ('apparere, […] vel in judicio particulari', probably 'oportet'; lines reordered at a column break). Margin 'Prov. xiv, 12' is Prov 13:12 and 'Job xxvi, 23' is Job 31:23 (both noted). v. 18 'ut hominem tollem' looks corrupt (noted).",
-      "claimed": "2026-11-18T05:47:23Z"
-    },
-    {
-      "id": "ii-corinthians-006-2",
-      "book": "ii-corinthians",
-      "art": 6,
-      "chapter_guess": 6,
-      "pages": [
-        254,
-        257
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "needs scan: a line or more lost at the start of v. 13 (PDF 256), and right-column line-ends cut off at vv. 4–8 (filled only where certain)."
-    },
-    {
-      "id": "ii-corinthians-007-3",
-      "book": "ii-corinthians",
-      "art": 7,
-      "chapter_guess": 7,
-      "pages": [
-        257,
-        260
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-corinthians-008-3",
-      "book": "ii-corinthians",
-      "art": 8,
-      "chapter_guess": 8,
-      "pages": [
-        260,
-        263
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Published as 2 Corinthians 8, Art. VIII (pp. 238-241). The end of the article (vv. 23-24, from 'cipes et doctores') was in the Art. IX file and was joined back. 'Act. xi-xv' given as reference-only Acts 11:26 (noted). Matt 8:20, Luke 2:7, Zach 9:9 and Jer 14:8 tagged with no margin note (word for word)."
-    },
-    {
-      "id": "ii-corinthians-009-3",
-      "book": "ii-corinthians",
-      "art": 9,
-      "chapter_guess": 9,
-      "pages": [
-        263,
-        266
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Published as 2 Corinthians 9, Art. IX (pp. 241-244) with two small gaps (PDF 263): words lost after 'promptitudinem vestram' (v. 2) and after 'et præparent' (v. 5). In v. 5 'sæpe promissam eleemosynam' + fragment 'mosynarum collationem' read as 'eleemosynarum collationem'. Margin numerals corrected, with notes: 'Eccle vi, 1' -> Eccles 11:1; 'Ps. vi, 2' -> Ps 40:2. Please check against the scan."
-    },
-    {
-      "id": "ii-corinthians-010-3",
-      "book": "ii-corinthians",
-      "art": 10,
-      "chapter_guess": 10,
-      "pages": [
-        266,
-        269
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.17) | unreadable: p. 245, right column, beside verse 12 (at 'et plus justo nos ipsos jactemus'): a faded marginal note, illegible; p. 245, right column, last lines: the lemma of verse 13 ('Nos autem non in immensum gloriabimur') is very faint; restored from the remaining letters and the Vulgate"
-    },
-    {
-      "id": "ii-corinthians-011-3",
-      "book": "ii-corinthians",
-      "art": 11,
-      "chapter_guess": 11,
-      "pages": [
-        269,
-        275
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.29) | unreadable: p. 247, margin note beside 'Bonum æmulamini in bono semper' (Gal. iv, 17-18?) is faint; taken as Gal 4:18"
-    },
-    {
-      "id": "ii-corinthians-012-3",
-      "book": "ii-corinthians",
-      "art": 12,
-      "chapter_guess": 12,
-      "pages": [
-        275,
-        279
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)",
-      "claimed": "2026-11-18T06:03:14Z"
-    },
-    {
-      "id": "ii-corinthians-013-3",
-      "book": "ii-corinthians",
-      "art": 13,
-      "chapter_guess": 13,
-      "pages": [
-        279,
-        285
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)",
-      "claimed": "2026-11-18T06:03:14Z"
-    },
-    {
-      "id": "galatians-001-4",
-      "book": "galatians",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        287,
-        291
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)",
-      "claimed": "2026-11-18T06:13:10Z"
-    },
-    {
-      "id": "galatians-002-4",
-      "book": "galatians",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        291,
-        297
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.30)"
-    },
-    {
-      "id": "galatians-003-4",
-      "book": "galatians",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        297,
-        302
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)",
-      "claimed": "2026-11-18T06:13:10Z"
-    },
-    {
-      "id": "galatians-004-4",
-      "book": "galatians",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        302,
-        307
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "galatians-005-4",
-      "book": "galatians",
-      "art": 5,
-      "chapter_guess": 5,
-      "pages": [
-        307,
-        312
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "galatians-006-3",
-      "book": "galatians",
-      "art": 6,
-      "chapter_guess": 6,
-      "pages": [
-        312,
-        317
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ephesians-001-5",
-      "book": "ephesians",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        321,
-        326
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.24)"
-    },
-    {
-      "id": "ephesians-002-5",
-      "book": "ephesians",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        326,
-        330
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ephesians-003-5",
-      "book": "ephesians",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        330,
-        334
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.21)"
-    },
-    {
-      "id": "ephesians-004-5",
-      "book": "ephesians",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        334,
-        341
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ephesians-005-5",
-      "book": "ephesians",
-      "art": 5,
-      "chapter_guess": 5,
-      "pages": [
-        341,
-        345
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.25)"
-    },
-    {
-      "id": "ephesians-006-4",
-      "book": "ephesians",
-      "art": 6,
-      "chapter_guess": 6,
-      "pages": [
-        345,
-        351
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "philippians-001-6",
-      "book": "philippians",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        355,
-        359
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "philippians-002-6",
-      "book": "philippians",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        359,
-        365
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "philippians-003-6",
-      "book": "philippians",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        365,
-        369
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "philippians-004-6",
-      "book": "philippians",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        369,
-        373
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.18)"
-    },
-    {
-      "id": "colossians-001-7",
-      "book": "colossians",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        377,
-        383
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "colossians-002-7",
-      "book": "colossians",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        383,
-        387
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.22) | unreadable: p. 363, right column: a faint marginal note beside the quotations from the Saviour (John 12) could not be read"
-    },
-    {
-      "id": "colossians-003-7",
-      "book": "colossians",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        387,
-        391
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "colossians-004-7",
-      "book": "colossians",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        391,
-        395
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.14)"
-    },
-    {
-      "id": "i-thessalonians-001-8",
-      "book": "i-thessalonians",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        399,
-        401
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-thessalonians-002-8",
-      "book": "i-thessalonians",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        401,
-        405
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-thessalonians-003-8",
-      "book": "i-thessalonians",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        405,
-        406
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-thessalonians-004-8",
-      "book": "i-thessalonians",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        406,
-        417
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-thessalonians-001-9",
-      "book": "ii-thessalonians",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        421,
-        423
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.11)"
-    },
-    {
-      "id": "ii-thessalonians-002-9",
-      "book": "ii-thessalonians",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        423,
-        427
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-thessalonians-003-9",
-      "book": "ii-thessalonians",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        427,
-        429
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-timothy-001-10",
-      "book": "i-timothy",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        433,
-        437
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.18)"
-    },
-    {
-      "id": "i-timothy-002-10",
-      "book": "i-timothy",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        437,
-        440
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-timothy-003-10",
-      "book": "i-timothy",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        440,
-        443
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-timothy-004-9",
-      "book": "i-timothy",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        443,
-        445
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-timothy-005-6",
-      "book": "i-timothy",
-      "art": 5,
-      "chapter_guess": 5,
-      "pages": [
-        445,
-        448
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-timothy-006-5",
-      "book": "i-timothy",
-      "art": 6,
-      "chapter_guess": 6,
-      "pages": [
-        448,
-        453
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-timothy-001-11",
-      "book": "ii-timothy",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        457,
-        460
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-timothy-002-11",
-      "book": "ii-timothy",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        460,
-        463
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-timothy-003-11",
-      "book": "ii-timothy",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        463,
-        465
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-timothy-004-10",
-      "book": "ii-timothy",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        465,
-        469
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "titus-001-12",
-      "book": "titus",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        473,
-        475
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "titus-002-12",
-      "book": "titus",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        475,
-        477
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "titus-003-12",
-      "book": "titus",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        477,
-        481
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "philemon-001-13",
-      "book": "philemon",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        485,
-        489
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-001-14",
-      "book": "hebrews",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        493,
-        499
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-002-13",
-      "book": "hebrews",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        499,
-        504
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-003-13",
-      "book": "hebrews",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        504,
-        507
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-004-11",
-      "book": "hebrews",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        507,
-        511
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-005-7",
-      "book": "hebrews",
-      "art": 5,
-      "chapter_guess": 5,
-      "pages": [
-        511,
-        514
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-006-6",
-      "book": "hebrews",
-      "art": 6,
-      "chapter_guess": 6,
-      "pages": [
-        514,
-        518
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.19)"
-    },
-    {
-      "id": "hebrews-007-4",
-      "book": "hebrews",
-      "art": 7,
-      "chapter_guess": 7,
-      "pages": [
-        518,
-        523
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-008-4",
-      "book": "hebrews",
-      "art": 8,
-      "chapter_guess": 8,
-      "pages": [
-        523,
-        526
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-009-4",
-      "book": "hebrews",
-      "art": 9,
-      "chapter_guess": 9,
-      "pages": [
-        526,
-        531
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-010-4",
-      "book": "hebrews",
-      "art": 10,
-      "chapter_guess": 10,
-      "pages": [
-        531,
-        536
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-011-4",
-      "book": "hebrews",
-      "art": 11,
-      "chapter_guess": 11,
-      "pages": [
-        536,
-        543
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.40) | unreadable: p. 515, left column: the Boethius verses are printed very faintly; they are restored from the Consolation of Philosophy (III, metr. 9), with which the faint traces agree.; p. 515, right column, foot: the lemma 'Ante translationem enim testimonium habuit placuisse Deo' is faint and is restored from the Vulgate; the margin note beside 'Hoc est quod legitur in Genesi' cannot be read.; p. 517, right column: 'vocari Deus eorum' is faint and is restored from the Vulgate; the margin note beside it cannot be read.; p. 519, right column: the margin note at verse 29 is illegible (probably Exod. xiv, 22)."
-    },
-    {
-      "id": "hebrews-012-4",
-      "book": "hebrews",
-      "art": 12,
-      "chapter_guess": 12,
-      "pages": [
-        543,
-        549
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "hebrews-013-4",
-      "book": "hebrews",
-      "art": 13,
-      "chapter_guess": 13,
-      "pages": [
-        549,
-        555
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "james-001-15",
-      "book": "james",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        569,
-        580
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "james-002-14",
-      "book": "james",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        580,
-        590
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.53)"
-    },
-    {
-      "id": "james-003-14",
-      "book": "james",
-      "art": 3,
-      "chapter_guess": 1,
-      "pages": [
-        590,
-        594
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "james-004-12",
-      "book": "james",
-      "art": 4,
-      "chapter_guess": 2,
-      "pages": [
-        594,
-        604
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "james-005-8",
-      "book": "james",
-      "art": 5,
-      "chapter_guess": 3,
-      "pages": [
-        604,
-        613
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "james-006-7",
-      "book": "james",
-      "art": 6,
-      "chapter_guess": 4,
-      "pages": [
-        613,
-        623
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "james-007-5",
-      "book": "james",
-      "art": 7,
-      "chapter_guess": 5,
-      "pages": [
-        623,
-        633
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-peter-001-16",
-      "book": "i-peter",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        635,
-        643
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-peter-002-15",
-      "book": "i-peter",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        643,
-        650
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-peter-003-15",
-      "book": "i-peter",
-      "art": 3,
-      "chapter_guess": 1,
-      "pages": [
-        650,
-        654
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.18)"
-    },
-    {
-      "id": "i-peter-004-13",
-      "book": "i-peter",
-      "art": 4,
-      "chapter_guess": 2,
-      "pages": [
-        654,
-        662
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-peter-005-9",
-      "book": "i-peter",
-      "art": 5,
-      "chapter_guess": 2,
-      "pages": [
-        662,
-        667
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-peter-006-8",
-      "book": "i-peter",
-      "art": 6,
-      "chapter_guess": 3,
-      "pages": [
-        667,
-        674
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-peter-007-6",
-      "book": "i-peter",
-      "art": 7,
-      "chapter_guess": 3,
-      "pages": [
-        674,
-        681
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "translated by batch (1 attempt(s), $0.38)"
-    },
-    {
-      "id": "i-peter-008-5",
-      "book": "i-peter",
-      "art": 8,
-      "chapter_guess": 4,
-      "pages": [
-        681,
-        690
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "i-peter-009-5",
-      "book": "i-peter",
-      "art": 9,
-      "chapter_guess": 5,
-      "pages": [
-        690,
-        697
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-peter-001-17",
-      "book": "ii-peter",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        697,
-        706
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-peter-002-16",
-      "book": "ii-peter",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        706,
-        714
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "ii-peter-003-16",
-      "book": "ii-peter",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        714,
-        723
-      ],
-      "status": "todo",
-      "source": "transcribed",
-      "note": "batch stopped (API credit ran out)"
-    }
-  ]
+ "volume": "t13",
+ "items": [
+  {
+   "id": "romans-001",
+   "book": "romans",
+   "art": 1,
+   "chapter_guess": null,
+   "pages": [
+    25,
+    26
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Translated by a scheduled run (prologue article on St Paul; filed under chapter 1 with no verse tags). Obvious quotations without margin notes tagged: John 8:13-16, 2 Cor 12:12, 1 Cor 2:4-5, Heb 2:3-4, Acts 9:15, 2 Pet 3:15-16.",
+   "claimed": "2026-11-18T02:52:41Z"
+  },
+  {
+   "id": "romans-002",
+   "book": "romans",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    26,
+    27
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.05)"
+  },
+  {
+   "id": "romans-003",
+   "book": "romans",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    27,
+    34
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.34) | unreadable: p. 9, right column, last lines: one word after 'duodecim' (before 'discipulos') is too faint to read; the following words 'quibus et ait. Nonne ego vos duodecim elegi?' are faint but legible. The margin notes beside these lines (apparently Luke vi and John vi) are illegible."
+  },
+  {
+   "id": "romans-004",
+   "book": "romans",
+   "art": 4,
+   "chapter_guess": 1,
+   "pages": [
+    34,
+    40
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.32)"
+  },
+  {
+   "id": "romans-005-part1",
+   "book": "romans",
+   "art": 5,
+   "chapter_guess": 2,
+   "pages": [
+    40,
+    47
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "part": 1,
+   "parts": 2,
+   "note": "Part 1 (Rom 2:1-29, pp. 18-25) published with small gaps. The transcription has [...] at the end of v. 29 (last lines of p. 25: 'confitens Domino confessione laudis divinae : [...] [...]dis, id est circumcisio spiritualis' and 'laus non [...] ex hominibus ... [...] judicant, sed [...] qui inspector [...]'), and one word in v. 27 ('dignum ostendet, [...] Judaee'). Please check p. 25 (PDF 47) against the scan. Obvious quotations without margin notes tagged (1 Cor 2:15, Is 48:4, Prov 1:24-27 and others). Ps 147:9 given for the margin's Ps. cxlvii, 20 (Hebrew numbering).",
+   "claimed": "2026-11-18T02:54:02Z"
+  },
+  {
+   "id": "romans-005-part2",
+   "book": "romans",
+   "art": 5,
+   "chapter_guess": 2,
+   "pages": [
+    48,
+    55
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "part": 2,
+   "parts": 2,
+   "note": "This item is not part 2 of Art. V: the running heads of PDF 48-55 read ART. VI, and the text is Art. VI (Romans 3). Published as Romans 3, Art. VI. Needs scan of PDF 48 (printed p. 26), whose transcription is almost empty: it holds the end of Art. V (rest of 2:29) and the title and start of Art. VI (3:1-4). Also half-lines lost in the left column of the page with 3:19-20 (about PDF 51-52), and the lemmas 'in sanguine' (3:25) and 'et justificans eum qui est ex fide Jesu' (3:26) are missing. Note: romans-005-part1 carries parts=2, so Art. V will wait for a part 2 that is really the missing page 48.",
+   "claimed": "2026-11-18T02:54:47Z"
+  },
+  {
+   "id": "romans-007",
+   "book": "romans",
+   "art": 7,
+   "chapter_guess": 4,
+   "pages": [
+    55,
+    61
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published with small gaps (Rom 4:1-25, pp. 33-39). The transcription marks lines lost in v. 3 (after 'In semine tuo benedicentur omnes gentes :', p. 33), v. 16 (after 'ut secundum gratiam Dei', p. 38) and v. 17 (after 'inane reputatae sunt ei :'). The cut article stopped at 'Tradidit in mor-' (v. 25); the rest of v. 25 was taken from transcribed/p61.txt. Please check those three places against the scan. Is 44:22 given for the margin's Is. xlv, 22; Ps 144:14 and 145:8 for 'Ps. xxxiv, 14; cxliv, 8'.",
+   "claimed": "2026-11-18T02:57:27Z"
+  },
+  {
+   "id": "romans-008",
+   "book": "romans",
+   "art": 8,
+   "chapter_guess": 5,
+   "pages": [
+    61,
+    69
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as Romans 5, Art. VIII with small gaps: lines missing from the transcription in the glosses on vv. 1 (before 'pacem habeamus'), 8-9 ('secundum tempus, id est tri[duum]...'), 13 (the start of 'peccatum autem non imputabatur'), 17 and 19 (the word 'obedientiam' and the lines after it); left-column line ends of the page with vv. 4-5 were restored by sense. The transcription of this item also opens with a stray block from the end of Art. VII (Rom 4:25, 'Et resurrexit propter justificationem nostram...'), which may be missing from Art. VII.",
+   "claimed": "2026-11-18T03:01:08Z"
+  },
+  {
+   "id": "romans-009",
+   "book": "romans",
+   "art": 9,
+   "chapter_guess": 6,
+   "pages": [
+    69,
+    74
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published with gaps (Rom 6:1-23, pp. 47-52). The transcription has lost: the start of v. 3 (p. 48, after 'quomodo mortui sumus ipsi peccato'), a line in v. 4 (after 'per gloriam, id est majestatem'), the start of v. 14 (p. 50/51, after 'ad Dei honorem ac laudem'), a word after 'Mors et vita ab ipso' (v. 23). Please check those places against the scan. Ecclus 18:30 given for the margin's 'Eccli. xxxvi, 30'. The end of v. 23 ('Haec autem vita aeterna est in Christo Jesu...') was found at the top of the right column of transcribed/p74.txt (it had been cut into romans-010.txt) and added.",
+   "claimed": "2026-11-18T03:01:49Z"
+  },
+  {
+   "id": "romans-010",
+   "book": "romans",
+   "art": 10,
+   "chapter_guess": 7,
+   "pages": [
+    74,
+    80
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as Romans 7, Art. X (pp. 52-58) with a small gap: the transcription loses the lines at the start of v. 8 (PDF 75 foot / PDF 76 top, after 'ne nostra libertas videatur arceri'), and resumes with 'mandatum, id est concupiscentia' (probably 'peccatum'). Also please check against the scan: 'inclinamur ad mutuam in veritatem' (v. 7, PDF 75; probably 'nitimur in vetitum'), 'In quo legi passi sumus' (v. 6 lemma; Vulgate 'in qua detinebamur'), 'Qui percusserit hominem vel hoc' (Ex 21:12). Margin 'Rom. vi, 4' (v. 5) given as a reference to Rom 6:13; 'Joan. xv, 6' tagged as John 15:5 (the words quoted); unreadable margin at 'per Isaiam' tagged Is 50:1; 'III Reg. xxi' tagged 3 Kings 21:20.",
+   "claimed": "2026-11-18T03:11:28Z"
+  },
+  {
+   "id": "romans-011",
+   "book": "romans",
+   "art": 11,
+   "chapter_guess": 8,
+   "pages": [
+    80,
+    87
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.33)"
+  },
+  {
+   "id": "romans-012",
+   "book": "romans",
+   "art": 12,
+   "chapter_guess": 8,
+   "pages": [
+    87,
+    94
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.38)"
+  },
+  {
+   "id": "romans-013",
+   "book": "romans",
+   "art": 13,
+   "chapter_guess": 9,
+   "pages": [
+    94,
+    104
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as Romans 9, Art. XIII with two small gaps in the transcription: in the gloss on v. 8 (the lemmas 'non qui filii carnis' and 'hi filii Dei' are lost) and on v. 26 (a line with 'ubi dictum est eis'). The margin reference for Ps 118:32 is illegible ('Ps. [...]'). The margin gives Is 55:11 for 'Egredietur de ore meo justitiae verbum', whose first words are Is 45:23 (both tagged).",
+   "claimed": "2026-11-18T03:06:08Z"
+  },
+  {
+   "id": "romans-014",
+   "book": "romans",
+   "art": 14,
+   "chapter_guess": 10,
+   "pages": [
+    104,
+    109
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Translated by a scheduled run. The margin's reference to Numbers for v. 5 is illegible in the transcription ('Num. [...]'); the margin gives 1 John 5:1 for 'Quis est qui vincit mundum', which is 1 John 5:5 (tagged 5:5).",
+   "claimed": "2026-11-18T03:11:51Z"
+  },
+  {
+   "id": "romans-015",
+   "book": "romans",
+   "art": 15,
+   "chapter_guess": 11,
+   "pages": [
+    109,
+    116
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as Romans 11, Art. XV with small gaps in the transcription: the start of the lemma 'An nescitis' (v. 2), the words after 'omnis Israel' (v. 26, 'salvus fieret'), and 'aut' before 'quis consiliarius' (v. 34); the margin's chapter number for Is 59:19-21 is illegible ('Is. [...] 21').",
+   "claimed": "2026-11-18T03:15:21Z"
+  },
+  {
+   "id": "romans-016",
+   "book": "romans",
+   "art": 16,
+   "chapter_guess": 12,
+   "pages": [
+    116,
+    122
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as Romans 12, Art. XVI (pp. 94-99) with small gaps: a few words lost in v. 2 (PDF 117, after 'Probetis, per exsecutionem, quae sit'); the end of the left column of PDF 121 (v. 17, after 'et Salvator : Luceat lux'); and the end of the article (PDF 121 right column, after 'sed quo al-'). Margin readings corrected from the words quoted: Ps xxxvi,22 -> Ps 43:22; Jer xxxvi,36 -> Jer 48:36; Prov vi,22 -> Ecclus 6:36; Judith xiii,24-25 -> Jdt 8:24-25; Ps xxx,1 -> Ps 130:1; Prov xxvi,4 -> Prov 23:4; Ps xxxiv,5 -> Ps 7:5; Ps cxxv,7 -> Ps 145:7. 'Honeste ambulemus ad eos qui foris sunt' tagged Rom 13:13 as the margin gives, with a note that the rest is 1 Thess 4:11.",
+   "claimed": "2026-11-18T03:17:04Z"
+  },
+  {
+   "id": "romans-017",
+   "book": "romans",
+   "art": 17,
+   "chapter_guess": 13,
+   "pages": [
+    122,
+    125
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as Romans 13, Art. XVII with gaps: for vv. 4-7 the transcription kept only the first half of each line of one column (about 45 lines, PDF 123-124). The end of the article (rest of v. 14) stands at the top of the right column of PDF 125, in the transcription of romans-018; it is included here.",
+   "claimed": "2026-11-18T03:19:27Z"
+  },
+  {
+   "id": "romans-018",
+   "book": "romans",
+   "art": 18,
+   "chapter_guess": 14,
+   "pages": [
+    125,
+    131
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as Romans 14, Art. XVIII (pp. 103-109) with small gaps. The transcription of PDF 125 is damaged: the left column (introduction) lost its line-ends, which were put back from fragments printed beside the next column; lines of v. 2 are lost (PDF 125 right column foot / PDF 126 top: 'credit, id est, fideliter noscit, [...] manae vitae'; 'inter cibos dis[...] per [...] ad vitandum consentire scrupulum'). Also lost: a few words at the page break in v. 9 ('sua passione [...] talem dominationem', PDF 127/128), in v. 11 ('praesertim [...] bitur Domino', PDF 128/129) and in v. 20 ('Noli, o homo, [...]', PDF 130). Margin readings: bare '13' at v. 11 taken as Heb 6:13; 'Act. xv, 10, 11; xvi, 3; xviii, 18; xxi, 21-26' as reference-only markers. Unmarked quotations tagged: Is 33:1, Phil 2:10, 1 Cor 8:8, Zach 8:19.",
+   "claimed": "2026-11-18T03:21:14Z"
+  },
+  {
+   "id": "romans-019",
+   "book": "romans",
+   "art": 19,
+   "chapter_guess": 15,
+   "pages": [
+    131,
+    137
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as Romans 15, Art. XIX (pp. 109-115) with a large gap: the transcription of one page (PDF 133, the commentary on the end of v. 8 to v. 13) says the scan is too faint to read; only fragments were translated, marked as such. Also a word or two lost at the page break in v. 25 ('eleemosynas [...] gentium'). Please transcribe PDF 133 again from the scan. Margin 'Galat. v, 2' given as Gal 6:2; unmarked quotations tagged: John 8:50, John 8:29, Mark 14:36. Corrected 'deduci ad' to 'deduci illuc' (v. 24) and 'finitis' to 'factis' (v. 18).",
+   "claimed": "2026-11-18T03:25:20Z"
+  },
+  {
+   "id": "romans-020",
+   "book": "romans",
+   "art": 20,
+   "chapter_guess": 16,
+   "pages": [
+    137,
+    141
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T03:26:26Z",
+   "note": "Translated by a scheduled run. Unreadable margin note 'Psal. […]' identified as Ps 17:16 (word for word). Margin II Reg. xv, 3 for Absalom's kisses given as 2 Kings 15:5. Obvious quotations without margin notes tagged: 1 John 3:16, John 14:31, Tit 1:2. Denis skips vv. 9-10, 12, 14-15."
+  },
+  {
+   "id": "i-corinthians-001-2",
+   "book": "i-corinthians",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    145,
+    154
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Translated by a scheduled run (1 Cor 1:1-31, pp. 123-132). One word lost in the transcription in the paragraph on v. 1 ('quasi impium [...] sit aliter opinari'). Margin 'Is. xi, 5' given as Is 40:5 (the words 'videbit omnis caro'); unmarked quotations tagged (John 14:23, Matt 24:42, Apoc 3:3, Jas 5:7, 5:9, Ps 144:13, John 1:16, Rom 8:29, John 2:18, Matt 11:6, Is 52:10, John 17:25, John 1:5, Osee 10:12, Joel 2:23, Is 49:6, Ps 32:6, Wis 2:24, John 1:9).",
+   "claimed": "2026-11-18T03:29:22Z"
+  },
+  {
+   "id": "i-corinthians-002-2",
+   "book": "i-corinthians",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    154,
+    158
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "claimed": "2026-11-18T03:33:36Z",
+   "note": "Published as 1 Corinthians 2, Art. II (pp. 132-136) with gaps: the transcription of PDF 155 (printed p. 133) has lost the end of every line of one column (glosses on vv. 6-8, from 'Sapientiam non hujus sæculi' to '…nedo non in expectatione epistolæ'); the fragments are kept with […]. A word is also lost in the gloss on v. 10 ('qui […]'). Needs the scan of PDF 155. Unreadable margin 'Ps. […]' taken as Ps 92:5; 'Ps. cxv, 12' given as Ps 115:3; Acts margin 'x, 31' does not fit (Acts 10:44 used). Ecclus 1:26 tagged without margin note (Denis names it)."
+  },
+  {
+   "id": "i-corinthians-003-2",
+   "book": "i-corinthians",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    158,
+    163
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Translated by a scheduled run (1 Cor 3:1-23, pp. 136-141). Small gaps in the transcription: a verb after 'Ut autem Dionysius' (v. 9, PDF 160) and a word after 'salvus erit, quum' (v. 15, PDF 162). The words 'alius autem superaedificat' stand in brackets in the transcription (v. 10). Wis 7:27 given as a reference-only marker for 'anima justi sedes est sapientiae'.",
+   "claimed": "2026-11-18T03:34:17Z"
+  },
+  {
+   "id": "i-corinthians-004-2",
+   "book": "i-corinthians",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    163,
+    166
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Translated by a scheduled run (1 Cor 4:1-21, pp. 141-144). Small gaps in the transcription: a word after 'ab hominibus die' (v. 3, PDF 163), the words between 'quod non revelabitur' and '-stabit consilia cordium' (v. 5, PDF 163/164), and a few words after 'Non enim in sermone, id est' (v. 20, PDF 165/166). Margin 'Jacob. iv, 13' given as Jas 4:15 (the words quoted).",
+   "claimed": "2026-11-18T03:37:18Z"
+  },
+  {
+   "id": "i-corinthians-005-2",
+   "book": "i-corinthians",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    166,
+    169
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 5, Art. V (pp. 144-147). The end of the article (vv. 12-13, PDF 169, left part of the right column) is damaged in the transcription: the beginnings of the lines are lost; they were filled from the sense in square brackets in the Latin and marked in the English. Please check against the scan. Margin 'Deut. xiii, 19, 20' given as Deut 19:19-20 (the words quoted); 'Qui tetigerit picem' tagged Ecclus 13:1 (no margin note read for it; the margin there gives Levit. xx, 11).",
+   "claimed": "2026-11-18T03:39:29Z"
+  },
+  {
+   "id": "i-corinthians-006",
+   "book": "i-corinthians",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    169,
+    173
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 6, Art. VI (pp. 147-151) with gaps. The transcription loses several lines at vv. 12-13 (PDF 171/172: the lemma 'sed ego sub nullius redigar potestate' and the start of v. 13, 'Esca ventri'), the ends of lines on the last page (PDF 173, v. 19-20, filled from the sense in square brackets in the Latin), and the end of the article (after 'morte et sanguine Chr[isti]'). Also: 'ab errore circa matrimonium' at the start (ch. 5 was about incest); the margin note for 'Ne contendas cum homine loquace' is unreadable (given as Ecclus 8:4, reference only). Please check against the scan.",
+   "claimed": "2026-11-18T03:41:33Z"
+  },
+  {
+   "id": "i-corinthians-007-2",
+   "book": "i-corinthians",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    173,
+    181
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "needs scan: text lost at vv. 1–4 (lower right column of PDF 173 not transcribed) and the lemma of v. 33 (PDF 179/180). The right column of PDF 173 holds the lost end of Art. VI (6:20)."
+  },
+  {
+   "id": "i-corinthians-008-2",
+   "book": "i-corinthians",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    181,
+    184
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "needs scan: a line or more lost at v. 1 ('Si autem scientia pertinaci[…]tur caritate', between PDF 181 and 182)."
+  },
+  {
+   "id": "i-corinthians-009-2",
+   "book": "i-corinthians",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    184,
+    190
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 9, Art. IX (pp. 162-168) with a small gap: a word-beginning is lost at a column break in vv. 17-18 ('non tantum mercedem habent […]lo, quantum Paulus'). The end of the article (v. 27 from 'rationis imperio cultuique divino') was in the Art. X file and was joined back. Margin numerals corrected, with notes: 'Act. ix, 1' -> Acts 9:4; 'Luc. v. 3' -> Luke 10:3; 'Ps. cxlvii, 15' -> Ps 147:4. Possible Douay-Rheims data slips seen: 1 Cor 9:1 'Am I not I free?', 9:8 'also say; these things?'. Please check the gap against the scan."
+  },
+  {
+   "id": "i-corinthians-010-2",
+   "book": "i-corinthians",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    190,
+    196
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 10, Art. X (pp. 168-174) with a gap: at v. 17 about six lines survive only as fragments (line-beginnings lost); certain words kept, with a note. Margin numerals corrected, with notes: 'Eccli. xxxiii, 30' -> Ecclus 18:30; 'Exod. xvi, 7' -> Ex 17:7; '1 Tim. ii, 5' -> 2 Tim 2:5; 'Ps. lm' read as Ps 52:6. Reading 'contumeretur' (v. 28) taken as 'be confirmed'. Please check against the scan."
+  },
+  {
+   "id": "i-corinthians-011-2",
+   "book": "i-corinthians",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    196,
+    204
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 11, Art. XI (pp. 174-182) with gaps. The transcription loses: the end of the v. 5-6 paragraph and the start of v. 7 (PDF 197); the end of v. 13 and start of v. 14; the start of v. 17 and a few words after 'vel quod dicam'; the start of the v. 26 lemma; the line-ends of one column at vv. 29-30 (PDF 203: v. 29 mostly rejoined from fragments, v. 30 and the Old/New Testament punishments about ten line-ends lost, certain words filled in brackets in the Latin); words at the page break in v. 33 and after 'non potens' in v. 34. Also: v. 10 Denis reads 'velamen' for 'potestatem' (noted); Decretum margin notes (33, q. 1, c. Hæc imago; 33, q. 5, c. Nec illud) kept as bracketed notes; margin 'Luke xxii, 17' marked as Luke 22:19 (the bread); 'II Mach. vi' given as 2 Mach 6:13. Please check against the scan.",
+   "claimed": "2026-11-18T05:11:29Z"
+  },
+  {
+   "id": "i-corinthians-012-2",
+   "book": "i-corinthians",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    204,
+    209
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 12, Art. XII (pp. 182-187). The article's last column (from 'sonarum, ut sunt presbyteri' to 'scilicet caritatem', vv. 28-31) had been cut into the Art. XIII file; it was joined here. Small gaps: a line at the start of v. 5 (PDF 205, the lemma 'Et divisiones ministrationum sunt') and a few words at v. 7. Margin 'Ps. cxiii, 5 sec. Hebr.' given as Ps 113:13; 'Num. xxiv, 8' (Balaam) as reference-only Num 24:3; 'Matth. vii' as Matt 7:22; 'Ps. xxxvi, 16' beside 'principes populorum' does not fit, Ps 46:10 marked with a note.",
+   "claimed": "2026-11-18T05:20:26Z"
+  },
+  {
+   "id": "i-corinthians-013-2",
+   "book": "i-corinthians",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    209,
+    212
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 13, Art. XIII (pp. 187-190) with gaps. The transcription loses words in the opening (v. 1, 'ut […] hominum universorum […]'), the line-ends of one column at vv. 8-10 (PDF 210/211; certain words completed in brackets in the Latin, the rest left as […]), and one margin note at v. 12 (beside 'facie ad faciem, cognoscere eum'). The article number is damaged in the print ('ARTICUL[…]'). The column at the start of the file belonged to Art. XII and was moved there. Please check against the scan.",
+   "claimed": "2026-11-18T05:20:26Z"
+  },
+  {
+   "id": "i-corinthians-014-2",
+   "book": "i-corinthians",
+   "art": 14,
+   "chapter_guess": 14,
+   "pages": [
+    212,
+    217
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 14, Art. XIV (pp. 190-195) with a gap. The cutter had put the end of the article (vv. 36-40, from 'quiescere nostris statutis') at the head of the Art. XV file; it was joined back here. A line or more is lost at a column break in v. 24 after 'dijudicatur ab omnibus.' (PDF 215; the next words are '...phetantibus, quod sit in aliquo errore'). No margin references are checkable (transcribed volume): Is 65:20, Is 28:11, Acts 2:4, Matt 7:6 given as reference-only; Wis 6:16 noted. Please check against the scan."
+  },
+  {
+   "id": "i-corinthians-015-2",
+   "book": "i-corinthians",
+   "art": 15,
+   "chapter_guess": 15,
+   "pages": [
+    217,
+    223
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 15, Art. XV (pp. 195-201) with gaps. A line or so is lost in v. 20 after 'Horum dicitur Christus primitiæ' (PDF 219). The end of the article (end of v. 30, all of v. 31) is at the top of the right column of PDF 223, whose line-ends the transcription lost: only line-beginnings kept, with a note. v. 15 the transcription reads 'testes fidei Dei' (Vulgate 'falsi testes Dei'; noted). Margin numerals corrected: 'Ibid. 20' -> John 20:26, 'Luc. xii, 14, 15' -> Luke 7:14, 'Joan. xi, 13, 14' -> John 11:43, 'Ps. cx, 1' -> Ps 109:1. Please check against the scan."
+  },
+  {
+   "id": "i-corinthians-016-2",
+   "book": "i-corinthians",
+   "art": 16,
+   "chapter_guess": 15,
+   "pages": [
+    223,
+    228
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 15, Art. XVI (pp. 201-206; title damaged in the transcription: 'Prosequtio explanationis hujus capituli quintidecimi, a[b eo loco: Si secundum] hominem ad bestias pugnavi Ephesi … est'). PDF 223's right column was transcribed in split half-lines: vv. 33-35 are fragmentary (v. 33 rejoined; the gloss on 'ad reverentiam vobis loquor' and most of v. 35 lost). The top of that column (from '[suppli]cia ducimur' to 'contemplationem ipsius', the end of v. 30 and v. 31) belongs to the end of Art. XV, which the cut file i-corinthians-015-2 stops before ('vel ad suppli-'); it is fragmentary too and was left out of both articles. The article's last lines ('[…]t itaque perfectio, cordis stabilitas in Domino … ut luna', v. 58) had been cut into the Art. XVII file and were joined here; a word is lost at the join ('Magna est […]t itaque perfectio'). Margin 'Ibid. vi, 38' does not fit: John 16:28 marked with a note. Please check against the scan.",
+   "claimed": "2026-11-18T05:28:06Z"
+  },
+  {
+   "id": "i-corinthians-017-2",
+   "book": "i-corinthians",
+   "art": 17,
+   "chapter_guess": 16,
+   "pages": [
+    228,
+    231
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 1 Corinthians 16, Art. XVII (pp. 206-209). Five small gaps in the transcription at v. 19 (PDF 230, 'Salutant vos … Asiæ … domestica [ec]clesia'). The first lines of the cut file belonged to Art. XVI and were moved there. v. 6 footnote variant 'deducatis' and v. 7 'Volo' (Vulgate 'Nolo') noted in the English. Please check v. 19 against the scan.",
+   "claimed": "2026-11-18T05:28:06Z"
+  },
+  {
+   "id": "ii-corinthians-001-3",
+   "book": "ii-corinthians",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    235,
+    241
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Published as 2 Corinthians 1, Art. I (pp. 213-219). Small gaps at v. 6 and v. 8; the transcription repeats v. 22-23 (dropped). The Douay-Rheims and Vulgate files have 2 Cor 1:24 empty, its words inside v. 23, so Denis's v. 24 paragraphs are tagged and marked as 1:23. Margin 'Prov. iii, 21' is Prov 2:21 (noted); illegible margin notes taken as Matt 6:9 and Luke 2:14; 'II Tim. ii' as 2 Tim 2:12.",
+   "claimed": "2026-11-18T05:36:27Z"
+  },
+  {
+   "id": "ii-corinthians-002-3",
+   "book": "ii-corinthians",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    241,
+    243
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 2 Corinthians 2, Art. II (pp. 219-221) with gaps: from 'per experientiam' in v. 4 to 'moderate, prout caritas exigit' in v. 5 (PDF 241/242) every line has lost its start; only fragments kept. The article's last column (2:14-17, from '_guentorum tuorum_') had been cut into the Art. III file and was joined here. Margin 'I Cor. i, 14' at v. 14 does not fit (noted, no marker). The Douay-Rheims text of 2 Cor 2:1 ('to come to you again in sorrow') lacks the 'not' of the Vulgate 'ne' (noted in the English). Please check against the scan.",
+   "claimed": "2026-11-18T05:36:27Z"
+  },
+  {
+   "id": "ii-corinthians-003-3",
+   "book": "ii-corinthians",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    243,
+    247
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 2 Corinthians 3, Art. III (pp. 221-225) with a gap. The cutter had put the end of Art. II (2:14-17, from '_guentorum tuorum_') inside this article's file, and the end of this article (v. 18 from 'commutamur, a claritate') at the head of the Art. IV file; both were put back here (Art. II's end was left for the run doing Art. II). In v. 9 the lemma words before 'ministerium justitiæ' (probably 'multo magis abundat') are lost (PDF 245). Margin 'Exod. xxxiv, 33' given as reference-only Ex 34:30 (the horned face), noted. Please check against the scan."
+  },
+  {
+   "id": "ii-corinthians-004-3",
+   "book": "ii-corinthians",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    247,
+    250
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 2 Corinthians 4, Art. IV (pp. 225-228) with a small gap: in v. 15 a few words may be lost at a column break before 'quatenus' (PDF 249). The article's text after 'occulta dedecoris, id est' was restored from transcribed/p247.txt (the cut file truncated the line). Margin 'Ps. cxv, 10' given as Ps 115:1 (Vulgate numbering); 'Matt. x / xxiv, 9' as Matt 10:22 + reference-only Matt 24:9. Please check the gap against the scan."
+  },
+  {
+   "id": "ii-corinthians-005-3",
+   "book": "ii-corinthians",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    250,
+    254
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Published as 2 Corinthians 5, Art. V (pp. 228-232). One small gap at v. 10 ('apparere, […] vel in judicio particulari', probably 'oportet'; lines reordered at a column break). Margin 'Prov. xiv, 12' is Prov 13:12 and 'Job xxvi, 23' is Job 31:23 (both noted). v. 18 'ut hominem tollem' looks corrupt (noted).",
+   "claimed": "2026-11-18T05:47:23Z"
+  },
+  {
+   "id": "ii-corinthians-006-2",
+   "book": "ii-corinthians",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    254,
+    257
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "needs scan: a line or more lost at the start of v. 13 (PDF 256), and right-column line-ends cut off at vv. 4–8 (filled only where certain)."
+  },
+  {
+   "id": "ii-corinthians-007-3",
+   "book": "ii-corinthians",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    257,
+    260
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-corinthians-008-3",
+   "book": "ii-corinthians",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    260,
+    263
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Published as 2 Corinthians 8, Art. VIII (pp. 238-241). The end of the article (vv. 23-24, from 'cipes et doctores') was in the Art. IX file and was joined back. 'Act. xi-xv' given as reference-only Acts 11:26 (noted). Matt 8:20, Luke 2:7, Zach 9:9 and Jer 14:8 tagged with no margin note (word for word)."
+  },
+  {
+   "id": "ii-corinthians-009-3",
+   "book": "ii-corinthians",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    263,
+    266
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Published as 2 Corinthians 9, Art. IX (pp. 241-244) with two small gaps (PDF 263): words lost after 'promptitudinem vestram' (v. 2) and after 'et præparent' (v. 5). In v. 5 'sæpe promissam eleemosynam' + fragment 'mosynarum collationem' read as 'eleemosynarum collationem'. Margin numerals corrected, with notes: 'Eccle vi, 1' -> Eccles 11:1; 'Ps. vi, 2' -> Ps 40:2. Please check against the scan."
+  },
+  {
+   "id": "ii-corinthians-010-3",
+   "book": "ii-corinthians",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    266,
+    269
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.17) | unreadable: p. 245, right column, beside verse 12 (at 'et plus justo nos ipsos jactemus'): a faded marginal note, illegible; p. 245, right column, last lines: the lemma of verse 13 ('Nos autem non in immensum gloriabimur') is very faint; restored from the remaining letters and the Vulgate"
+  },
+  {
+   "id": "ii-corinthians-011-3",
+   "book": "ii-corinthians",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    269,
+    275
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.29) | unreadable: p. 247, margin note beside 'Bonum æmulamini in bono semper' (Gal. iv, 17-18?) is faint; taken as Gal 4:18"
+  },
+  {
+   "id": "ii-corinthians-012-3",
+   "book": "ii-corinthians",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    275,
+    279
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:03:14Z"
+  },
+  {
+   "id": "ii-corinthians-013-3",
+   "book": "ii-corinthians",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    279,
+    285
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:03:14Z"
+  },
+  {
+   "id": "galatians-001-4",
+   "book": "galatians",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    287,
+    291
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:13:10Z"
+  },
+  {
+   "id": "galatians-002-4",
+   "book": "galatians",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    291,
+    297
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.30)"
+  },
+  {
+   "id": "galatians-003-4",
+   "book": "galatians",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    297,
+    302
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:13:10Z"
+  },
+  {
+   "id": "galatians-004-4",
+   "book": "galatians",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    302,
+    307
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "galatians-005-4",
+   "book": "galatians",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    307,
+    312
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "galatians-006-3",
+   "book": "galatians",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    312,
+    317
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ephesians-001-5",
+   "book": "ephesians",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    321,
+    326
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.24)"
+  },
+  {
+   "id": "ephesians-002-5",
+   "book": "ephesians",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    326,
+    330
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ephesians-003-5",
+   "book": "ephesians",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    330,
+    334
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.21)"
+  },
+  {
+   "id": "ephesians-004-5",
+   "book": "ephesians",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    334,
+    341
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ephesians-005-5",
+   "book": "ephesians",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    341,
+    345
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.25)"
+  },
+  {
+   "id": "ephesians-006-4",
+   "book": "ephesians",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    345,
+    351
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "philippians-001-6",
+   "book": "philippians",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    355,
+    359
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "philippians-002-6",
+   "book": "philippians",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    359,
+    365
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "philippians-003-6",
+   "book": "philippians",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    365,
+    369
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "philippians-004-6",
+   "book": "philippians",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    369,
+    373
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.18)"
+  },
+  {
+   "id": "colossians-001-7",
+   "book": "colossians",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    377,
+    383
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "colossians-002-7",
+   "book": "colossians",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    383,
+    387
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.22) | unreadable: p. 363, right column: a faint marginal note beside the quotations from the Saviour (John 12) could not be read"
+  },
+  {
+   "id": "colossians-003-7",
+   "book": "colossians",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    387,
+    391
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "colossians-004-7",
+   "book": "colossians",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    391,
+    395
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.14)"
+  },
+  {
+   "id": "i-thessalonians-001-8",
+   "book": "i-thessalonians",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    399,
+    401
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-thessalonians-002-8",
+   "book": "i-thessalonians",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    401,
+    405
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-thessalonians-003-8",
+   "book": "i-thessalonians",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    405,
+    406
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-thessalonians-004-8",
+   "book": "i-thessalonians",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    406,
+    417
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-thessalonians-001-9",
+   "book": "ii-thessalonians",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    421,
+    423
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.11)"
+  },
+  {
+   "id": "ii-thessalonians-002-9",
+   "book": "ii-thessalonians",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    423,
+    427
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-thessalonians-003-9",
+   "book": "ii-thessalonians",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    427,
+    429
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-timothy-001-10",
+   "book": "i-timothy",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    433,
+    437
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.18)"
+  },
+  {
+   "id": "i-timothy-002-10",
+   "book": "i-timothy",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    437,
+    440
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-timothy-003-10",
+   "book": "i-timothy",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    440,
+    443
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-timothy-004-9",
+   "book": "i-timothy",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    443,
+    445
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-timothy-005-6",
+   "book": "i-timothy",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    445,
+    448
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-timothy-006-5",
+   "book": "i-timothy",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    448,
+    453
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-timothy-001-11",
+   "book": "ii-timothy",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    457,
+    460
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-timothy-002-11",
+   "book": "ii-timothy",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    460,
+    463
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-timothy-003-11",
+   "book": "ii-timothy",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    463,
+    465
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-timothy-004-10",
+   "book": "ii-timothy",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    465,
+    469
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "titus-001-12",
+   "book": "titus",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    473,
+    475
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "titus-002-12",
+   "book": "titus",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    475,
+    477
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "titus-003-12",
+   "book": "titus",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    477,
+    481
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "philemon-001-13",
+   "book": "philemon",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    485,
+    489
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-001-14",
+   "book": "hebrews",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    493,
+    499
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-002-13",
+   "book": "hebrews",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    499,
+    504
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-003-13",
+   "book": "hebrews",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    504,
+    507
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-004-11",
+   "book": "hebrews",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    507,
+    511
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-005-7",
+   "book": "hebrews",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    511,
+    514
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-006-6",
+   "book": "hebrews",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    514,
+    518
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.19)"
+  },
+  {
+   "id": "hebrews-007-4",
+   "book": "hebrews",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    518,
+    523
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-008-4",
+   "book": "hebrews",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    523,
+    526
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-009-4",
+   "book": "hebrews",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    526,
+    531
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-010-4",
+   "book": "hebrews",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    531,
+    536
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-011-4",
+   "book": "hebrews",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    536,
+    543
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.40) | unreadable: p. 515, left column: the Boethius verses are printed very faintly; they are restored from the Consolation of Philosophy (III, metr. 9), with which the faint traces agree.; p. 515, right column, foot: the lemma 'Ante translationem enim testimonium habuit placuisse Deo' is faint and is restored from the Vulgate; the margin note beside 'Hoc est quod legitur in Genesi' cannot be read.; p. 517, right column: 'vocari Deus eorum' is faint and is restored from the Vulgate; the margin note beside it cannot be read.; p. 519, right column: the margin note at verse 29 is illegible (probably Exod. xiv, 22)."
+  },
+  {
+   "id": "hebrews-012-4",
+   "book": "hebrews",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    543,
+    549
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "hebrews-013-4",
+   "book": "hebrews",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    549,
+    555
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "james-001-15",
+   "book": "james",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    569,
+    580
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "james-002-14",
+   "book": "james",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    580,
+    590
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.53)"
+  },
+  {
+   "id": "james-003-14",
+   "book": "james",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    590,
+    594
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "james-004-12",
+   "book": "james",
+   "art": 4,
+   "chapter_guess": 2,
+   "pages": [
+    594,
+    604
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "james-005-8",
+   "book": "james",
+   "art": 5,
+   "chapter_guess": 3,
+   "pages": [
+    604,
+    613
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "james-006-7",
+   "book": "james",
+   "art": 6,
+   "chapter_guess": 4,
+   "pages": [
+    613,
+    623
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "james-007-5",
+   "book": "james",
+   "art": 7,
+   "chapter_guess": 5,
+   "pages": [
+    623,
+    633
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-peter-001-16",
+   "book": "i-peter",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    635,
+    643
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-peter-002-15",
+   "book": "i-peter",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    643,
+    650
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-peter-003-15",
+   "book": "i-peter",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    650,
+    654
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.18)"
+  },
+  {
+   "id": "i-peter-004-13",
+   "book": "i-peter",
+   "art": 4,
+   "chapter_guess": 2,
+   "pages": [
+    654,
+    662
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-peter-005-9",
+   "book": "i-peter",
+   "art": 5,
+   "chapter_guess": 2,
+   "pages": [
+    662,
+    667
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-peter-006-8",
+   "book": "i-peter",
+   "art": 6,
+   "chapter_guess": 3,
+   "pages": [
+    667,
+    674
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-peter-007-6",
+   "book": "i-peter",
+   "art": 7,
+   "chapter_guess": 3,
+   "pages": [
+    674,
+    681
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "translated by batch (1 attempt(s), $0.38)"
+  },
+  {
+   "id": "i-peter-008-5",
+   "book": "i-peter",
+   "art": 8,
+   "chapter_guess": 4,
+   "pages": [
+    681,
+    690
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "i-peter-009-5",
+   "book": "i-peter",
+   "art": 9,
+   "chapter_guess": 5,
+   "pages": [
+    690,
+    697
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-peter-001-17",
+   "book": "ii-peter",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    697,
+    706
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-peter-002-16",
+   "book": "ii-peter",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    706,
+    714
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "ii-peter-003-16",
+   "book": "ii-peter",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    714,
+    723
+   ],
+   "status": "todo",
+   "source": "transcribed",
+   "note": "batch stopped (API credit ran out)"
+  }
+ ]
 }
