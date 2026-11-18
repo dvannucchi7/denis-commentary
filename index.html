@@ -559,6 +559,14 @@ function latinHTML(p, ctx = state) {
 }
 
 function vLabel(v) { return v[0] === v[1] ? `v. ${v[0]}` : `vv. ${v[0]}–${v[1]}`; }
+// The verses a comment treats: "verses" (a list, when they are not one run) or "v" ([first, last]); a comment
+// with neither (an introduction, a general question) has no verse tag and is not tied to any verse.
+const VS = p => p.verses ? p.verses : p.v ? Array.from({ length: p.v[1] - p.v[0] + 1 }, (_, i) => p.v[0] + i) : [];
+function vsLabel(vs) {         // [4, 5, 6, 8] -> "vv. 4–6, 8"
+  const runs = [];
+  vs.forEach(n => { const r = runs[runs.length - 1]; if (r && n === r[1] + 1) r[1] = n; else runs.push([n, n]); });
+  return (vs.length > 1 ? "vv. " : "v. ") + runs.map(([a, b]) => a === b ? a : `${a}–${b}`).join(", ");
+}
 
 async function renderCommentary() {
   const el = $("#commentary");
@@ -572,16 +580,16 @@ async function renderCommentary() {
   }
   state.hasComm = true;
   el.innerHTML = arts.map((a, ai) => {
-    const lo = Math.min(...a.paras.map(p => p.v[0])), hi = Math.max(...a.paras.map(p => p.v[1]));
+    const all = a.paras.flatMap(VS), lo = Math.min(...all), hi = Math.max(...all);
     return `<details class="card art fadeable" data-ai="${ai}">
       <summary>
         <span class="art-num">ART. ${a.num}</span>
         <span class="art-title"${state.lang === "la" ? ' lang="la"' : ""}>${esc(state.lang === "en" && a.title_en ? a.title_en : a.title)}</span>
-        <span class="art-meta">${vLabel([lo, hi])} <span class="chev">›</span></span>
+        <span class="art-meta">${all.length ? vLabel([lo, hi]) : ""} <span class="chev">›</span></span>
       </summary>
       <div class="art-body">
         ${a.note ? `<div class="note">${esc(a.note)}</div>` : ""}
-        ${a.paras.map((p, pi) => `<div class="para fadeable" data-pi="${pi}"><p${state.lang === "la" || !p.en ? ' lang="la"' : ""}><button class="vchip" data-v="${p.v[0]}-${p.v[1]}" title="Show only these verses and this comment">${vLabel(p.v)}</button>${paraHTML(p)}</p></div>`).join("")}
+        ${a.paras.map((p, pi) => `<div class="para fadeable" data-pi="${pi}"><p${state.lang === "la" || !p.en ? ' lang="la"' : ""}>${VS(p).length ? `<button class="vchip" data-v="${VS(p).join(",")}" title="Show only these verses and this comment">${vsLabel(VS(p))}</button>` : ""}${paraHTML(p)}</p></div>`).join("")}
         ${state.lang === "en" ? `<div class="lang-note">English translation prepared for this app from the Latin; scripture quoted in the Douay-Rheims.</div>` : ""}
         <div class="src">${esc(comm.work)} · ${esc(a.pages)} · ${esc(comm.source)}</div>
       </div>
@@ -619,7 +627,8 @@ function markActive(f) {
 // v. 6 or vv. 6-7, or failing that the narrowest range shown); everything else follows in Denis's own order.
 // Every comment is still shown; leaving focus puts the page back in order.
 function focusOrder(f) {
-  const span = p => { const [a, b] = p.querySelector(".vchip").dataset.v.split("-").map(Number); return b - a; };
+  const span = p => { const c = p.querySelector(".vchip"); if (!c) return 1e4;
+                      const n = c.dataset.v.split(",").map(Number); return Math.max(...n) - Math.min(...n); };
   const arts = [...document.querySelectorAll("#commentary > details.art")];
   const kept = [];
   if (f && f.tapped) arts.forEach(d => d.querySelectorAll(".art-body > .para").forEach(p => {
@@ -729,7 +738,7 @@ async function startFocus(items, anchorSel, tapped = null) {
   let a = Infinity, b = -Infinity; const nums = [];
   for (const k of items) {
     const [ai, pi] = k.split(":").map(Number), p = arts[ai].paras[pi];
-    a = Math.min(a, p.v[0]); b = Math.max(b, p.v[1]);
+    a = Math.min(a, ...VS(p)); b = Math.max(b, ...VS(p));
     if (!nums.includes(arts[ai].num)) nums.push(arts[ai].num);
   }
   const anchorEl = document.querySelector(anchorSel);
@@ -740,21 +749,30 @@ async function startFocus(items, anchorSel, tapped = null) {
   applyFocus(true);
 }
 // from a verse tag in the commentary: that one comment and its verses
-function focusOnPara(ai, pi) {
+async function focusOnPara(ai, pi) {
+  const sel = `details.art[data-ai="${ai}"] .para[data-pi="${pi}"]`;
+  const comm = await commFile(state.book), arts = comm && comm.chapters[state.ch];
+  const p = arts && arts[ai] && arts[ai].paras[pi];
+  if (p && !VS(p).length) {                  // a comment tied to no verse: open its article and go to it
+    const d = document.querySelector(`details.art[data-ai="${ai}"]`), el = document.querySelector(sel);
+    if (d) d.open = true;
+    if (el) el.scrollIntoView({ block: "center", behavior: "smooth" });
+    return;
+  }
   startFocus([`${ai}:${pi}`], `details.art[data-ai="${ai}"] .para[data-pi="${pi}"]`);
 }
 // from a verse in the chapter: every comment that treats that verse, and the verses they cover
 async function focusOnVerse(v) {
   const comm = await commFile(state.book); const arts = comm && comm.chapters[state.ch]; if (!arts) return;
   const items = [];
-  arts.forEach((art, ai) => art.paras.forEach((p, pi) => { if (v >= p.v[0] && v <= p.v[1]) items.push(`${ai}:${pi}`); }));
+  arts.forEach((art, ai) => art.paras.forEach((p, pi) => { if (VS(p).includes(v)) items.push(`${ai}:${pi}`); }));
   if (items.length) startFocus(items, `#v${v}`, v);
 }
 // mark the verses that have commentary so they look (and act) tappable
 async function markVerses() {
   const comm = await commFile(state.book); const arts = comm && comm.chapters[state.ch];
   const covered = new Set();
-  if (arts) arts.forEach(art => art.paras.forEach(p => { for (let i = p.v[0]; i <= p.v[1]; i++) covered.add(i); }));
+  if (arts) arts.forEach(art => art.paras.forEach(p => VS(p).forEach(i => covered.add(i))));
   document.querySelectorAll("#text .v").forEach(el => {
     const has = covered.has(+el.id.slice(1));
     el.classList.toggle("has-comm", has);
@@ -774,7 +792,7 @@ async function layerHTML(r) {
   const comm = await commFile(r.book).catch(() => null);
   const found = [];
   ((comm && comm.chapters[r.ch]) || []).forEach(a => {
-    const ps = a.paras.filter(p => r.v >= p.v[0] && r.v <= p.v[1]);
+    const ps = a.paras.filter(p => VS(p).includes(r.v));
     if (ps.length) found.push([a, ps]);
   });
   const la = state.lang === "la";
@@ -787,7 +805,7 @@ async function layerHTML(r) {
       <div class="layer-art-head"><span class="art-num">ART. ${a.num}</span>
         <span class="art-title"${la ? ' lang="la"' : ""}>${esc(!la && a.title_en ? a.title_en : a.title)}</span></div>
       <div class="art-body">
-        ${ps.map(p => `<div class="para"><p${la || !p.en ? ' lang="la"' : ""}><span class="vchip static">${vLabel(p.v)}</span>${paraHTML(p, ctx)}</p></div>`).join("")}
+        ${ps.map(p => `<div class="para"><p${la || !p.en ? ' lang="la"' : ""}><span class="vchip static">${vsLabel(VS(p))}</span>${paraHTML(p, ctx)}</p></div>`).join("")}
         <div class="src">${esc(comm.work)} · ${esc(a.pages)}</div>
       </div></div>`).join("")
     : `<div class="card empty layer-none">${comm ? "Bl. Denis's commentary on this verse is not in the app yet." : `Bl. Denis's commentary on ${esc(b[1])} is not in the app yet.`}</div>`;
@@ -833,7 +851,7 @@ async function openChapterAt(r) {
   closeAllLayers();
   await go(r.book, r.ch);
   const comm = await commFile(r.book).catch(() => null);
-  const covered = ((comm && comm.chapters[r.ch]) || []).some(a => a.paras.some(p => r.v >= p.v[0] && r.v <= p.v[1]));
+  const covered = ((comm && comm.chapters[r.ch]) || []).some(a => a.paras.some(p => VS(p).includes(r.v)));
   if (covered) return focusOnVerse(r.v);
   const el = document.getElementById("v" + r.v);
   if (el) el.scrollIntoView({ block: "center" });
@@ -954,7 +972,7 @@ async function buildIndex() {
     const c = await commFile(id); if (!c) continue;
     for (const [ch, arts] of Object.entries(c.chapters)) arts.forEach((a, ai) => a.paras.forEach((p, pi) => {
       const en = (p.en || "").replace(QRE, (m, ref, dr) => dr);
-      out.push({ id, ch: +ch, ai, pi, num: a.num, v: p.v, en, enN: normQ(en), la: p.t, laN: normQ(p.t) });
+      out.push({ id, ch: +ch, ai, pi, num: a.num, vs: VS(p), en, enN: normQ(en), la: p.t, laN: normQ(p.t) });
     }));
   }
   out.sort((x, y) => bookIdx(x.id) - bookIdx(y.id) || x.ch - y.ch || x.ai - y.ai || x.pi - y.pi);
@@ -983,8 +1001,8 @@ async function runSearch() {
   const hits = INDEX.filter(e => terms.every(t => (la ? e.laN : e.enN).includes(t)));
   meta.textContent = `${hits.length} passage${hits.length === 1 ? "" : "s"}${la ? " (Latin)" : ""}` + (hits.length > 200 ? " — showing the first 200" : "");
   box.innerHTML = hits.slice(0, 200).map((e, k) => {
-    const v = e.v[0] === e.v[1] ? `v. ${e.v[0]}` : `vv. ${e.v[0]}–${e.v[1]}`;
-    return `<button class="res" data-k="${k}"><div class="where">${esc(BOOKS[bookIdx(e.id)][1])} ${e.ch} · Art. ${esc(e.num)} · ${v}</div>${snippet(la ? e.la : e.en, terms)}</button>`;
+    const v = e.vs.length ? " · " + vsLabel(e.vs) : "";
+    return `<button class="res" data-k="${k}"><div class="where">${esc(BOOKS[bookIdx(e.id)][1])} ${e.ch} · Art. ${esc(e.num)}${v}</div>${snippet(la ? e.la : e.en, terms)}</button>`;
   }).join("");
   box.onclick = async ev => {
     const r = ev.target.closest(".res"); if (!r) return;

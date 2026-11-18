@@ -1,0 +1,1109 @@
+{
+ "about": "Published articles to re-tag (verse tags only the verses each paragraph treats). See TRANSLATING.md.",
+ "items": [
+  {
+   "id": "matthew-1-I",
+   "book": "matthew",
+   "chapter": 1,
+   "num": "I",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-1-II",
+   "book": "matthew",
+   "chapter": 1,
+   "num": "II",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-1-III",
+   "book": "matthew",
+   "chapter": 1,
+   "num": "III",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-2-IV",
+   "book": "matthew",
+   "chapter": 2,
+   "num": "IV",
+   "flagged": 6,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-2-V",
+   "book": "matthew",
+   "chapter": 2,
+   "num": "V",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-3-VI",
+   "book": "matthew",
+   "chapter": 3,
+   "num": "VI",
+   "flagged": 11,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-4-VII",
+   "book": "matthew",
+   "chapter": 4,
+   "num": "VII",
+   "flagged": 9,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-4-VIII",
+   "book": "matthew",
+   "chapter": 4,
+   "num": "VIII",
+   "flagged": 6,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-5-IX",
+   "book": "matthew",
+   "chapter": 5,
+   "num": "IX",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-5-X",
+   "book": "matthew",
+   "chapter": 5,
+   "num": "X",
+   "flagged": 14,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-5-XI",
+   "book": "matthew",
+   "chapter": 5,
+   "num": "XI",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-6-XII",
+   "book": "matthew",
+   "chapter": 6,
+   "num": "XII",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-6-XIII",
+   "book": "matthew",
+   "chapter": 6,
+   "num": "XIII",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-6-XIV",
+   "book": "matthew",
+   "chapter": 6,
+   "num": "XIV",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-7-XV",
+   "book": "matthew",
+   "chapter": 7,
+   "num": "XV",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-8-XVI",
+   "book": "matthew",
+   "chapter": 8,
+   "num": "XVI",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-8-XVII",
+   "book": "matthew",
+   "chapter": 8,
+   "num": "XVII",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-9-XVIII",
+   "book": "matthew",
+   "chapter": 9,
+   "num": "XVIII",
+   "flagged": 9,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-10-XIX",
+   "book": "matthew",
+   "chapter": 10,
+   "num": "XIX",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-10-XX",
+   "book": "matthew",
+   "chapter": 10,
+   "num": "XX",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-11-XXI",
+   "book": "matthew",
+   "chapter": 11,
+   "num": "XXI",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-11-XXII",
+   "book": "matthew",
+   "chapter": 11,
+   "num": "XXII",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-12-XXIII",
+   "book": "matthew",
+   "chapter": 12,
+   "num": "XXIII",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-12-XXIV",
+   "book": "matthew",
+   "chapter": 12,
+   "num": "XXIV",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-13-XXV",
+   "book": "matthew",
+   "chapter": 13,
+   "num": "XXV",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-14-XXVII",
+   "book": "matthew",
+   "chapter": 14,
+   "num": "XXVII",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-15-XXVIII",
+   "book": "matthew",
+   "chapter": 15,
+   "num": "XXVIII",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-16-XXIX",
+   "book": "matthew",
+   "chapter": 16,
+   "num": "XXIX",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-18-XXXII",
+   "book": "matthew",
+   "chapter": 18,
+   "num": "XXXII",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-19-XXXIII",
+   "book": "matthew",
+   "chapter": 19,
+   "num": "XXXIII",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-20-XXXIV",
+   "book": "matthew",
+   "chapter": 20,
+   "num": "XXXIV",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-21-XXXV",
+   "book": "matthew",
+   "chapter": 21,
+   "num": "XXXV",
+   "flagged": 9,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-22-XXXVI",
+   "book": "matthew",
+   "chapter": 22,
+   "num": "XXXVI",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-23-XXXVII",
+   "book": "matthew",
+   "chapter": 23,
+   "num": "XXXVII",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-24-XXXVIII",
+   "book": "matthew",
+   "chapter": 24,
+   "num": "XXXVIII",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-25-XL",
+   "book": "matthew",
+   "chapter": 25,
+   "num": "XL",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-26-XLI",
+   "book": "matthew",
+   "chapter": 26,
+   "num": "XLI",
+   "flagged": 15,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-26-XLII",
+   "book": "matthew",
+   "chapter": 26,
+   "num": "XLII",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-27-XLIII",
+   "book": "matthew",
+   "chapter": 27,
+   "num": "XLIII",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-27-XLIV",
+   "book": "matthew",
+   "chapter": 27,
+   "num": "XLIV",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "matthew-28-XLV",
+   "book": "matthew",
+   "chapter": 28,
+   "num": "XLV",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "mark-1-I",
+   "book": "mark",
+   "chapter": 1,
+   "num": "I",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "mark-2-II",
+   "book": "mark",
+   "chapter": 2,
+   "num": "II",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "mark-3-III",
+   "book": "mark",
+   "chapter": 3,
+   "num": "III",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "mark-4-IV",
+   "book": "mark",
+   "chapter": 4,
+   "num": "IV",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "mark-5-V",
+   "book": "mark",
+   "chapter": 5,
+   "num": "V",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "mark-6-VI",
+   "book": "mark",
+   "chapter": 6,
+   "num": "VI",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "mark-7-VII",
+   "book": "mark",
+   "chapter": 7,
+   "num": "VII",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "mark-8-VIII",
+   "book": "mark",
+   "chapter": 8,
+   "num": "VIII",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "mark-9-IX",
+   "book": "mark",
+   "chapter": 9,
+   "num": "IX",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "mark-10-X",
+   "book": "mark",
+   "chapter": 10,
+   "num": "X",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "mark-11-XI",
+   "book": "mark",
+   "chapter": 11,
+   "num": "XI",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "mark-12-XII",
+   "book": "mark",
+   "chapter": 12,
+   "num": "XII",
+   "flagged": 6,
+   "status": "todo"
+  },
+  {
+   "id": "mark-13-XIII",
+   "book": "mark",
+   "chapter": 13,
+   "num": "XIII",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "mark-14-XIV",
+   "book": "mark",
+   "chapter": 14,
+   "num": "XIV",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "mark-15-XV",
+   "book": "mark",
+   "chapter": 15,
+   "num": "XV",
+   "flagged": 9,
+   "status": "todo"
+  },
+  {
+   "id": "mark-16-XVI",
+   "book": "mark",
+   "chapter": 16,
+   "num": "XVI",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "luke-1-I",
+   "book": "luke",
+   "chapter": 1,
+   "num": "I",
+   "flagged": 13,
+   "status": "todo"
+  },
+  {
+   "id": "luke-1-II",
+   "book": "luke",
+   "chapter": 1,
+   "num": "II",
+   "flagged": 12,
+   "status": "todo"
+  },
+  {
+   "id": "luke-1-III",
+   "book": "luke",
+   "chapter": 1,
+   "num": "III",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "luke-1-IV",
+   "book": "luke",
+   "chapter": 1,
+   "num": "IV",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "luke-1-V",
+   "book": "luke",
+   "chapter": 1,
+   "num": "V",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "luke-2-VI",
+   "book": "luke",
+   "chapter": 2,
+   "num": "VI",
+   "flagged": 17,
+   "status": "todo"
+  },
+  {
+   "id": "luke-2-VII",
+   "book": "luke",
+   "chapter": 2,
+   "num": "VII",
+   "flagged": 22,
+   "status": "todo"
+  },
+  {
+   "id": "luke-3-VIII",
+   "book": "luke",
+   "chapter": 3,
+   "num": "VIII",
+   "flagged": 18,
+   "status": "todo"
+  },
+  {
+   "id": "luke-3-IX",
+   "book": "luke",
+   "chapter": 3,
+   "num": "IX",
+   "flagged": 10,
+   "status": "todo"
+  },
+  {
+   "id": "luke-4-X",
+   "book": "luke",
+   "chapter": 4,
+   "num": "X",
+   "flagged": 19,
+   "status": "todo"
+  },
+  {
+   "id": "luke-4-XI",
+   "book": "luke",
+   "chapter": 4,
+   "num": "XI",
+   "flagged": 17,
+   "status": "todo"
+  },
+  {
+   "id": "luke-5-XII",
+   "book": "luke",
+   "chapter": 5,
+   "num": "XII",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "luke-5-XIII",
+   "book": "luke",
+   "chapter": 5,
+   "num": "XIII",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "luke-6-XIV",
+   "book": "luke",
+   "chapter": 6,
+   "num": "XIV",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "luke-6-XV",
+   "book": "luke",
+   "chapter": 6,
+   "num": "XV",
+   "flagged": 6,
+   "status": "todo"
+  },
+  {
+   "id": "luke-6-XVI",
+   "book": "luke",
+   "chapter": 6,
+   "num": "XVI",
+   "flagged": 16,
+   "status": "todo"
+  },
+  {
+   "id": "luke-7-XVII",
+   "book": "luke",
+   "chapter": 7,
+   "num": "XVII",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "luke-7-XVIII",
+   "book": "luke",
+   "chapter": 7,
+   "num": "XVIII",
+   "flagged": 10,
+   "status": "todo"
+  },
+  {
+   "id": "luke-7-XIX",
+   "book": "luke",
+   "chapter": 7,
+   "num": "XIX",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "luke-8-XX",
+   "book": "luke",
+   "chapter": 8,
+   "num": "XX",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "luke-8-XXI",
+   "book": "luke",
+   "chapter": 8,
+   "num": "XXI",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "luke-8-XXII",
+   "book": "luke",
+   "chapter": 8,
+   "num": "XXII",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "luke-9-XXIII",
+   "book": "luke",
+   "chapter": 9,
+   "num": "XXIII",
+   "flagged": 10,
+   "status": "todo"
+  },
+  {
+   "id": "luke-9-XXIV",
+   "book": "luke",
+   "chapter": 9,
+   "num": "XXIV",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "luke-9-XXV",
+   "book": "luke",
+   "chapter": 9,
+   "num": "XXV",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "luke-10-XXVI",
+   "book": "luke",
+   "chapter": 10,
+   "num": "XXVI",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "luke-10-XXVII",
+   "book": "luke",
+   "chapter": 10,
+   "num": "XXVII",
+   "flagged": 15,
+   "status": "todo"
+  },
+  {
+   "id": "luke-10-XXVIII",
+   "book": "luke",
+   "chapter": 10,
+   "num": "XXVIII",
+   "flagged": 9,
+   "status": "todo"
+  },
+  {
+   "id": "luke-11-XXIX",
+   "book": "luke",
+   "chapter": 11,
+   "num": "XXIX",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "luke-11-XXX",
+   "book": "luke",
+   "chapter": 11,
+   "num": "XXX",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "luke-11-XXXI",
+   "book": "luke",
+   "chapter": 11,
+   "num": "XXXI",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "luke-12-XXXII",
+   "book": "luke",
+   "chapter": 12,
+   "num": "XXXII",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "luke-12-XXXIII",
+   "book": "luke",
+   "chapter": 12,
+   "num": "XXXIII",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "luke-12-XXXIV",
+   "book": "luke",
+   "chapter": 12,
+   "num": "XXXIV",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "luke-13-XXXV",
+   "book": "luke",
+   "chapter": 13,
+   "num": "XXXV",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "luke-13-XXXVI",
+   "book": "luke",
+   "chapter": 13,
+   "num": "XXXVI",
+   "flagged": 6,
+   "status": "todo"
+  },
+  {
+   "id": "luke-14-XXXVII",
+   "book": "luke",
+   "chapter": 14,
+   "num": "XXXVII",
+   "flagged": 11,
+   "status": "todo"
+  },
+  {
+   "id": "luke-15-XXXVIII",
+   "book": "luke",
+   "chapter": 15,
+   "num": "XXXVIII",
+   "flagged": 12,
+   "status": "todo"
+  },
+  {
+   "id": "luke-16-XXXIX",
+   "book": "luke",
+   "chapter": 16,
+   "num": "XXXIX",
+   "flagged": 13,
+   "status": "todo"
+  },
+  {
+   "id": "luke-17-XL",
+   "book": "luke",
+   "chapter": 17,
+   "num": "XL",
+   "flagged": 11,
+   "status": "todo"
+  },
+  {
+   "id": "luke-18-XLI",
+   "book": "luke",
+   "chapter": 18,
+   "num": "XLI",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "luke-19-XLII",
+   "book": "luke",
+   "chapter": 19,
+   "num": "XLII",
+   "flagged": 6,
+   "status": "todo"
+  },
+  {
+   "id": "luke-20-XLIII",
+   "book": "luke",
+   "chapter": 20,
+   "num": "XLIII",
+   "flagged": 12,
+   "status": "todo"
+  },
+  {
+   "id": "luke-21-XLIV",
+   "book": "luke",
+   "chapter": 21,
+   "num": "XLIV",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "luke-21-XLV",
+   "book": "luke",
+   "chapter": 21,
+   "num": "XLV",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "luke-22-XLVI",
+   "book": "luke",
+   "chapter": 22,
+   "num": "XLVI",
+   "flagged": 23,
+   "status": "todo"
+  },
+  {
+   "id": "luke-22-XLVII",
+   "book": "luke",
+   "chapter": 22,
+   "num": "XLVII",
+   "flagged": 11,
+   "status": "todo"
+  },
+  {
+   "id": "luke-22-XLVIII",
+   "book": "luke",
+   "chapter": 22,
+   "num": "XLVIII",
+   "flagged": 12,
+   "status": "todo"
+  },
+  {
+   "id": "luke-23-XLIX",
+   "book": "luke",
+   "chapter": 23,
+   "num": "XLIX",
+   "flagged": 33,
+   "status": "todo"
+  },
+  {
+   "id": "luke-24-L",
+   "book": "luke",
+   "chapter": 24,
+   "num": "L",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "john-1-I",
+   "book": "john",
+   "chapter": 1,
+   "num": "I",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "john-1-II",
+   "book": "john",
+   "chapter": 1,
+   "num": "II",
+   "flagged": 16,
+   "status": "todo"
+  },
+  {
+   "id": "john-1-III",
+   "book": "john",
+   "chapter": 1,
+   "num": "III",
+   "flagged": 18,
+   "status": "todo"
+  },
+  {
+   "id": "john-1-IV",
+   "book": "john",
+   "chapter": 1,
+   "num": "IV",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "john-1-V",
+   "book": "john",
+   "chapter": 1,
+   "num": "V",
+   "flagged": 34,
+   "status": "todo"
+  },
+  {
+   "id": "john-1-VI",
+   "book": "john",
+   "chapter": 1,
+   "num": "VI",
+   "flagged": 14,
+   "status": "todo"
+  },
+  {
+   "id": "john-2-VII",
+   "book": "john",
+   "chapter": 2,
+   "num": "VII",
+   "flagged": 14,
+   "status": "todo"
+  },
+  {
+   "id": "john-3-VIII",
+   "book": "john",
+   "chapter": 3,
+   "num": "VIII",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "john-3-IX",
+   "book": "john",
+   "chapter": 3,
+   "num": "IX",
+   "flagged": 14,
+   "status": "todo"
+  },
+  {
+   "id": "john-3-X",
+   "book": "john",
+   "chapter": 3,
+   "num": "X",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "john-20-XLVIII",
+   "book": "john",
+   "chapter": 20,
+   "num": "XLVIII",
+   "flagged": 7,
+   "status": "todo"
+  },
+  {
+   "id": "john-21-L",
+   "book": "john",
+   "chapter": 21,
+   "num": "L",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "romans-1-II",
+   "book": "romans",
+   "chapter": 1,
+   "num": "II",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "romans-1-III",
+   "book": "romans",
+   "chapter": 1,
+   "num": "III",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "romans-1-IV",
+   "book": "romans",
+   "chapter": 1,
+   "num": "IV",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "romans-8-XI",
+   "book": "romans",
+   "chapter": 8,
+   "num": "XI",
+   "flagged": 8,
+   "status": "todo"
+  },
+  {
+   "id": "romans-8-XII",
+   "book": "romans",
+   "chapter": 8,
+   "num": "XII",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "ii-corinthians-11-XI",
+   "book": "ii-corinthians",
+   "chapter": 11,
+   "num": "XI",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "galatians-2-II",
+   "book": "galatians",
+   "chapter": 2,
+   "num": "II",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "ephesians-1-I",
+   "book": "ephesians",
+   "chapter": 1,
+   "num": "I",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "ephesians-3-III",
+   "book": "ephesians",
+   "chapter": 3,
+   "num": "III",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "ephesians-5-V",
+   "book": "ephesians",
+   "chapter": 5,
+   "num": "V",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "ii-thessalonians-1-I",
+   "book": "ii-thessalonians",
+   "chapter": 1,
+   "num": "I",
+   "flagged": 1,
+   "status": "todo"
+  },
+  {
+   "id": "hebrews-6-VI",
+   "book": "hebrews",
+   "chapter": 6,
+   "num": "VI",
+   "flagged": 3,
+   "status": "todo"
+  },
+  {
+   "id": "james-1-II",
+   "book": "james",
+   "chapter": 1,
+   "num": "II",
+   "flagged": 16,
+   "status": "todo"
+  },
+  {
+   "id": "i-peter-1-III",
+   "book": "i-peter",
+   "chapter": 1,
+   "num": "III",
+   "flagged": 2,
+   "status": "todo"
+  },
+  {
+   "id": "i-peter-3-VII",
+   "book": "i-peter",
+   "chapter": 3,
+   "num": "VII",
+   "flagged": 10,
+   "status": "todo"
+  },
+  {
+   "id": "genesis-30-LXXVI",
+   "book": "genesis",
+   "chapter": 30,
+   "num": "LXXVI",
+   "flagged": 6,
+   "status": "todo"
+  },
+  {
+   "id": "genesis-31-LXXVII",
+   "book": "genesis",
+   "chapter": 31,
+   "num": "LXXVII",
+   "flagged": 5,
+   "status": "todo"
+  },
+  {
+   "id": "exodus-20-XL",
+   "book": "exodus",
+   "chapter": 20,
+   "num": "XL",
+   "flagged": 4,
+   "status": "todo"
+  },
+  {
+   "id": "exodus-20-XLI",
+   "book": "exodus",
+   "chapter": 20,
+   "num": "XLI",
+   "flagged": 4,
+   "status": "todo"
+  }
+ ]
+}

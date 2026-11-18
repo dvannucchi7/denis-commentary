@@ -78,12 +78,21 @@ How they display (do not change without Dave asking):
 
 ## Verse tags (`v` on each paragraph)
 
-- If Denis reads straight through, the tags must be continuous, with no gaps, even if some verses are
-  not explicitly discussed (e.g. 4–8, 9–13, not 4, 9).
-- Repeat or overlap only where he really does: a verse split across two paragraphs, a digression
-  that dwells on one verse (Lyra on *teraphim* at 31:19), or going back to a verse.
-- Gaps are fine only where Denis himself jumps out of order or deliberately skips. Mark such a paragraph
-  with `"gap_ok": true` so `check_quotes.py` accepts it (e.g. Exodus 20, Art. XLI goes from v. 12 to v. 21).
+Dave, 17 Nov 2026 (this replaces the old rule that tags be continuous): **a paragraph is tagged only with
+verses it actually treats**, so that tapping a verse brings up only comments that are really about it.
+
+- A verse belongs in a paragraph's tag when the paragraph quotes it (a lemma), cites it, or plainly discusses
+  it: explains its words or sense, paraphrases it, answers a question it raises, gives its mystical or moral
+  reading, or carries on a digression about it (Lyra on *teraphim* at 31:19). Not because it comes next in
+  order, and not to fill a gap.
+- Tag format: `"v": [first, last]` when the verses are one run; when they are not (e.g. vv. 4 and 8 only),
+  add `"verses": [4, 8]` beside `"v": [4, 8]`. The app shows "vv. 4, 8" and links only those verses.
+- A paragraph about no particular verse (the article's introduction, a general question or doctrine not
+  tied to a verse, a summary of the whole chapter) has **no tag**: leave out `v`. It shows in the article
+  without a verse tag and not in focus view. Do not put such paragraphs under v. 1.
+- Gaps between paragraphs are fine; repeats and overlaps are fine where Denis goes back to a verse.
+- `python3 tools/check_tags.py <book> <chapter> [<art>]` lists each paragraph whose tag holds verses it
+  neither quotes nor cites; read those and keep each verse only if the paragraph plainly discusses it.
 
 ## Translation style
 

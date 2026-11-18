@@ -155,7 +155,7 @@ def main(vol, item_id):
             ref = f"{REVA.get(b, b)} {c}:{v}" if not lemma else f"{c}:{v}"
             lines.append(f"   {st:<10} [{ref}] Denis: '{w} …'")
         if lines:
-            print(f"-- ch. {ch}, Art. {num}, para {i + 1} (vv. {p['v'][0]}-{p['v'][1]})")
+            print(f"-- ch. {ch}, Art. {num}, para {i + 1} ({'vv. %d-%d' % tuple(p['v']) if p.get('v') else 'no verse tag'})")
             print("\n".join(lines))
     print("summary:", ", ".join(f"{k} {v}" for k, v in total.items()))
 

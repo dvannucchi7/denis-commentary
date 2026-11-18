@@ -50,14 +50,18 @@ def check(book):
         nverses = len(verses(book)[int(ch) - 1])
         for art in arts:
             where = f"{book} {ch}, Art. {art['num']}"
-            prev_end = None
             for i, p in enumerate(art["paras"]):
-                a, b = p["v"]
-                if not (1 <= a <= b <= nverses):
-                    problems.append(f"{where} para {i+1}: verse tag {a}-{b} is outside the chapter (1-{nverses})")
-                if prev_end is not None and a > prev_end + 1 and not p.get("gap_ok"):
-                    problems.append(f"{where} para {i+1}: gap in verse tags ({prev_end} -> {a}); fine only if Denis skips on purpose")
-                prev_end = max(prev_end or 0, b)
+                # verse tags: only the verses the paragraph treats (Dave, 17 Nov 2026); none for an introduction
+                # or a general question; "verses" (a list) where they are not one run, with "v" = [first, last].
+                # Gaps between paragraphs are fine. tools/check_tags.py lists tags not backed by a quotation.
+                if p.get("v"):
+                    a, b = p["v"]
+                    if not (1 <= a <= b <= nverses):
+                        problems.append(f"{where} para {i+1}: verse tag {a}-{b} is outside the chapter (1-{nverses})")
+                    if p.get("verses") and (sorted(set(p["verses"])) != p["verses"] or p["verses"][0] != a or p["verses"][-1] != b):
+                        problems.append(f"{where} para {i+1}: \"verses\" {p['verses']} must be in order, without repeats, from v[0] to v[1]")
+                elif p.get("verses"):
+                    problems.append(f"{where} para {i+1}: \"verses\" needs \"v\": [first, last] beside it")
                 for ref, dr, _vul in Q.findall(p.get("en", "")):
                     n += 1
                     m = re.match(r"^(.*?)\s*(\d+):(\d+)$", ref)

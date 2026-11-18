@@ -10,6 +10,8 @@ The work file holds one article:
   "num": "IV", "title": "…Latin title…", "title_en": "…English title…", "pages": "pp. 21–25",
   "note": "(optional)",
   "paras": [ {"v": [1, 6], "t": "Latin…", "en": "English with [[ref|DR|Vulgate]] markers…"}, … ]
+           ("v": only the verses the paragraph treats; "verses": [4, 8] beside "v" for a broken run;
+            no "v" for an introduction or general paragraph: see CLAUDE.md "Verse tags")
 }
 Shorthand quotation markers ([[ref|start … end|start … end]], or *) are expanded first (tools/expand_quotes.py).
 An article already in the file with the same number and chapter is replaced (so a run can be redone).
@@ -33,7 +35,7 @@ work, source = art.pop("work"), art.pop("source")
 for k in ("num", "title", "title_en", "pages", "paras"):
     assert k in art, f"missing {k}"
 for p in art["paras"]:
-    assert set(p) >= {"v", "t", "en"}, p.keys()
+    assert set(p) >= {"t", "en"}, p.keys()     # "v" may be left out: a paragraph tied to no verse
 
 path = os.path.join(ROOT, "data", "commentary", book + ".json")
 data = json.load(open(path)) if os.path.exists(path) else {"work": work, "source": source, "chapters": {}}

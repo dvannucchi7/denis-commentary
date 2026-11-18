@@ -8,7 +8,8 @@ the procedure.
 ## Steps
 
 1. **Pick the work, and keep going.** Note the time when the run starts (`date -u`). Work through the
-   queues in order: first the re-checks in `sources/t11/recheck.json` (see "Re-checking a published
+   queues in order: first the re-tags in `sources/retag.json` (see "Re-tagging published articles"
+   below), then the re-checks in `sources/t11/recheck.json` (see "Re-checking a published
    article" below), then `sources/t11/queue.json`, then `sources/t12/queue.json`, then (Dave's order)
    `sources/t13/queue.json` (Epistles), `sources/t6/queue.json` (Psalms), `sources/t7/queue.json`
    (Proverbs–Wisdom), `sources/t10/queue.json` (Daniel, minor prophets), `sources/t1/queue.json`
@@ -45,7 +46,9 @@ the procedure.
    *Elucidatio capituli quinti*); `chapter_guess` in the queue comes from running heads and can be off by
    one at chapter boundaries. Print the chapter with `python3 tools/verses.py --chapter matthew 5`.
    Split the article into paragraphs where Denis moves to a new lemma or a new section, and tag each
-   paragraph with its verse range (continuous, per `CLAUDE.md`).
+   paragraph with the verses it actually treats (quotes, cites or plainly discusses), per `CLAUDE.md`
+   "Verse tags": no filling in verses just because they come next, and no tag at all for an introduction
+   or a general question (never "v. 1" by default).
 5. **References come from the margins only (Dave's rule).** The printed edition gives the source of
    each quotation in the margin; that is the only place a run takes references from.
    - `python3 tools/margins.py <vol> <id> <chapter>` lists the margin references of the article's
@@ -101,13 +104,28 @@ the procedure.
    and merge it: `python3 tools/add_article.py work/<id>.json`. It first expands the shorthand markers
    (if it stops on an anchor, fix that marker and run it again); it also switches the book on in the app.
 7. **Check.** `python3 tools/check_quotes.py` must report 0 problems. Fix any quotation that does not
-   match the Douay-Rheims, and any gap in the verse tags (or mark a real skip with `"gap_ok": true`).
+   match the Douay-Rheims. Run `python3 tools/check_tags.py <book> <chapter> <art>` and, for every
+   paragraph it flags, keep a tagged verse only if the paragraph plainly discusses it; otherwise narrow the
+   tag (or use `"verses"`, or drop the tag).
    Run `python3 tools/recheck.py <vol> <id>` and deal with every `obvious`, `lemma?`, `untagged` and
    `differs` line (step 5); re-run until only deliberate leftovers remain. Then serve the app (`python3 -m http.server`) and confirm the chapter opens and the article shows.
 8. **Publish.** Set the item's status to `"done"` in the queue (add `"note"` if something needs Dave's
    attention, e.g. unreadable text), delete the work file, commit with a message naming the article
    (e.g. "Add Matthew 5, Art. IX"), then `git pull --rebase origin main` (someone else may have pushed
    meanwhile) and push to `main`. The site updates within a few minutes.
+
+
+## Re-tagging published articles (Dave, 17 Nov 2026)
+
+`sources/retag.json` lists published articles whose verse tags were made under the old "continuous" rule.
+Take these **before** the translation queues (step 1), claiming each as usual. For each: run
+`python3 tools/check_tags.py <book> <chapter> <art>`, read every flagged paragraph (and the Latin `t`
+where the English leaves it unclear), and fix the tags per `CLAUDE.md` "Verse tags": keep a verse only
+where the paragraph quotes, cites or plainly discusses it; narrow ranges; use `"verses"` for broken runs;
+remove the tag from introductions and general paragraphs. Change nothing else in the article. Edit
+`data/commentary/<book>.json` directly, run `python3 tools/check_quotes.py` (0 problems), set the item
+`"done"` (with a short note of what changed, e.g. "3 tags narrowed, 2 removed"), commit
+("Re-tag John 1, Art. III"), pull --rebase and push. These are quick; do as many as time allows.
 
 ## Re-checking a published article
 

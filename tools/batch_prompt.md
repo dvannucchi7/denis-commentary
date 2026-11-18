@@ -22,10 +22,11 @@ Vulgate text of the chapters it may cover. Produce the whole article in one answ
   section (e.g. *Mystice*, *Moraliter*). Each paragraph gets `ch` (the chapter it treats) and
   `v: [first, last]` (the verses it covers). The article's title says which chapter it treats
   (*Enarratio capituli decimi* …); an article may run on into the next chapter.
-- If Denis reads straight through, the tags must be continuous with no gaps, even where a verse is not
-  explicitly discussed (4–8, 9–13, not 4, 9). Repeat or overlap only where he really does (a verse split
-  across paragraphs, a digression on one verse, going back to a verse). A gap is allowed only where he
-  himself skips or jumps out of order: mark that paragraph `"gap_ok": true`.
+- Tag a paragraph only with the verses it actually treats: those it quotes, cites, or plainly discusses
+  (explains, paraphrases, answers a question raised by, reads mystically or morally, digresses on). Never
+  add a verse just because it comes next in order. Where the verses are not one run, add
+  `"verses": [4, 8]` beside `"v": [4, 8]`. A paragraph about no particular verse (an introduction, a
+  general question, a summary of the chapter) gets no `v` at all (never v. 1 by default).
 - The bare numbers in the outer margin (e.g. "15") mark where each verse of the chapter treated begins;
   use them.
 
@@ -113,5 +114,5 @@ nothing after it:
 }
 ```
 `pages` are the printed page numbers (shown in the page images' running heads; also given below).
-Use `"gap_ok": true` on a paragraph only for a deliberate skip. Escape quotation marks inside strings
+Escape quotation marks inside strings
 properly (or use “curly” quotes in the English). The JSON must be complete and valid.

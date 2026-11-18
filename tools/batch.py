@@ -230,7 +230,7 @@ def publish_try(vol, it, ans):
     source = meta.get("source") or f"Dionysii Cartusiani Opera Omnia, t. {VOLS[vol]['tome']} (Montreuil)"
     bych = {}
     for i, p in enumerate(ans["paras"]):
-        if not isinstance(p.get("v"), list) or len(p["v"]) != 2 or not p.get("t") or not p.get("en"):
+        if (p.get("v") is not None and (not isinstance(p["v"], list) or len(p["v"]) != 2)) or not p.get("t") or not p.get("en"):
             hard.append(f"paragraph {i}: needs ch, v [first, last], t and en"); continue
         bych.setdefault(int(p.get("ch") or it.get("chapter_guess") or 1), []).append(
             {k: p[k] for k in ("v", "t", "en", "gap_ok") if k in p})
