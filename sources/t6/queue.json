@@ -1690,9 +1690,10 @@
     597,
     601
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:46:45Z"
+   "claimed": "2026-11-18T17:46:45Z",
+   "note": "Margin 'Act. viii, 48' read as Acts 13:48 (noted). v. 8 allegorical: Denis 'loquebar bona', margin 'alias pacem' (noted)."
   },
   {
    "id": "psalms-035-2",
@@ -1703,9 +1704,10 @@
     601,
     602
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:46:45Z"
+   "claimed": "2026-11-18T17:46:45Z",
+   "note": "The end of this article (from 'fiducialem sanctamque elevationem' to its Precatio) stood in psalms-036-2's text file; moved here."
   },
   {
    "id": "psalms-036-2",
