@@ -1540,10 +1540,9 @@
     635,
     643
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T10:25:35Z"
+   "note": "published (Art. I, 1 Peter 1); a few words lost in the transcription of PDF 641 (v. 7, around \"aurum, quod per ignem probatur … a summo Judice … laudem et gloriam\"); two margin notes partly unread (Acts, taken as Acts 2:11; John 6:54); check against the scan"
   },
   {
    "id": "i-peter-002-15",
@@ -1554,10 +1553,9 @@
     643,
     650
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T10:25:35Z"
+   "note": "margin \"Jer. xxx[…]\" partly unread: taken as Jer 23:6 (Denis has Israel)"
   },
   {
    "id": "i-peter-003-15",
