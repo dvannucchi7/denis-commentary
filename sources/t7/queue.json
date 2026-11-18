@@ -276,10 +276,10 @@
     159,
     164
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-18T21:48:17Z",
-   "note": "Lines 24–42 of articles/proverbs-021.txt ('do æquanimiter toleretur pœna … vigent in homine.') are the end of Art. XIX (Prov 20:30), already published there: leave them out of Art. XXI."
+   "note": "Published (scheduled run, worker). proverbs-021.txt also held ch. 22 (Art. XXII, heading missing: now proverbs-022) and, inside v. 1, the end of the 20:30 gloss (lines 24–42, used by Art. XIX). v. 15 'amari[…]tudo' kept, translated 'bitterness' with a note. Margin 'Cf. Ibid. xxxiii, 33' → Ecclus 3:33 (ref-only, noted). Readings kept with notes: exors (v. 6), sapientiam (v. 11), judicium (v. 21), victorias (v. 28), superare (2 Par 25:8). Tagged without margin note: Mich 6:7–8, Job 24:7, Prov 19:25, Luke 6:30, Prov 19:5, Is 46:10, Jer 49:19, Job 23:13, Ps 32:17, 2 Par 25:8."
   },
   {
    "id": "proverbs-022",
@@ -290,10 +290,10 @@
     164,
     169
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-18T21:48:17Z",
-   "note": "Added by a scheduled run: the Art. XXII heading is missing from the transcription (end of p164?), so the cutter ran ch. 22 into proverbs-021.txt and its last lines (22:28–29) into proverbs-023.txt. Running heads p165–168 say ART. XXII."
+   "note": "Published (scheduled run, worker). The printed heading is missing from the transcription (running heads p165–168 say ART. XXII): title supplied in brackets from v. 1, with an article note; please take the real title from the scan (PDF 164/165). Text from proverbs-021.txt (ch. 22) and the first lines of proverbs-023.txt (22:28–29). Margins corrected with notes: 'Jacob. ii, 3' → Jas 2:5; 'Ps. lxxx, 3' → Ps 80:13; 'Ps. x, 14 sec. Hebr.' → Ps 9:35; 'Ibid. lxv, 0' → Is 65:20 (ref-only). Denis's readings noted: superbi (v. 5), Fili mi (v. 17), ostendam (v. 19), v. 27, 1 Pet 3:15 'fide et spe', Ecclus 41:15."
   },
   {
    "id": "proverbs-023",
@@ -304,9 +304,10 @@
     169,
     173
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:48:17Z"
+   "claimed": "2026-11-18T21:48:17Z",
+   "note": "Published (scheduled run, worker). The article file's first lines (22:28–29) belong to Art. XXII and were moved there. Margins corrected with notes: 'Eccli. xxii, 6' → Ecclus 32:6; 'Ps. x, 14' (Hebrew) → Ps 9:35. Tagged without margin note: Ecclus 31:23, 31:38. Conjectural corrections: 'præinducatur' → 'præinductam', 'præteactas' → 'præteritas'. v. 35 'et* non dolui' (margin '* sed') kept with a note. Bible data slip: Rom 13:12 in data/bible/drc reads 'passed And the day'."
   },
   {
    "id": "proverbs-024",
