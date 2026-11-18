@@ -588,10 +588,9 @@
     439,
     450
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 8,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T01:40:20Z"
+   "note": "Published with gaps: the middle of PDF 442 (p. 432; on vv. 26 and 28) is garbled in the OCR and its two columns were interleaved; the text was put back in order by the sense, and the unreadable lines are marked […] (after 'exstat in', and in 'visis mira[…] fiebant'). Please rescan PDF 442 and fill the gaps. Margin readings checked: Is 59:2, Jer 5:25, Acts 3:23 with Deut 18:19, Rom 14:10 (unread), John 3:17 (read as Matt 18:41), Zach 2:3, 1 Cor 2:14, Is 42:1 (read as xii, 1), John 14:31, Prov 15:27, Ps 90:14, Judg 3:8, 2 Tim 2:26, Is 9:4 (unread), Prov 5:22, Rom 8:15 (unread), Ps 87:6, Ecclus 40:1, Osee 9:1, Is 52:13, Mich 3:1–2, Job 41:25, 1 John 3:8, 2 Cor 4:16 (unread), Ezech 28:12–17, Jude 6, 2 Pet 2:4, 2 Cor 11:14."
   },
   {
    "id": "john-23",
