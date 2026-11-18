@@ -3,12 +3,13 @@
 usage: python3 tools/part_margins.py MARGINS.txt PART.txt > PART-margins.txt
 
 MARGINS.txt is the output of `python3 tools/margins.py VOL ID CHAPTER` for the whole article; PART.txt is
-the part's Latin. A note is kept when any 15 letters in a row of the Latin line it stands beside occur in
-the part (the margin reader and the page OCR read the same line, with small differences), so each worker
-sees only its own notes, and notes on a line shared by two parts go to both (the worker on the earlier
-part takes a note at the end of its text; see tools/agent_brief.md).
+the part's Latin (or the whole article's, for a single worker: this also drops the notes on the first and
+last pages that belong to the neighbouring articles). A note is kept when the Latin line it stands beside
+matches a stretch of the part at least 80% letter for letter (the margin reader and the page OCR read the
+same line with small differences, so an exact match misses notes). A note on a line shared by two parts
+goes to both; the worker whose text holds the clause takes it (see tools/agent_brief.md).
 """
-import re, sys, unicodedata
+import re, sys, unicodedata, difflib
 
 def norm(s):
     s = unicodedata.normalize("NFKD", s.lower()).replace("æ", "ae").replace("œ", "oe")
@@ -30,8 +31,14 @@ for ln in lines:
             out.append(ln)                  # title line
         continue
     b = norm(m.group(1)).replace(" ", "")
-    n = min(15, len(b))
-    keep = n >= 8 and any(b[i:i + n] in part for i in range(len(b) - n + 1))
+    keep = False
+    if len(b) >= 12:
+        for i in range(0, len(b) - 7):      # each 8-letter piece of the line that occurs in the part
+            for hit in re.finditer(re.escape(b[i:i + 8]), part):
+                start = max(0, hit.start() - i)
+                if difflib.SequenceMatcher(None, b, part[start:start + len(b)]).ratio() >= 0.8:
+                    keep = True; break
+            if keep: break
     if keep:
         if not page_shown:
             out.append(page); page_shown = True

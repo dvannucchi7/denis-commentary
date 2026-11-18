@@ -1,8 +1,8 @@
-# Brief for a worker translating one part of an article
+# Brief for a worker translating an article or part of one
 
-You translate one part of an article of Bl. Denis the Carthusian's scripture commentary (Latin, *Opera Omnia*,
+You translate an article, or one part of an article, of Bl. Denis the Carthusian's scripture commentary (Latin, *Opera Omnia*,
 Montreuil) for Dave's Douay-Rheims reader app. Do not edit repository files, run git or `tools/add_article.py`.
-The message that sent you here names: the article (book, chapter, number, Latin title), your part's Latin file,
+The message that sent you here names: the article (book, chapter, number, Latin title), your Latin file ("your part" below, even if it is the whole article),
 its margin notes file (only your part's notes), your output file and your test file.
 This brief holds every rule you need (it condenses `CLAUDE.md` and `TRANSLATING.md`; do not read those).
 

@@ -115,6 +115,28 @@ the procedure.
    meanwhile) and push to `main`. The site updates within a few minutes.
 
 
+## Translating with workers (Dave, 18 Nov 2026)
+
+A run may hand the translating (steps 2–5) to workers (subagents). Every worker costs a large fixed amount
+just to start, whatever it is told, so use as few as possible (tested 18 Nov on four articles: about 35–40%
+cheaper than splitting into 3–7 parts, with no loss of quality):
+- **Up to about 4,000 words of Latin: one worker** for the whole article. **Longer: two**, split at a new
+  lemma near the middle (never mid-sentence).
+- Each worker gets `tools/agent_brief.md` (the translation rules in short; it replaces `CLAUDE.md` and this
+  file for the worker), its Latin file, its margin notes, and a test file and an output file in the
+  scratchpad. Make its margin notes with `python3 tools/margins.py <vol> <id> <chapter> > M.txt`, then
+  `python3 tools/part_margins.py M.txt PART.txt > PART-margins.txt` (for one worker too: it drops the notes
+  that belong to the neighbouring articles). Transcribed volumes have their notes inline (`⟦…⟧`): no file.
+  Tell it in its message what the brief needs: the article (book id, chapter, number, Latin title), where its
+  text starts and ends, and any damage you know of (lost lines, a displaced heading).
+- While one article's workers are busy, the run may claim and prepare the next article, so that two
+  articles are in hand at once; the time limits of step 1 still apply.
+- The run checks the workers' output itself (step 7: `check_quotes.py`, `check_tags.py`, `recheck.py`, a look
+  at the paragraphs where two parts meet), and fixes what is wrong before publishing.
+- Before running `tools/add_article.py`, `git pull --rebase origin main`, so the merge starts from the newest
+  commentary file (resolving a conflict by hand in an old copy once dropped another run's article).
+
+
 ## Re-tagging published articles (Dave, 17 Nov 2026)
 
 `sources/retag.json` lists published articles whose verse tags were made under the old "continuous" rule.

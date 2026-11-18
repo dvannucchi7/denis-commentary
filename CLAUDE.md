@@ -131,6 +131,10 @@ catch-up `python3 tools/margins.py read <vol> <pdf> <first> <last>`:
   indexes after. OCR'd into `sources/t12/pages/` (all with the heading split); queue
   `sources/t12/queue.json`; pre-cut articles in `sources/t12/articles/`. Done after t. XI.
 
+`tools/agent_brief.md` restates the translation rules of this file and `TRANSLATING.md` in short for
+workers (see `TRANSLATING.md`, "Translating with workers"): when a rule about the Latin, the English, verse
+tags or quotation markers changes here, change it there too.
+
 Translation runs follow `TRANSLATING.md` (procedure) with `tools/verses.py` (Douay-Rheims + Vulgate
 lookup; Vulgate text is in `sources/vulgate/`, not shown in the app), `tools/find_quotes.py` (finds
 runs of words in an article that match the Vulgate; no longer used for references, which come from the
