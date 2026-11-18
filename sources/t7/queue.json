@@ -10,8 +10,9 @@
     27,
     40
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:00:55Z"
   },
   {
    "id": "proverbs-002",
@@ -22,8 +23,9 @@
     40,
     45
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:00:55Z"
   },
   {
    "id": "proverbs-003",
