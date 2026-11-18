@@ -38,9 +38,10 @@
     45,
     56
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:08:46Z"
+   "claimed": "2026-11-18T21:08:46Z",
+   "note": "Published (scheduled run, two workers). The cut had put the end of Art. III (v. 35: 'tur. Unde in Ecclesiastico … Superbi gloria cito fit ignominia', p56 right column) into proverbs-004; moved here. Margin readings corrected or supplied (cut-off margins), with notes: Osee 8:12, Is 50:10, Osee 13:9, 2 Cor 3:5, Phil 2:13, Is 49:10, Apoc 7:16, Mal 3:10-11, Agg 1:9-10, Ps 80:13, Job 38:8, Job 36:29-31, Ps 118:103, Ps 50:8, Gal 5:20, Gen 2:10; 'cordium inspector' given as 1 Kings 16:7 / Prov 24:12 / Ecclus 23:28 (guesses, noted); Elias's words are 3 Kings 18:15 (margin 3 Kings 17:1, 4 Kings 3:14). v. 3 quotations have no margin notes; tagged where Denis names the source. Is 26:19 'ros dulcis *': the edition's footnote is not in the transcription. Douay-Rheims slip: Prov 3:3 'mercy aud truth' (shows in the article until fixed)."
   },
   {
    "id": "proverbs-004",
@@ -51,9 +52,10 @@
     56,
     62
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:08:46Z"
+   "claimed": "2026-11-18T21:08:46Z",
+   "note": "Published (scheduled run, worker). Margin readings corrected with notes: 'I Par. viii, 9, 10' → 1 Par 28:9-10; 'Ibid. viii, 7' → John 8:47; 'Joann. vi, 4' → John 6:64; 'Ps. cxviii, 33' → Ps 118:133; 'Cor. xiv, 3' → 1 Cor 14:38; 'Amos v, 1[…]' → Amos 5:12; 'I Reg. vii' → 2 Kings 7:14 (Denis's wording is 1 Par 22:10). v. 27 'manifeste malum est, omnino abstinere' seems to lack a 'non' (noted; check the scan). 'natura ligni' (v. 16 paragraph) looks corrupt, left out of the English. Tagged without margin note: Ps 82:14, Jer 4:1, 1 Cor 14:40."
   },
   {
    "id": "proverbs-005",
