@@ -318,9 +318,10 @@
     173,
     179
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:53:14Z"
+   "claimed": "2026-11-18T21:53:14Z",
+   "note": "Published (scheduled run, worker). Garbled asterisks in the transcription kept in t with notes (v. 15 'iniquitatem * in * impietatem'; end remark '* ibi Tamen quod dicitur hic *'): check against the scan. Margin Prov. xxviii, 26 does not fit (28:23 marked, noted); II Reg. xxiii, 5 kept as printed though it hardly fits. Job 33:29–30 and Prov 6:9 tagged without margin notes (Denis names them)."
   },
   {
    "id": "proverbs-025",
@@ -331,9 +332,10 @@
     179,
     184
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:53:14Z"
+   "claimed": "2026-11-18T21:53:14Z",
+   "note": "Published (scheduled run, worker). Title partly lost in the transcription ('QUAS TRANSTUL[…]TI … […]LERUNT VIRI'), filled as 'HÆ QUOQUE PARABOLÆ SALOMONIS, QUAS TRANSTULERUNT VIRI, ETC.': check against the scan. Range margins (Luke 14:8–11, Luke 1:46–55) marked at first verse."
   },
   {
    "id": "proverbs-026",
@@ -344,9 +346,10 @@
     184,
     188
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:53:14Z"
+   "claimed": "2026-11-18T21:53:14Z",
+   "note": "Published (scheduled run, worker). Last line ('frequenter sequuntur … inferni supplicia', PDF 188 right column) taken from proverbs-027.txt line 16. v. 6 transcribed 'iniquitatem habens' read as 'bibens' (Vulgate; Denis's gloss 'potare'): check the scan. Margin 'Prov. xxviii, 8' at v. 22 is 18:8 (noted). '[…]' after 'libidinosum' (v. 28) dropped as a lost margin note. DR data slip: Prov 26:23 'earthern'."
   },
   {
    "id": "proverbs-027",
@@ -359,7 +362,8 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "claimed": "2026-11-18T22:00:32Z"
+   "claimed": "2026-11-18T22:00:32Z",
+   "note": "Line 16 of articles/proverbs-027.txt ('A frequenter sequuntur facta injusta … inferni supplicia.') is the end of Art. XXVI (26:28), already published there: leave it out of Art. XXVII. The heading appears twice in the file."
   },
   {
    "id": "proverbs-028",
