@@ -583,7 +583,8 @@
    "chapter": 3,
    "num": "VIII",
    "flagged": 18,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:52:00Z"
   },
   {
    "id": "luke-3-IX",
@@ -591,7 +592,8 @@
    "chapter": 3,
    "num": "IX",
    "flagged": 10,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:52:00Z"
   },
   {
    "id": "luke-4-X",
@@ -599,7 +601,8 @@
    "chapter": 4,
    "num": "X",
    "flagged": 19,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:52:00Z"
   },
   {
    "id": "luke-4-XI",
@@ -607,7 +610,8 @@
    "chapter": 4,
    "num": "XI",
    "flagged": 17,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:52:00Z"
   },
   {
    "id": "luke-5-XII",
