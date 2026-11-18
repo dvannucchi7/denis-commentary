@@ -565,8 +565,8 @@
    "chapter": 2,
    "num": "VI",
    "flagged": 17,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:51:17Z"
+   "status": "done",
+   "note": "2 tags changed (para 24 to vv. 11–12; para 39, the shepherds as example, to vv. 15, 20); 15 confirmed"
   },
   {
    "id": "luke-2-VII",
@@ -574,8 +574,8 @@
    "chapter": 2,
    "num": "VII",
    "flagged": 22,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:51:17Z"
+   "status": "done",
+   "note": "3 tags changed (para 17, how Simeon knew the Child, to vv. 27–28; para 19, the canticle at Compline, untagged; para 21 to v. 28); 19 confirmed"
   },
   {
    "id": "luke-3-VIII",
