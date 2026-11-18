@@ -136,9 +136,10 @@
     86,
     93
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:26:24Z"
+   "claimed": "2026-11-18T21:26:24Z",
+   "note": "Published (scheduled run, worker). The article file was cut short at 'perver-sa_, i' (end of v. 32 gloss); completed from transcribed/p93.txt. Margin numerals corrected with notes: Ps 83:18→82:18, 'Ps. x, 3 sec. Hebr.'→Ps 9:24, Ps 111:4→140:4, Ps 86:6→76:6, Is 11:24→40:24, 1 Thess 1:9→2 Thess 1:9. Ps 21:27: Denis has 'Nomina' where the Vulgate has 'corda' (printed footnote missing): only 'shall live for ever and ever' marked, with a note. Bible data slip: John 6:45 in data/bible/drc reads 'cometh forth me' (should be 'cometh to me')."
   },
   {
    "id": "proverbs-011",
@@ -149,9 +150,10 @@
     93,
     100
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:26:24Z"
+   "claimed": "2026-11-18T21:26:24Z",
+   "note": "Published (scheduled run, worker). Is 66:2 quoted in an older Latin form (no margin note): reference-only marker with a note; Is 24:18 ('Cf.') reference-only. Col 3:13 margin: last words are Eph 4:32's, marked so with a note. v. 10 'exaltabitur' (margin variant 'exsultabit') noted. Range margins (Acts 12; Job 1 with Tob 1–2; 1 Kings 28; Job 32–37) given reference-only markers with the full margin reading in a note. Repeated transcription lines (around Luke 19:13 / Matt 25:21 and 1 Kings 28) dropped."
   },
   {
    "id": "proverbs-012",
