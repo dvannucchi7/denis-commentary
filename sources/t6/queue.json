@@ -1407,9 +1407,10 @@
     497,
     509
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:04:00Z"
+   "claimed": "2026-11-18T17:04:00Z",
+   "note": "Published (scheduled run, three workers) as Art. XV (PDF 497–504, pp. 487–494) and Art. XVI (PDF 505–509, pp. 495–499): the cut file holds both. The heading (number and title) of Art. XVI, a moral exposition of Ps 108 beginning 'QUUM Christus dicat', is missing from the transcription (top of PDF 505 or foot of PDF 504): published with title '[…]' and an English description; please check the scan and supply the Latin title. XVI's end and Precatio taken from p509.txt. Margins corrected with notes: Is. i, 7 → Is 50:7; Ibid. xxii, 18 → Jer 17:18; Is. xxxiii, 7 → Is 32:7; Matth. xxv, 24, 23 → Matt 25:23; II Cor. viii → 8:9. XVI v. 3 'sermonibus aliis' read as 'odii' (note). DR data slips: John 17:1 lacks 'Father,'; Jer 18:23 lacks 'forgive'."
   },
   {
    "id": "psalms-017-2",
