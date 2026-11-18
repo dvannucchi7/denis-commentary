@@ -220,9 +220,10 @@
     127,
     135
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:39:09Z"
+   "claimed": "2026-11-18T21:39:09Z",
+   "note": "Published (scheduled run, worker). v. 11: the transcription has 'Lapides sæculi … pro Saeculi, positum Sæculi … in saeculo'; the lemma keeps 'sæculi', but Denis's explanation of the copyists' error was corrected to 'Lapides sacculi', 'pro Sacculi', 'in sacculo' (check the print). v. 1: 'reliquasque virtutum quas amiserunt' translated as the virtues they did not lose, with a note. Margins corrected with notes: Ecclus xxiii, 23 → Ecclus 18:23; Ps xxxvii, 3 → Ps 27:3; 'Cf. Joel ii, 23' marked though closer to Deut 11:14. Denis's readings noted: v. 13 'dirigetur', v. 14 'nuntius … placabit eum', Job 21:30 'in diem malum'."
   },
   {
    "id": "proverbs-017",
@@ -233,9 +234,10 @@
     135,
     142
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T21:39:09Z"
+   "claimed": "2026-11-18T21:39:09Z",
+   "note": "Published (scheduled run, worker). Margins corrected with notes: Jer xvii, 20 → Jer 18:20; 'Sap. iii' → Wis 3:6; bare 'v. 14' → Eccles 10:14; 2 Cor 1:14 kept ref-only (wording closer to 1 Thess 2:20). Latin slips corrected: v. 13 'recordet' → 'recedet', 'excusef' → 'excuset'. v. 28 printed '…in corde stulti. reputabitur. Intelligens.' kept as printed, with a note. Denis's readings noted: v. 19 'os suum', v. 17 'Deum et proximum', Ecclus 19:12 'femori canis', v. 6 margin variant 'alias participes'."
   },
   {
    "id": "proverbs-018",
