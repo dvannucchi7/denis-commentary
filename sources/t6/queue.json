@@ -196,9 +196,10 @@
     76,
     80
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:38:41Z"
+   "claimed": "2026-11-18T11:38:41Z",
+   "note": "translated by scheduled run; margin numerals corrected with notes (\"Marc. ix, 48\" → Mark 9:18, \"Joann. vi, 48\" → John 11:48); Denis joins John 18:12 to Matt 26:50 (both marked, noted)"
   },
   {
    "id": "psalms-007",
@@ -209,9 +210,10 @@
     80,
     83
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:38:41Z"
+   "claimed": "2026-11-18T11:38:41Z",
+   "note": "translated by scheduled run; possible Douay-Rheims slip: at Ps 53:8 the Vulgate has \"Domine\", the Douay-Rheims text \"O God\""
   },
   {
    "id": "psalms-008",
