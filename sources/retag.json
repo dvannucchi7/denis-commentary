@@ -718,8 +718,8 @@
    "chapter": 9,
    "num": "XXIII",
    "flagged": 10,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:09Z"
+   "status": "done",
+   "note": "all flagged tags confirmed (each paragraph discusses its verses); no change"
   },
   {
    "id": "luke-9-XXIV",
@@ -727,8 +727,8 @@
    "chapter": 9,
    "num": "XXIV",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:09Z"
+   "status": "done",
+   "note": "all flagged tags confirmed (each paragraph discusses its verses); no change"
   },
   {
    "id": "luke-9-XXV",
@@ -736,8 +736,8 @@
    "chapter": 9,
    "num": "XXV",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:09Z"
+   "status": "done",
+   "note": "all flagged tags confirmed (each paragraph discusses its verses); no change"
   },
   {
    "id": "luke-10-XXVI",
@@ -745,8 +745,8 @@
    "chapter": 10,
    "num": "XXVI",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:09Z"
+   "status": "done",
+   "note": "all flagged tags confirmed (each paragraph discusses its verses); no change"
   },
   {
    "id": "luke-10-XXVII",
@@ -754,8 +754,8 @@
    "chapter": 10,
    "num": "XXVII",
    "flagged": 15,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:09Z"
+   "status": "done",
+   "note": "all flagged tags confirmed (each paragraph discusses its verses); no change"
   },
   {
    "id": "luke-10-XXVIII",
@@ -763,8 +763,8 @@
    "chapter": 10,
    "num": "XXVIII",
    "flagged": 9,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:09Z"
+   "status": "done",
+   "note": "1 tag removed (para 15, why this Gospel is read on the Assumption); 8 confirmed"
   },
   {
    "id": "luke-11-XXIX",
