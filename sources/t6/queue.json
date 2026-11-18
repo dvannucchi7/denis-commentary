@@ -2113,9 +2113,10 @@
     685,
     688
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:50:47Z"
+   "claimed": "2026-11-18T20:50:47Z",
+   "note": "Published (scheduled run, worker). Margin 'Ps. cxliv, 13' is Ps 144:15 (noted); II Par. xxxiii given as 2 Par 33:1 (story at vv. 11-13, noted); Ex 22:21 and 23:9 blended by Denis (noted); one sentence after Ecclus 10:12 ('Etenim mane præcedit eum exercitus…') has no source found (noted). Douay-Rheims data slip: 2 Par 33:11 'of he army'."
   },
   {
    "id": "psalms-064-2",
@@ -2126,9 +2127,10 @@
     688,
     691
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:50:47Z"
+   "claimed": "2026-11-18T20:50:47Z",
+   "note": "Published (scheduled run, worker). Margin 'Ps. xxxvi, 17' is Ps 32:17 (noted); 'Deut. xxx, 1-5; 2 Esdr. i, 9': Denis follows 2 Esd 1:9 (noted); Denis says 'Isaias' but quotes Matt 15:8 (Is 29:13 reference-only, noted)."
   },
   {
    "id": "psalms-065-2",
