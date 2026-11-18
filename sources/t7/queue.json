@@ -218,8 +218,9 @@
     127,
     135
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:39:09Z"
   },
   {
    "id": "proverbs-017",
@@ -230,8 +231,9 @@
     135,
     142
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:39:09Z"
   },
   {
    "id": "proverbs-018",
