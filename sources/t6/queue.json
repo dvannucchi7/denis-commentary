@@ -10,9 +10,10 @@
     11,
     22
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T10:47:04Z"
+   "claimed": "2026-11-18T10:47:04Z",
+   "note": "translated by scheduled run (first Psalms article; work title set as \"Commentaria in Psalmos\", PDF = printed page + 10). The edition's long footnote on the letters of Lentulus and Pilate (not Denis's text) is left out, with a bracketed note; the side-heads \"Expositiuncula quædam alia\" and \"Rursum alia expositio\" were dropped from the Latin; the edition's own parenthesised verse numbers were dropped. Margin numerals corrected with notes (Matt 17:5, Luke 3:22, 9:35, Luke 1:48)"
   },
   {
    "id": "psalms-088",
