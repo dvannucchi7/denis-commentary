@@ -1646,9 +1646,9 @@
     690,
     697
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "translated by scheduled run; margin numerals corrected with notes (Jer 10:21 for \"Jer. xxiii, 1\", 2 Cor 4:17 for \"I Cor. iv, 17\", Ps 72:24 for \"Ps. lxxx, 24\"); Douay-Rheims data slips noticed: 2 Thess 2:2 \"by epistle. as sent\", 1 John 5:4 \"overcameth\"",
    "claimed": "2026-11-18T10:34:51Z"
   },
   {
@@ -1660,9 +1660,9 @@
     697,
     706
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "published with gaps: the transcription of PDF 699–700 (vv. 3–4) has several […], including a lost passage at the page break after \"et eam nullam […]\" that takes the v. 4 lemma \"ut per hæc efficiamini divinæ consortes\"; also \"Propter quod […] monere de his\" (v. 12). Check against the scan. Margin numerals corrected with notes (Ps 67, Ecclus 13:20, Ecclus 7:40, Ps 144:13)",
    "claimed": "2026-11-18T10:34:51Z"
   },
   {
