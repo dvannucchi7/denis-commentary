@@ -552,10 +552,9 @@
     243,
     247
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:37:19Z"
+   "note": "Published as 2 Corinthians 3, Art. III (pp. 221-225) with a gap. The cutter had put the end of Art. II (2:14-17, from '_guentorum tuorum_') inside this article's file, and the end of this article (v. 18 from 'commutamur, a claritate') at the head of the Art. IV file; both were put back here (Art. II's end was left for the run doing Art. II). In v. 9 the lemma words before 'ministerium justitiæ' (probably 'multo magis abundat') are lost (PDF 245). Margin 'Exod. xxxiv, 33' given as reference-only Ex 34:30 (the horned face), noted. Please check against the scan."
   },
   {
    "id": "ii-corinthians-004-3",
@@ -566,10 +565,9 @@
     247,
     250
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T05:37:19Z"
+   "note": "Published as 2 Corinthians 4, Art. IV (pp. 225-228) with a small gap: in v. 15 a few words may be lost at a column break before 'quatenus' (PDF 249). The article's text after 'occulta dedecoris, id est' was restored from transcribed/p247.txt (the cut file truncated the line). Margin 'Ps. cxv, 10' given as Ps 115:1 (Vulgate numbering); 'Matt. x / xxiv, 9' as Matt 10:22 + reference-only Matt 24:9. Please check the gap against the scan."
   },
   {
    "id": "ii-corinthians-005-3",
