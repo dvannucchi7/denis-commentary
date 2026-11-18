@@ -466,7 +466,8 @@
    "chapter": 11,
    "num": "XI",
    "flagged": 4,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:49:46Z"
   },
   {
    "id": "mark-12-XII",
@@ -474,7 +475,8 @@
    "chapter": 12,
    "num": "XII",
    "flagged": 6,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:49:46Z"
   },
   {
    "id": "mark-13-XIII",
@@ -482,7 +484,8 @@
    "chapter": 13,
    "num": "XIII",
    "flagged": 3,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:49:46Z"
   },
   {
    "id": "mark-14-XIV",
@@ -490,7 +493,8 @@
    "chapter": 14,
    "num": "XIV",
    "flagged": 8,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:49:46Z"
   },
   {
    "id": "mark-15-XV",
@@ -498,7 +502,8 @@
    "chapter": 15,
    "num": "XV",
    "flagged": 9,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:49:46Z"
   },
   {
    "id": "mark-16-XVI",
@@ -506,7 +511,8 @@
    "chapter": 16,
    "num": "XVI",
    "flagged": 1,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:49:46Z"
   },
   {
    "id": "luke-1-I",
