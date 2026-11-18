@@ -809,10 +809,9 @@
     570,
     576
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 16,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T02:36:00Z"
+   "note": "Published (PDF 571-576, pp. 561-566; John 16:23-33). The last paragraph (summary of the discourse) has no verse tag."
   },
   {
    "id": "john-41",
