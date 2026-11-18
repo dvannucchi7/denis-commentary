@@ -272,11 +272,25 @@
    "chapter_guess": 21,
    "pages": [
     159,
-    169
+    164
    ],
    "status": "in-progress",
    "source": "transcribed",
    "claimed": "2026-11-18T21:48:17Z"
+  },
+  {
+   "id": "proverbs-022",
+   "book": "proverbs",
+   "art": 22,
+   "chapter_guess": 22,
+   "pages": [
+    164,
+    169
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:48:17Z",
+   "note": "Added by a scheduled run: the Art. XXII heading is missing from the transcription (end of p164?), so the cutter ran ch. 22 into proverbs-021.txt and its last lines (22:28–29) into proverbs-023.txt. Running heads p165–168 say ART. XXII."
   },
   {
    "id": "proverbs-023",
