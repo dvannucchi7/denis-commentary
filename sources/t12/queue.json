@@ -600,10 +600,9 @@
     449,
     456
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 8,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T01:41:20Z"
+   "note": "Margin numerals misread in places (Is 53:9, Heb 9:15, 1 John 2:1, Luke 4:30 noted in brackets). Untagged margin notes read as unconfirmed but fitting: Is 21:11, 1 Kings 2:30, Tit 1:16, 1 John 2:3, Rom 1:21, Ps 108:24, 4 Kings 6:18. OCR 'acrisia' corrected to 'aorasia' (Gen 19:11 blindness)."
   },
   {
    "id": "john-24",
