@@ -289,9 +289,10 @@
     104,
     107
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:46:26Z"
+   "claimed": "2026-11-18T11:46:26Z",
+   "note": "translated and published by scheduled run; one word unread in the closing paragraph (\"nobilem et […] ignitum\", PDF p. 107): check the scan; margin \"Is. xxxvi, 9\" is Is 26:9 (noted)"
   },
   {
    "id": "psalms-014",
