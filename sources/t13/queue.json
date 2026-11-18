@@ -1103,9 +1103,10 @@
     440,
     443
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:56:57Z"
   },
   {
    "id": "i-timothy-004-9",
@@ -1116,9 +1117,10 @@
     443,
     445
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:56:57Z"
   },
   {
    "id": "i-timothy-005-6",
