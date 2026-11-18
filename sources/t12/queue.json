@@ -1,937 +1,937 @@
 {
-  "volume": "t. XII (Montreuil, 1901): Luke 10-24, John 1-21",
-  "pdf": "Google Play scan supplied by Dave (PDF page = printed page + 10). Commentary PDF 11-630; indexes after.",
-  "how": "Do items in order. pages = PDF pages to read (inclusive); the article may start partway down the first page and the next article may start on the last page. Confirm the chapter from the article's own title (ENARRATIO CAPITULI ...). John Art. I (PDF 277) is on the dignity of St John and his Gospel; PDF 275-276 is a PROOEMIUM: translate it as part of Art. I's note or as its opening, by the sense.",
-  "items": [
-    {
-      "id": "luke-26",
-      "book": "luke",
-      "art": 26,
-      "pages": [
-        11,
-        19
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 10,
-      "note": "Published with gaps: the bottom lines of both columns of PDF 16 (p. 6; end of v. 14, start of v. 15 on Capharnaum, and the passage on God's judgments) are garbled in the OCR; missing words marked […]. Please rescan PDF 16 and fill the gaps. Margin numerals guessed: Is 5:1 (vineyard), Gen 7:9 (two and two into the ark), Acts 28:5 (viper)."
-    },
-    {
-      "id": "luke-27",
-      "book": "luke",
-      "art": 27,
-      "pages": [
-        18,
-        32
-      ],
-      "status": "done",
-      "chapter_guess": 10,
-      "note": "Many margin notes on PDF 30-31 were printed into the OCR text column and were removed; their references (Is 53:6, Ps 72:23, John 10:16, Heb 13:14, Wis 6:8 and 12:13, Is 4:2, Joel 3:18) were restored from the printed numerals and are unconfirmed by the margin reader. Ecclus 13:19-20 (Denis blends them) and Wis 12:13 are best guesses. The edition's footnotes (Chrysostom = Cyril; 'Ait' = 'Dixit ad Jesum') are kept as bracketed notes."
-    },
-    {
-      "id": "luke-28",
-      "book": "luke",
-      "art": 28,
-      "pages": [
-        31,
-        36
-      ],
-      "status": "done",
-      "chapter_guess": 10,
-      "claimed": "2026-11-13T12:42:09Z",
-      "note": "Published (PDF 32-36, pp. 22-26; Luke 10:38-42). Opening word OCR'd as 'Qs' (drop capital?); taken as 'Quidquid Christus gessit in corpore' - check against the scan. A margin note beside 'Beda' reads '* Origenes' (kept as a bracketed note). Unconfirmed reference-only markers from unread margins: 1 Cor 1:24, John 1:1; Num 21:5 (margin read xxi, 9); 1 Cor 7:20 and Eph 4:1 (margin read 'I Cor. vi', 'Ephes. iv, 4')."
-    },
-    {
-      "id": "luke-29",
-      "book": "luke",
-      "art": 29,
-      "pages": [
-        35,
-        44
-      ],
-      "status": "done",
-      "chapter_guess": 11,
-      "claimed": "2026-11-13T12:47:44Z",
-      "note": "Published (PDF 36-44, pp. 26-34; Luke 11:1-13). Two margin notes beside Bede/Theophylact read '* Origenes' (Art. XXVIII) and '* Cyrillus' here: kept as bracketed notes. Margin read 'Joann. xvi, 9' for 'Pater, clarifica me' (tagged John 17:5). Several margin notes unread but the quotations are word for word and tagged: Is 63:16, Rom 8:15, Gal 4:7, 2 Cor 3:5, Ps 104:3-4, Wis 1:1-2, Ps 142:10."
-    },
-    {
-      "id": "luke-30",
-      "book": "luke",
-      "art": 30,
-      "pages": [
-        43,
-        54
-      ],
-      "status": "done",
-      "chapter_guess": 11,
-      "note": "Several references printed in the text column on PDF 44-45 (4 Kings 1:2, Jos 10:13, 1 Cor 1:22, John 4:48) were taken from the printed numerals; Job 36:13 (margin 'Job xxxvi') beside 'provoke the wrath of God' and Apoc 21:23 (Denis's wording is closer to Apoc 22:5, noted) should be checked against the scan."
-    },
-    {
-      "id": "luke-31",
-      "book": "luke",
-      "art": 31,
-      "pages": [
-        53,
-        60
-      ],
-      "status": "done",
-      "chapter_guess": 11,
-      "claimed": "2026-11-13T12:53:39Z",
-      "note": "Published (PDF 53-60, pp. 43-50; Luke 11:37-54). Many margin references are printed inline in the OCR text (2 Cor 7:1, Matt 5:7, Dan 4:24, Tob 12:9, Prov 15:27, Prov 29:1, Acts 15:10, Ps 23:6, Gal 6:5, Gen 4:8, 2 Par 24:21) and were taken from there. Tithes: margin reads Num. xviii, 21 and Deut. xii, 17 / xvi, 17 (reference-only markers Num 18:21, Deut 16:16, with a note). Is 7:9 quoted in the old form 'non intelligetis' (noted)."
-    },
-    {
-      "id": "luke-32",
-      "book": "luke",
-      "art": 32,
-      "pages": [
-        59,
-        71
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 12,
-      "claimed": "2026-11-13T13:00:42Z",
-      "note": "Published with gaps (PDF 60-70, pp. 50-60; Luke 12:1-21). PDF 64 (p. 54): about two lines at the foot of each column are unreadable in the OCR (end of v. 9 'per prædestinatio[nem …] de Christi negatione finali', and in v. 10 'quia […]bet, propter naturalem defectuositatem'); marked […]. Opening word lost (drop capital), supplied as '[Circa]'. Several margin references are printed inline in the OCR text (1 Cor 5:6, Luke 11:53, 1 John 4:18, Job 31:23, Ecclus 34:16, Prov 29:25, Ecclus 23:37, 25:14, Ps 33:10) and were taken from there."
-    },
-    {
-      "id": "luke-33",
-      "book": "luke",
-      "art": 33,
-      "pages": [
-        70,
-        79
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 12,
-      "claimed": "2026-11-13T13:08:45Z",
-      "note": "Published with gaps (PDF 71-79, pp. 61-69; Luke 12:22-40). PDF 78 (p. 68): about two lines at the foot of each column are unreadable in the OCR (v. 38 'saltem in senectute a ma[...] non fit hic mentio', and v. 39 'contra pessimum ac callidissimum [... cu]stodiamus'); marked [...]. Margin note beside 'Theophilum' reads '* Theodoretum' (kept as a bracketed note); editorial margin note adds '[Et justitiam ejus]' at v. 31 (noted). Mark 13:35 tagged where the margin gives Marc. xiii, 33."
-    },
-    {
-      "id": "luke-34",
-      "book": "luke",
-      "art": 34,
-      "pages": [
-        78,
-        86
-      ],
-      "status": "done",
-      "chapter_guess": 12,
-      "claimed": "2026-11-13T13:14:37Z",
-      "note": "Published (PDF 79-86, pp. 69-76; Luke 12:41-59). Ecclus 29:23 'Repromissio nequissima' tagged where the margin gives xxix, 24 (Douay 'suretyship', noted). Is 26:10 quoted in the Septuagint form (margin: juxta LXX). Gen 4:23 (Lamech killing Cain, a legend) given as reference-only where the margin reads 'Ibid. iv, 23'."
-    },
-    {
-      "id": "luke-35",
-      "book": "luke",
-      "art": 35,
-      "pages": [
-        85,
-        94
-      ],
-      "status": "done",
-      "chapter_guess": 13,
-      "claimed": "2026-11-13T13:19:34Z",
-      "note": "Published (PDF 86-94, pp. 76-84; Luke 13:1-21). Opening drop-capital word read as 'Jam'. Margin note '* [et occidit eos]' at v. 4 is an editorial addition (noted). Jer 32:31 given as reference-only (Denis paraphrases). Synagogues in Acts: margin lists several places, given as Acts 13:14."
-    },
-    {
-      "id": "luke-36",
-      "book": "luke",
-      "art": 36,
-      "pages": [
-        93,
-        100
-      ],
-      "status": "done",
-      "chapter_guess": 13,
-      "note": "Unconfirmed tags (no margin note read): 1 John 2:6, 2 Cor 1:8, Phil 2:10. Margin readings guessed: Matt 23:39 (printed as xxii, 47-39), John 10:22 (unreadable \"32. 93\"), 2 Par 24:21. In the Moraliter paragraph the print has \"Ab aquilone\" twice; the first is translated \"from the west\" with a note."
-    },
-    {
-      "id": "luke-37",
-      "book": "luke",
-      "art": 37,
-      "pages": [
-        99,
-        113
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 14,
-      "note": "Published. PDF 104 (p. 94), left column: about one line lost in the Chrysostom quotation (“Sed si hoc non placet, […] ministri”), shown as […]. PDF 108 (p. 98), top: damaged band; Luke 14:26 lemma “suum, et matrem, et uxorem, et filios, et” read from the damaged line (bracketed in the Latin), the rest recovered from the margin reader’s OCR. Unconfirmed tags (no margin note read): Job 15:13, Ecclus 10:7, 10:29, 3:20, Luke 6:33, 2 Cor 7:4, 2 Tim 4:2, 1 Tim 5:21, 1 Cor 7:29, 7:31, John 15:6, Lev 2:13, Mark 9:49, 1 Cor 14:40. Text prints “luxuria…” with the seventh property of dropsy omitted."
-    },
-    {
-      "id": "luke-38",
-      "book": "luke",
-      "art": 38,
-      "pages": [
-        112,
-        126
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 15,
-      "note": "Published with gaps (PDF 112-126, pp. 102-116; Luke 15:1-32). Lines lost in the OCR, marked […]: PDF 114 (p. 104) foot of both columns (start of the moral sense of the sheep, v. 6; and in v. 7 between 'quem de majori periculo erui cernimus' and '…amemus'); PDF 123 (p. 113) foot of left column, v. 23 ('ei prædicate, […] sub speciebus Sacramenti'); PDF 125 (p. 115) top of both columns, v. 28 ('convivium quod Deus Pater in Ecclesia […] exhibet') and v. 29 ('Vel per hæ[dum …]tis, qui […] populo promissus fuit'); PDF 118 the chapter number of De divinis nominibus. Reading order on PDF 114, 123 and 125 rebuilt by the sense. Conjectures: 'ulcisci … malitiam' (PDF 118), '[Sic]ut' (PDF 116). Margin numerals corrected (check): Ps 99:3 (printed Ps. xci, 7), Ps 68:5, Jer 32:41, Ex 4:22, Jer 31:9, John 12:31 (ref-only), Is 46:8, Ps 79:6, Gen 15:2, Is 52:2, Matt 6:2, Is 64:8, Is 53:8, 1 Thess 2:15-16, Apoc 3:1, Lam 3:42 (margin 'Thren. v'). From unread margins: Is 53:4-6, 2 Esd 8:10, Rom 5:20, Ps 109:3, Ps 118:132, Is 6:5, 1 Cor 11:26, Apoc 3:20, Is 55:5, Is 9:2. Cant 5:3 given ref-only (Denis 'Indui me tunica mea', the verse has 'Expoliavi'). Agnes's 'Annulo fidei suæ subarrhavit me' left untagged (not Scripture).",
-      "claimed": "2026-11-17T05:42:12Z"
-    },
-    {
-      "id": "luke-39",
-      "book": "luke",
-      "art": 39,
-      "pages": [
-        125,
-        142
-      ],
-      "status": "done",
-      "chapter_guess": 16,
-      "note": "Published (PDF 126-142, pp. 116-132; Luke 16:1-31). Text complete. Margin of PDF 129 left column not read: Jas 3:2 and Prov 3:28 tagged unconfirmed. Margin readings corrected or taken from unread notes (check): Luke 8:10 (ref-only, margin 'viii, 10'), 2 Cor 8:9, Jer 29:23, Rom 2:15, Rom 6:23 (ref-only, margin 'Rom. vi' unclear, noted), 1 John 4:5, Num 24:5, 1 Cor 4:1-2, Job 41:25, Ps 48:18, Jer 23:24, 1 Kings 16:7, Ps 52:6, Mal 2:16, Ecclus 10:2, Prov 29:12, Rom 4:18-21, Ps 33:22, Ezech 31:18 and 32:22 (second note illegible), Is 65:14, Matt 27:52-53, Matt 11:8 and 7:23 (ref-only, noted). Wis 11:17 given ref-only (Denis adapts it). v. 11 prints 'quod vestrum est' (edition's margin: alias verum), kept. Conjecture: Gennadius 'cum dispensatione' for OCR 'eum possessione'.",
-      "claimed": "2026-11-17T05:49:52Z"
-    },
-    {
-      "id": "luke-40",
-      "book": "luke",
-      "art": 40,
-      "pages": [
-        141,
-        153
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 17,
-      "note": "Published with gaps (PDF 142-153, pp. 132-143; Luke 17:1-37). Lines lost in the OCR, marked […]: PDF 145 (p. 135) about two lines at the foot of each column (end of Ecclus 28:2 and the next sentence, v. 5; and between 'dum plura credibilia' and '…credunt explicite'); PDF 151 (p. 141) foot of the left column, v. 28 (about a line after 'Filii [hominis …'), and foot of the right column, v. 31 (about two lines after 'corporalem mo[tum …'). Reading order on PDF 145 and 151 rebuilt by the sense. Conjecture: 'pignus [jam] accipit'. v. 27 prints 'Et tulit omnes' (edition's margin '* perdidit'), noted. Margin readings corrected or from unread notes (check): 1 Thess 5:22, Matt 18:6 (ref-only, margin 'xvi, 6-10'), Matt 18:15, 2 Cor 10:5, Mark 10:52 / Matt 9:22, 2 Thess 3:2, 4 Kings 5:15, 2 Cor 1:8, Gen 8:4, Gen 19:24-26 and Deut 29:23, 1 Cor 2:14 (margin 'II Cor. ii, 14'). DATA PROBLEM for Dave: data/bible/drc/proverbs.json chapter 30 is misaligned: v. 19 holds the text of v. 29 ('There are three things, which go well…') and v. 29 is empty, so Prov 30:19 (the way of an eagle) could only be given as reference-only.",
-      "claimed": "2026-11-17T05:57:36Z"
-    },
-    {
-      "id": "luke-41",
-      "book": "luke",
-      "art": 41,
-      "pages": [
-        152,
-        167
-      ],
-      "status": "done",
-      "chapter_guess": 18,
-      "note": "Published (PDF 153-166, pp. 143-156; Luke 18:1-43, literal then spiritual sense of the blind man of Jericho). Text complete. Margin readings corrected or taken from unread notes (check): 1 Thess 5:17, Deut 10:18, Heb 10:30 with ref-only Deut 32:35 and Rom 12:19, Job 24:19 (ref-only, fits loosely), Matt 6:5, Mal 2:10, Rom 14:4, Is 58:5, Gal 6:1, Ezech 18:21-22, Job 41:25, Matt 19:20, Lam 3:27 (printed iii, 37), John 14:6 and 10:9, Ecclus 30:22 (printed xxx, 23), Matt 19:27, 1 Tim 6:7, John 18:12, Luke 7:50, Is 42:8, Ps 113:9 (printed cxiii, 1, Hebrew numbering), Bar 3:38 (printed ii, 38). OCR conjectures: 'pœnæ vitæ' for 'pons vitæ', 'dixit' for 'dat' (v. 16).",
-      "claimed": "2026-11-17T05:57:36Z"
-    },
-    {
-      "id": "luke-42",
-      "book": "luke",
-      "art": 42,
-      "pages": [
-        166,
-        184
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 19,
-      "note": "Published with gaps (PDF 167-181, pp. 157-171; Luke 19:1-48). Lines lost in the OCR, marked […]: PDF 176 (p. 166) foot of the left column (v. 34, after 'Ad quod respondetur, quod forte jam') and foot of the right column (v. 38, after 'Porro, per hoc', before '…conciliatio generis humani'); PDF 180 (p. 170) in both columns (v. 45: after 'qui tamen in hoc commoda et' and after 'sub manifesta usura concedere prohibiti'; right: after 'Nec in cœmeteriis debent ludis aut aliis actibus' and before '…templationibus, prædicationibus et sacris'). Margin numerals taken from the sense: 'Ps. lxxvi, 11' (read 26:41) = Ps 76:11; 'Is. liii, 4' (garbled) = Is 53:4; 'Malach. iv, 5' (read 1 Mach) = Mal 4:5; 'Joann. xix, 15' (read xiv) = John 19:15; 'Matth. xxvii, 51' (read xxvi) = Matt 27:51; 'Prov. ii, 15' = Prov 2:14; 'Deut. xxiii, 19'; 'II Tim. ii, 4'; 'Is. lvi, 7'; 'II Par. xxiv, 21'; 'Act. viii, 5 et seq.' (Philip in Samaria); 'Sap. vii, 27' uncertain (note in the article). Tagged though no margin note was read (Denis names the source or quotes word for word): Rom 11:25-26, Zach 9:10, John 3:13, 1 Cor 12:8-10, 1 Cor 7:7. Translated in five parts by parallel workers; divine pronouns are lower-case in most of it."
-    },
-    {
-      "id": "luke-43",
-      "book": "luke",
-      "art": 43,
-      "pages": [
-        182,
-        196
-      ],
-      "status": "done",
-      "chapter_guess": 20,
-      "note": "Published (PDF 182-196, pp. 172-186; Luke 20:1-47). The article starts at the top of PDF 182 (not 183); its heading was not found by cut_articles, so sources/t12/articles/luke-43.txt was cut by hand. Margin numerals taken from the sense: 'Is. v, 1' (read Osee) = Is 5:7; unread 'Is. xxi, 10' = Is 21:10; 'Joann. xv, 4' = John 15:1; 'Joann. iii, 31' = John 3:31; 'Ibid., 5' beside the people's wondering = Luke 3:15 (uncertain, note); 'I Thess. ii, 16' (read Ps 1:2) = 1 Thess 2:16; 'Joann. vi, 25' taken as John 8:25 ('Principium'); 'I Cor. x, 4' = 1 Cor 10:4; 'I Tim. i, 13'; 'Is. xxx, 10'; 'Ps. l, 4' = Ps 51:4; '...ii, 9' = Tit 2:9 (a guess, note); 'Jbid. xv' = Gen 15:1; 'Is. xlv, 25'; Ex 3:13-15. 'In Matth. xxi, 46' and 'In Matth. iii, 7' are Denis's references to his own Matthew commentary (bracketed notes). Printed text has footnoted variants 'agricolis'/'colonis' and 'diebus'/'temporibus' (notes)."
-    },
-    {
-      "id": "luke-44",
-      "book": "luke",
-      "art": 44,
-      "pages": [
-        196,
-        202
-      ],
-      "status": "done",
-      "chapter_guess": 21,
-      "note": "Published (PDF 196-202, pp. 186-192; Luke 21:1-19). To check against the scan: PDF 196-197 (v. 1), the two Greek words in the etymology of gazophylacium are garbled in the OCR; given as γάζα and φυλάσσειν with a note. Margin numerals taken from the sense: 'Joann. viii' = John 8:20; 'Malach. i' and 'Ibid. 14' = Mal 1:8, 1:14; 'Luc. xix, 44' = Luke 19:44 (back-reference); 'Act. xii, 1-4', 'xxi, 33; xxiv-xxvi' = Acts (Paul before Felix and Festus); 'Prov. xiv, 29' beside 'Qui impatiens est, operatur stultitiam' = Prov 14:17 (note), 'Prov. xiv, 9' = 14:29. Denis reads 21:8 'tempus appropinquabit' (note)."
-    },
-    {
-      "id": "luke-45",
-      "book": "luke",
-      "art": 45,
-      "pages": [
-        202,
-        207
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 21,
-      "note": "Published with gaps (PDF 202-207, pp. 192-197; Luke 21:20-38). Lines lost in the OCR, marked […]: PDF 203 (p. 193) foot of the left column (v. 24, after 'quousque veniat tempus', before '…Sarracenorum a Terra sancta') and foot of the page (v. 25, after 'pressura gen[tium]', before 'vel etiam compressio mutua'); PDF 205 (p. 195) left column, several lines (vv. 30-31, the fig-tree: 'prope est æstas […] consuetudinem patriæ […] et nomine fructus […]'; the v. 31 words pieced together, note). PDF 205 right column (v. 34) recovered from the margin reader's line text; worth a glance. Margin numerals taken from the sense: 'Ps. lviii, 12' (read 56:2) = Ps 58:12; 'Dan. ix, 26' with a clause of 9:27 (note); 'Dan. xii, 11, 12' = Dan 12:12 (ref only); 'Act. i, 11'; 'Sap. v, 18, 21' (Denis 'pro eo', note); 'Luc. xii, 6, 7' beside 'supra' = Luke 12:22 (back-reference); 'Matth. vi, 34, 33' = Matt 6:34, 6:32; 'Matth. xiv, 37' = Matt 24:37."
-    },
-    {
-      "id": "luke-46",
-      "book": "luke",
-      "art": 46,
-      "pages": [
-        207,
-        214
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 22,
-      "note": "Published with gaps (PDF 207-214, pp. 197-204): the preface to the Passion, every paragraph tagged Luke 22:1 (it treats no verse). The cut file sources/t12/articles/luke-46.txt ran on into Art. XLVII (from line 56); only lines 1-51 and 54-55 are XLVI. PDF 207 (p. 197), heading area: the opening quotation (Eph 5:2) restored, then one or two lines lost; 'Hæc sunt verba B. Pauli apostoli in […]' cut off; top of the right column 'qui fecit utraque unum, […] in unum, per crucem dissolvens inimicitias […]' — marked […] with notes. Margin numerals taken from the sense: 'Ibid. 4' after Is 53:12 = Is 53:7; 'Ibid. iii, 5' = 2 Cor 3:5; 'Galat. v' = Gal 2:20; 'Joann. iv / vii, 29' = John 4:34, 8:29 (partly unreadable, note); 'II Thess. ii, 16' = 1 Thess 2:16 (note); 'Rom. viii, 33' = Rom 8:32. Jer 32:17 reference-only with no margin numeral read (Denis names Jeremias)."
-    },
-    {
-      "id": "luke-47",
-      "book": "luke",
-      "art": 47,
-      "pages": [
-        214,
-        225
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 22,
-      "note": "Published with gaps (PDF 214-224, pp. 204-214; Luke 22:1-27). sources/t12/articles/luke-47.txt cut by hand (heading OCR'd as 'ARTICUI … US XLVII'). The heading's title is garbage in the OCR except '…DIES FESTUS AZYMORUM, QUI DICITUR PASCHA': 'Elucidatio capituli vicesimi secundi: Appropinquabat autem' supplied; please check against the scan. The OCR of PDF 219-223 is badly damaged in bands; lines restored from the margin reader's line text where possible, the rest marked […] with notes: PDF 219 (v. 14 before 'terra consedit'; v. 15 after 'sicut qui peregre profecturi sunt, ultima'), PDF 219-220 (v. 18 after 'et fructus'), PDF 220 foot of both columns (vv. 19-20, several lines), PDF 221 lower half (v. 20, Chrysostom, several bands), PDF 222 left column (v. 20, one line after 'ordinavit Ecclesia Sacramentum hoc'), PDF 223 (v. 24 Basil's simile; v. 25 after 'potestatem exer[…]'). Margin numerals taken from the sense include 'Joann. vii, 20' (read vii, 90), 'II Par. xxxv, 18' (Denis's 'a diebus judicum' closer to 4 Kings 23:22, note), 'Exod. xi' = Ex 12:6, 'Act. i, 1-4' = Acts 2:4, 'II Cor. xi, 27, 29' = 1 Cor 11:27, 29, 'Dot. xi, 2' = Prov 11:2. The article ends at v. 27 (PDF 224); Art. XLVIII begins at the head of PDF 225 with v. 28."
-    },
-    {
-      "id": "luke-48",
-      "book": "luke",
-      "art": 48,
-      "pages": [
-        225,
-        239
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 22,
-      "note": "Published with a small gap (PDF 225-239, pp. 215-229; Luke 22:28-71). PDF 225 (p. 215), v. 29: the first lines are damaged in the OCR (read as 'infideli discipulo væ æternum, scilicet Judæ proditori: qui, quum verba sequentia dicerentur, exivit'), and a line or two at the top of the right column is lost ('sic ex bonitate ca[…] […]paro, ac tribuam vobis'), marked […]. PDF 232: 'in quantum tribulationes sunt quædam mala pœnalia' stands on a line of its own; joined after 'condoluit' (v. 44), worth a glance. Margin numerals taken from the sense: 'Ibid. xx, 22' = Luke 20:23 (Denis adds 'hypocritæ', from Matt 22:18); 'Joann. xvi' beside the enemies falling = John 18:6; 'Ps. cxvii, 98' = Ps 118:28; 'Galat. v, 7' = Gal 5:17; 'Matth. xxvi, 96/98' = Matt 26:56/58; 'Ps. lxxxv, 16' = Ps 85:16; 'Joann. ii, 19' beside the false witnesses = Matt 26:61 (note). Mark 14:71 left reference-only because data/bible/drc has the typo 'began o curse'."
-    },
-    {
-      "id": "luke-49",
-      "book": "luke",
-      "art": 49,
-      "pages": [
-        239,
-        260
-      ],
-      "status": "done",
-      "chapter_guess": 23,
-      "claimed": "2026-11-17T14:42:05Z",
-      "note": "Published (PDF 240-259, pp. 230-249; Luke 23:1-56, 85 paragraphs). Text complete, no […] gaps. Translated in six parts by parallel workers. Opening word restored as 'Subinde describitur' (OCR 'UBINDE', drop capital). Margin numerals taken from the sense (check): 'Luc. xvii, 31-33' = Luke 18:32-33 (Denis joins it with Matt 20:18-19, note); 'Matth. xxvi, 2' = Matt 27:2; 'Joann. i, 14 11' = John 2:1 (ref only); 'Luc. n, 1' = Luke 3:1 (uncertain); 'Luc. …37; Joann. xviii, 5, 7' = Luke 18:37 and John 18:5 (ref only, guess); 'Matth. ix, 31' = Matt 9:26 (uncertain); 'Joann. xiii, 16 / Matth. x, 24' (split by the OCR) = John 13:16 and Matt 10:24; 'Matth. xxvii, 13-18' = 27:15-18; 'Is. liii, 7'; 'Rom. xiii, 1' (ref only); 'Marc. xv, 23' = Mark 15:25; 'II Thess. ii, 16' = 1 Thess 2:16 (Denis 'super vos', note); 'Ps. lxviii, 35' = Ps 68:25; 'Josue xiv, 15' (Denis omits 'inter Enacim', note); 'Ps. xxv, 17, 18' = Ps 21:17-18; 'Ibid. xiii' = Zach 13:6; 'Is. xlii, 1' (read Ps 62:2); 'Ps. cviii, 23' = Ps 108:25; 'Matth. xxvi, 44' = Matt 27:44; 'Is. liii, 9' (Denis in the form of 1 Pet 2:22, note); 'I Petr. iv, 8'; 'Matth. xxvi, 17/48/49' = Matt 27:47-49; 'Ps. lxxxvii, 8 and 19' (unread notes); 'Matth. xxvii, 51, 52, 53'; 'Joann. xix, 23' = John 19:25; 'Matth. xxvii, 56'; 'Luc. xxiv, 10' (Joanna); 'Act. x, 1, 2, 22' (Cornelius, unread note); 'Ibid. 45' after Mark 15:43 = Mark 15:44-45. Matt 27:37 and John 19:19 both tagged on the title 'Hic est Jesus Nazarenus, rex Judæorum' (note). Tagged with no margin note read: Mark 15:1, John 19:14 (ref only), John 19:15 (the cry 'Tolle, tolle' at 19:6, note), John 15:25, John 19:28. OCR conjectures: 'nihil ei respondebat' (v. 9), 'Ait: Pater, in manus tuas' (garbled line, v. 46), 'crucifixorum' kept as printed in v. 49 (sense 'crucifiers', note)."
-    },
-    {
-      "id": "luke-50",
-      "book": "luke",
-      "art": 50,
-      "pages": [
-        259,
-        277
-      ],
-      "status": "done",
-      "chapter_guess": 24,
-      "claimed": "2026-11-17T14:53:05Z",
-      "note": "Published (PDF 260-271, pp. 250-261; Luke 24:1-53, 55 paragraphs), ending at 'FINIS COMMENTARIORUM IN EVANGELIUM SECUNDUM LUCAM' (PDF 271). Text complete, no […] gaps. sources/t12/articles/luke-50.txt runs on (from line 84) into the John PROOEMIUM (PDF 273-276), which belongs to john-01. Translated in four parts by parallel workers. Margin numerals taken from the sense (check): 'Matth. xxvii, 2/xxvi, 3' = Matt 28:2-3; unread 'Marc. xvi, 3, 4'; 'Marc. xvi, 13' = Mark 16:12; '4 Reg. vi' = 4 Kings 6:18 and unread 'Gen. xix, 14' = Gen 19:11 (ref only); 'Joann. vii, 406' = John 7:46; 'Philipp. 8, 9' = Phil 2:8-9; 'Act. xiv, 24' = Acts 14:21; 'II Tim. ii, 13' = 2 Tim 3:12; 'Matth. v, 23' = Matt 5:22; 'Joann. xix, 1' = John 19:7; 'Gen. xviii, 1-8', 'xix, 1-3' (Abraham, Lot; ref only); 'I Petr. iv, 9'; 'Gen. xlv, 26' (unread); 'Joann. xv, 9' = John 15:5; 'Sap. vii, 28'; 'Gen. xxi, 18' = Gen 22:18 with 26:4, 28:14 (Denis's wording nearer Acts 3:25, note); 4 Kings 20:13, 15 ref only with the words tagged from Is 39:2, 4 (note); 'Joann. xx, 23' = John 20:22; 'Ps. lxxi, 17'; 'Matth. xv, 25' = Matt 15:24; 'Act. ii, 46, 41' = Acts 2:46-47. Heb 13:2: Denis reads 'placuerunt quidam Deo' for 'latuerunt' (note). Latin conjectures: 'necessitate consequentiæ, non consequentis' (OCR 'consequenti', PDF 268); 'per modum habitus fixi' (v. 19)."
-    },
-    {
-      "id": "john-01",
-      "book": "john",
-      "art": 1,
-      "pages": [
-        275,
-        278
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 1,
-      "note": "Art. I published (PDF 277-278, pp. 267-268; every paragraph tagged John 1:1, as it treats no verse); the PROOEMIUM (PDF 275-276, pp. 265-266, on Ecclus 24:41-44 'Ego sicut aquæductus exivi de paradiso') is NOT translated: it is printed across the full page width, and tools/ocr_columns.py cut it at a false gutter, so half of every line is lost in sources/t12/pages/p275-276.txt. Re-OCR PDF 275-276 as a single column, then add it (as the article's opening or note, per the queue's 'how'). Also PDF 277: the two lines below the heading are garbage in the OCR; 'ut hac circumlocutione, Discipulus' restored from the margin reader's line text, and one or two lines lost between 'ut recitat Be[da]' (foot of the left column) and '…la; eique tempore passionis Matrem suam' (top of the right), marked […]. Margin: 'Ibid. ii, 8, 9' (read 3:8-9) = John 2:8-9; all margin references given reference-only (Denis retells, does not quote).",
-      "claimed": "2026-11-17T15:00:17Z"
-    },
-    {
-      "id": "john-02",
-      "book": "john",
-      "art": 2,
-      "pages": [
-        277,
-        284
-      ],
-      "status": "done",
-      "chapter_guess": 1,
-      "note": "Published (PDF 278-284, pp. 268-274; John 1:1-3). Text complete. Translated in three parts by parallel workers. Margin numerals taken from the sense (check): 'Is. xlv, 23' (tool gave 55:11); 'Is. xxxix, 9, 4' = Is 39:4 with ref-only 39:2 (Denis blends them, note); unread 'Rom. i, 20'; 'Ps. xxxii' = Ps 32:9 with unread 'cxlviii, 5' (ref only); 'Joann. vii, 29' = John 8:25; Apoc 1:8 (21:6, 22:13 ref only); 'Prov. xxx, 3' = Prov 30:4; 'Eccli. xxiv, 3' = Ecclus 24:5; 'I Cor. i, 24' (read II Cor); 'Is. xlviii, 12, 13, 16'; 'Ps. xxxi, 9' = Ps 32:9; 'II Tim. i, 1' (with 2 Cor 1:1, Eph 1:1, Col 1:1). Wis 7:26 split around Denis's 'majestatis paternæ'.",
-      "claimed": "2026-11-17T15:00:17Z"
-    },
-    {
-      "id": "john-03",
-      "book": "john",
-      "art": 3,
-      "pages": [
-        283,
-        290
-      ],
-      "status": "done",
-      "chapter_guess": 1,
-      "claimed": "2026-11-17T15:05:57Z",
-      "note": "Published (PDF 284-290, pp. 274-280; John 1:3-5, the divine ideas, the light and the darkness, and the question whether the Trinity can be known by natural reason). Text complete. Translated in three parts by parallel workers. Margin numerals taken from the sense (check): PDF 284 'Ephes. i' = Eph 1:11 (ref only); 'Exod. xx, 8-11' = Ex 20:8 (ref only); unread 'Ps. iv, 7'; 'Ps. xvi, 29' = Ps 17:29; 'Joann. vii, 31' = John 8:37; 'Malach. iv, 2'; 'Sap. v, 6'; 'Jer. v, 95' = Jer 5:25; 'Job xxxiv, 154' = Job 34:14 (Denis's wording, note); 'Is. vi, 2' (read Jas 1:5). Latin conjecture: 'oritur [ob] difficultatem quam habet' (PDF 289, line 26 of the cut file). The 'Origen' homily quoted on v. 3 is Eriugena's (note)."
-    },
-    {
-      "id": "john-04",
-      "book": "john",
-      "art": 4,
-      "pages": [
-        289,
-        295
-      ],
-      "status": "done",
-      "chapter_guess": 1,
-      "claimed": "2026-11-17T15:09:43Z",
-      "note": "Published (PDF 290-295, pp. 280-285; John 1:6-13). Text complete. Translated in two parts by parallel workers. No margin notes were read on PDF 290 (the article starts at its foot). Margin numerals taken from the sense (check): 'Jer. xxiii, 21' kept (tool gave 23:32); 'Malach. iii, 1' (read 1 Mach); 'Matth. xi, 14' = Matt 11:11; 'Matth. iii' = Matt 3:4 and 'Marc. i' = Mark 1:6 (ref only); 'Gen. xxxi, 28' = Gen 32:28; 'Matth. iv, 2' = Matt 3:2 (Matt 4:17 possible); 'I Joann. i, 5'; 'Act. xiii, 23' = Acts 13:25; 'Joann. xii, 33' = John 12:32; 'Prov. xv, 39' = Prov 15:29; unreadable 'Ps. ...xxi' beside 'Quomodo scit Deus' = Ps 72:11 (note); 'Luc. i' = Luke 1:5 (whole chapter, note); unread 'Is. lxiv, 1' and 'Is. xlix, 5'; 'I Tim. ii, 19' = 2 Tim 2:19 (note); 'Act. x, 31' = Acts 10:34 (note). Tit 1:16: Denis 'factis tamen negant'."
-    },
-    {
-      "id": "john-05",
-      "book": "john",
-      "art": 5,
-      "pages": [
-        294,
-        312
-      ],
-      "status": "done",
-      "chapter_guess": 1,
-      "claimed": "2026-11-17T19:41:27Z",
-      "note": "Published (PDF 295-312, pp. 285-302; John 1:14-28). Translated in six parts by parallel workers. No unreadable text. Margin numerals taken from the sense (check): Ps 64:3 + Is 40:5 (printed 'Ps. v, 3, 15. xl, 5'); John 6:45 (printed vi, 49); 1 John 2:1 ref-only for 'l Joann. iii' (note); Is 52:6 (read iii, 6); Eph 3:17; Matt 17:1; Acts 1:3 (unread); Gen 2:19; Luke 2:9 (printed i, 9-14, note); Matt 25:29 (printed xx, 29); 1 Cor 12:4 (printed xii, 5, note); Gen 48:13; Judg 13:22 (printed xi, 23); Ex 33:20; 2 Cor 12:2, 4; 1 John 5:20; Gen 49:10 (printed xix, 10); Wis 1:11; 3 Kings 21:20 (printed II Reg.); Is 40:3; Mal 4:5; 4 Kings 2:11; Is 3:13; Ps 81:1; Luke 17:10 (printed xv, note). Denis's 'Nemo novit Patrem, nisi Filius' ('ait Joannes') tagged Matt 11:27 with John 6:46 ref-only (note); 'salutare Dei nostri' given as Luke 3:6 per the margin, though the wording is Is 52:10 (note); Deut 18:15 ref-only, the words tagged Acts 3:22 (note). Reading 'principaliter' (v. 15) probably for 'præsentialiter' (note). Unconfirmed tags (no margin note read): Is 40:5, 2 Pet 1:4, 1 Tim 6:16, Matt 16:14. 'Et respondit: Non' (v. 21) printed in the margin, put into the text (note)."
-    },
-    {
-      "id": "john-06",
-      "book": "john",
-      "art": 6,
-      "pages": [
-        311,
-        322
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 1,
-      "claimed": "2026-11-17T19:48:40Z",
-      "note": "Published with gaps (PDF 312-322, pp. 302-312; John 1:29-51). Translated in four parts by parallel workers. PDF 313 (p. 303), foot of both columns: about two lines lost in each (v. 29: after 'Specialiter tamen ordinabatur passio Chri[sti]', before '…satisfacere potuit'; v. 30: after 'quem scivi venturum', before '[ve]niret: Post me venit vir'), marked […] with notes; the strips around them were put back in order by the sense. Margin numerals taken from the sense (check): John 18:11; Eph 2:20, 1 Pet 2:6, Apoc 5:5, John 15:5 (ref-only, half-read); Is 53:5; Zach 6:12; Luke 1:44 (printed i, 45); 4 Kings 3:15 (read 2:15); Ps 83:8; Is 61:1 (read 11:2); Gen 43:3 (printed xvi, 3); Acts 8:5 ('viii, passim'); Luke 18:34 ('xviii, 31-34'); 2 Cor 3:6 (printed i, 6); Rom 9:1, Gal 3:1 (chapter only); Jer 33:16; Is 33:22 (printed xxxiii, 23); Matt 9:25, Luke 7:14, John 11:43. Denis's 'as is written in Isaias' for words of 1 Pet 2:22 (tagged 1 Pet 2:22, Is 53:9 ref-only, note); 'in Deuteronomy' with Acts 3:22's wording (same treatment); 'Nazaræus vocabitur' given as Matt 2:23 though Denis names Isaias (note). data/bible/drc 2 Kings 7:3 has the typo 'in they heart' (shows in a quotation)."
-    },
-    {
-      "id": "john-07",
-      "book": "john",
-      "art": 7,
-      "pages": [
-        321,
-        333
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 2,
-      "claimed": "2026-11-17T19:48:40Z",
-      "note": "Published with gaps (PDF 322-333, pp. 312-323; John 2:1-25). Translated in five parts by parallel workers. PDF 327 (p. 317), top of both columns, in the moral exposition of Cana: about two lines lost in each (after 'rationis censuram sequendo' and before '…[conver]tet has aquas in vinum'), marked […] with notes; fragments put in order by the sense, 'be subject' supplied in one gap (note). Margin numerals taken from the sense (check): John 19:26-27 ('xix, 237'); Luke 4:14, Matt 4:12; Deut 32:4 ('Deut. xxxii'); 1 Cor 14:22 (printed xiv, 23; OCR 'T' read as non); Matt 2:12; Prov 8:31; Cant 7:13 (second 'Ibid.' after Cant 5:1, note); Gen 29:15, Gen 25:18, 2 Kings 20:9; Is 9:2 (printed ix, 9); Ex 21:1 ('Exod. xxi, passim', uncertain, note); Deut 12:5-6; John 18:6 (printed xv, 6, note); Mark 15:10 (printed xv, 40, note); John 13:27; 3 Kings 6:38; 1 Esd 4:1; Ps 23:10; John 3:7 (hard to read, note); 3 Kings 8:39; 2 Tim 2:4, 2:26; Luke 14:23 (printed 'Luc. xv', note); Apoc 2:23; Matt 25:46 (Denis mixes 25:41, note); Is 66:2 ref-only for 'Super quem requiescet spiritus meus' (margin 'Cf. Is. lxvi, 1, 2', note). Untagged, worth a look on the scan: 'non elevant oculos suos ut videant cælum' (perhaps Dan 13:9)."
-    },
-    {
-      "id": "john-08",
-      "book": "john",
-      "art": 8,
-      "pages": [
-        332,
-        342
-      ],
-      "status": "done",
-      "chapter_guess": 3,
-      "claimed": "2026-11-17T19:56:28Z",
-      "note": "Published (PDF 333-342, pp. 323-332; John 3:1-15). Translated in four parts by parallel workers. Garbled OCR lines on PDF 341 recovered from the margin reader's line text, and the order there rebuilt by the sense (worth a glance). Margin on PDF 334 right (miracles, v. 2) mostly garbled: John 9:1, Matt 9:25, Luke 7:15, Matt 27:45, Ex 7:12, 8:7, 7:22, John 2:9 given ref-only with a note. Numerals taken from the sense (check): John 2:23, 2:15; Mark 8:25; Job 9:11 (printed ix, 141); Ps 147:7 (margin 'cxlvii, 18', Hebrew count); John 4:24; Rom 6:3-4; Matt 28:19 (unread); Ezech 47:1 ('xlvii, passim'); Osee 7:13, 15; 2 Cor 10:5; Matt 27:52-53; Is 9:6; Jude 1:5; Ps 67:33-34; Ps 46:6; Is 53:7; 2 Cor 5:21; John 8:50, 49; Heb 12:1 tagged with 12:2 (margin gives only 12:2); Num 21:4-8 split by verse."
-    },
-    {
-      "id": "john-09",
-      "book": "john",
-      "art": 9,
-      "pages": [
-        341,
-        348
-      ],
-      "status": "done",
-      "chapter_guess": 3,
-      "claimed": "2026-11-17T19:56:28Z",
-      "note": "Published (PDF 342-348, pp. 332-338; John 3:16-21). Translated in three parts by parallel workers. No unreadable text. Margin notes at the head of PDF 342 partly unreadable: Eph 2:8, 2 Tim 1:9, Tit 3:5 given ref-only (note). PDF 344 notes beside 'Fides tua te salvum fecit' partly unreadable: Mark 10:52 quoted, Matt 9:22, Luke 7:50, 17:19 ref-only (note). Numerals taken from the sense (check): Is 9:6 (Denis's 'Puer…', the Introit form, note); John 18:11; 1 Tim 2:4; Luke 9:53; Ps 115:3 (margin cxv, 12; ref-only, Denis adapts); Gen 22:18 kept per the margin though the wording is closer to Gen 12:3/28:14 (note); Matt 23:13 (margin 'Matth. xxi', note); Acts 10:2, 31, 4 (misread, note); Is 11:3-4; Ps 49:3; Apoc 2:10; Rom 14:23; Mich 7:8; 1 John 5:10; Job 13:15-16; Is 3:9 (printed i, 9); Matt 6:6; John 9:5; Matt 10:32 (margin x, 33, note)."
-    },
-    {
-      "id": "john-10",
-      "book": "john",
-      "art": 10,
-      "pages": [
-        347,
-        355
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 3,
-      "claimed": "2026-11-17T19:56:29Z",
-      "note": "Published with a small gap (PDF 348-355, pp. 338-345; John 3:22-36). Translated in three parts by parallel workers. PDF 350 (p. 340), foot of the right column (v. 29): one line lost in the OCR, filled from the sense as 'triplicem spon[sam: universalem, quæ est Ec]clesia omnium electorum' (bracketed, note): please check against the scan. Other garbled lines on PDF 350 recovered from the margin reader's line text. Numerals taken from the sense (check): Acts 1:5 (unread); 1 Cor 1:14, 16, 17; Mark 6:17 ('Marc. 17'); John 1:29, 36; Osee 13:9 (printed xi, 9, note); Osee 9:1; Luke 7:24 (printed vi, 24); 2 Cor 5:16; John 1:27; Eph 5:26; Gal 5:22-23 (abridged); Mich 7:2; Is 45:25; John 2:23; Col 1:3, 12, 13; Is 26:10 'juxta LXX' (ref-only, note); Heb 2:2 (margin 'Hebr. 1, n', least certain, note); John 3:27 with John 19:11 (Denis blends, note)."
-    },
-    {
-      "id": "john-11",
-      "book": "john",
-      "art": 11,
-      "pages": [
-        354,
-        367
-      ],
-      "status": "done",
-      "chapter_guess": 4,
-      "note": "Margin readings checked: Ps 113:2 (Facta est Judæa), Is 7:9 juxta LXX, Ps 102:5, Ps 144:18, Luke 22:29–30 and Gal 6:8 taken from unread notes; Luke 17:11 (printed xvi, 41), Gen 48:22, 3 Kings 12:19, 28 (read as 2 Tim), Ecclus 51:7 (printed li, 4, 7), Luke 14:15 (Ibid. xiv, 15, read as John), Is 29:13 with Mark 7:6–7 (Denis gives Isaias in the Gospel's wording), Prov 4:23, Acts 2:14–41, John 1:19, John 2:23, Luke 4:29 and 4 Kings 17:25, 29 corrected from misread numerals. Latin cleaned from the OCR with automatic corrections; a few spellings may still need checking against the scan."
-    },
-    {
-      "id": "john-12",
-      "book": "john",
-      "art": 12,
-      "pages": [
-        366,
-        371
-      ],
-      "status": "done",
-      "chapter_guess": 4,
-      "note": "Margin readings checked: 2 Kings 18:21–23 (Chusai and Achimaas) taken from an unread note; Rom 7:23 from the unread note \"Rom. vii, 23\"; Is 64:1 (read as Is 9:1), John 2:3 (printed ii, 3), John 2:23, Luke 7:2 and Luke 23:7 (read as xxi) corrected from misread numerals. Art. XI (john-11) is not yet published, so John 4 has only this article for now."
-    },
-    {
-      "id": "john-13",
-      "book": "john",
-      "art": 13,
-      "pages": [
-        370,
-        378
-      ],
-      "status": "done",
-      "chapter_guess": 5,
-      "note": "Margin readings checked: Num 28:26, 4 Kings 1:8, Ezech 33:11 and Is 9:6 (LXX) from unread notes; Tob 3:13, Num 28:9, Deut 32:4, 1 Cor 3:3, Jer 48:10, John 1:14 and Prov 8:29 corrected from misread numerals. The article runs to John 5:20; Art. XIV continues the chapter."
-    },
-    {
-      "id": "john-14",
-      "book": "john",
-      "art": 14,
-      "pages": [
-        377,
-        384
-      ],
-      "status": "done",
-      "chapter_guess": 5,
-      "note": "Margin readings checked: Ps 109:6, Is 50:4–5, 1 John 2:1–2, Heb 2:11 and Matt 24:13 from unread or misread notes; John 8:15, 50, Job 28:3, Jer 32:18–19, Acts 3:24, Matt 9:25, Matt 14:25, Col 3:3, 1 Thess 4:15 and 1 Cor 15:51 corrected from misread numerals. Covers John 5:21–29; the next article takes up v. 30."
-    },
-    {
-      "id": "john-15",
-      "book": "john",
-      "art": 15,
-      "pages": [
-        383,
-        392
-      ],
-      "status": "done",
-      "chapter_guess": 5,
-      "note": "About 120 margin notes; misread numerals corrected from the Latin (e.g. 2 Pet 1:17 read as \"Matt 51:1\", Ps 52:6, 1 John 3:14, 1 Tim 1:5, Acts 17:11, Is 53:2); unread notes taken as Matt 26:39, 2 Tim 3:16, Gen 32:30, Is 6:1, Num 24:17. Notes on PDF 392 belong to Art. XVI. With Art. XIII and XIV, John 5 now has all its articles."
-    },
-    {
-      "id": "john-16",
-      "book": "john",
-      "art": 16,
-      "pages": [
-        391,
-        398
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 6,
-      "note": "Published with gaps: the lower part of both columns of PDF 396 (p. 386; start of the moral exposition, on v. 1 and v. 2) is garbled in the OCR. Recovered from the margin reader's lines where possible; missing words marked […] (after 'quod Jesus facto ac', after 'Per locum enim', and in the list of miracles: 'Nam et per […] contactum sudariorum Pauli, sanabantur […] per superpositionem baculi Petri'). Please rescan PDF 396 and fill the gaps. Margin readings checked: Deut 8:2 (printed vii, 2), Luke 2:40 (read as i, 80), Ps 72:26 (printed lxxii, 26), Is 40:6 (read as ix), Rom 15:4 and Matt 15:24 from unread notes, 1 Mach 12:9, Ps 67:19, 34."
-    },
-    {
-      "id": "john-17",
-      "book": "john",
-      "art": 17,
-      "pages": [
-        397,
-        409
-      ],
-      "status": "done",
-      "claimed": "2026-11-18T01:27:00Z",
-      "chapter_guess": 6,
-      "note": "Done 18 Nov (John 6:15-50). Check against the scan: margin by 6:41 (murmuring in the desert) partly unread, given as Ex 16:2, 7, 8; Num 11:1; 14:2, 11, 27, 29, 35; 20:13 (the Num 14 range is a guess); 6:23 OCR has gratias agentes Domino (Vulgate agente), noted in the text. data/bible/drc/john.json 6:45 reads cometh forth me (Douay: cometh to me)."
-    },
-    {
-      "id": "john-18",
-      "book": "john",
-      "art": 18,
-      "pages": [
-        408,
-        417
-      ],
-      "status": "done",
-      "chapter_guess": 6,
-      "note": "Margin readings checked: Is 40:7 (read as xi, 7), Ps 90:1 and Ps 77:31 from unread notes, Is 7:9 juxta LXX, 2 Thess 3:2 (read as II Tess. iii, 2), Matt 19:27, Mark 3:14 (printed iii, 14, 15, 19), Is 45:4 (printed xlv, 3–5; Denis's 'Elegi te' differs from the Vulgate), 2 Kings 12:25, Matt 27:5. Margins of PDF 410 empty. Latin cleaned from the OCR with automatic corrections."
-    },
-    {
-      "id": "john-19",
-      "book": "john",
-      "art": 19,
-      "pages": [
-        416,
-        428
-      ],
-      "status": "done",
-      "chapter_guess": 7,
-      "note": "Margin readings checked: Matt 10:28 (read as x, 98), Lev 23:43 (printed 43), 3 Kings 17:19 and 4 Kings 4:32 (Elias, Eliseus; read as Mark 2 and 1 Kings 4), Matt 8:4 (printed vi, 4; probably viii, 4), Prov 15:12 (printed xv, 2), Mark 6:2 (read as 31, 2), Is 7:9 juxta LXX, 1 Tim 1:17, Ex 3:22, Matt 7:1, Mal 3:2, Is 58:1, Is 42:2, Ps 68:4, John 8:55, Tit 1:2, Is 35:4–6 corrected from misread notes. Latin cleaned from the OCR with automatic corrections."
-    },
-    {
-      "id": "john-20",
-      "book": "john",
-      "art": 20,
-      "pages": [
-        427,
-        433
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 7,
-      "note": "Published with gaps: the lower part of PDF 429 (p. 419; on vv. 35–38) is garbled in the OCR and its two columns were interleaved; the text was put back in order by the sense, and the unreadable lines are marked […] (after 'Christus aperte dixit, Vado', in the lemma of v. 36, after 'et bibat, hoc est', and after 'Qui credit in me fide formata ac plena'). Please rescan PDF 429 and fill the gaps. Margin readings checked: John 11:57 (printed xi, 56), John 1:18, Lev 23:36, 39, Num 29:12, 35, Ecclus 51:32 (read as ii, 33), Matt 7:8, Prov 5:15, Prov 22:18, Is 16:11, John 20:22, Rom 8:23 (unread), 2 Pet 1:21, Ps 131:11 (unread), Jer 23:5, Mich 5:2, John 9:4, John 12:42, 3 Kings 19:16 (Eliseus)."
-    },
-    {
-      "id": "john-21",
-      "book": "john",
-      "art": 21,
-      "pages": [
-        432,
-        440
-      ],
-      "status": "needs-scan",
-      "claimed": "2026-11-18T01:40:00Z",
-      "chapter_guess": 8,
-      "note": "Published with gaps (PDF 432-440, pp. 422-430; John 8:1-20). Translated in three parts by parallel workers. PDF 438 (p. 428): the middle of both columns is garbled in the OCR. Right column restored from the margin reader's context lines; left column (v. 14, on Christ's knowing whence He came and whither He goes) two lines lost, marked […]. Also: the first word of the article is lost (read as Quæ post facta…); data/bible/drc/john.json 8:14 lacks its last clause (but you know not whence I come or whither I go), so Denis's lemma of it is untagged with a note; margin by the Susanna story (Dan. xiii) has no readable verse, given as Dan 13:36."
-    },
-    {
-      "id": "john-22",
-      "book": "john",
-      "art": 22,
-      "pages": [
-        439,
-        450
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 8,
-      "note": "Published with gaps: the middle of PDF 442 (p. 432; on vv. 26 and 28) is garbled in the OCR and its two columns were interleaved; the text was put back in order by the sense, and the unreadable lines are marked […] (after 'exstat in', and in 'visis mira[…] fiebant'). Please rescan PDF 442 and fill the gaps. Margin readings checked: Is 59:2, Jer 5:25, Acts 3:23 with Deut 18:19, Rom 14:10 (unread), John 3:17 (read as Matt 18:41), Zach 2:3, 1 Cor 2:14, Is 42:1 (read as xii, 1), John 14:31, Prov 15:27, Ps 90:14, Judg 3:8, 2 Tim 2:26, Is 9:4 (unread), Prov 5:22, Rom 8:15 (unread), Ps 87:6, Ecclus 40:1, Osee 9:1, Is 52:13, Mich 3:1–2, Job 41:25, 1 John 3:8, 2 Cor 4:16 (unread), Ezech 28:12–17, Jude 6, 2 Pet 2:4, 2 Cor 11:14."
-    },
-    {
-      "id": "john-23",
-      "book": "john",
-      "art": 23,
-      "pages": [
-        449,
-        456
-      ],
-      "status": "done",
-      "chapter_guess": 8,
-      "note": "Margin numerals misread in places (Is 53:9, Heb 9:15, 1 John 2:1, Luke 4:30 noted in brackets). Untagged margin notes read as unconfirmed but fitting: Is 21:11, 1 Kings 2:30, Tit 1:16, 1 John 2:3, Rom 1:21, Ps 108:24, 4 Kings 6:18. OCR 'acrisia' corrected to 'aorasia' (Gen 19:11 blindness)."
-    },
-    {
-      "id": "john-24",
-      "book": "john",
-      "art": 24,
-      "pages": [
-        455,
-        468
-      ],
-      "status": "done",
-      "claimed": "2026-11-18T01:48:00Z",
-      "chapter_guess": 9,
-      "note": "Done 18 Nov (PDF 456-468, pp. 446-458; the whole of John 9). Translated in six parts by parallel workers. For a look against the scan: several margin numerals misread and corrected by the sense (e.g. Is 42:6-7 for Is. xvn, 6, 7; Tob 2:12 for Tob. i, 19; Num 28:9 for Num. xxvi, 9; Ex 33:11 for xxxii, dt); the six kinds of scourging (Antiochus, Herod, Sodom, Dathan, Miriam, the paralytic) given as single reference-only markers; Job 14:4 cited by Denis juxta LXX (reference-only, with note). data/bible/drc/john.json 9:31 has a stray comma (doth his, will)."
-    },
-    {
-      "id": "john-25",
-      "book": "john",
-      "art": 25,
-      "pages": [
-        467,
-        473
-      ],
-      "status": "done",
-      "chapter_guess": 10,
-      "note": "Unconfirmed margin readings (unread or misread numerals; verses fit the words): 1 Tim 3:15, Ecclus 15:3, Is 51:3, Is 51:11 (also Is 35:10), Is 64:4, Col 2:5, Jer 23:21. Column edges of PDF 470-471 were clipped in the OCR; restored by the sense (e.g. ante eas vadit, signum, subditos)."
-    },
-    {
-      "id": "john-26",
-      "book": "john",
-      "art": 26,
-      "pages": [
-        472,
-        479
-      ],
-      "status": "done",
-      "claimed": "2026-11-18T01:54:00Z",
-      "chapter_guess": 10,
-      "note": "Done 18 Nov (PDF 473-479, pp. 463-469; John 10:11-21). Translated in three parts by parallel workers. For a look against the scan: margin Ezech. xxxiv, 9 given as 34:5 (the words quoted); garbled margin beside Christus pro omnibus passus sit read as Is 53:6, Rom 8:32, 1 Cor 15:22, 2 Cor 5:15, 1 Tim 2:6 (reference-only); Exodus margin by Pharao's magicians read as Ex 7:11, 7:22, 8:7; Apoc. xxi, 21 (book of life) given as Apoc 21:27."
-    },
-    {
-      "id": "john-27",
-      "book": "john",
-      "art": 27,
-      "pages": [
-        478,
-        486
-      ],
-      "status": "done",
-      "chapter_guess": 10,
-      "note": "Unconfirmed margin readings (unread or misread numerals; verses fit the words): 3 Kings 8:2, Acts 3:11, 2 Cor 6:16, 2 Kings 7:9, Ps 117:12, Is 60:12, Ps 71:8, 2 Tim 2:19, 2 Tim 3:12, Rom 10:2, 1 John 4:1, John 3:35."
-    },
-    {
-      "id": "john-28",
-      "book": "john",
-      "art": 28,
-      "pages": [
-        485,
-        499
-      ],
-      "status": "done",
-      "claimed": "2026-11-18T02:00:30Z",
-      "chapter_guess": 11,
-      "note": "Done 18 Nov (PDF 486-499, pp. 476-489; the whole of John 11:1-46). Translated in seven parts by parallel workers. For a look against the scan: margin by verus in sermone, et justus in opere has one unreadable reference (noted in the text); many misread numerals corrected by the sense (e.g. Is 42:4 for Is. xiii, 4; Jer 17:5; Is 61:1; Ps 44:8; Gen 23:9 and 49:29 for the burial of the patriarchs; 2 Par 28:27, 4 Kings 16:20 for Achaz); ranges in the margin given as single-verse markers."
-    },
-    {
-      "id": "john-29",
-      "book": "john",
-      "art": 29,
-      "pages": [
-        498,
-        503
-      ],
-      "status": "done",
-      "chapter_guess": 11,
-      "note": "Unconfirmed margin readings (unread or misread numerals): Num 22:5, Num 24:2-4, Num 35:28 and Exod. xxix (high priest for life), Is 53:6, 1 John 2:2, Is 11:12 (the margin lists many chapters of Isaias on the gathering of the Jews; not read)."
-    },
-    {
-      "id": "john-30",
-      "book": "john",
-      "art": 30,
-      "pages": [
-        502,
-        511
-      ],
-      "status": "needs-scan",
-      "chapter_guess": 12,
-      "note": "Published with a gap: the OCR of the foot of PDF 503 right column / top of PDF 504 (end of v. 2, start of the passage on why Christ came to Bethania first) is garbled; missing lines marked […]. Please rescan PDF 503-504. Unconfirmed margin readings: Is 47:1, Ecclus 34:16, Ps 56:12 (margin unread; Ps 107:6 has the same words), Acts 21:28, 2 Mach 3:2."
-    },
-    {
-      "id": "john-31",
-      "book": "john",
-      "art": 31,
-      "pages": [
-        510,
-        519
-      ],
-      "status": "done",
-      "chapter_guess": 12,
-      "note": "Unconfirmed margin readings (unread or misread numerals; verses fit the words): Is 53:10, 1 Thess 4:3, Jude 1:12-13, 1 John 3:2, Ps 21:16, Ps 118:32, Is 49:6, Is 9:2, John 8:20, Matt 21:12 / Mark 11:15 / Luke 19:45. Several column edges of PDF 518 were clipped in the OCR and restored by the sense."
-    },
-    {
-      "id": "john-32",
-      "book": "john",
-      "art": 32,
-      "pages": [
-        518,
-        523
-      ],
-      "status": "done",
-      "chapter_guess": 12,
-      "note": "Published (PDF 519-523, pp. 509-513; John 12:37-50). Is 7:9 and Is 6:1 quoted after the Septuagint (margin 'juxta LXX'), noted in the text. John 12:50 printed 'docuit', margin 'alias dixit', noted."
-    },
-    {
-      "id": "john-33",
-      "book": "john",
-      "art": 33,
-      "pages": [
-        522,
-        530
-      ],
-      "status": "done",
-      "chapter_guess": 13,
-      "note": "Unconfirmed or guessed margin readings: Ex 13:3, Lev 23:8, Ps 72:26, Is 63:2, Is 33:22, Is 51:23 (unread), 1 Kings 18:7, Eccles 2:14 (Denis's second half differs from the Vulgate). Several OCR column edges restored by the sense."
-    },
-    {
-      "id": "john-34",
-      "book": "john",
-      "art": 34,
-      "pages": [
-        529,
-        536
-      ],
-      "status": "done",
-      "chapter_guess": 13,
-      "note": "Published (PDF 530-536, pp. 520-526; John 13:21-38). Margin numerals unclear at 'sanctificari, magnificari seu exaltari' (Ezech. xxxvii, 23; Ps. xlv): Ezech 38:23 and Ps 45:11 used, with a note."
-    },
-    {
-      "id": "john-35",
-      "book": "john",
-      "art": 35,
-      "pages": [
-        535,
-        544
-      ],
-      "status": "in-progress",
-      "chapter_guess": 14,
-      "note": "batch stopped (API credit ran out)",
-      "claimed": "2026-11-18T02:21:12Z"
-    },
-    {
-      "id": "john-36",
-      "book": "john",
-      "art": 36,
-      "pages": [
-        543,
-        552
-      ],
-      "status": "in-progress",
-      "chapter_guess": 14,
-      "note": "batch stopped (API credit ran out)",
-      "claimed": "2026-11-18T02:26:26Z"
-    },
-    {
-      "id": "john-37",
-      "book": "john",
-      "art": 37,
-      "pages": [
-        551,
-        561
-      ],
-      "status": "todo",
-      "chapter_guess": 15,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-38",
-      "book": "john",
-      "art": 38,
-      "pages": [
-        560,
-        565
-      ],
-      "status": "todo",
-      "chapter_guess": 15,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-39",
-      "book": "john",
-      "art": 39,
-      "pages": [
-        564,
-        571
-      ],
-      "status": "todo",
-      "chapter_guess": 16,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-40",
-      "book": "john",
-      "art": 40,
-      "pages": [
-        570,
-        576
-      ],
-      "status": "todo",
-      "chapter_guess": 16,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-41",
-      "book": "john",
-      "art": 41,
-      "pages": [
-        575,
-        582
-      ],
-      "status": "todo",
-      "chapter_guess": 17,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-42",
-      "book": "john",
-      "art": 42,
-      "pages": [
-        581,
-        587
-      ],
-      "status": "todo",
-      "chapter_guess": 17,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-43",
-      "book": "john",
-      "art": 43,
-      "pages": [
-        586,
-        594
-      ],
-      "status": "todo",
-      "chapter_guess": 18,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-44",
-      "book": "john",
-      "art": 44,
-      "pages": [
-        593,
-        598
-      ],
-      "status": "todo",
-      "chapter_guess": 18,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-45",
-      "book": "john",
-      "art": 45,
-      "pages": [
-        597,
-        604
-      ],
-      "status": "todo",
-      "chapter_guess": 19,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-46",
-      "book": "john",
-      "art": 46,
-      "pages": [
-        603,
-        609
-      ],
-      "status": "todo",
-      "chapter_guess": 19,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-47",
-      "book": "john",
-      "art": 47,
-      "pages": [
-        608,
-        616
-      ],
-      "status": "todo",
-      "chapter_guess": 20,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-48",
-      "book": "john",
-      "art": 48,
-      "pages": [
-        615,
-        622
-      ],
-      "status": "todo",
-      "chapter_guess": 20,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-49",
-      "book": "john",
-      "art": 49,
-      "pages": [
-        621,
-        626
-      ],
-      "status": "todo",
-      "chapter_guess": 21,
-      "note": "batch stopped (API credit ran out)"
-    },
-    {
-      "id": "john-50",
-      "book": "john",
-      "art": 50,
-      "pages": [
-        625,
-        630
-      ],
-      "status": "todo",
-      "chapter_guess": 21,
-      "note": "batch stopped (API credit ran out)"
-    }
-  ]
+ "volume": "t. XII (Montreuil, 1901): Luke 10-24, John 1-21",
+ "pdf": "Google Play scan supplied by Dave (PDF page = printed page + 10). Commentary PDF 11-630; indexes after.",
+ "how": "Do items in order. pages = PDF pages to read (inclusive); the article may start partway down the first page and the next article may start on the last page. Confirm the chapter from the article's own title (ENARRATIO CAPITULI ...). John Art. I (PDF 277) is on the dignity of St John and his Gospel; PDF 275-276 is a PROOEMIUM: translate it as part of Art. I's note or as its opening, by the sense.",
+ "items": [
+  {
+   "id": "luke-26",
+   "book": "luke",
+   "art": 26,
+   "pages": [
+    11,
+    19
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 10,
+   "note": "Published with gaps: the bottom lines of both columns of PDF 16 (p. 6; end of v. 14, start of v. 15 on Capharnaum, and the passage on God's judgments) are garbled in the OCR; missing words marked […]. Please rescan PDF 16 and fill the gaps. Margin numerals guessed: Is 5:1 (vineyard), Gen 7:9 (two and two into the ark), Acts 28:5 (viper)."
+  },
+  {
+   "id": "luke-27",
+   "book": "luke",
+   "art": 27,
+   "pages": [
+    18,
+    32
+   ],
+   "status": "done",
+   "chapter_guess": 10,
+   "note": "Many margin notes on PDF 30-31 were printed into the OCR text column and were removed; their references (Is 53:6, Ps 72:23, John 10:16, Heb 13:14, Wis 6:8 and 12:13, Is 4:2, Joel 3:18) were restored from the printed numerals and are unconfirmed by the margin reader. Ecclus 13:19-20 (Denis blends them) and Wis 12:13 are best guesses. The edition's footnotes (Chrysostom = Cyril; 'Ait' = 'Dixit ad Jesum') are kept as bracketed notes."
+  },
+  {
+   "id": "luke-28",
+   "book": "luke",
+   "art": 28,
+   "pages": [
+    31,
+    36
+   ],
+   "status": "done",
+   "chapter_guess": 10,
+   "claimed": "2026-11-13T12:42:09Z",
+   "note": "Published (PDF 32-36, pp. 22-26; Luke 10:38-42). Opening word OCR'd as 'Qs' (drop capital?); taken as 'Quidquid Christus gessit in corpore' - check against the scan. A margin note beside 'Beda' reads '* Origenes' (kept as a bracketed note). Unconfirmed reference-only markers from unread margins: 1 Cor 1:24, John 1:1; Num 21:5 (margin read xxi, 9); 1 Cor 7:20 and Eph 4:1 (margin read 'I Cor. vi', 'Ephes. iv, 4')."
+  },
+  {
+   "id": "luke-29",
+   "book": "luke",
+   "art": 29,
+   "pages": [
+    35,
+    44
+   ],
+   "status": "done",
+   "chapter_guess": 11,
+   "claimed": "2026-11-13T12:47:44Z",
+   "note": "Published (PDF 36-44, pp. 26-34; Luke 11:1-13). Two margin notes beside Bede/Theophylact read '* Origenes' (Art. XXVIII) and '* Cyrillus' here: kept as bracketed notes. Margin read 'Joann. xvi, 9' for 'Pater, clarifica me' (tagged John 17:5). Several margin notes unread but the quotations are word for word and tagged: Is 63:16, Rom 8:15, Gal 4:7, 2 Cor 3:5, Ps 104:3-4, Wis 1:1-2, Ps 142:10."
+  },
+  {
+   "id": "luke-30",
+   "book": "luke",
+   "art": 30,
+   "pages": [
+    43,
+    54
+   ],
+   "status": "done",
+   "chapter_guess": 11,
+   "note": "Several references printed in the text column on PDF 44-45 (4 Kings 1:2, Jos 10:13, 1 Cor 1:22, John 4:48) were taken from the printed numerals; Job 36:13 (margin 'Job xxxvi') beside 'provoke the wrath of God' and Apoc 21:23 (Denis's wording is closer to Apoc 22:5, noted) should be checked against the scan."
+  },
+  {
+   "id": "luke-31",
+   "book": "luke",
+   "art": 31,
+   "pages": [
+    53,
+    60
+   ],
+   "status": "done",
+   "chapter_guess": 11,
+   "claimed": "2026-11-13T12:53:39Z",
+   "note": "Published (PDF 53-60, pp. 43-50; Luke 11:37-54). Many margin references are printed inline in the OCR text (2 Cor 7:1, Matt 5:7, Dan 4:24, Tob 12:9, Prov 15:27, Prov 29:1, Acts 15:10, Ps 23:6, Gal 6:5, Gen 4:8, 2 Par 24:21) and were taken from there. Tithes: margin reads Num. xviii, 21 and Deut. xii, 17 / xvi, 17 (reference-only markers Num 18:21, Deut 16:16, with a note). Is 7:9 quoted in the old form 'non intelligetis' (noted)."
+  },
+  {
+   "id": "luke-32",
+   "book": "luke",
+   "art": 32,
+   "pages": [
+    59,
+    71
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 12,
+   "claimed": "2026-11-13T13:00:42Z",
+   "note": "Published with gaps (PDF 60-70, pp. 50-60; Luke 12:1-21). PDF 64 (p. 54): about two lines at the foot of each column are unreadable in the OCR (end of v. 9 'per prædestinatio[nem …] de Christi negatione finali', and in v. 10 'quia […]bet, propter naturalem defectuositatem'); marked […]. Opening word lost (drop capital), supplied as '[Circa]'. Several margin references are printed inline in the OCR text (1 Cor 5:6, Luke 11:53, 1 John 4:18, Job 31:23, Ecclus 34:16, Prov 29:25, Ecclus 23:37, 25:14, Ps 33:10) and were taken from there."
+  },
+  {
+   "id": "luke-33",
+   "book": "luke",
+   "art": 33,
+   "pages": [
+    70,
+    79
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 12,
+   "claimed": "2026-11-13T13:08:45Z",
+   "note": "Published with gaps (PDF 71-79, pp. 61-69; Luke 12:22-40). PDF 78 (p. 68): about two lines at the foot of each column are unreadable in the OCR (v. 38 'saltem in senectute a ma[...] non fit hic mentio', and v. 39 'contra pessimum ac callidissimum [... cu]stodiamus'); marked [...]. Margin note beside 'Theophilum' reads '* Theodoretum' (kept as a bracketed note); editorial margin note adds '[Et justitiam ejus]' at v. 31 (noted). Mark 13:35 tagged where the margin gives Marc. xiii, 33."
+  },
+  {
+   "id": "luke-34",
+   "book": "luke",
+   "art": 34,
+   "pages": [
+    78,
+    86
+   ],
+   "status": "done",
+   "chapter_guess": 12,
+   "claimed": "2026-11-13T13:14:37Z",
+   "note": "Published (PDF 79-86, pp. 69-76; Luke 12:41-59). Ecclus 29:23 'Repromissio nequissima' tagged where the margin gives xxix, 24 (Douay 'suretyship', noted). Is 26:10 quoted in the Septuagint form (margin: juxta LXX). Gen 4:23 (Lamech killing Cain, a legend) given as reference-only where the margin reads 'Ibid. iv, 23'."
+  },
+  {
+   "id": "luke-35",
+   "book": "luke",
+   "art": 35,
+   "pages": [
+    85,
+    94
+   ],
+   "status": "done",
+   "chapter_guess": 13,
+   "claimed": "2026-11-13T13:19:34Z",
+   "note": "Published (PDF 86-94, pp. 76-84; Luke 13:1-21). Opening drop-capital word read as 'Jam'. Margin note '* [et occidit eos]' at v. 4 is an editorial addition (noted). Jer 32:31 given as reference-only (Denis paraphrases). Synagogues in Acts: margin lists several places, given as Acts 13:14."
+  },
+  {
+   "id": "luke-36",
+   "book": "luke",
+   "art": 36,
+   "pages": [
+    93,
+    100
+   ],
+   "status": "done",
+   "chapter_guess": 13,
+   "note": "Unconfirmed tags (no margin note read): 1 John 2:6, 2 Cor 1:8, Phil 2:10. Margin readings guessed: Matt 23:39 (printed as xxii, 47-39), John 10:22 (unreadable \"32. 93\"), 2 Par 24:21. In the Moraliter paragraph the print has \"Ab aquilone\" twice; the first is translated \"from the west\" with a note."
+  },
+  {
+   "id": "luke-37",
+   "book": "luke",
+   "art": 37,
+   "pages": [
+    99,
+    113
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 14,
+   "note": "Published. PDF 104 (p. 94), left column: about one line lost in the Chrysostom quotation (“Sed si hoc non placet, […] ministri”), shown as […]. PDF 108 (p. 98), top: damaged band; Luke 14:26 lemma “suum, et matrem, et uxorem, et filios, et” read from the damaged line (bracketed in the Latin), the rest recovered from the margin reader’s OCR. Unconfirmed tags (no margin note read): Job 15:13, Ecclus 10:7, 10:29, 3:20, Luke 6:33, 2 Cor 7:4, 2 Tim 4:2, 1 Tim 5:21, 1 Cor 7:29, 7:31, John 15:6, Lev 2:13, Mark 9:49, 1 Cor 14:40. Text prints “luxuria…” with the seventh property of dropsy omitted."
+  },
+  {
+   "id": "luke-38",
+   "book": "luke",
+   "art": 38,
+   "pages": [
+    112,
+    126
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 15,
+   "note": "Published with gaps (PDF 112-126, pp. 102-116; Luke 15:1-32). Lines lost in the OCR, marked […]: PDF 114 (p. 104) foot of both columns (start of the moral sense of the sheep, v. 6; and in v. 7 between 'quem de majori periculo erui cernimus' and '…amemus'); PDF 123 (p. 113) foot of left column, v. 23 ('ei prædicate, […] sub speciebus Sacramenti'); PDF 125 (p. 115) top of both columns, v. 28 ('convivium quod Deus Pater in Ecclesia […] exhibet') and v. 29 ('Vel per hæ[dum …]tis, qui […] populo promissus fuit'); PDF 118 the chapter number of De divinis nominibus. Reading order on PDF 114, 123 and 125 rebuilt by the sense. Conjectures: 'ulcisci … malitiam' (PDF 118), '[Sic]ut' (PDF 116). Margin numerals corrected (check): Ps 99:3 (printed Ps. xci, 7), Ps 68:5, Jer 32:41, Ex 4:22, Jer 31:9, John 12:31 (ref-only), Is 46:8, Ps 79:6, Gen 15:2, Is 52:2, Matt 6:2, Is 64:8, Is 53:8, 1 Thess 2:15-16, Apoc 3:1, Lam 3:42 (margin 'Thren. v'). From unread margins: Is 53:4-6, 2 Esd 8:10, Rom 5:20, Ps 109:3, Ps 118:132, Is 6:5, 1 Cor 11:26, Apoc 3:20, Is 55:5, Is 9:2. Cant 5:3 given ref-only (Denis 'Indui me tunica mea', the verse has 'Expoliavi'). Agnes's 'Annulo fidei suæ subarrhavit me' left untagged (not Scripture).",
+   "claimed": "2026-11-17T05:42:12Z"
+  },
+  {
+   "id": "luke-39",
+   "book": "luke",
+   "art": 39,
+   "pages": [
+    125,
+    142
+   ],
+   "status": "done",
+   "chapter_guess": 16,
+   "note": "Published (PDF 126-142, pp. 116-132; Luke 16:1-31). Text complete. Margin of PDF 129 left column not read: Jas 3:2 and Prov 3:28 tagged unconfirmed. Margin readings corrected or taken from unread notes (check): Luke 8:10 (ref-only, margin 'viii, 10'), 2 Cor 8:9, Jer 29:23, Rom 2:15, Rom 6:23 (ref-only, margin 'Rom. vi' unclear, noted), 1 John 4:5, Num 24:5, 1 Cor 4:1-2, Job 41:25, Ps 48:18, Jer 23:24, 1 Kings 16:7, Ps 52:6, Mal 2:16, Ecclus 10:2, Prov 29:12, Rom 4:18-21, Ps 33:22, Ezech 31:18 and 32:22 (second note illegible), Is 65:14, Matt 27:52-53, Matt 11:8 and 7:23 (ref-only, noted). Wis 11:17 given ref-only (Denis adapts it). v. 11 prints 'quod vestrum est' (edition's margin: alias verum), kept. Conjecture: Gennadius 'cum dispensatione' for OCR 'eum possessione'.",
+   "claimed": "2026-11-17T05:49:52Z"
+  },
+  {
+   "id": "luke-40",
+   "book": "luke",
+   "art": 40,
+   "pages": [
+    141,
+    153
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 17,
+   "note": "Published with gaps (PDF 142-153, pp. 132-143; Luke 17:1-37). Lines lost in the OCR, marked […]: PDF 145 (p. 135) about two lines at the foot of each column (end of Ecclus 28:2 and the next sentence, v. 5; and between 'dum plura credibilia' and '…credunt explicite'); PDF 151 (p. 141) foot of the left column, v. 28 (about a line after 'Filii [hominis …'), and foot of the right column, v. 31 (about two lines after 'corporalem mo[tum …'). Reading order on PDF 145 and 151 rebuilt by the sense. Conjecture: 'pignus [jam] accipit'. v. 27 prints 'Et tulit omnes' (edition's margin '* perdidit'), noted. Margin readings corrected or from unread notes (check): 1 Thess 5:22, Matt 18:6 (ref-only, margin 'xvi, 6-10'), Matt 18:15, 2 Cor 10:5, Mark 10:52 / Matt 9:22, 2 Thess 3:2, 4 Kings 5:15, 2 Cor 1:8, Gen 8:4, Gen 19:24-26 and Deut 29:23, 1 Cor 2:14 (margin 'II Cor. ii, 14'). DATA PROBLEM for Dave: data/bible/drc/proverbs.json chapter 30 is misaligned: v. 19 holds the text of v. 29 ('There are three things, which go well…') and v. 29 is empty, so Prov 30:19 (the way of an eagle) could only be given as reference-only.",
+   "claimed": "2026-11-17T05:57:36Z"
+  },
+  {
+   "id": "luke-41",
+   "book": "luke",
+   "art": 41,
+   "pages": [
+    152,
+    167
+   ],
+   "status": "done",
+   "chapter_guess": 18,
+   "note": "Published (PDF 153-166, pp. 143-156; Luke 18:1-43, literal then spiritual sense of the blind man of Jericho). Text complete. Margin readings corrected or taken from unread notes (check): 1 Thess 5:17, Deut 10:18, Heb 10:30 with ref-only Deut 32:35 and Rom 12:19, Job 24:19 (ref-only, fits loosely), Matt 6:5, Mal 2:10, Rom 14:4, Is 58:5, Gal 6:1, Ezech 18:21-22, Job 41:25, Matt 19:20, Lam 3:27 (printed iii, 37), John 14:6 and 10:9, Ecclus 30:22 (printed xxx, 23), Matt 19:27, 1 Tim 6:7, John 18:12, Luke 7:50, Is 42:8, Ps 113:9 (printed cxiii, 1, Hebrew numbering), Bar 3:38 (printed ii, 38). OCR conjectures: 'pœnæ vitæ' for 'pons vitæ', 'dixit' for 'dat' (v. 16).",
+   "claimed": "2026-11-17T05:57:36Z"
+  },
+  {
+   "id": "luke-42",
+   "book": "luke",
+   "art": 42,
+   "pages": [
+    166,
+    184
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 19,
+   "note": "Published with gaps (PDF 167-181, pp. 157-171; Luke 19:1-48). Lines lost in the OCR, marked […]: PDF 176 (p. 166) foot of the left column (v. 34, after 'Ad quod respondetur, quod forte jam') and foot of the right column (v. 38, after 'Porro, per hoc', before '…conciliatio generis humani'); PDF 180 (p. 170) in both columns (v. 45: after 'qui tamen in hoc commoda et' and after 'sub manifesta usura concedere prohibiti'; right: after 'Nec in cœmeteriis debent ludis aut aliis actibus' and before '…templationibus, prædicationibus et sacris'). Margin numerals taken from the sense: 'Ps. lxxvi, 11' (read 26:41) = Ps 76:11; 'Is. liii, 4' (garbled) = Is 53:4; 'Malach. iv, 5' (read 1 Mach) = Mal 4:5; 'Joann. xix, 15' (read xiv) = John 19:15; 'Matth. xxvii, 51' (read xxvi) = Matt 27:51; 'Prov. ii, 15' = Prov 2:14; 'Deut. xxiii, 19'; 'II Tim. ii, 4'; 'Is. lvi, 7'; 'II Par. xxiv, 21'; 'Act. viii, 5 et seq.' (Philip in Samaria); 'Sap. vii, 27' uncertain (note in the article). Tagged though no margin note was read (Denis names the source or quotes word for word): Rom 11:25-26, Zach 9:10, John 3:13, 1 Cor 12:8-10, 1 Cor 7:7. Translated in five parts by parallel workers; divine pronouns are lower-case in most of it."
+  },
+  {
+   "id": "luke-43",
+   "book": "luke",
+   "art": 43,
+   "pages": [
+    182,
+    196
+   ],
+   "status": "done",
+   "chapter_guess": 20,
+   "note": "Published (PDF 182-196, pp. 172-186; Luke 20:1-47). The article starts at the top of PDF 182 (not 183); its heading was not found by cut_articles, so sources/t12/articles/luke-43.txt was cut by hand. Margin numerals taken from the sense: 'Is. v, 1' (read Osee) = Is 5:7; unread 'Is. xxi, 10' = Is 21:10; 'Joann. xv, 4' = John 15:1; 'Joann. iii, 31' = John 3:31; 'Ibid., 5' beside the people's wondering = Luke 3:15 (uncertain, note); 'I Thess. ii, 16' (read Ps 1:2) = 1 Thess 2:16; 'Joann. vi, 25' taken as John 8:25 ('Principium'); 'I Cor. x, 4' = 1 Cor 10:4; 'I Tim. i, 13'; 'Is. xxx, 10'; 'Ps. l, 4' = Ps 51:4; '...ii, 9' = Tit 2:9 (a guess, note); 'Jbid. xv' = Gen 15:1; 'Is. xlv, 25'; Ex 3:13-15. 'In Matth. xxi, 46' and 'In Matth. iii, 7' are Denis's references to his own Matthew commentary (bracketed notes). Printed text has footnoted variants 'agricolis'/'colonis' and 'diebus'/'temporibus' (notes)."
+  },
+  {
+   "id": "luke-44",
+   "book": "luke",
+   "art": 44,
+   "pages": [
+    196,
+    202
+   ],
+   "status": "done",
+   "chapter_guess": 21,
+   "note": "Published (PDF 196-202, pp. 186-192; Luke 21:1-19). To check against the scan: PDF 196-197 (v. 1), the two Greek words in the etymology of gazophylacium are garbled in the OCR; given as γάζα and φυλάσσειν with a note. Margin numerals taken from the sense: 'Joann. viii' = John 8:20; 'Malach. i' and 'Ibid. 14' = Mal 1:8, 1:14; 'Luc. xix, 44' = Luke 19:44 (back-reference); 'Act. xii, 1-4', 'xxi, 33; xxiv-xxvi' = Acts (Paul before Felix and Festus); 'Prov. xiv, 29' beside 'Qui impatiens est, operatur stultitiam' = Prov 14:17 (note), 'Prov. xiv, 9' = 14:29. Denis reads 21:8 'tempus appropinquabit' (note)."
+  },
+  {
+   "id": "luke-45",
+   "book": "luke",
+   "art": 45,
+   "pages": [
+    202,
+    207
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 21,
+   "note": "Published with gaps (PDF 202-207, pp. 192-197; Luke 21:20-38). Lines lost in the OCR, marked […]: PDF 203 (p. 193) foot of the left column (v. 24, after 'quousque veniat tempus', before '…Sarracenorum a Terra sancta') and foot of the page (v. 25, after 'pressura gen[tium]', before 'vel etiam compressio mutua'); PDF 205 (p. 195) left column, several lines (vv. 30-31, the fig-tree: 'prope est æstas […] consuetudinem patriæ […] et nomine fructus […]'; the v. 31 words pieced together, note). PDF 205 right column (v. 34) recovered from the margin reader's line text; worth a glance. Margin numerals taken from the sense: 'Ps. lviii, 12' (read 56:2) = Ps 58:12; 'Dan. ix, 26' with a clause of 9:27 (note); 'Dan. xii, 11, 12' = Dan 12:12 (ref only); 'Act. i, 11'; 'Sap. v, 18, 21' (Denis 'pro eo', note); 'Luc. xii, 6, 7' beside 'supra' = Luke 12:22 (back-reference); 'Matth. vi, 34, 33' = Matt 6:34, 6:32; 'Matth. xiv, 37' = Matt 24:37."
+  },
+  {
+   "id": "luke-46",
+   "book": "luke",
+   "art": 46,
+   "pages": [
+    207,
+    214
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 22,
+   "note": "Published with gaps (PDF 207-214, pp. 197-204): the preface to the Passion, every paragraph tagged Luke 22:1 (it treats no verse). The cut file sources/t12/articles/luke-46.txt ran on into Art. XLVII (from line 56); only lines 1-51 and 54-55 are XLVI. PDF 207 (p. 197), heading area: the opening quotation (Eph 5:2) restored, then one or two lines lost; 'Hæc sunt verba B. Pauli apostoli in […]' cut off; top of the right column 'qui fecit utraque unum, […] in unum, per crucem dissolvens inimicitias […]' — marked […] with notes. Margin numerals taken from the sense: 'Ibid. 4' after Is 53:12 = Is 53:7; 'Ibid. iii, 5' = 2 Cor 3:5; 'Galat. v' = Gal 2:20; 'Joann. iv / vii, 29' = John 4:34, 8:29 (partly unreadable, note); 'II Thess. ii, 16' = 1 Thess 2:16 (note); 'Rom. viii, 33' = Rom 8:32. Jer 32:17 reference-only with no margin numeral read (Denis names Jeremias)."
+  },
+  {
+   "id": "luke-47",
+   "book": "luke",
+   "art": 47,
+   "pages": [
+    214,
+    225
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 22,
+   "note": "Published with gaps (PDF 214-224, pp. 204-214; Luke 22:1-27). sources/t12/articles/luke-47.txt cut by hand (heading OCR'd as 'ARTICUI … US XLVII'). The heading's title is garbage in the OCR except '…DIES FESTUS AZYMORUM, QUI DICITUR PASCHA': 'Elucidatio capituli vicesimi secundi: Appropinquabat autem' supplied; please check against the scan. The OCR of PDF 219-223 is badly damaged in bands; lines restored from the margin reader's line text where possible, the rest marked […] with notes: PDF 219 (v. 14 before 'terra consedit'; v. 15 after 'sicut qui peregre profecturi sunt, ultima'), PDF 219-220 (v. 18 after 'et fructus'), PDF 220 foot of both columns (vv. 19-20, several lines), PDF 221 lower half (v. 20, Chrysostom, several bands), PDF 222 left column (v. 20, one line after 'ordinavit Ecclesia Sacramentum hoc'), PDF 223 (v. 24 Basil's simile; v. 25 after 'potestatem exer[…]'). Margin numerals taken from the sense include 'Joann. vii, 20' (read vii, 90), 'II Par. xxxv, 18' (Denis's 'a diebus judicum' closer to 4 Kings 23:22, note), 'Exod. xi' = Ex 12:6, 'Act. i, 1-4' = Acts 2:4, 'II Cor. xi, 27, 29' = 1 Cor 11:27, 29, 'Dot. xi, 2' = Prov 11:2. The article ends at v. 27 (PDF 224); Art. XLVIII begins at the head of PDF 225 with v. 28."
+  },
+  {
+   "id": "luke-48",
+   "book": "luke",
+   "art": 48,
+   "pages": [
+    225,
+    239
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 22,
+   "note": "Published with a small gap (PDF 225-239, pp. 215-229; Luke 22:28-71). PDF 225 (p. 215), v. 29: the first lines are damaged in the OCR (read as 'infideli discipulo væ æternum, scilicet Judæ proditori: qui, quum verba sequentia dicerentur, exivit'), and a line or two at the top of the right column is lost ('sic ex bonitate ca[…] […]paro, ac tribuam vobis'), marked […]. PDF 232: 'in quantum tribulationes sunt quædam mala pœnalia' stands on a line of its own; joined after 'condoluit' (v. 44), worth a glance. Margin numerals taken from the sense: 'Ibid. xx, 22' = Luke 20:23 (Denis adds 'hypocritæ', from Matt 22:18); 'Joann. xvi' beside the enemies falling = John 18:6; 'Ps. cxvii, 98' = Ps 118:28; 'Galat. v, 7' = Gal 5:17; 'Matth. xxvi, 96/98' = Matt 26:56/58; 'Ps. lxxxv, 16' = Ps 85:16; 'Joann. ii, 19' beside the false witnesses = Matt 26:61 (note). Mark 14:71 left reference-only because data/bible/drc has the typo 'began o curse'."
+  },
+  {
+   "id": "luke-49",
+   "book": "luke",
+   "art": 49,
+   "pages": [
+    239,
+    260
+   ],
+   "status": "done",
+   "chapter_guess": 23,
+   "claimed": "2026-11-17T14:42:05Z",
+   "note": "Published (PDF 240-259, pp. 230-249; Luke 23:1-56, 85 paragraphs). Text complete, no […] gaps. Translated in six parts by parallel workers. Opening word restored as 'Subinde describitur' (OCR 'UBINDE', drop capital). Margin numerals taken from the sense (check): 'Luc. xvii, 31-33' = Luke 18:32-33 (Denis joins it with Matt 20:18-19, note); 'Matth. xxvi, 2' = Matt 27:2; 'Joann. i, 14 11' = John 2:1 (ref only); 'Luc. n, 1' = Luke 3:1 (uncertain); 'Luc. …37; Joann. xviii, 5, 7' = Luke 18:37 and John 18:5 (ref only, guess); 'Matth. ix, 31' = Matt 9:26 (uncertain); 'Joann. xiii, 16 / Matth. x, 24' (split by the OCR) = John 13:16 and Matt 10:24; 'Matth. xxvii, 13-18' = 27:15-18; 'Is. liii, 7'; 'Rom. xiii, 1' (ref only); 'Marc. xv, 23' = Mark 15:25; 'II Thess. ii, 16' = 1 Thess 2:16 (Denis 'super vos', note); 'Ps. lxviii, 35' = Ps 68:25; 'Josue xiv, 15' (Denis omits 'inter Enacim', note); 'Ps. xxv, 17, 18' = Ps 21:17-18; 'Ibid. xiii' = Zach 13:6; 'Is. xlii, 1' (read Ps 62:2); 'Ps. cviii, 23' = Ps 108:25; 'Matth. xxvi, 44' = Matt 27:44; 'Is. liii, 9' (Denis in the form of 1 Pet 2:22, note); 'I Petr. iv, 8'; 'Matth. xxvi, 17/48/49' = Matt 27:47-49; 'Ps. lxxxvii, 8 and 19' (unread notes); 'Matth. xxvii, 51, 52, 53'; 'Joann. xix, 23' = John 19:25; 'Matth. xxvii, 56'; 'Luc. xxiv, 10' (Joanna); 'Act. x, 1, 2, 22' (Cornelius, unread note); 'Ibid. 45' after Mark 15:43 = Mark 15:44-45. Matt 27:37 and John 19:19 both tagged on the title 'Hic est Jesus Nazarenus, rex Judæorum' (note). Tagged with no margin note read: Mark 15:1, John 19:14 (ref only), John 19:15 (the cry 'Tolle, tolle' at 19:6, note), John 15:25, John 19:28. OCR conjectures: 'nihil ei respondebat' (v. 9), 'Ait: Pater, in manus tuas' (garbled line, v. 46), 'crucifixorum' kept as printed in v. 49 (sense 'crucifiers', note)."
+  },
+  {
+   "id": "luke-50",
+   "book": "luke",
+   "art": 50,
+   "pages": [
+    259,
+    277
+   ],
+   "status": "done",
+   "chapter_guess": 24,
+   "claimed": "2026-11-17T14:53:05Z",
+   "note": "Published (PDF 260-271, pp. 250-261; Luke 24:1-53, 55 paragraphs), ending at 'FINIS COMMENTARIORUM IN EVANGELIUM SECUNDUM LUCAM' (PDF 271). Text complete, no […] gaps. sources/t12/articles/luke-50.txt runs on (from line 84) into the John PROOEMIUM (PDF 273-276), which belongs to john-01. Translated in four parts by parallel workers. Margin numerals taken from the sense (check): 'Matth. xxvii, 2/xxvi, 3' = Matt 28:2-3; unread 'Marc. xvi, 3, 4'; 'Marc. xvi, 13' = Mark 16:12; '4 Reg. vi' = 4 Kings 6:18 and unread 'Gen. xix, 14' = Gen 19:11 (ref only); 'Joann. vii, 406' = John 7:46; 'Philipp. 8, 9' = Phil 2:8-9; 'Act. xiv, 24' = Acts 14:21; 'II Tim. ii, 13' = 2 Tim 3:12; 'Matth. v, 23' = Matt 5:22; 'Joann. xix, 1' = John 19:7; 'Gen. xviii, 1-8', 'xix, 1-3' (Abraham, Lot; ref only); 'I Petr. iv, 9'; 'Gen. xlv, 26' (unread); 'Joann. xv, 9' = John 15:5; 'Sap. vii, 28'; 'Gen. xxi, 18' = Gen 22:18 with 26:4, 28:14 (Denis's wording nearer Acts 3:25, note); 4 Kings 20:13, 15 ref only with the words tagged from Is 39:2, 4 (note); 'Joann. xx, 23' = John 20:22; 'Ps. lxxi, 17'; 'Matth. xv, 25' = Matt 15:24; 'Act. ii, 46, 41' = Acts 2:46-47. Heb 13:2: Denis reads 'placuerunt quidam Deo' for 'latuerunt' (note). Latin conjectures: 'necessitate consequentiæ, non consequentis' (OCR 'consequenti', PDF 268); 'per modum habitus fixi' (v. 19)."
+  },
+  {
+   "id": "john-01",
+   "book": "john",
+   "art": 1,
+   "pages": [
+    275,
+    278
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 1,
+   "note": "Art. I published (PDF 277-278, pp. 267-268; every paragraph tagged John 1:1, as it treats no verse); the PROOEMIUM (PDF 275-276, pp. 265-266, on Ecclus 24:41-44 'Ego sicut aquæductus exivi de paradiso') is NOT translated: it is printed across the full page width, and tools/ocr_columns.py cut it at a false gutter, so half of every line is lost in sources/t12/pages/p275-276.txt. Re-OCR PDF 275-276 as a single column, then add it (as the article's opening or note, per the queue's 'how'). Also PDF 277: the two lines below the heading are garbage in the OCR; 'ut hac circumlocutione, Discipulus' restored from the margin reader's line text, and one or two lines lost between 'ut recitat Be[da]' (foot of the left column) and '…la; eique tempore passionis Matrem suam' (top of the right), marked […]. Margin: 'Ibid. ii, 8, 9' (read 3:8-9) = John 2:8-9; all margin references given reference-only (Denis retells, does not quote).",
+   "claimed": "2026-11-17T15:00:17Z"
+  },
+  {
+   "id": "john-02",
+   "book": "john",
+   "art": 2,
+   "pages": [
+    277,
+    284
+   ],
+   "status": "done",
+   "chapter_guess": 1,
+   "note": "Published (PDF 278-284, pp. 268-274; John 1:1-3). Text complete. Translated in three parts by parallel workers. Margin numerals taken from the sense (check): 'Is. xlv, 23' (tool gave 55:11); 'Is. xxxix, 9, 4' = Is 39:4 with ref-only 39:2 (Denis blends them, note); unread 'Rom. i, 20'; 'Ps. xxxii' = Ps 32:9 with unread 'cxlviii, 5' (ref only); 'Joann. vii, 29' = John 8:25; Apoc 1:8 (21:6, 22:13 ref only); 'Prov. xxx, 3' = Prov 30:4; 'Eccli. xxiv, 3' = Ecclus 24:5; 'I Cor. i, 24' (read II Cor); 'Is. xlviii, 12, 13, 16'; 'Ps. xxxi, 9' = Ps 32:9; 'II Tim. i, 1' (with 2 Cor 1:1, Eph 1:1, Col 1:1). Wis 7:26 split around Denis's 'majestatis paternæ'.",
+   "claimed": "2026-11-17T15:00:17Z"
+  },
+  {
+   "id": "john-03",
+   "book": "john",
+   "art": 3,
+   "pages": [
+    283,
+    290
+   ],
+   "status": "done",
+   "chapter_guess": 1,
+   "claimed": "2026-11-17T15:05:57Z",
+   "note": "Published (PDF 284-290, pp. 274-280; John 1:3-5, the divine ideas, the light and the darkness, and the question whether the Trinity can be known by natural reason). Text complete. Translated in three parts by parallel workers. Margin numerals taken from the sense (check): PDF 284 'Ephes. i' = Eph 1:11 (ref only); 'Exod. xx, 8-11' = Ex 20:8 (ref only); unread 'Ps. iv, 7'; 'Ps. xvi, 29' = Ps 17:29; 'Joann. vii, 31' = John 8:37; 'Malach. iv, 2'; 'Sap. v, 6'; 'Jer. v, 95' = Jer 5:25; 'Job xxxiv, 154' = Job 34:14 (Denis's wording, note); 'Is. vi, 2' (read Jas 1:5). Latin conjecture: 'oritur [ob] difficultatem quam habet' (PDF 289, line 26 of the cut file). The 'Origen' homily quoted on v. 3 is Eriugena's (note)."
+  },
+  {
+   "id": "john-04",
+   "book": "john",
+   "art": 4,
+   "pages": [
+    289,
+    295
+   ],
+   "status": "done",
+   "chapter_guess": 1,
+   "claimed": "2026-11-17T15:09:43Z",
+   "note": "Published (PDF 290-295, pp. 280-285; John 1:6-13). Text complete. Translated in two parts by parallel workers. No margin notes were read on PDF 290 (the article starts at its foot). Margin numerals taken from the sense (check): 'Jer. xxiii, 21' kept (tool gave 23:32); 'Malach. iii, 1' (read 1 Mach); 'Matth. xi, 14' = Matt 11:11; 'Matth. iii' = Matt 3:4 and 'Marc. i' = Mark 1:6 (ref only); 'Gen. xxxi, 28' = Gen 32:28; 'Matth. iv, 2' = Matt 3:2 (Matt 4:17 possible); 'I Joann. i, 5'; 'Act. xiii, 23' = Acts 13:25; 'Joann. xii, 33' = John 12:32; 'Prov. xv, 39' = Prov 15:29; unreadable 'Ps. ...xxi' beside 'Quomodo scit Deus' = Ps 72:11 (note); 'Luc. i' = Luke 1:5 (whole chapter, note); unread 'Is. lxiv, 1' and 'Is. xlix, 5'; 'I Tim. ii, 19' = 2 Tim 2:19 (note); 'Act. x, 31' = Acts 10:34 (note). Tit 1:16: Denis 'factis tamen negant'."
+  },
+  {
+   "id": "john-05",
+   "book": "john",
+   "art": 5,
+   "pages": [
+    294,
+    312
+   ],
+   "status": "done",
+   "chapter_guess": 1,
+   "claimed": "2026-11-17T19:41:27Z",
+   "note": "Published (PDF 295-312, pp. 285-302; John 1:14-28). Translated in six parts by parallel workers. No unreadable text. Margin numerals taken from the sense (check): Ps 64:3 + Is 40:5 (printed 'Ps. v, 3, 15. xl, 5'); John 6:45 (printed vi, 49); 1 John 2:1 ref-only for 'l Joann. iii' (note); Is 52:6 (read iii, 6); Eph 3:17; Matt 17:1; Acts 1:3 (unread); Gen 2:19; Luke 2:9 (printed i, 9-14, note); Matt 25:29 (printed xx, 29); 1 Cor 12:4 (printed xii, 5, note); Gen 48:13; Judg 13:22 (printed xi, 23); Ex 33:20; 2 Cor 12:2, 4; 1 John 5:20; Gen 49:10 (printed xix, 10); Wis 1:11; 3 Kings 21:20 (printed II Reg.); Is 40:3; Mal 4:5; 4 Kings 2:11; Is 3:13; Ps 81:1; Luke 17:10 (printed xv, note). Denis's 'Nemo novit Patrem, nisi Filius' ('ait Joannes') tagged Matt 11:27 with John 6:46 ref-only (note); 'salutare Dei nostri' given as Luke 3:6 per the margin, though the wording is Is 52:10 (note); Deut 18:15 ref-only, the words tagged Acts 3:22 (note). Reading 'principaliter' (v. 15) probably for 'præsentialiter' (note). Unconfirmed tags (no margin note read): Is 40:5, 2 Pet 1:4, 1 Tim 6:16, Matt 16:14. 'Et respondit: Non' (v. 21) printed in the margin, put into the text (note)."
+  },
+  {
+   "id": "john-06",
+   "book": "john",
+   "art": 6,
+   "pages": [
+    311,
+    322
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 1,
+   "claimed": "2026-11-17T19:48:40Z",
+   "note": "Published with gaps (PDF 312-322, pp. 302-312; John 1:29-51). Translated in four parts by parallel workers. PDF 313 (p. 303), foot of both columns: about two lines lost in each (v. 29: after 'Specialiter tamen ordinabatur passio Chri[sti]', before '…satisfacere potuit'; v. 30: after 'quem scivi venturum', before '[ve]niret: Post me venit vir'), marked […] with notes; the strips around them were put back in order by the sense. Margin numerals taken from the sense (check): John 18:11; Eph 2:20, 1 Pet 2:6, Apoc 5:5, John 15:5 (ref-only, half-read); Is 53:5; Zach 6:12; Luke 1:44 (printed i, 45); 4 Kings 3:15 (read 2:15); Ps 83:8; Is 61:1 (read 11:2); Gen 43:3 (printed xvi, 3); Acts 8:5 ('viii, passim'); Luke 18:34 ('xviii, 31-34'); 2 Cor 3:6 (printed i, 6); Rom 9:1, Gal 3:1 (chapter only); Jer 33:16; Is 33:22 (printed xxxiii, 23); Matt 9:25, Luke 7:14, John 11:43. Denis's 'as is written in Isaias' for words of 1 Pet 2:22 (tagged 1 Pet 2:22, Is 53:9 ref-only, note); 'in Deuteronomy' with Acts 3:22's wording (same treatment); 'Nazaræus vocabitur' given as Matt 2:23 though Denis names Isaias (note). data/bible/drc 2 Kings 7:3 has the typo 'in they heart' (shows in a quotation)."
+  },
+  {
+   "id": "john-07",
+   "book": "john",
+   "art": 7,
+   "pages": [
+    321,
+    333
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 2,
+   "claimed": "2026-11-17T19:48:40Z",
+   "note": "Published with gaps (PDF 322-333, pp. 312-323; John 2:1-25). Translated in five parts by parallel workers. PDF 327 (p. 317), top of both columns, in the moral exposition of Cana: about two lines lost in each (after 'rationis censuram sequendo' and before '…[conver]tet has aquas in vinum'), marked […] with notes; fragments put in order by the sense, 'be subject' supplied in one gap (note). Margin numerals taken from the sense (check): John 19:26-27 ('xix, 237'); Luke 4:14, Matt 4:12; Deut 32:4 ('Deut. xxxii'); 1 Cor 14:22 (printed xiv, 23; OCR 'T' read as non); Matt 2:12; Prov 8:31; Cant 7:13 (second 'Ibid.' after Cant 5:1, note); Gen 29:15, Gen 25:18, 2 Kings 20:9; Is 9:2 (printed ix, 9); Ex 21:1 ('Exod. xxi, passim', uncertain, note); Deut 12:5-6; John 18:6 (printed xv, 6, note); Mark 15:10 (printed xv, 40, note); John 13:27; 3 Kings 6:38; 1 Esd 4:1; Ps 23:10; John 3:7 (hard to read, note); 3 Kings 8:39; 2 Tim 2:4, 2:26; Luke 14:23 (printed 'Luc. xv', note); Apoc 2:23; Matt 25:46 (Denis mixes 25:41, note); Is 66:2 ref-only for 'Super quem requiescet spiritus meus' (margin 'Cf. Is. lxvi, 1, 2', note). Untagged, worth a look on the scan: 'non elevant oculos suos ut videant cælum' (perhaps Dan 13:9)."
+  },
+  {
+   "id": "john-08",
+   "book": "john",
+   "art": 8,
+   "pages": [
+    332,
+    342
+   ],
+   "status": "done",
+   "chapter_guess": 3,
+   "claimed": "2026-11-17T19:56:28Z",
+   "note": "Published (PDF 333-342, pp. 323-332; John 3:1-15). Translated in four parts by parallel workers. Garbled OCR lines on PDF 341 recovered from the margin reader's line text, and the order there rebuilt by the sense (worth a glance). Margin on PDF 334 right (miracles, v. 2) mostly garbled: John 9:1, Matt 9:25, Luke 7:15, Matt 27:45, Ex 7:12, 8:7, 7:22, John 2:9 given ref-only with a note. Numerals taken from the sense (check): John 2:23, 2:15; Mark 8:25; Job 9:11 (printed ix, 141); Ps 147:7 (margin 'cxlvii, 18', Hebrew count); John 4:24; Rom 6:3-4; Matt 28:19 (unread); Ezech 47:1 ('xlvii, passim'); Osee 7:13, 15; 2 Cor 10:5; Matt 27:52-53; Is 9:6; Jude 1:5; Ps 67:33-34; Ps 46:6; Is 53:7; 2 Cor 5:21; John 8:50, 49; Heb 12:1 tagged with 12:2 (margin gives only 12:2); Num 21:4-8 split by verse."
+  },
+  {
+   "id": "john-09",
+   "book": "john",
+   "art": 9,
+   "pages": [
+    341,
+    348
+   ],
+   "status": "done",
+   "chapter_guess": 3,
+   "claimed": "2026-11-17T19:56:28Z",
+   "note": "Published (PDF 342-348, pp. 332-338; John 3:16-21). Translated in three parts by parallel workers. No unreadable text. Margin notes at the head of PDF 342 partly unreadable: Eph 2:8, 2 Tim 1:9, Tit 3:5 given ref-only (note). PDF 344 notes beside 'Fides tua te salvum fecit' partly unreadable: Mark 10:52 quoted, Matt 9:22, Luke 7:50, 17:19 ref-only (note). Numerals taken from the sense (check): Is 9:6 (Denis's 'Puer…', the Introit form, note); John 18:11; 1 Tim 2:4; Luke 9:53; Ps 115:3 (margin cxv, 12; ref-only, Denis adapts); Gen 22:18 kept per the margin though the wording is closer to Gen 12:3/28:14 (note); Matt 23:13 (margin 'Matth. xxi', note); Acts 10:2, 31, 4 (misread, note); Is 11:3-4; Ps 49:3; Apoc 2:10; Rom 14:23; Mich 7:8; 1 John 5:10; Job 13:15-16; Is 3:9 (printed i, 9); Matt 6:6; John 9:5; Matt 10:32 (margin x, 33, note)."
+  },
+  {
+   "id": "john-10",
+   "book": "john",
+   "art": 10,
+   "pages": [
+    347,
+    355
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 3,
+   "claimed": "2026-11-17T19:56:29Z",
+   "note": "Published with a small gap (PDF 348-355, pp. 338-345; John 3:22-36). Translated in three parts by parallel workers. PDF 350 (p. 340), foot of the right column (v. 29): one line lost in the OCR, filled from the sense as 'triplicem spon[sam: universalem, quæ est Ec]clesia omnium electorum' (bracketed, note): please check against the scan. Other garbled lines on PDF 350 recovered from the margin reader's line text. Numerals taken from the sense (check): Acts 1:5 (unread); 1 Cor 1:14, 16, 17; Mark 6:17 ('Marc. 17'); John 1:29, 36; Osee 13:9 (printed xi, 9, note); Osee 9:1; Luke 7:24 (printed vi, 24); 2 Cor 5:16; John 1:27; Eph 5:26; Gal 5:22-23 (abridged); Mich 7:2; Is 45:25; John 2:23; Col 1:3, 12, 13; Is 26:10 'juxta LXX' (ref-only, note); Heb 2:2 (margin 'Hebr. 1, n', least certain, note); John 3:27 with John 19:11 (Denis blends, note)."
+  },
+  {
+   "id": "john-11",
+   "book": "john",
+   "art": 11,
+   "pages": [
+    354,
+    367
+   ],
+   "status": "done",
+   "chapter_guess": 4,
+   "note": "Margin readings checked: Ps 113:2 (Facta est Judæa), Is 7:9 juxta LXX, Ps 102:5, Ps 144:18, Luke 22:29–30 and Gal 6:8 taken from unread notes; Luke 17:11 (printed xvi, 41), Gen 48:22, 3 Kings 12:19, 28 (read as 2 Tim), Ecclus 51:7 (printed li, 4, 7), Luke 14:15 (Ibid. xiv, 15, read as John), Is 29:13 with Mark 7:6–7 (Denis gives Isaias in the Gospel's wording), Prov 4:23, Acts 2:14–41, John 1:19, John 2:23, Luke 4:29 and 4 Kings 17:25, 29 corrected from misread numerals. Latin cleaned from the OCR with automatic corrections; a few spellings may still need checking against the scan."
+  },
+  {
+   "id": "john-12",
+   "book": "john",
+   "art": 12,
+   "pages": [
+    366,
+    371
+   ],
+   "status": "done",
+   "chapter_guess": 4,
+   "note": "Margin readings checked: 2 Kings 18:21–23 (Chusai and Achimaas) taken from an unread note; Rom 7:23 from the unread note \"Rom. vii, 23\"; Is 64:1 (read as Is 9:1), John 2:3 (printed ii, 3), John 2:23, Luke 7:2 and Luke 23:7 (read as xxi) corrected from misread numerals. Art. XI (john-11) is not yet published, so John 4 has only this article for now."
+  },
+  {
+   "id": "john-13",
+   "book": "john",
+   "art": 13,
+   "pages": [
+    370,
+    378
+   ],
+   "status": "done",
+   "chapter_guess": 5,
+   "note": "Margin readings checked: Num 28:26, 4 Kings 1:8, Ezech 33:11 and Is 9:6 (LXX) from unread notes; Tob 3:13, Num 28:9, Deut 32:4, 1 Cor 3:3, Jer 48:10, John 1:14 and Prov 8:29 corrected from misread numerals. The article runs to John 5:20; Art. XIV continues the chapter."
+  },
+  {
+   "id": "john-14",
+   "book": "john",
+   "art": 14,
+   "pages": [
+    377,
+    384
+   ],
+   "status": "done",
+   "chapter_guess": 5,
+   "note": "Margin readings checked: Ps 109:6, Is 50:4–5, 1 John 2:1–2, Heb 2:11 and Matt 24:13 from unread or misread notes; John 8:15, 50, Job 28:3, Jer 32:18–19, Acts 3:24, Matt 9:25, Matt 14:25, Col 3:3, 1 Thess 4:15 and 1 Cor 15:51 corrected from misread numerals. Covers John 5:21–29; the next article takes up v. 30."
+  },
+  {
+   "id": "john-15",
+   "book": "john",
+   "art": 15,
+   "pages": [
+    383,
+    392
+   ],
+   "status": "done",
+   "chapter_guess": 5,
+   "note": "About 120 margin notes; misread numerals corrected from the Latin (e.g. 2 Pet 1:17 read as \"Matt 51:1\", Ps 52:6, 1 John 3:14, 1 Tim 1:5, Acts 17:11, Is 53:2); unread notes taken as Matt 26:39, 2 Tim 3:16, Gen 32:30, Is 6:1, Num 24:17. Notes on PDF 392 belong to Art. XVI. With Art. XIII and XIV, John 5 now has all its articles."
+  },
+  {
+   "id": "john-16",
+   "book": "john",
+   "art": 16,
+   "pages": [
+    391,
+    398
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 6,
+   "note": "Published with gaps: the lower part of both columns of PDF 396 (p. 386; start of the moral exposition, on v. 1 and v. 2) is garbled in the OCR. Recovered from the margin reader's lines where possible; missing words marked […] (after 'quod Jesus facto ac', after 'Per locum enim', and in the list of miracles: 'Nam et per […] contactum sudariorum Pauli, sanabantur […] per superpositionem baculi Petri'). Please rescan PDF 396 and fill the gaps. Margin readings checked: Deut 8:2 (printed vii, 2), Luke 2:40 (read as i, 80), Ps 72:26 (printed lxxii, 26), Is 40:6 (read as ix), Rom 15:4 and Matt 15:24 from unread notes, 1 Mach 12:9, Ps 67:19, 34."
+  },
+  {
+   "id": "john-17",
+   "book": "john",
+   "art": 17,
+   "pages": [
+    397,
+    409
+   ],
+   "status": "done",
+   "claimed": "2026-11-18T01:27:00Z",
+   "chapter_guess": 6,
+   "note": "Done 18 Nov (John 6:15-50). Check against the scan: margin by 6:41 (murmuring in the desert) partly unread, given as Ex 16:2, 7, 8; Num 11:1; 14:2, 11, 27, 29, 35; 20:13 (the Num 14 range is a guess); 6:23 OCR has gratias agentes Domino (Vulgate agente), noted in the text. data/bible/drc/john.json 6:45 reads cometh forth me (Douay: cometh to me)."
+  },
+  {
+   "id": "john-18",
+   "book": "john",
+   "art": 18,
+   "pages": [
+    408,
+    417
+   ],
+   "status": "done",
+   "chapter_guess": 6,
+   "note": "Margin readings checked: Is 40:7 (read as xi, 7), Ps 90:1 and Ps 77:31 from unread notes, Is 7:9 juxta LXX, 2 Thess 3:2 (read as II Tess. iii, 2), Matt 19:27, Mark 3:14 (printed iii, 14, 15, 19), Is 45:4 (printed xlv, 3–5; Denis's 'Elegi te' differs from the Vulgate), 2 Kings 12:25, Matt 27:5. Margins of PDF 410 empty. Latin cleaned from the OCR with automatic corrections."
+  },
+  {
+   "id": "john-19",
+   "book": "john",
+   "art": 19,
+   "pages": [
+    416,
+    428
+   ],
+   "status": "done",
+   "chapter_guess": 7,
+   "note": "Margin readings checked: Matt 10:28 (read as x, 98), Lev 23:43 (printed 43), 3 Kings 17:19 and 4 Kings 4:32 (Elias, Eliseus; read as Mark 2 and 1 Kings 4), Matt 8:4 (printed vi, 4; probably viii, 4), Prov 15:12 (printed xv, 2), Mark 6:2 (read as 31, 2), Is 7:9 juxta LXX, 1 Tim 1:17, Ex 3:22, Matt 7:1, Mal 3:2, Is 58:1, Is 42:2, Ps 68:4, John 8:55, Tit 1:2, Is 35:4–6 corrected from misread notes. Latin cleaned from the OCR with automatic corrections."
+  },
+  {
+   "id": "john-20",
+   "book": "john",
+   "art": 20,
+   "pages": [
+    427,
+    433
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 7,
+   "note": "Published with gaps: the lower part of PDF 429 (p. 419; on vv. 35–38) is garbled in the OCR and its two columns were interleaved; the text was put back in order by the sense, and the unreadable lines are marked […] (after 'Christus aperte dixit, Vado', in the lemma of v. 36, after 'et bibat, hoc est', and after 'Qui credit in me fide formata ac plena'). Please rescan PDF 429 and fill the gaps. Margin readings checked: John 11:57 (printed xi, 56), John 1:18, Lev 23:36, 39, Num 29:12, 35, Ecclus 51:32 (read as ii, 33), Matt 7:8, Prov 5:15, Prov 22:18, Is 16:11, John 20:22, Rom 8:23 (unread), 2 Pet 1:21, Ps 131:11 (unread), Jer 23:5, Mich 5:2, John 9:4, John 12:42, 3 Kings 19:16 (Eliseus)."
+  },
+  {
+   "id": "john-21",
+   "book": "john",
+   "art": 21,
+   "pages": [
+    432,
+    440
+   ],
+   "status": "needs-scan",
+   "claimed": "2026-11-18T01:40:00Z",
+   "chapter_guess": 8,
+   "note": "Published with gaps (PDF 432-440, pp. 422-430; John 8:1-20). Translated in three parts by parallel workers. PDF 438 (p. 428): the middle of both columns is garbled in the OCR. Right column restored from the margin reader's context lines; left column (v. 14, on Christ's knowing whence He came and whither He goes) two lines lost, marked […]. Also: the first word of the article is lost (read as Quæ post facta…); data/bible/drc/john.json 8:14 lacks its last clause (but you know not whence I come or whither I go), so Denis's lemma of it is untagged with a note; margin by the Susanna story (Dan. xiii) has no readable verse, given as Dan 13:36."
+  },
+  {
+   "id": "john-22",
+   "book": "john",
+   "art": 22,
+   "pages": [
+    439,
+    450
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 8,
+   "note": "Published with gaps: the middle of PDF 442 (p. 432; on vv. 26 and 28) is garbled in the OCR and its two columns were interleaved; the text was put back in order by the sense, and the unreadable lines are marked […] (after 'exstat in', and in 'visis mira[…] fiebant'). Please rescan PDF 442 and fill the gaps. Margin readings checked: Is 59:2, Jer 5:25, Acts 3:23 with Deut 18:19, Rom 14:10 (unread), John 3:17 (read as Matt 18:41), Zach 2:3, 1 Cor 2:14, Is 42:1 (read as xii, 1), John 14:31, Prov 15:27, Ps 90:14, Judg 3:8, 2 Tim 2:26, Is 9:4 (unread), Prov 5:22, Rom 8:15 (unread), Ps 87:6, Ecclus 40:1, Osee 9:1, Is 52:13, Mich 3:1–2, Job 41:25, 1 John 3:8, 2 Cor 4:16 (unread), Ezech 28:12–17, Jude 6, 2 Pet 2:4, 2 Cor 11:14."
+  },
+  {
+   "id": "john-23",
+   "book": "john",
+   "art": 23,
+   "pages": [
+    449,
+    456
+   ],
+   "status": "done",
+   "chapter_guess": 8,
+   "note": "Margin numerals misread in places (Is 53:9, Heb 9:15, 1 John 2:1, Luke 4:30 noted in brackets). Untagged margin notes read as unconfirmed but fitting: Is 21:11, 1 Kings 2:30, Tit 1:16, 1 John 2:3, Rom 1:21, Ps 108:24, 4 Kings 6:18. OCR 'acrisia' corrected to 'aorasia' (Gen 19:11 blindness)."
+  },
+  {
+   "id": "john-24",
+   "book": "john",
+   "art": 24,
+   "pages": [
+    455,
+    468
+   ],
+   "status": "done",
+   "claimed": "2026-11-18T01:48:00Z",
+   "chapter_guess": 9,
+   "note": "Done 18 Nov (PDF 456-468, pp. 446-458; the whole of John 9). Translated in six parts by parallel workers. For a look against the scan: several margin numerals misread and corrected by the sense (e.g. Is 42:6-7 for Is. xvn, 6, 7; Tob 2:12 for Tob. i, 19; Num 28:9 for Num. xxvi, 9; Ex 33:11 for xxxii, dt); the six kinds of scourging (Antiochus, Herod, Sodom, Dathan, Miriam, the paralytic) given as single reference-only markers; Job 14:4 cited by Denis juxta LXX (reference-only, with note). data/bible/drc/john.json 9:31 has a stray comma (doth his, will)."
+  },
+  {
+   "id": "john-25",
+   "book": "john",
+   "art": 25,
+   "pages": [
+    467,
+    473
+   ],
+   "status": "done",
+   "chapter_guess": 10,
+   "note": "Unconfirmed margin readings (unread or misread numerals; verses fit the words): 1 Tim 3:15, Ecclus 15:3, Is 51:3, Is 51:11 (also Is 35:10), Is 64:4, Col 2:5, Jer 23:21. Column edges of PDF 470-471 were clipped in the OCR; restored by the sense (e.g. ante eas vadit, signum, subditos)."
+  },
+  {
+   "id": "john-26",
+   "book": "john",
+   "art": 26,
+   "pages": [
+    472,
+    479
+   ],
+   "status": "done",
+   "claimed": "2026-11-18T01:54:00Z",
+   "chapter_guess": 10,
+   "note": "Done 18 Nov (PDF 473-479, pp. 463-469; John 10:11-21). Translated in three parts by parallel workers. For a look against the scan: margin Ezech. xxxiv, 9 given as 34:5 (the words quoted); garbled margin beside Christus pro omnibus passus sit read as Is 53:6, Rom 8:32, 1 Cor 15:22, 2 Cor 5:15, 1 Tim 2:6 (reference-only); Exodus margin by Pharao's magicians read as Ex 7:11, 7:22, 8:7; Apoc. xxi, 21 (book of life) given as Apoc 21:27."
+  },
+  {
+   "id": "john-27",
+   "book": "john",
+   "art": 27,
+   "pages": [
+    478,
+    486
+   ],
+   "status": "done",
+   "chapter_guess": 10,
+   "note": "Unconfirmed margin readings (unread or misread numerals; verses fit the words): 3 Kings 8:2, Acts 3:11, 2 Cor 6:16, 2 Kings 7:9, Ps 117:12, Is 60:12, Ps 71:8, 2 Tim 2:19, 2 Tim 3:12, Rom 10:2, 1 John 4:1, John 3:35."
+  },
+  {
+   "id": "john-28",
+   "book": "john",
+   "art": 28,
+   "pages": [
+    485,
+    499
+   ],
+   "status": "done",
+   "claimed": "2026-11-18T02:00:30Z",
+   "chapter_guess": 11,
+   "note": "Done 18 Nov (PDF 486-499, pp. 476-489; the whole of John 11:1-46). Translated in seven parts by parallel workers. For a look against the scan: margin by verus in sermone, et justus in opere has one unreadable reference (noted in the text); many misread numerals corrected by the sense (e.g. Is 42:4 for Is. xiii, 4; Jer 17:5; Is 61:1; Ps 44:8; Gen 23:9 and 49:29 for the burial of the patriarchs; 2 Par 28:27, 4 Kings 16:20 for Achaz); ranges in the margin given as single-verse markers."
+  },
+  {
+   "id": "john-29",
+   "book": "john",
+   "art": 29,
+   "pages": [
+    498,
+    503
+   ],
+   "status": "done",
+   "chapter_guess": 11,
+   "note": "Unconfirmed margin readings (unread or misread numerals): Num 22:5, Num 24:2-4, Num 35:28 and Exod. xxix (high priest for life), Is 53:6, 1 John 2:2, Is 11:12 (the margin lists many chapters of Isaias on the gathering of the Jews; not read)."
+  },
+  {
+   "id": "john-30",
+   "book": "john",
+   "art": 30,
+   "pages": [
+    502,
+    511
+   ],
+   "status": "needs-scan",
+   "chapter_guess": 12,
+   "note": "Published with a gap: the OCR of the foot of PDF 503 right column / top of PDF 504 (end of v. 2, start of the passage on why Christ came to Bethania first) is garbled; missing lines marked […]. Please rescan PDF 503-504. Unconfirmed margin readings: Is 47:1, Ecclus 34:16, Ps 56:12 (margin unread; Ps 107:6 has the same words), Acts 21:28, 2 Mach 3:2."
+  },
+  {
+   "id": "john-31",
+   "book": "john",
+   "art": 31,
+   "pages": [
+    510,
+    519
+   ],
+   "status": "done",
+   "chapter_guess": 12,
+   "note": "Unconfirmed margin readings (unread or misread numerals; verses fit the words): Is 53:10, 1 Thess 4:3, Jude 1:12-13, 1 John 3:2, Ps 21:16, Ps 118:32, Is 49:6, Is 9:2, John 8:20, Matt 21:12 / Mark 11:15 / Luke 19:45. Several column edges of PDF 518 were clipped in the OCR and restored by the sense."
+  },
+  {
+   "id": "john-32",
+   "book": "john",
+   "art": 32,
+   "pages": [
+    518,
+    523
+   ],
+   "status": "done",
+   "chapter_guess": 12,
+   "note": "Published (PDF 519-523, pp. 509-513; John 12:37-50). Is 7:9 and Is 6:1 quoted after the Septuagint (margin 'juxta LXX'), noted in the text. John 12:50 printed 'docuit', margin 'alias dixit', noted."
+  },
+  {
+   "id": "john-33",
+   "book": "john",
+   "art": 33,
+   "pages": [
+    522,
+    530
+   ],
+   "status": "done",
+   "chapter_guess": 13,
+   "note": "Unconfirmed or guessed margin readings: Ex 13:3, Lev 23:8, Ps 72:26, Is 63:2, Is 33:22, Is 51:23 (unread), 1 Kings 18:7, Eccles 2:14 (Denis's second half differs from the Vulgate). Several OCR column edges restored by the sense."
+  },
+  {
+   "id": "john-34",
+   "book": "john",
+   "art": 34,
+   "pages": [
+    529,
+    536
+   ],
+   "status": "done",
+   "chapter_guess": 13,
+   "note": "Published (PDF 530-536, pp. 520-526; John 13:21-38). Margin numerals unclear at 'sanctificari, magnificari seu exaltari' (Ezech. xxxvii, 23; Ps. xlv): Ezech 38:23 and Ps 45:11 used, with a note."
+  },
+  {
+   "id": "john-35",
+   "book": "john",
+   "art": 35,
+   "pages": [
+    535,
+    544
+   ],
+   "status": "in-progress",
+   "chapter_guess": 14,
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T02:21:12Z"
+  },
+  {
+   "id": "john-36",
+   "book": "john",
+   "art": 36,
+   "pages": [
+    543,
+    552
+   ],
+   "status": "in-progress",
+   "chapter_guess": 14,
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T02:26:26Z"
+  },
+  {
+   "id": "john-37",
+   "book": "john",
+   "art": 37,
+   "pages": [
+    551,
+    561
+   ],
+   "status": "todo",
+   "chapter_guess": 15,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-38",
+   "book": "john",
+   "art": 38,
+   "pages": [
+    560,
+    565
+   ],
+   "status": "todo",
+   "chapter_guess": 15,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-39",
+   "book": "john",
+   "art": 39,
+   "pages": [
+    564,
+    571
+   ],
+   "status": "todo",
+   "chapter_guess": 16,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-40",
+   "book": "john",
+   "art": 40,
+   "pages": [
+    570,
+    576
+   ],
+   "status": "todo",
+   "chapter_guess": 16,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-41",
+   "book": "john",
+   "art": 41,
+   "pages": [
+    575,
+    582
+   ],
+   "status": "todo",
+   "chapter_guess": 17,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-42",
+   "book": "john",
+   "art": 42,
+   "pages": [
+    581,
+    587
+   ],
+   "status": "todo",
+   "chapter_guess": 17,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-43",
+   "book": "john",
+   "art": 43,
+   "pages": [
+    586,
+    594
+   ],
+   "status": "todo",
+   "chapter_guess": 18,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-44",
+   "book": "john",
+   "art": 44,
+   "pages": [
+    593,
+    598
+   ],
+   "status": "todo",
+   "chapter_guess": 18,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-45",
+   "book": "john",
+   "art": 45,
+   "pages": [
+    597,
+    604
+   ],
+   "status": "todo",
+   "chapter_guess": 19,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-46",
+   "book": "john",
+   "art": 46,
+   "pages": [
+    603,
+    609
+   ],
+   "status": "todo",
+   "chapter_guess": 19,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-47",
+   "book": "john",
+   "art": 47,
+   "pages": [
+    608,
+    616
+   ],
+   "status": "todo",
+   "chapter_guess": 20,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-48",
+   "book": "john",
+   "art": 48,
+   "pages": [
+    615,
+    622
+   ],
+   "status": "todo",
+   "chapter_guess": 20,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-49",
+   "book": "john",
+   "art": 49,
+   "pages": [
+    621,
+    626
+   ],
+   "status": "todo",
+   "chapter_guess": 21,
+   "note": "batch stopped (API credit ran out)"
+  },
+  {
+   "id": "john-50",
+   "book": "john",
+   "art": 50,
+   "pages": [
+    625,
+    630
+   ],
+   "status": "todo",
+   "chapter_guess": 21,
+   "note": "batch stopped (API credit ran out)"
+  }
+ ]
 }
