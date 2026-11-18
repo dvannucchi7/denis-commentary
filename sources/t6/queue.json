@@ -434,9 +434,10 @@
     136,
     140
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:05:05Z"
+   "claimed": "2026-11-18T12:05:05Z",
+   "note": "translated by scheduled run (worker). Cutting error repaired: the article's last lines (right column top of transcribed p140, 'sequuntur ac implent. Quia obstructum est…' to '…eisque prævaleat', v. 12) had been cut into psalms-024.txt; translated here, left out of Art. XXIV. Luke 11:24 (margin) mixes in Matt 12:43 (noted); Prov 10:1 'filius sapiens est gloria patris' does not match (reference-only, noted); Gal 5:17, Job 27:9 wording differs (noted)."
   },
   {
    "id": "psalms-024",
@@ -447,9 +448,10 @@
     140,
     143
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:05:05Z"
+   "claimed": "2026-11-18T12:05:05Z",
+   "note": "translated by scheduled run (worker). The misplaced end of Art. XXIII (lines 35-43 of the cut file) left out. Margin John iii, 31 → John 3:34 (noted); 2 Par 20:17 loose (noted); Job 5:13 in the wording of 1 Cor 3:19 (noted). 'tamque' read 'tuamque'. Douay-Rheims data slip: John 17:1 lacks 'Father,'."
   },
   {
    "id": "psalms-025",
@@ -460,9 +462,10 @@
     143,
     146
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:05:05Z"
+   "claimed": "2026-11-18T12:05:05Z",
+   "note": "translated by scheduled run (worker). '[…]' in 'Prote[…]xisti' (v. 3) at a hyphen break: probably nothing missing. 'Ibid. x, 39' → John 10:39, 'Ibid. xxvii, 2, 31' → Matthew (noted). Denis reads 'Accedet homo et cor altum' (noted). Many obvious quotations without margin notes tagged (John 19:15, Matt 26:5, Acts 4:13, 6:10, Matt 27:54, Luke 23:48, Acts 2:37, 41, 4:4, John 8:28, Luke 24:49, John 16:13, Phil 4:4, Matt 25:34)."
   },
   {
    "id": "psalms-026",
@@ -473,9 +476,10 @@
     146,
     149
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:05:05Z"
+   "claimed": "2026-11-18T12:05:05Z",
+   "note": "translated by scheduled run (worker). The heading is split in the transcription ('EXPOSITIO TROPOLOGICA SIVE MORALIS' + stray '### IS EJUSDEM PSALMI SEXAGESIMI TERTII' mid-text): joined as the title. Margin Is. ii, 7 → Is 51:7 (noted). Roman Psalter reading 'Quum tribulor' (noted); Deut 4:29 tagged without a margin note."
   },
   {
    "id": "psalms-027",
