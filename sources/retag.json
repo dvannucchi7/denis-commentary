@@ -772,8 +772,8 @@
    "chapter": 11,
    "num": "XXIX",
    "flagged": 8,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:37Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 30, closing assurance of being heard, vv. 1–13 to vv. 9–13); 7 confirmed"
   },
   {
    "id": "luke-11-XXX",
@@ -781,8 +781,8 @@
    "chapter": 11,
    "num": "XXX",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:37Z"
+   "status": "done",
+   "note": "all 4 flagged tags confirmed; no change"
   },
   {
    "id": "luke-11-XXXI",
@@ -790,8 +790,8 @@
    "chapter": 11,
    "num": "XXXI",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:37Z"
+   "status": "done",
+   "note": "1 tag removed (para 22, general question on Luke's and Matthew's order of the discourse); 3 confirmed"
   },
   {
    "id": "luke-12-XXXII",
@@ -799,8 +799,8 @@
    "chapter": 12,
    "num": "XXXII",
    "flagged": 7,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "luke-12-XXXIII",
@@ -808,8 +808,8 @@
    "chapter": 12,
    "num": "XXXIII",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "luke-12-XXXIV",
@@ -817,8 +817,8 @@
    "chapter": 12,
    "num": "XXXIV",
    "flagged": 1,
-   "status": "in-progress",
-   "claimed": "2026-11-18T00:54:37Z"
+   "status": "done",
+   "note": "all flagged tags confirmed; no change"
   },
   {
    "id": "luke-13-XXXV",
