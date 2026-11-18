@@ -560,9 +560,10 @@
     173,
     181
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:26:02Z"
+   "claimed": "2026-11-18T12:26:02Z",
+   "note": "translated by scheduled run (two workers, split at \"Porro quæ dicta sunt\"); v. 21 lemma has only one \"Domini\" though Denis says the word is doubled (kept as printed); margin \"Act. vii–ix\" given as ref-only Acts 7:57 and 9:1 with a note; 2 Cor 12:2 marked beside the margin's 12:4. Douay-Rheims data slips noticed: Ps 67:29 \"O God confirm\" (comma missing), Acts 7:57 \"without the city. they stoned\"; Vulgate data slip: sources/vulgate 1 Thess 4:15 holds the text of 4:14"
   },
   {
    "id": "psalms-033",
@@ -573,9 +574,10 @@
     181,
     187
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:26:02Z"
+   "claimed": "2026-11-18T12:26:02Z",
+   "note": "translated by scheduled run; the article's last paragraph (v. 16, \"Non me demergat … in inferno\", right column of PDF 187) had been cut into psalms-034.txt and is translated here (removed from psalms-034.txt; check Art. XXXIV does not repeat it). Margin verse numbers v. 6–9 are off by one and were judged by the text; quotations with no margin note tagged where Denis names the speaker (Acts 4:27–28, John 8:52, 8:22, 9:29, 9:22, Job 19:13, Jer 14:8). Douay-Rheims data slip: 1 Cor 4:10 \"Christs sake\""
   },
   {
    "id": "psalms-034",
