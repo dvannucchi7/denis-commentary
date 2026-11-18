@@ -1266,8 +1266,9 @@
     444,
     451
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T16:37:00Z"
   },
   {
    "id": "psalms-006-2",
@@ -1278,8 +1279,9 @@
     451,
     455
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T16:37:00Z"
   },
   {
    "id": "psalms-007-2",
