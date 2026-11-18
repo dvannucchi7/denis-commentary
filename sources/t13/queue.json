@@ -747,9 +747,9 @@
     307,
     312
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Galatians 5, Art. V (pp. 285-290) with gaps (PDF 307): the printed title is lost; at v. 1 a line inside Matt 26:53 and the lemma 'State, et nolite…' with its gloss are lost; at v. 2 'Ecce ego Paulus' is lost. The article opens with Gal 4:31 (untagged paragraph, marked Gal 4:31). The first three lines of the right column of PDF 307 ('a populo christiano separandæ … præmio') end Art. IV and were added to its last paragraph. Margin numerals corrected with notes: 'Joan. xviii, 7' -> Is 53:7; 'Job xx, 12' -> Job 24:12; 'Item xv, 17' -> Rom 14:17. Italics not in the Vulgate at vv. 7-8 and v. 16 left as plain text (noted). Please check against the scan.",
    "claimed": "2026-11-18T06:25:13Z"
   },
   {
@@ -761,9 +761,9 @@
     312,
     317
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Galatians 6, Art. VI (pp. 290-293). Unread margin notes taken as 2 Cor 1:12 and 1 Cor 1:31 (noted). Margin numerals corrected with notes: 'Eccli. xxxviii, 24' -> Ecclus 38:23; '1 Tim. ii, 5' -> 2 Tim 2:5; 'Ps. xliv, 22' -> Ps 43:22. Duplicated lines in the transcription (around Eph 2:19, 1 Tim 5:8) kept once. Transcribed p316 is a failed transcription but the article ends on p315 (Amen).",
    "claimed": "2026-11-18T06:25:13Z"
   },
   {
