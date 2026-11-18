@@ -821,10 +821,9 @@
     575,
     582
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 17,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T02:39:03Z"
+   "note": "Published (PDF 576-582, pp. 566-572; John 17:1-12). The Douay-Rheims file's John 17:1 lacks the word 'Father' ('he said: the hour is come'); the lemma follows the file. Denis quotes Jer 32:39 as 'cor unum et animam unam' (Vulgate 'viam unam'), noted."
   },
   {
    "id": "john-42",
