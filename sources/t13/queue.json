@@ -1449,10 +1449,9 @@
     569,
     580
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T07:54:50Z"
+   "note": "Published as James 1, Art. I (pp. 547–558) with two gaps at v. 4 where the transcription has […]: 'Secundum est, quo[…]dium spirituale' (probably gaudium; noted) and 'hoc […] sumus manifestare' (printed 'summus' read as sumus). Margin numerals corrected (noted): Ps. i, 20 → Ps 50:20 (reference-only); Ps. xxvii, 20 → Ps 17:29; Ps. xcii, 12 → Ps 93:12; Matth. xi, 24–27 → Matt 7:24–27. Job xxi, 7–9 printed beside the Jeremias line belongs to the Job quotation before it. Many quotations without margin notes tagged as obvious (Denis names the source). Translated in two parts (split at the v. 5 lemma)."
   },
   {
    "id": "james-002-14",
@@ -1476,10 +1475,9 @@
     590,
     594
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T07:54:50Z"
+   "note": "Published as James 1, Art. III (pp. 568–572). Source lines 30–43 (end of Art. II, v. 21, already in Art. II) left out. Margins that did not fit (noted): Rom. vii, 2 → Rom 8:2; Osee viii, 11 → Osee 7:11; second 'Ibid. xii, 37' → Matt 15:18; 'Ibid. vi, 12' → Luke 6:12. Unreadable margins supplied from the words: Ps 139:12, Job 11:2, Ecclus 21:28, Ecclus 20:5, Prov 21:23, Prov 13:3, Luke 22:43 (reference-only); 'Matth. v, […]' → Matt 5:1 (reference-only)."
   },
   {
    "id": "james-004-12",
