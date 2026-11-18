@@ -796,9 +796,9 @@
     564,
     571
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "chapter_guess": 16,
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published with gaps (PDF 564-571, pp. 554-561; John 16:5-23a). The OCR lost lines in two places: PDF 567 (p. 557), foot of both columns (left: about two lines after 'Omnes expositiones istae vi-', end of v. 10; right: about two lines in v. 12 after 'quasi futuris totius', before 'alios informare'), and the lower half of PDF 569 (p. 559), where every other line is garbled (vv. 17-18 after 'Per hoc quod Evangelista ait', and v. 20 after 'contristabimini triduo mortis meae', 'nec ejus passionem', 'versum est in moe-'). The surviving strips were put back in order by the sense; missing words marked [...]. Please rescan PDF 567 and 569. Margin numerals guessed: 2 Cor 5:16 (margin read 'II Cor. v, 16'), Job 41:24-25, Is 14:12, 2 Pet 2:4, 9, Ps 41:4, Prov 2:14, 1 Thess 2:19, Acts 2:41 (margin partly unreadable), Mark 15:46.",
    "claimed": "2026-11-18T02:34:25Z"
   },
   {
