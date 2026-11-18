@@ -1186,8 +1186,8 @@
    "chapter": 1,
    "num": "II",
    "flagged": 16,
-   "status": "in-progress",
-   "claimed": "2026-11-18T01:00:02Z"
+   "status": "done",
+   "note": "5 tags narrowed (paras 12–15, whether temptation is to be desired, vv. 12–16 to vv. 2, 12 (para 14 also v. 13); para 16, whether temptation is sin, to vv. 13–14); 11 confirmed"
   },
   {
    "id": "i-peter-1-III",
@@ -1195,8 +1195,8 @@
    "chapter": 1,
    "num": "III",
    "flagged": 2,
-   "status": "in-progress",
-   "claimed": "2026-11-18T01:00:02Z"
+   "status": "done",
+   "note": "both flagged tags confirmed; no change"
   },
   {
    "id": "i-peter-3-VII",
@@ -1204,8 +1204,8 @@
    "chapter": 3,
    "num": "VII",
    "flagged": 10,
-   "status": "in-progress",
-   "claimed": "2026-11-18T01:00:02Z"
+   "status": "done",
+   "note": "all 10 flagged tags confirmed; no change"
   },
   {
    "id": "genesis-30-LXXVI",
@@ -1213,8 +1213,8 @@
    "chapter": 30,
    "num": "LXXVI",
    "flagged": 6,
-   "status": "in-progress",
-   "claimed": "2026-11-18T01:00:02Z"
+   "status": "done",
+   "note": "1 tag narrowed (para 3 to v. 9); 5 confirmed (mystical readings that run through each passage)"
   },
   {
    "id": "genesis-31-LXXVII",
@@ -1222,8 +1222,8 @@
    "chapter": 31,
    "num": "LXXVII",
    "flagged": 5,
-   "status": "in-progress",
-   "claimed": "2026-11-18T01:00:02Z"
+   "status": "done",
+   "note": "all 5 flagged tags confirmed; no change"
   },
   {
    "id": "exodus-20-XL",
@@ -1231,8 +1231,8 @@
    "chapter": 20,
    "num": "XL",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T01:00:02Z"
+   "status": "done",
+   "note": "all 4 flagged tags confirmed; no change"
   },
   {
    "id": "exodus-20-XLI",
@@ -1240,8 +1240,8 @@
    "chapter": 20,
    "num": "XLI",
    "flagged": 4,
-   "status": "in-progress",
-   "claimed": "2026-11-18T01:00:02Z"
+   "status": "done",
+   "note": "all 4 flagged tags confirmed; no change"
   }
  ]
 }
