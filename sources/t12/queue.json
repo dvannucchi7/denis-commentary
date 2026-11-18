@@ -637,10 +637,10 @@
     472,
     479
    ],
-   "status": "in-progress",
+   "status": "done",
    "claimed": "2026-11-18T01:54:00Z",
    "chapter_guess": 10,
-   "note": "batch stopped (API credit ran out)"
+   "note": "Done 18 Nov (PDF 473-479, pp. 463-469; John 10:11-21). Translated in three parts by parallel workers. For a look against the scan: margin Ezech. xxxiv, 9 given as 34:5 (the words quoted); garbled margin beside Christus pro omnibus passus sit read as Is 53:6, Rom 8:32, 1 Cor 15:22, 2 Cor 5:15, 1 Tim 2:6 (reference-only); Exodus margin by Pharao's magicians read as Ex 7:11, 7:22, 8:7; Apoc. xxi, 21 (book of life) given as Apoc 21:27."
   },
   {
    "id": "john-27",
