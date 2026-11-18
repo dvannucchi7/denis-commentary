@@ -1421,9 +1421,10 @@
     509,
     515
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:12:12Z"
+   "claimed": "2026-11-18T17:12:12Z",
+   "note": "Margin 'Ps. i, 8' read as Ps 50:8; 'Marc. xvi, 15' as Mark 14:15; 'Hebr. vii, 20' as Heb 6:20 (bracketed notes). The source file psalms-017-2.txt held five lines from the end of Ps 108's article (et persecutoribus cordialiter exorare… and its Precatio), left out here."
   },
   {
    "id": "psalms-018-2",
@@ -1434,9 +1435,10 @@
     515,
     521
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:12:50Z"
+   "claimed": "2026-11-18T17:12:50Z",
+   "note": "Margin 'Deut. v, 17. 21' read as Deut 10:17, 21 (note in text)."
   },
   {
    "id": "psalms-019-2",
