@@ -612,10 +612,10 @@
     455,
     468
    ],
-   "status": "in-progress",
+   "status": "done",
    "claimed": "2026-11-18T01:48:00Z",
    "chapter_guess": 9,
-   "note": "batch stopped (API credit ran out)"
+   "note": "Done 18 Nov (PDF 456-468, pp. 446-458; the whole of John 9). Translated in six parts by parallel workers. For a look against the scan: several margin numerals misread and corrected by the sense (e.g. Is 42:6-7 for Is. xvn, 6, 7; Tob 2:12 for Tob. i, 19; Num 28:9 for Num. xxvi, 9; Ex 33:11 for xxxii, dt); the six kinds of scourging (Antiochus, Herod, Sodom, Dathan, Miriam, the paralytic) given as single reference-only markers; Job 14:4 cited by Denis juxta LXX (reference-only, with note). data/bible/drc/john.json 9:31 has a stray comma (doth his, will)."
   },
   {
    "id": "john-25",
