@@ -1826,9 +1826,10 @@
     619,
     620
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:11:29Z"
+   "claimed": "2026-11-18T20:11:29Z",
+   "note": "Margin 'Ps. cxlv, 9' taken as Ps 144:9 (noted). The article's end (from 'exsistens, tanto attentius' and its Precatio) had been cut into psalms-044-2; restored."
   },
   {
    "id": "psalms-044-2",
@@ -1839,9 +1840,10 @@
     620,
     621
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:11:29Z"
+   "claimed": "2026-11-18T20:11:29Z",
+   "note": "Rebuilt from PDF 620-621 (the cut had dropped most of the text). The transcription of PDF 621 has no margin notes beside its quotations; tagged as obvious (Denis names the source), unconfirmed: 2 Kings 6:22, Job 15:12-13, Prov 16:5, Ecclus 3:22, Rom 12:16, Col 1:10 (Denis: Crescite in scientia Dei; noted), John 5:39, Matt 5:3, 11:29, Rom 12:10, Eph 5:21, Phil 2:3."
   },
   {
    "id": "psalms-045-2",
@@ -1852,9 +1854,10 @@
     622,
     625
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T20:11:29Z"
+   "claimed": "2026-11-18T20:11:29Z",
+   "note": "New item: the article's heading is missing from the transcription (title shown as […], English title supplied, as for Ps 121 Art. XXXIII). v. 11 'alias eam' read as a footnote variant (noted). Margin 3 Kings 9:3 fits only the first half of 'Sanctificavi mihi domum istam, et habitabo cum filiis Israel'; the second half tagged 3 Kings 6:13 (noted). Tagged without margin note: 3 Kings 8:18-19, Mich 5:2, Ex 19:22, Luke 1:32, Is 9:7."
   },
   {
    "id": "psalms-046-2",
