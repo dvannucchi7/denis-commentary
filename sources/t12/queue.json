@@ -699,10 +699,9 @@
     510,
     519
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 12,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T02:10:39Z"
+   "note": "Unconfirmed margin readings (unread or misread numerals; verses fit the words): Is 53:10, 1 Thess 4:3, Jude 1:12-13, 1 John 3:2, Ps 21:16, Ps 118:32, Is 49:6, Is 9:2, John 8:20, Matt 21:12 / Mark 11:15 / Luke 19:45. Several column edges of PDF 518 were clipped in the OCR and restored by the sense."
   },
   {
    "id": "john-32",
