@@ -125,7 +125,7 @@
    ],
    "status": "needs-scan",
    "source": "transcribed",
-   "note": "Published with gaps (Rom 6:1-23, pp. 47-52). The transcription has lost: the start of v. 3 (p. 48, after 'quomodo mortui sumus ipsi peccato'), a line in v. 4 (after 'per gloriam, id est majestatem'), the start of v. 14 (p. 50/51, after 'ad Dei honorem ac laudem'), a word after 'Mors et vita ab ipso' (v. 23), and the article breaks off at 'Haec autem' (end of v. 23, p. 52). Please check those places against the scan. Ecclus 18:30 given for the margin's 'Eccli. xxxvi, 30'.",
+   "note": "Published with gaps (Rom 6:1-23, pp. 47-52). The transcription has lost: the start of v. 3 (p. 48, after 'quomodo mortui sumus ipsi peccato'), a line in v. 4 (after 'per gloriam, id est majestatem'), the start of v. 14 (p. 50/51, after 'ad Dei honorem ac laudem'), a word after 'Mors et vita ab ipso' (v. 23). Please check those places against the scan. Ecclus 18:30 given for the margin's 'Eccli. xxxvi, 30'. The end of v. 23 ('Haec autem vita aeterna est in Christo Jesu...') was found at the top of the right column of transcribed/p74.txt (it had been cut into romans-010.txt) and added.",
    "claimed": "2026-11-18T03:01:49Z"
   },
   {
@@ -137,10 +137,9 @@
     74,
     80
    ],
-   "status": "in-progress",
+   "status": "todo",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T03:05:14Z"
+   "note": "batch stopped (API credit ran out)"
   },
   {
    "id": "romans-011",
