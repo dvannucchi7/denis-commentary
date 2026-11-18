@@ -1351,9 +1351,10 @@
     479,
     488
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:50:30Z"
+   "claimed": "2026-11-18T16:50:30Z",
+   "note": "Published with a gap (scheduled run, 2 workers): the transcription of PDF 482 (p. 472) is empty. Lost: the end of Augustine's 'four evils' paragraph (breaks off at 'difficul[…]') and Denis on vv. 10–16 up to the middle of v. 16 (resumes '[…] est, a fidelibus abstulit'). Please transcribe PDF 482 and redo those paragraphs. Also: v. 8 printed 'Confitentur' kept; margin Job vi → Job 4:6, Is. liii, 15 → Is 52:15 (notes); 'Unusquisque in iniquitatibus suis tabescet', given to Jeremias, marked Ezech 4:17 with a note. Tagged without margin note (Denis names the source): Rom 7:23–25, Rom 14:23, John 14:6, Matt 19:17, Heb 4:11, Jer 17:9, Is 14:15, Prov 5:22, Acts 2:47."
   },
   {
    "id": "psalms-012-2",
@@ -1364,9 +1365,10 @@
     488,
     490
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:50:30Z"
+   "claimed": "2026-11-18T16:50:30Z",
+   "note": "Published (scheduled run, worker). The end of this article ('profundum continere…' and the Precatio) stands at the start of articles/psalms-013-2.txt; taken from transcribed/p490.txt RIGHT. One word lost in the v. 10 paragraph ('captis […] enim datur modicus cibus', PDF 488–489). v. 40 read contentio (Vulgate contemptio), noted."
   },
   {
    "id": "psalms-013-2",
