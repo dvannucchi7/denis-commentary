@@ -1127,8 +1127,9 @@
     391,
     395
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T16:05:00Z"
   },
   {
    "id": "psalms-074",
@@ -1139,8 +1140,9 @@
     395,
     401
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T16:05:00Z"
   },
   {
    "id": "psalms-075",
@@ -1151,8 +1153,9 @@
     401,
     405
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T16:05:00Z"
   },
   {
    "id": "psalms-076",
