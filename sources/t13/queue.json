@@ -442,9 +442,9 @@
     204,
     209
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 1 Corinthians 12, Art. XII (pp. 182-187). The article's last column (from 'sonarum, ut sunt presbyteri' to 'scilicet caritatem', vv. 28-31) had been cut into the Art. XIII file; it was joined here. Small gaps: a line at the start of v. 5 (PDF 205, the lemma 'Et divisiones ministrationum sunt') and a few words at v. 7. Margin 'Ps. cxiii, 5 sec. Hebr.' given as Ps 113:13; 'Num. xxiv, 8' (Balaam) as reference-only Num 24:3; 'Matth. vii' as Matt 7:22; 'Ps. xxxvi, 16' beside 'principes populorum' does not fit, Ps 46:10 marked with a note.",
    "claimed": "2026-11-18T05:20:26Z"
   },
   {
@@ -456,9 +456,9 @@
     209,
     212
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 1 Corinthians 13, Art. XIII (pp. 187-190) with gaps. The transcription loses words in the opening (v. 1, 'ut […] hominum universorum […]'), the line-ends of one column at vv. 8-10 (PDF 210/211; certain words completed in brackets in the Latin, the rest left as […]), and one margin note at v. 12 (beside 'facie ad faciem, cognoscere eum'). The article number is damaged in the print ('ARTICUL[…]'). The column at the start of the file belonged to Art. XII and was moved there. Please check against the scan.",
    "claimed": "2026-11-18T05:20:26Z"
   },
   {
