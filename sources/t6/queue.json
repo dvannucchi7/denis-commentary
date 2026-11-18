@@ -1267,9 +1267,10 @@
     444,
     451
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:37:00Z"
+   "claimed": "2026-11-18T16:37:00Z",
+   "note": "Published with a gap (scheduled run, worker): one word unread at v. 4, PDF ~445 ('per exhortationem, increpationem, […] mationem prædicatorum', perhaps comminationem/inflammationem): check the scan. Also: a sentence after 'mare Oceanum' (v. 5–6) seems out of order in the print, kept and translated by the sense (note). Margin corrections with notes: Deut. xxxii, 26 = Deut 33:26; Matt. xvii, 2 = Matt 28:3; Eccli. 6, 8, 9 = Ecclus 43:6, 8, 9; 'Judith 4, 5' at v. 14 fits nothing (note). Denis's 'in Genesi … Abyssus operuit illud sicut vestimentum' (v. 6) is not in Genesis (note; worker's guess about Jerome's iuxta Hebraeos unverified)."
   },
   {
    "id": "psalms-006-2",
@@ -1280,9 +1281,10 @@
     451,
     455
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T16:37:00Z"
+   "claimed": "2026-11-18T16:37:00Z",
+   "note": "Published (scheduled run, worker). Margin 'Ps. cxiii, 17 (Hebr.)' given as Ps 113:25 (Vulgate), with a note. Is 26:10 quoted in an older reading (note). Denis's light in the prison of Paul and Silas is not in Acts 16 (note points to Acts 12:7)."
   },
   {
    "id": "psalms-007-2",
