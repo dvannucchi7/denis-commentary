@@ -1435,9 +1435,10 @@
     549,
     555
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T07:54:41Z"
   },
   {
    "id": "james-001-15",
