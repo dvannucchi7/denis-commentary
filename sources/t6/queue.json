@@ -2139,9 +2139,10 @@
     691,
     691
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "Cut fixed 18 Nov: the end of Ps 146's article (salvabit animam suam … and its Precatio) moved into psalms-064-2. What is left here is only Art. LXV's heading and first three lines ('Habet psalmus … non ponitur nisi,'); the article goes on in psalms-066 (from 'Alleluia. Quid autem…', after a heading the transcription repeats), so translate 065-2 and 066 together as one article. Note also that psalms-067-2 opens with Art. LXVI's heading and first paragraph (Ps 148) before Ps 147's Precatio: check the order against PDF 694-695."
+   "note": "Cut fixed 18 Nov: the end of Ps 146's article (salvabit animam suam … and its Precatio) moved into psalms-064-2. What is left here is only Art. LXV's heading and first three lines ('Habet psalmus … non ponitur nisi,'); the article goes on in psalms-066 (from 'Alleluia. Quid autem…', after a heading the transcription repeats), so translate 065-2 and 066 together as one article. Note also that psalms-067-2 opens with Art. LXVI's heading and first paragraph (Ps 148) before Ps 147's Precatio: check the order against PDF 694-695.",
+   "claimed": "2026-11-18T20:55:41Z"
   },
   {
    "id": "psalms-066",
@@ -2152,8 +2153,9 @@
     691,
     695
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T20:55:41Z"
   },
   {
    "id": "psalms-067-2",
@@ -2164,8 +2166,9 @@
     695,
     699
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T20:55:41Z"
   },
   {
    "id": "psalms-067-3",
