@@ -993,9 +993,10 @@
     405,
     406
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:45:36Z"
   },
   {
    "id": "i-thessalonians-004-8",
@@ -1006,9 +1007,10 @@
     406,
     417
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)"
+   "note": "batch stopped (API credit ran out)",
+   "claimed": "2026-11-18T06:45:36Z"
   },
   {
    "id": "ii-thessalonians-001-9",
