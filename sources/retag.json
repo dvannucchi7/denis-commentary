@@ -520,7 +520,8 @@
    "chapter": 1,
    "num": "I",
    "flagged": 13,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:50:34Z"
   },
   {
    "id": "luke-1-II",
@@ -528,7 +529,8 @@
    "chapter": 1,
    "num": "II",
    "flagged": 12,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:50:34Z"
   },
   {
    "id": "luke-1-III",
@@ -536,7 +538,8 @@
    "chapter": 1,
    "num": "III",
    "flagged": 2,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:50:34Z"
   },
   {
    "id": "luke-1-IV",
@@ -544,7 +547,8 @@
    "chapter": 1,
    "num": "IV",
    "flagged": 7,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:50:34Z"
   },
   {
    "id": "luke-1-V",
@@ -552,7 +556,8 @@
    "chapter": 1,
    "num": "V",
    "flagged": 8,
-   "status": "todo"
+   "status": "in-progress",
+   "claimed": "2026-11-18T00:50:34Z"
   },
   {
    "id": "luke-2-VI",
