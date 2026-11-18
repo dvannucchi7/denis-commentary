@@ -870,9 +870,9 @@
     359,
     365
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out) | Lines 6-11 of the cut file ('A meremini vitam æternam … Quæ illic requirantur.') are the end of Art. I, published with Art. I: leave them out.",
+   "note": "Published as Philippians 2, Art. II (pp. 337–343). Lines 6–10 of the article file (end of Art. I) left out (already joined to Art. I); a repeated passage near the end used once. Damaged '[…]titudine' (line 116) restored as 'fortitudine' (Leo's 'pro omni fortitudine'). Margin corrections, each noted in the text: '1 Cor. iii, 5' is 2 Cor 3:5; 'Marc. xvi, 14' is Mark 16:19; 'Is. xlv, 23' given as Is 45:24; margin 'v. 20' stands at v. 21. Tagged with no margin note (Denis names the source): Heb 2:17, Bar 3:38, Is 7:15, John 1:14. Douay-Rheims data slip: John 17:1 lacks 'Father' before 'the hour is come'.",
    "claimed": "2026-11-18T06:35:57Z"
   },
   {
@@ -884,9 +884,9 @@
     365,
     369
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Philippians 3, Art. III (pp. 343–347) with gaps (marked […], each with a note on the likely lemma): v. 3 (two places, PDF 365), v. 4 ('[…]tiam in carne'; 'merito ter servatu[…]'), v. 8 ('[…]mentum esse'), v. 17 (before 'habetis formam nostram'). Margin numerals corrected, each noted: Is. vi, 2 → Is 11:2; Matth. xvi, 16 → Matt 7:16; Matth. xii, 13 → Matt 7:13; Osee v, 7 → Osee 4:7. Tagged with no margin note: Luke 17:10, John 15:2.",
    "claimed": "2026-11-18T06:35:57Z"
   },
   {
