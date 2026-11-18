@@ -993,9 +993,9 @@
     405,
     406
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 1 Thessalonians 3, Art. III (pp. 383–384). Words lost at vv. 7–8 ('quod […] stabiliter', probably the lemma 'nunc vivimus'); the transcription also marks […] after 'de vestris sicut' (v. 9) and 'dirigat viam nostram,' (v. 11), where nothing may be missing. Margin 'Is. m, 14' read as Is 3:14.",
    "claimed": "2026-11-18T06:45:36Z"
   },
   {
@@ -1007,10 +1007,24 @@
     406,
     417
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as 1 Thessalonians 4, Art. IV (pp. 384–388) with gaps (marked […]): rest of the gloss on v. 6, end of John 14:16–17 and start of v. 9, 'qui residui su[…]', a word before 'ante eos', after 'quieverunt', after 'et sic-' (simul rapiemur), and the END of the article: the right column of PDF 410 is missing from the transcription, so it breaks off at 'quoad cin[…]'. On PDF 407 the transcription ran the columns together; the left column was rebuilt from the fragments by sense. NB the Douay-Rheims file numbers 1 Thess 4 one verse lower than the Vulgate from v. 12 on (DR 4:11 = Vulg 4:11–12); tags and lemmata follow the DR file. Margin: John 5:25 is 5:28; Cant 2:3 loose (noted); Is 9:6 LXX reading (noted).",
    "claimed": "2026-11-18T06:45:36Z"
+  },
+  {
+   "id": "i-thessalonians-005",
+   "book": "i-thessalonians",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    410,
+    415
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Art. V (chapter 5) was inside the i-thessalonians-004-8 file, not in the queue. Published as 1 Thessalonians 5, Art. V (pp. 388–393) from the text that survives: its heading, title and beginning (5:1 and the start of 5:2) are lost with the right column of PDF 410, so the title is shown as […]. At 5:27 (PDF 415) left-column line ends were misplaced in the transcription and rejoined by sense ('nos' read as 'quos'). Margin: Eccle. xii, 14 → Eccles 7:14; Ps. cv, 3–4 → Ps 104:3–4; Rom. xiv → Rom 14:13; Wis 6:20 tagged with no margin note. Douay-Rheims data slip: Matt 24:27 'cowling' for 'coming'.",
+   "claimed": null
   },
   {
    "id": "ii-thessalonians-001-9",
