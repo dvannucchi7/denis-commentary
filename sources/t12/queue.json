@@ -723,10 +723,9 @@
     522,
     530
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 13,
-   "note": "batch stopped (API credit ran out)",
-   "claimed": "2026-11-18T02:15:12Z"
+   "note": "Unconfirmed or guessed margin readings: Ex 13:3, Lev 23:8, Ps 72:26, Is 63:2, Is 33:22, Is 51:23 (unread), 1 Kings 18:7, Eccles 2:14 (Denis's second half differs from the Vulgate). Several OCR column edges restored by the sense."
   },
   {
    "id": "john-34",
