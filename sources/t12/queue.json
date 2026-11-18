@@ -870,9 +870,9 @@
     597,
     604
    ],
-   "status": "in-progress",
+   "status": "done",
    "chapter_guess": 19,
-   "note": "batch stopped (API credit ran out)",
+   "note": "Margin numerals guessed where misread: Luke 23:7, 16 (margin 'Luc. xxi, 7-16'), Ps 63:4 (margin 'lxiii, 4'), Lev 24:16 (margin 'Lev. xxi, 16'), Wis 2:15, 2:20, 2:21, Ps 37:5, Is 50:6, Is 53:12, Ex 16:23 (margin unreadable), Matt 27:35 (margin 'In Matth.'). Zach 9:9: Denis's middle words are those of Matt 21:5 (noted in the text). John 18:31 tagged without a margin note.",
    "claimed": "2026-11-18T02:44:59Z"
   },
   {
