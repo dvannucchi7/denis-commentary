@@ -109,9 +109,9 @@
     61,
     69
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "batch stopped (API credit ran out)",
+   "note": "Published as Romans 5, Art. VIII with small gaps: lines missing from the transcription in the glosses on vv. 1 (before 'pacem habeamus'), 8-9 ('secundum tempus, id est tri[duum]...'), 13 (the start of 'peccatum autem non imputabatur'), 17 and 19 (the word 'obedientiam' and the lines after it); left-column line ends of the page with vv. 4-5 were restored by sense. The transcription of this item also opens with a stray block from the end of Art. VII (Rom 4:25, 'Et resurrexit propter justificationem nostram...'), which may be missing from Art. VII.",
    "claimed": "2026-11-18T03:01:08Z"
   },
   {
