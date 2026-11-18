@@ -1652,9 +1652,10 @@
     590,
     592
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:45:51Z"
+   "claimed": "2026-11-18T17:45:51Z",
+   "note": "Published (scheduled run; one worker for Art. XXX and XXXI). 'Salus populi ego sum…' (margin 'Cf. Is. xliii') is the Mass Introit, not Scripture word for word: reference-only Is 43:1 with a note. Tob 3:6 tagged (Denis names Tobias, no margin note)."
   },
   {
    "id": "psalms-031-2",
@@ -1665,9 +1666,10 @@
     592,
     594
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:45:51Z"
+   "claimed": "2026-11-18T17:45:51Z",
+   "note": "Published (scheduled run). Stray running head at the end of the file dropped. Margin 'Joann. xv, 28' → John 14:28 (note in text). Tagged without margin note (word for word or named): Matt 26:39, Luke 22:42–43, Heb 5:7, John 19:15, Mark 14:44, Is 42:22, 24, 25."
   },
   {
    "id": "psalms-032-2",
@@ -1678,9 +1680,23 @@
     594,
     597
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T17:45:51Z"
+   "claimed": "2026-11-18T17:45:51Z",
+   "note": "Published (scheduled run; one worker for Art. XXXII and XXXIII). This file also held all of Art. XXXIII (Ps 121, literal), whose heading is missing from the transcription (PDF 596, p. 586); it is published as psalms-033-2. Margin 'Osee xii, 9' → Osee 13:9 (note). Acts 14:21 tagged with a note (Denis: 'salvari'). Tagged without margin note: 1 Mach 12:1, Judg 5:20, John 10:9."
+  },
+  {
+   "id": "psalms-033-2",
+   "book": "psalms",
+   "art": 33,
+   "chapter_guess": 121,
+   "pages": [
+    596,
+    597
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Published (scheduled run) from the second half of psalms-032-2.txt. The heading (ARTICULUS XXXIII and its Latin title) is missing from the transcription, and words are lost at the start of v. 1 ('LÆTATUS […] sunt mihi', PDF 596, p. 586, left column): Latin title shown as […], English title supplied. Please check the scan."
   },
   {
    "id": "psalms-034-2",
