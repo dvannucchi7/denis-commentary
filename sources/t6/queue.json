@@ -80,8 +80,9 @@
     42,
     49
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-18T11:24:50Z"
   },
   {
    "id": "psalms-093-part1",
@@ -92,10 +93,11 @@
     49,
     56
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
    "part": 1,
-   "parts": 2
+   "parts": 2,
+   "claimed": "2026-11-18T11:24:50Z"
   },
   {
    "id": "psalms-093-part2",
@@ -106,10 +108,11 @@
     57,
     63
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
    "part": 2,
-   "parts": 2
+   "parts": 2,
+   "claimed": "2026-11-18T11:24:50Z"
   },
   {
    "id": "psalms-001",
