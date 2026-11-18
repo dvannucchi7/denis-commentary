@@ -526,10 +526,10 @@
     397,
     409
    ],
-   "status": "in-progress",
+   "status": "done",
    "claimed": "2026-11-18T01:27:00Z",
    "chapter_guess": 6,
-   "note": "batch stopped (API credit ran out)"
+   "note": "Done 18 Nov (John 6:15-50). Check against the scan: margin by 6:41 (murmuring in the desert) partly unread, given as Ex 16:2, 7, 8; Num 11:1; 14:2, 11, 27, 29, 35; 20:13 (the Num 14 range is a guess); 6:23 OCR has gratias agentes Domino (Vulgate agente), noted in the text. data/bible/drc/john.json 6:45 reads cometh forth me (Douay: cometh to me)."
   },
   {
    "id": "john-18",
