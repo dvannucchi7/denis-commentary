@@ -458,9 +458,10 @@
     233,
     243
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T22:19:27Z"
+   "claimed": "2026-11-18T22:19:27Z",
+   "note": "Published (scheduled run, two workers, split at v. 7; first Ecclesiastes article: work title 'Enarratio in librum Ecclesiastæ', PDF = printed page + 22). Margin 'Job xxxiv, 21' → Job 34:24 (note). Prov 15:20 / 10:1 loose: ref-only with note. Jerome's 'et non miremur' looks corrupt (translated as 'non meruimus', noted). Note on 'Vapor fumi et aura tenuis' (Jerome, from Aquila/Symmachus/Theodotion) is the worker's recollection: worth a check. v. 18: Denis reads 'addit et dolorem' (DR 'labour'), noted. 2 Thess 2:10 as the margin gives (the Vulgate file numbers it 2:11). 3 Kings 4:29–34 given as 4:29 with a note. Tagged without margin note: Eccles 12:13."
   },
   {
    "id": "ecclesiastes-002",
@@ -471,9 +472,10 @@
     243,
     248
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T22:19:27Z"
+   "claimed": "2026-11-18T22:19:27Z",
+   "note": "Published with one gap: at the column break on p. 223 (PDF 245), after 'Et quamvis non possit suo Crea-' the right column begins 'per Isaiam testatur': a line or more seems lost; marked […] with a note on the likely sense. Please check PDF 245 against the scan. 'tædium me vitæ meæ' read as 'tæduit' (Vulgate 2:17). Margin 'Ps. liii, 6' → Ps 52:6; 'Jon. iv, 3' → Jon 4:8 (Denis's wording), both noted. 2 Cor 6:14: Denis has 'conventio' (noted). Prov 21:17: Denis 'non erit sapiens' (noted). Margin Jos xiii–xxi given as Jos 13:1."
   },
   {
    "id": "ecclesiastes-003",
