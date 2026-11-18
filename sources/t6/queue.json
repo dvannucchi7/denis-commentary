@@ -250,9 +250,10 @@
     95,
     98
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:45:21Z"
+   "claimed": "2026-11-18T11:45:21Z",
+   "note": "translated by scheduled run (worker). Margin 'Ibid. viii, 30' → John 8:50 (note); the long list of Matthew references became one reference-only marker (Matt 9:3) with a note listing them; Ex 4:23 wording mixed with Ex 5:1 (note); margin reads 'scopus' where the text prints 'opus' (note); v. 10 gloss printed without its lemma (note)."
   },
   {
    "id": "psalms-011",
@@ -263,9 +264,10 @@
     98,
     101
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:45:21Z"
+   "claimed": "2026-11-18T11:45:21Z",
+   "note": "translated by scheduled run (worker). Margin Ps. xxxv, 3 → Ps 36:5 and IV Reg. v, 5 → 4 Kings 20:5 (notes); Mich 7:6 kept as margin gives it, Denis gives it as Christ's (note). A stray 'meo' after 'timeo' (v. 4) dropped as a likely transcription slip: please check the print (PDF 99/100)."
   },
   {
    "id": "psalms-012",
@@ -276,9 +278,10 @@
     101,
     104
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T11:45:21Z"
+   "claimed": "2026-11-18T11:45:21Z",
+   "note": "translated by scheduled run (worker). Misread margin verse numerals placed by the text; Job 22:5 + 22:10 joined by Denis (note); Abisai episode is 1 Kings 26:8-9, not the cave (note); Is 40:31 'volabunt' for 'ambulabunt' (note)."
   },
   {
    "id": "psalms-013",
