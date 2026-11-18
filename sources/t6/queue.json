@@ -963,9 +963,10 @@
     329,
     334
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:44:00Z"
+   "claimed": "2026-11-18T15:44:00Z",
+   "note": "Published (scheduled run, worker). Margin 'Eccli. xxxvii, 37' does not exist: reference-only at Ecclus 23:37 with a note. 'Salus populi ego sum…' is the Introit of the 19th Sunday after Pentecost (margin compares Is 43:11). Job 14:4–5 'juxta LXX' does not match the DR: reference-only."
   },
   {
    "id": "psalms-062",
@@ -976,9 +977,10 @@
     334,
     338
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:44:00Z"
+   "claimed": "2026-11-18T15:44:00Z",
+   "note": "Published (scheduled run, worker). Margin 'Ps. lxxxvii, 19' is really Ps 82:19 (note added). 'ut requirant ceteri hominum Dominum' marked as Acts 15:17 (James's citation of Amos 9:11). DR slip: 1 Cor 2:4 'human wisdom. but' (full stop for comma)."
   },
   {
    "id": "psalms-063",
@@ -989,9 +991,10 @@
     338,
     343
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:44:00Z"
+   "claimed": "2026-11-18T15:44:00Z",
+   "note": "Published (scheduled run, worker). Margin 'Is. i, 7' is Is 50:7 and 'Matth. xxvii, 12' is Matt 17:12 (notes added); the edition's footnote '*Ezrahitæ' at the title is given in a translator's note. DR slip: John 14:30 'prince of this world: cometh'."
   },
   {
    "id": "psalms-064",
