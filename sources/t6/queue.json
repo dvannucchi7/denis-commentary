@@ -921,9 +921,10 @@
     313,
     319
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:36:00Z"
+   "claimed": "2026-11-18T15:36:00Z",
+   "note": "Published (scheduled run, one worker) with a gap: the closing prayer breaks off at '…virtus tua hac in valle plorationis;' (foot of the left column of PDF 319, p. 309; the rest, above the Art. LIX heading in the right column, was not transcribed), marked […]; please check the scan. Margins corrected with notes: Ps. lxxvii, 28 → Ps 72:28; Osee viii, 9 → Osee 13:9; Jac. iv, 5 → Jas 4:4."
   },
   {
    "id": "psalms-059",
@@ -934,9 +935,10 @@
     319,
     325
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:36:00Z"
+   "claimed": "2026-11-18T15:36:00Z",
+   "note": "Published (scheduled run, one worker). Margins corrected with notes: Is. xliv, 8 → Is 45:8; Matt. xii, 29 ref-only (wording is Luke 11:21); Num. xvi → Num 16:1; Prov. x, 1 ref-only (Denis's own wording). Several obvious quotations tagged without margin notes (Jer 29:11, John 10:10, Osee 13:14 …). A repeated passage in the transcription (end of v. 3 gloss) kept once."
   },
   {
    "id": "psalms-060",
@@ -947,9 +949,10 @@
     325,
     329
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T15:36:00Z"
+   "claimed": "2026-11-18T15:36:00Z",
+   "note": "Published (scheduled run, one worker). Two words lost in the transcription ('Oratio David, id est […] Christi'; v. 2 'in quantum vero […] est homo'), marked […]. Margins corrected with notes: Is. xix, 22 → Is 49:22; Judith xvi → Jdt 16:16; Gen 22:18 kept, Denis's wording is Acts 3:25. 4 Esdras 8:31 quoted: note only, no marker."
   },
   {
    "id": "psalms-061",
