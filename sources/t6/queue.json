@@ -24,9 +24,10 @@
     22,
     28
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T10:58:21Z"
+   "claimed": "2026-11-18T10:58:21Z",
+   "note": "translated by scheduled run; margin numerals corrected with notes (Acts 2:43 for \"Act. ii, 44\"); Amos 8:8 margin reference does not fit (reference-only, noted); Douay-Rheims data slips noticed: Mark 11:23 \"but be believe\", John 9:31 \"doth his, will\""
   },
   {
    "id": "psalms-089",
