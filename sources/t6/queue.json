@@ -616,9 +616,10 @@
     199,
     202
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:40:45Z"
+   "claimed": "2026-11-18T12:40:45Z",
+   "note": "translated by scheduled run; 69:6 Denis reads \"Deus meus, ne tardaveris\" (as Ps 39:18) for the Vulgate \"Domine, ne moreris\" (noted); Cassian reference given in a note as Conference X, ch. 10 (from the translator's knowledge, check); quotations with no margin note tagged where named or word for word (Is 64:6, Ps 39:2)"
   },
   {
    "id": "psalms-037",
@@ -629,9 +630,10 @@
     202,
     209
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-18T12:40:45Z"
+   "claimed": "2026-11-18T12:40:45Z",
+   "note": "translated by scheduled run (two workers, split at v. 9 \"Ne projicias me\"); margin numerals corrected with notes (Ecclus 51:15–18 for \"Eccli. ii\", Ps 62:6 for \"Ps. lxxii, 6\", Ps 9:24 for \"Ps. x, 3 sec. Hebr.\", Heb 13:13, Jer 35:6, Wis 2:15, Is 52:10 for \"Is. xli, 10\", Gen 1:26); the transcription's \"[…]\" after Is 26:8 (PDF ~207) dropped as the sense runs on (check against the scan); v. 18 paragraph \"post suam mortem divinæ legis testimonia disserit\" translated literally, may need a look. Douay-Rheims data slips noticed: Is 25:1 \"I will exalt O thee\", Ezech 24:24 \"Ezekiel\""
   },
   {
    "id": "psalms-038",
