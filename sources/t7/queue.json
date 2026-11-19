@@ -880,9 +880,10 @@
     421,
     424
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:12:00Z"
+   "claimed": "2026-11-19T02:12:00Z",
+   "note": "Published (scheduled run, one worker). Its last lines ('præsentia et auditu operiri solebam … Cetera patent', p. 402) stood in Art. XVIII's pre-cut file and were moved here. Denis treats only vv. 1–8 ('Cetera patent'). Margin '*perfecte' corrects the printed 'perfecta' (5:2 gloss). 'quoniam enim videre et invenire non valeo' kept as printed ('enim' perhaps for 'eum'). Denis takes 'Veni in hortum meum' as a command (noted)."
   },
   {
    "id": "song-of-solomon-018",
