@@ -542,9 +542,10 @@
     267,
     280
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:11:48Z"
+   "claimed": "2026-11-19T01:11:48Z",
+   "note": "Published (scheduled run, two workers). Art. VII treats chapter 7 and 8:1 (Denis ends the chapter with 'Sapientia hominis lucet in vultu ejus'): published under both chapters, the 8:1 part under ch. 8 before Art. VIII. Margin 'Eccli. xi, 22, 23' → Ecclus 3:22–23; 'Ps. cvii, 24' → Ps 103:24; 'Prov. xxii, 4' → Prov 23:4; 'Ps. cxxviii, 6' → Ps 138:6; 'Ps. cxviii, 9' → Ps 117:9 (each with a note). v. 18: 'Omnia… sed non singula, vitare valemus' looks reversed; translated by the usual teaching, with a note. Douay-Rheims data slip: John 6:45 reads 'cometh forth me' (should be 'cometh to me')."
   },
   {
    "id": "ecclesiastes-008",
@@ -555,9 +556,10 @@
     280,
     286
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:11:48Z"
+   "claimed": "2026-11-19T01:11:48Z",
+   "note": "Published (scheduled run, one worker). Art. VIII treats 8:2–17 and 9:1 ('Omnia hæc tractavi in corde meo'): published under both chapters, the 9:1 part under ch. 9. Margin 'Job xxiv, … 36, 37' read as Job 34:7, 34:36 (note). Jer 8:15 / 14:19 and Hab 1:3, 13 quoted freely (notes). The transcriber's note at the end placed v. 17, Rom 11:33–34 and Jer 23:18; followed."
   },
   {
    "id": "ecclesiastes-009",
