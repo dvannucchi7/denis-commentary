@@ -667,11 +667,12 @@
     327,
     334
    ],
-   "status": "todo",
+   "status": "in-progress",
    "note": "Its pre-cut file began mid-sentence ('vitæ, te intra se … inter humeros illius requiescet.', with Deut 33:12); those lines were moved to part 1. Part 2 now starts at 'Indica (inquam) mihi'.",
    "source": "transcribed",
    "part": 2,
-   "parts": 2
+   "parts": 2,
+   "claimed": "2026-11-19T01:38:30Z"
   },
   {
    "id": "song-of-solomon-004",
@@ -682,8 +683,9 @@
     334,
     343
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:38:30Z"
   },
   {
    "id": "song-of-solomon-005",
