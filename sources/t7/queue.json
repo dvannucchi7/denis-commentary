@@ -1134,9 +1134,10 @@
     527,
     532
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:07:01Z"
+   "claimed": "2026-11-19T03:07:01Z",
+   "note": "Published (scheduled run, one worker). The last paragraph (v. 19, 'Nam per sapientiam sanati sunt… cujus livore sanati sumus', margin John 1:29, Is 53:4–5) was cut into the pre-cut Art. X file (top of p. 510, PDF 532); translated by the run and added here. Margin numerals corrected with notes: 'Ps. cii, 24' → Ps 103:24; 'I Par. xxiv, 1' → 1 Par 29:1; 'Ps. i, 15' → Ps 50:15. 'Ps. cxviii, 121': Denis's words are 2 Kings 8:15 (marked; Ps 118:121 reference-only). 'Cf. Prov. xiv, 33' reference-only (not Vulgate words). Prov 16:25 quoted, 14:12 reference-only. Tagged without margin note (source named): Ps 32:9, 1 Par 29:15, Rom 7:24, Ps 141:8, Job 4:19, Eccles 1:8, 8:17, Job 37:19, 32:8, 1 John 2:27, John 16:13. Douay-Rheims slips: 1 Par 29:15 stray 'I' ('fathers. I Our days'); Acts 20:27 'spread' for 'spared'."
   },
   {
    "id": "wisdom-010",
@@ -1147,9 +1148,10 @@
     532,
     539
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:07:01Z"
+   "claimed": "2026-11-19T03:07:01Z",
+   "note": "Published (scheduled run, two workers, split at v. 13). Text lost at the foot of the left column of p. 513 (PDF 535, before the 'T. 7.' signature): between 'Do tibi partem unam extra fratres tuos, quam' (Gen 48:22) and '…tudine sua directus est cum angelo' (Osee 12:3–4), marked […]: check the scan. The opening block 'Nam per sapientiam sanati sunt…' (end of Art. IX) was moved to Art. IX. Chapter-only and range margins given single verses with notes (Gen 6:1, 7:17, 39:17, 41:25; Ex 3:1, 4:1, 6:1, 7:1, 12:1; Mark 7:35; Acts 2:14, 2:41, 4:4). Is 9:6 'magni consilii Angelus' (LXX/Introit) reference-only with a note. Denis's readings differing from the Vulgate noted (vv. 1–5, 9; liturgical forms of vv. 10, 17 in the mystical part). Wis 11:1 lemmata in the last paragraphs (untagged). Gen 4:13 tagged without margin note. Douay-Rheims data: Gen 28:14 has 'IN THEE' and 'SHALL BE BLESSED' in capitals."
   },
   {
    "id": "wisdom-011",
