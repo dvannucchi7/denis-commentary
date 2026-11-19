@@ -910,9 +910,10 @@
     431,
     435
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:21:00Z"
+   "claimed": "2026-11-19T02:21:00Z",
+   "note": "Heading damaged in the transcription; title taken as 'DECLARATIO EJUSDEM CAPITULI SEXTI, DE CHRISTO ET SPONSA PARTICULARI.' (check scan). Paragraphs on 5:17 and 7:1 (Denis's chapter 6 begins/ends there) kept untagged in the ch. 6 article with Cant 5:17 / Cant 7:1 markers, as in Art. XVIII. Margin 'Ps. lxxxii, 26' read as Ps 72:26, 'Ps. cxxii, 1' as Ps 132:1 (noted)."
   },
   {
    "id": "song-of-solomon-020",
@@ -923,9 +924,10 @@
     435,
     439
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:21:00Z"
+   "claimed": "2026-11-19T02:21:00Z",
+   "note": "7:1 paragraph kept untagged in the ch. 6 article (Cant 7:1 marker), as in Art. XVIII. Margin 'Ps. lxxvii, 3' read as Ps 67:3 (noted); stray margin '3.' taken as the end of 'Rom. ix, 2, 3'."
   },
   {
    "id": "song-of-solomon-021",
