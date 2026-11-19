@@ -742,9 +742,10 @@
     366,
     372
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:46:00Z"
+   "claimed": "2026-11-19T01:46:00Z",
+   "note": "Its pre-cut file lacked its last line ('consolaretur gregem … hinnulo', p. 350 right column, cut into Art. IX's file); joined back. Matt. xvi, 4 of the margin is Matt 16:3 in the Douay-Rheims (noted). Tagged without a margin note: Heb 13:4, Ezech 28:13, Luke 2:19."
   },
   {
    "id": "song-of-solomon-009",
@@ -755,9 +756,10 @@
     372,
     378
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:46:00Z"
+   "claimed": "2026-11-19T01:46:00Z",
+   "note": "Its last lines ('rificemini ab eodem … respuit compati', with II Tim. iii, 12) stood only in the page transcription (p. 356); joined on. Margin 'Matth. xxii, 10' taken as Matt 22:40 (ref only, noted); 'Pater, quos dedisti mihi, volo' blends John 17:24 with 17:22 (noted)."
   },
   {
    "id": "song-of-solomon-010",
