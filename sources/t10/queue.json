@@ -23,12 +23,12 @@
     25,
     33
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
    "part": 1,
    "parts": 2,
    "claimed": "2026-11-19T03:47:06Z",
-   "note": "(from the Daniel 1 run) The first lines of the old daniel-002-part1.txt, 'gunt mendacium veritati … quotidie crucifigens' (PDF p. 25 right column), are the end of Art. I and are now published there; leave them out of Art. II."
+   "note": "(from the Daniel 1 run) The first lines of the old daniel-002-part1.txt, 'gunt mendacium veritati … quotidie crucifigens' (PDF p. 25 right column), are the end of Art. I and are now published there; leave them out of Art. II. | Part 1 published (scheduled run, one worker; Dan 2:1 to mid v. 23). Needs scan of PDF 26 (printed p. 16): the transcription stops after 'Nam et Josephus decimo Antiquitatum libro, Post secundum, inquit,' and the rest of that column is missing (it must have held the v. 1 lemma 'et conterritus est spiritus ejus'); marked […] with a note. Misread margins corrected with notes: 'Eccli. v, 1' = Ecclus 1:1; 'IV Reg. ix, 11' = 4 Kings 20:11; 'Væ terræ cujus rex puer est' is Eccles 10:16 (Denis says Ecclesiasticus). Margin variant notes '* novi' (v. 8), '* deceptione plenam' (v. 9) given as notes. 'perierant' (Jer 10:11) kept as transcribed."
   },
   {
    "id": "daniel-002-part2",
@@ -39,11 +39,12 @@
     34,
     41
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 2,
    "parts": 2,
-   "claimed": "2026-11-19T03:47:06Z"
+   "claimed": "2026-11-19T03:47:06Z",
+   "note": "Part 2 published (scheduled run, one worker; mid v. 23 to the end, with the St Francis paragraph). Misread margins corrected with notes: 'Is. ix, 12' = Is 60:12; 'Ps. i, 8' = Ps 50:8; 'Ps. lxxxi, 19' = Ps 71:19; 'Exod. xviii' = Ex 18:11. Ranges Acts 28:3-6, 14:10-12 given single reference-only markers. Denis reads 'præfectum et magistrum' (v. 48) for 'præfectum magistratuum'; margin '* erat' (v. 49) as a note. 'domo succensa' kept as printed."
   },
   {
    "id": "daniel-003",
