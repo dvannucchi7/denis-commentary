@@ -1036,9 +1036,10 @@
     484,
     490
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:43:00Z"
+   "claimed": "2026-11-19T02:43:00Z",
+   "note": "Published (scheduled run, one worker; PDF = printed page + 22). Margin 'Par. xxix, 5' does not fit: marked 1 Par 29:15 with a note. John viii, 3–6 marked at John 8:6 with a note. Conflated quotations split per verse with notes (John 7:28–29 and 8:55; John 5:16, 5:18; Mark 7:9 with Matt 15:3, 15:6). Denis's variant readings kept with notes (vv. 1, 3, 9, 15); in v. 17 the italic words 'inter adversa quæ infligeremus ei' are not in the Vulgate (noted). '[*]' after 'vestrum' (v. 9) dropped as a footnote mark. Kept printed 'explicat' (probably 'expleat'). Last (spiritual) paragraph tagged vv. 12–13, 16, 18 by paraphrase: check."
   },
   {
    "id": "wisdom-003",
@@ -1049,9 +1050,10 @@
     490,
     496
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:47:00Z"
+   "claimed": "2026-11-19T02:47:00Z",
+   "note": "Published (scheduled run, one worker). Margin 'Ps. cxv, 15' marked Ps 115:6 (Vulgate numbering) with a note. Is 26:10 quoted 'according to the LXX' and Job 4:8–9 given loosely: reference-only markers with notes. Denis's Latin differs from the Vulgate in vv. 2 (extra clause), 11 (inhabitabilia), 16 (in consummatione), 19: notes. Tagged without margin note (named or at length): Prov 15:32, Is 66:2, John 15:10, 2 Cor 10:5, Is 56:3–5, John 1:1, Matt 19:11–12."
   },
   {
    "id": "wisdom-004",
