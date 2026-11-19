@@ -1269,9 +1269,9 @@
     580,
     586
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:41:00Z"
+   "note": "The opening words of the article are missing from the transcription (it begins '…que Hebræorum, hic agitur', PDF p. 580, left column after the heading): shown as […]; check against the scan. Also removed junk from the end of wisdom-019.txt (a 'T. 7.' signature and a failed transcription of the index page p586)."
   }
  ]
 }
