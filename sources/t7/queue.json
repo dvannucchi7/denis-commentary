@@ -1118,9 +1118,10 @@
     521,
     527
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:57:00Z"
+   "claimed": "2026-11-19T02:57:00Z",
+   "note": "Published (scheduled run, one worker). Denis's readings noted: 8:5 'in terra' (margin 'vita'), 8:7 'sapientiam' for 'prudentiam', 8:9 'convivandum', 8:13 'Propterea' (margin 'Præterea'), 8:17 'cogitatione' for 'cognatione', Eccles 1:18 'dolorem'. Page-break repeat 'dividet / videt' read 'dividet'. Margin ranges given as ref-only markers with notes (Cant 8:1, 1:3, 1:11, 2:8; Prov 8:22; 3 Kings 4:31, 34; 2 Par 9:22–24, 26; Dan 2:46; Acts 6:9). Luke 21:10–11 tagged (margin gives only xxi, 25). Seneca's 'De copia verborum' noted as Martin of Braga's. Tagged without margin note: Ps 144:17."
   },
   {
    "id": "wisdom-009",
