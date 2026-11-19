@@ -896,9 +896,10 @@
     424,
     431
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:17:00Z"
+   "claimed": "2026-11-19T02:17:00Z",
+   "note": "Published (scheduled run, one worker). Denis's chapter 6 begins with 'Quo abiit dilectus tuus', which is Cant 5:17 in the Vulgate numbering used here: the opening paragraph is untagged, with Cant 5:8, 5:9 and 5:17 markers; the last paragraph treats Cant 7:1 ('Quid videbis in Sunamite') and is untagged with a Cant 7:1 marker. Margin variant 'alias pietatis' (v. 11) noted. Tagged without a margin note (Denis names Isaias): Is 1:21, 2:3."
   },
   {
    "id": "song-of-solomon-019",
