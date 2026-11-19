@@ -854,9 +854,10 @@
     406,
     416
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:13:00Z"
+   "claimed": "2026-11-19T02:13:00Z",
+   "note": "Margin 'Ps. cxxiv, 6' read as Ps 114:6 (Custodiens parvulos); 'Ibid. 12' (Luke 3:12) read as Luke 3:10 (Quid ergo faciemus?); both noted. Stray margin '13' in v. 15 dropped; '* ejus' at v. 14 taken as a variant note. Latin 'elementi' read as 'clementi'. Kept as printed: 'quæritur' (v. 9), 'Et sicut universi oculi' (v. 12, sense wants 'sic', noted). Added unmarginated quotations Mark 16:15, John 5:46, 2 Pet 1:19, Heb 1:3."
   },
   {
    "id": "song-of-solomon-016",
@@ -867,9 +868,10 @@
     416,
     421
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:13:00Z"
+   "claimed": "2026-11-19T02:13:00Z",
+   "note": "Margin correction 'defectuositatem' preferred to printed 'defructuositatem' (noted); variant 'affectuosius' for 'virtuosius' noted. Added unmarginated quotations Job 13:15, Ps 9:11, Job 30:20-21, Job 33:14."
   },
   {
    "id": "song-of-solomon-017",
