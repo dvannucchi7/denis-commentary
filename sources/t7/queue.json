@@ -1241,9 +1241,10 @@
     570,
     574
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:37:49Z"
+   "claimed": "2026-11-19T03:37:49Z",
+   "note": "Published (scheduled run, one worker). Spurious repeated heading at the page turn in v. 2 dropped; margin '* sub' (sub tectis) given as a note. Transcription slips read: renere→venere, superrenientem→supervenientem, parentes horrendæ→paventes horrende, somnium→somnum. Denis's readings differing from the Vulgate noted (vv. 7, 10, 11, 12, 13, 20); his 'Frequenter enim præoccupant pessima, redarguente conscientia' (before the margin's 10, not in the Clementine text) tagged v. 9 without a marker, with a note. Margin ranges given one reference-only marker per verse (Ex 8:8, 28; 9:28; 10:17; Ex 7:11, 12, 22; 8:7); Num 22:28–30 as 22:28. Apoc 15:3, Is 29:15, Eph 4:18: variant wording noted."
   },
   {
    "id": "wisdom-018",
@@ -1254,9 +1255,10 @@
     574,
     580
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:37:49Z"
+   "claimed": "2026-11-19T03:37:49Z",
+   "note": "Published (scheduled run, one worker). Text lost in the v. 24 lemma: 'in quatuor ordi[…]' (rest of the line missing in the transcription): check the scan. Misread margin numbers corrected with notes: 'Exod. xxxviii, 17-21' and 'Ibid. 36-38' = Ex 28:17-21, 36-38; 'Joann. iii, 8' = 1 John 3:8; 'Gen. xxvii, 8' fits nowhere (note suggests Gen 22:16). Ex 24:8 tagged per margin though Denis's wording is Heb 9:20 (noted). Is 9:6 'magni consilii Angelus' (LXX/Introit, no margin) noted, unmarked. Margin notes referring to Denis's Exodus commentary (Art. LV–LVI, XXI) given as notes. Kept as printed: 'morabatur' (v. 23), 'vexavit et ipsum Aaron illis compassionem' (v. 22). Douay-Rheims data: Wis 18:21 has 'pry' for 'pray'."
   },
   {
    "id": "wisdom-019",
