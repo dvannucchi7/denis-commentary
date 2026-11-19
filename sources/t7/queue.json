@@ -1,1245 +1,1245 @@
 {
-  "volume": "t7",
-  "items": [
-    {
-      "id": "proverbs-001",
-      "book": "proverbs",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        27,
-        40
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:00:55Z",
-      "note": "Published (scheduled run, two workers; first Proverbs article: work title 'Enarratio in Proverbia Salomonis regis Israel', PDF = printed page + 22). Text lost at the foot of p. 16 (PDF 38) left column, after 'Psalmista : Sicut oves', marked […] (Ps 48:15 noted): check the scan. Margin readings corrected with notes: '1 Reg. xii, 3' (Ididia) → 2 Kings 12:25; 'Par. xxii' → 1 Par 22:9; 'Joann. v… 20' → John 10:20; 'I Cor. iv, 18' → 2 Cor 4:17-18; 'Ps. lxxii, 27' → Ps 72:19; 'Posuit in lacum vitam meam' (beside Jer 51:34) is Lam 3:53 (ref-only). Chapter-only margins given verses (Prov 3:18, 22:18, 29:5; Ecclus 6:35; Matt 15:14-15). Margins missing their book on p37/p39 read from the text (Job 21:14, Is 30:10, Ps 14:4, Ps 26:13, Is 64:4, 1 Cor 2:9, Is 32:17-18). Tagged without margin note: Matt 6:9, Ps 140:5, Job 18:10, Jer 30:11, Prov 28:1. Douay-Rheims slip: Acts 20:27 'spread' for 'spared'."
-    },
-    {
-      "id": "proverbs-002",
-      "book": "proverbs",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        40,
-        45
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:00:55Z",
-      "note": "Published (scheduled run, worker). The cut left the article's last line on p45 ('infusa, pro salute æterna … accendimur'); added. A '[…]' after 'ignavia,' (p45) kept; the sense runs on, probably nothing lost. Margin readings corrected with notes: 'Exod. xv, 14' → Ex 20:14; 's. xi, 2' → Is 11:2; 'id. iii, 9' → Is 3:9; 'Joann. ii' → 1 John 2:11. Denis reads 'hereditabunt' at Matt 5:4 (noted). Douay-Rheims slip: Prov 2:7 'He wilt keep'."
-    },
-    {
-      "id": "proverbs-003",
-      "book": "proverbs",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        45,
-        56
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:08:46Z",
-      "note": "Published (scheduled run, two workers). The cut had put the end of Art. III (v. 35: 'tur. Unde in Ecclesiastico … Superbi gloria cito fit ignominia', p56 right column) into proverbs-004; moved here. Margin readings corrected or supplied (cut-off margins), with notes: Osee 8:12, Is 50:10, Osee 13:9, 2 Cor 3:5, Phil 2:13, Is 49:10, Apoc 7:16, Mal 3:10-11, Agg 1:9-10, Ps 80:13, Job 38:8, Job 36:29-31, Ps 118:103, Ps 50:8, Gal 5:20, Gen 2:10; 'cordium inspector' given as 1 Kings 16:7 / Prov 24:12 / Ecclus 23:28 (guesses, noted); Elias's words are 3 Kings 18:15 (margin 3 Kings 17:1, 4 Kings 3:14). v. 3 quotations have no margin notes; tagged where Denis names the source. Is 26:19 'ros dulcis *': the edition's footnote is not in the transcription. Douay-Rheims slip: Prov 3:3 'mercy aud truth' (shows in the article until fixed)."
-    },
-    {
-      "id": "proverbs-004",
-      "book": "proverbs",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        56,
-        62
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:08:46Z",
-      "note": "Published (scheduled run, worker). Margin readings corrected with notes: 'I Par. viii, 9, 10' → 1 Par 28:9-10; 'Ibid. viii, 7' → John 8:47; 'Joann. vi, 4' → John 6:64; 'Ps. cxviii, 33' → Ps 118:133; 'Cor. xiv, 3' → 1 Cor 14:38; 'Amos v, 1[…]' → Amos 5:12; 'I Reg. vii' → 2 Kings 7:14 (Denis's wording is 1 Par 22:10). v. 27 'manifeste malum est, omnino abstinere' seems to lack a 'non' (noted; check the scan). 'natura ligni' (v. 16 paragraph) looks corrupt, left out of the English. Tagged without margin note: Ps 82:14, Jer 4:1, 1 Cor 14:40."
-    },
-    {
-      "id": "proverbs-005",
-      "book": "proverbs",
-      "art": 5,
-      "chapter_guess": 5,
-      "pages": [
-        62,
-        65
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:11:23Z",
-      "note": "Published (scheduled run, worker). Margin 'Jer. x' does not fit: the words are Jer 23:24 (noted). Psalm number of the margin for 'Iniquitates meæ supergressæ' unreadable: Ps 37:5 marked (noted). Ps 48:13/21: v. 21 quoted, v. 13 ref-only. Denis reads 'Ipse iniquus morietur' at v. 23 (noted). Cyril's 'Proverbs' glossed as probably the Speculum sapientiae (uncertain). Douay-Rheims slip: Is 12:3 'Thou shall draw'."
-    },
-    {
-      "id": "proverbs-006",
-      "book": "proverbs",
-      "art": 6,
-      "chapter_guess": 6,
-      "pages": [
-        65,
-        72
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:11:23Z",
-      "note": "Published (scheduled run, two workers, split at v. 16). '[…]' in the first line ('de diligentia […] circa fidejussionem', PDF 65): check the scan. Margin readings corrected with notes: 'Ecclus. xxix, 20' → Ecclus 29:19 (DR numbering); 'Philip. 12' → Phil 2:12 (ref-only); 'Is. lvi' → Is 56:10; 'Ps. lxxxviii, 12' → Ps 78:12; 'Ezech. xvi' → Ezech 16:52 (ref-only, loose). Range margins (Ex 22:1–4, 7–13; Deut 22:22–25; Jer 3:1–13; Ezech 16:15–34) given ref-only markers to their first verse. Denis's readings noted: v. 5 'de insidiis aucupis', v. 15 'morte improvisa' in italics, v. 31 italics run past the Vulgate."
-    },
-    {
-      "id": "proverbs-007",
-      "book": "proverbs",
-      "art": 7,
-      "chapter_guess": 7,
-      "pages": [
-        72,
-        75
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:15:33Z",
-      "note": "Published (scheduled run, worker). Title completed from the right-column heading on p72 ('FILI MI, CUSTODI SERMONES MEOS'). Bible data: Prov 7:1 in both data/bible/drc and the Vulgate file stops at 'Son,' / 'Fili,' (missing 'honour the Lord, and thou shalt be strong: and besides him fear no other'); that half of the lemma is plain English for now. Margin 'Is. ii, 12' → Is 51:12 (noted). Tagged without margin note: 1 Kings 2:30, 2 Mach 15:2, Ps 143:1, Ps 48:15, Matt 16:18. The printed '*victimam' (likely an edition footnote) left out."
-    },
-    {
-      "id": "proverbs-008",
-      "book": "proverbs",
-      "art": 8,
-      "chapter_guess": 8,
-      "pages": [
-        75,
-        82
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:19:58Z",
-      "note": "Published (scheduled run, two workers, split at v. 22). The print's verse numbers run one verse out from v. 28 on; tagged by the text. Denis skips v. 16. Readings noted: v. 4 lemma adds 'ut convertamini et salvemini'; v. 13 'in quantum servilis, dicitur vulnerare' obscure (translated literally, '[so the print]'); v. 19 gloss has 'auro obrizo'; Osee 13:11 'et principes in indignatione mea'; 1 Tim 6:19 'thesaurum bonum'. 'Injustitia mortis est acquisitio' (beside Sap. i, 16) is not in the Douay-Rheims: left unmarked with a note. Margin 'Ps. cm, 31' read as Ps 103:31; 'Dan. vii, 9 … 13, 22' marked at 7:9. Tagged without margin note: Job 40:14, John 1:18, John 1:1. Possible misprint 'irrationabilibus ac animatis' (inanimatis?) kept."
-    },
-    {
-      "id": "proverbs-009",
-      "book": "proverbs",
-      "art": 9,
-      "chapter_guess": 9,
-      "pages": [
-        82,
-        86
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:19:58Z",
-      "note": "Published (scheduled run, worker). Denis's gloss on the Vulgate addition after v. 18 ('Qui enim applicabitur illi…', not in the Douay-Rheims) is its own untagged last paragraph, with a note. Matt 26:27 margin given as ref-only (consecration words are 26:28, noted). Readings noted: John 4:34 'of my Father'; v. 16 'Quis est parvulus?'; 1 John 5:10 'the Father'."
-    },
-    {
-      "id": "proverbs-010",
-      "book": "proverbs",
-      "art": 10,
-      "chapter_guess": 10,
-      "pages": [
-        86,
-        93
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:26:24Z",
-      "note": "Published (scheduled run, worker). The article file was cut short at 'perver-sa_, i' (end of v. 32 gloss); completed from transcribed/p93.txt. Margin numerals corrected with notes: Ps 83:18→82:18, 'Ps. x, 3 sec. Hebr.'→Ps 9:24, Ps 111:4→140:4, Ps 86:6→76:6, Is 11:24→40:24, 1 Thess 1:9→2 Thess 1:9. Ps 21:27: Denis has 'Nomina' where the Vulgate has 'corda' (printed footnote missing): only 'shall live for ever and ever' marked, with a note. Bible data slip: John 6:45 in data/bible/drc reads 'cometh forth me' (should be 'cometh to me')."
-    },
-    {
-      "id": "proverbs-011",
-      "book": "proverbs",
-      "art": 11,
-      "chapter_guess": 11,
-      "pages": [
-        93,
-        100
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:26:24Z",
-      "note": "Published (scheduled run, worker). Is 66:2 quoted in an older Latin form (no margin note): reference-only marker with a note; Is 24:18 ('Cf.') reference-only. Col 3:13 margin: last words are Eph 4:32's, marked so with a note. v. 10 'exaltabitur' (margin variant 'exsultabit') noted. Range margins (Acts 12; Job 1 with Tob 1–2; 1 Kings 28; Job 32–37) given reference-only markers with the full margin reading in a note. Repeated transcription lines (around Luke 19:13 / Matt 25:21 and 1 Kings 28) dropped."
-    },
-    {
-      "id": "proverbs-012",
-      "book": "proverbs",
-      "art": 12,
-      "chapter_guess": 12,
-      "pages": [
-        100,
-        106
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:26:39Z",
-      "note": "Published (scheduled run, worker). 'Qui suavis est…' (end of v. 11 in the Vulgate, start of v. 12 in the Douay-Rheims) tagged 12:12; Denis reads 'in moderationibus, in suis monitionibus' (noted). Other readings noted: v. 12 monumentum, v. 23 versutus, v. 27; Is 57:17, 1 Cor 7:14, Is 50:4. 'Num. v, 19, 22, 21' as ref-only markers. 1 Thess 4:17 kept (Vulgate file has it at 4:18). Tagged without margin note: Job 36:13, Jer 4:2, Wis 6:26, Is 50:4, Is 32:7, Matt 5:9, Zach 6:13, 2 Cor 7:10, Ecclus 30:24–25, Job 1:1, 2 Tim 3:13; Jas 1:2 ref-only. Stories of Joab, Absalom, Saul, Naboth have no margin note, so no marker."
-    },
-    {
-      "id": "proverbs-013",
-      "book": "proverbs",
-      "art": 13,
-      "chapter_guess": 13,
-      "pages": [
-        106,
-        112
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:26:39Z",
-      "note": "Published (scheduled run, worker). Margin 'Ps. lxxi, 6' does not fit: the words are Ps 62:6 (noted). Ecclus 29:28 (Vulgate) marked 29:27 (Douay-Rheims numbering, noted). Tagged without margin note: Jas 3:2. Variants noted: v. 2 impiorum; John 14:21 ostendam; 1 Pet 1:8 videntes; Seneca 'pauca'. v. 1 'Tales fuerunt Audiunt…' seems to lack a word (Latin kept as printed). Douay-Rheims slip: Prov 13:2 'month' for 'mouth'."
-    },
-    {
-      "id": "proverbs-014",
-      "book": "proverbs",
-      "art": 14,
-      "chapter_guess": 14,
-      "pages": [
-        112,
-        119
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:34:16Z",
-      "note": "Published (scheduled run, worker). v. 9: Denis reads 'Stultis illudit peccatum' (ref-only lemma marker, noted). Readings noted at vv. 23, 26, 28 ('neque ordinatos', perhaps 'atque'). Margin 'Joann. iv, 1' → 1 John 4:1. Tagged without margin note: Luke 13:5. Loose quotations ref-only: Tob 3:22, Prov 2:14, Ps 57:11, Hab 2:4/Rom 1:17. Wis 7:30 inverted and Jer 34:16 'holy' noted. Ranges given by first verse: 1 Kings 25:18, Dan 13:45."
-    },
-    {
-      "id": "proverbs-015",
-      "book": "proverbs",
-      "art": 15,
-      "chapter_guess": 15,
-      "pages": [
-        119,
-        127
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:34:16Z",
-      "note": "Published (scheduled run, two workers, split at v. 18). Margin 'Ps. xxvii, 1' → Ps 26:1; 'Matth. xviii, 20' → Matt 8:20 (noted); Job 14:2 note belongs to the clause before the Anna sentence. v. 14 'quærit' (margin correction of 'quæret'). Ranges at first verse: 1 Kings 25:24, Judg 8:2, 1 Mach 16:15, 2 Kings 13:27. Readings noted: v. 9 'vita impii', Rom 12:2, Jer 17:9, Matt 5:7, Mich 7:9 'Deducet', Deut 25:16 'impietatem'. Many obvious quotations tagged without margin note (Ps 33:16–17, Ezech 9:9, Soph 1:12, Ps 72:11, Ps 93:8–9, Prov 28:9, Gen 4:4–5, Ps 5:7, Ps 10:8, Ps 138:8, Ps 85:13, Gen 37:35, Ps 145:9, Deut 10:18, 1 Tim 5:3, Ps 147:3, Is 60:18, Is 1:16, Mich 2:1, Heb 4:12, Matt 17:5, Mark 16:20). Margin numeral for v. 31 missing. Kept 'digna in cathedra' (dignus?)."
-    },
-    {
-      "id": "proverbs-016",
-      "book": "proverbs",
-      "art": 16,
-      "chapter_guess": 16,
-      "pages": [
-        127,
-        135
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:39:09Z",
-      "note": "Published (scheduled run, worker). v. 11: the transcription has 'Lapides sæculi … pro Saeculi, positum Sæculi … in saeculo'; the lemma keeps 'sæculi', but Denis's explanation of the copyists' error was corrected to 'Lapides sacculi', 'pro Sacculi', 'in sacculo' (check the print). v. 1: 'reliquasque virtutum quas amiserunt' translated as the virtues they did not lose, with a note. Margins corrected with notes: Ecclus xxiii, 23 → Ecclus 18:23; Ps xxxvii, 3 → Ps 27:3; 'Cf. Joel ii, 23' marked though closer to Deut 11:14. Denis's readings noted: v. 13 'dirigetur', v. 14 'nuntius … placabit eum', Job 21:30 'in diem malum'."
-    },
-    {
-      "id": "proverbs-017",
-      "book": "proverbs",
-      "art": 17,
-      "chapter_guess": 17,
-      "pages": [
-        135,
-        142
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:39:09Z",
-      "note": "Published (scheduled run, worker). Margins corrected with notes: Jer xvii, 20 → Jer 18:20; 'Sap. iii' → Wis 3:6; bare 'v. 14' → Eccles 10:14; 2 Cor 1:14 kept ref-only (wording closer to 1 Thess 2:20). Latin slips corrected: v. 13 'recordet' → 'recedet', 'excusef' → 'excuset'. v. 28 printed '…in corde stulti. reputabitur. Intelligens.' kept as printed, with a note. Denis's readings noted: v. 19 'os suum', v. 17 'Deum et proximum', Ecclus 19:12 'femori canis', v. 6 margin variant 'alias participes'."
-    },
-    {
-      "id": "proverbs-018",
-      "book": "proverbs",
-      "art": 18,
-      "chapter_guess": 18,
-      "pages": [
-        142,
-        148
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:41:30Z",
-      "note": "Published (scheduled run, worker). v. 1 Denis prints execrabilis (margin variant exprobrabilis), noted. Gen 19:7–9 quoted loosely: 19:7 reference-only, 19:9 marked in part. Bernard passage: Ps 26:3 and Gal 5:17 reference-only. Luke 14:11 marked with 18:14 in a note; Matt 5:32 / 19:9 reference-only. Ps 132:1 tagged without margin note (Denis names the Psalmist). Several of Denis's readings differing from the Vulgate noted."
-    },
-    {
-      "id": "proverbs-019",
-      "book": "proverbs",
-      "art": 19,
-      "chapter_guess": 19,
-      "pages": [
-        148,
-        159
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:41:59Z",
-      "note": "Published (scheduled run, two workers). Art. XIX treats chapters 19 AND 20 (no separate heading for ch. 20; the next article is numbered XXI): published under both chapters. Its last lines (20:30, 'do æquanimiter toleretur … vigent in homine.', top of PDF 159 right column) had been cut into proverbs-021.txt and were taken from there. 20:5 transcription garbled ('igno- * sed tum est'), read as 'ignotum est aliis; sed homo sapiens'. III Esdr. 3:18–24 (not in the DR) given as a note. Douay-Rheims data slip: Lev 24:20 reads 'eye for ere'."
-    },
-    {
-      "id": "proverbs-021",
-      "book": "proverbs",
-      "art": 21,
-      "chapter_guess": 21,
-      "pages": [
-        159,
-        164
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:48:17Z",
-      "note": "Published (scheduled run, worker). proverbs-021.txt also held ch. 22 (Art. XXII, heading missing: now proverbs-022) and, inside v. 1, the end of the 20:30 gloss (lines 24–42, used by Art. XIX). v. 15 'amari[…]tudo' kept, translated 'bitterness' with a note. Margin 'Cf. Ibid. xxxiii, 33' → Ecclus 3:33 (ref-only, noted). Readings kept with notes: exors (v. 6), sapientiam (v. 11), judicium (v. 21), victorias (v. 28), superare (2 Par 25:8). Tagged without margin note: Mich 6:7–8, Job 24:7, Prov 19:25, Luke 6:30, Prov 19:5, Is 46:10, Jer 49:19, Job 23:13, Ps 32:17, 2 Par 25:8."
-    },
-    {
-      "id": "proverbs-022",
-      "book": "proverbs",
-      "art": 22,
-      "chapter_guess": 22,
-      "pages": [
-        164,
-        169
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:48:17Z",
-      "note": "Published (scheduled run, worker). The printed heading is missing from the transcription (running heads p165–168 say ART. XXII): title supplied in brackets from v. 1, with an article note; please take the real title from the scan (PDF 164/165). Text from proverbs-021.txt (ch. 22) and the first lines of proverbs-023.txt (22:28–29). Margins corrected with notes: 'Jacob. ii, 3' → Jas 2:5; 'Ps. lxxx, 3' → Ps 80:13; 'Ps. x, 14 sec. Hebr.' → Ps 9:35; 'Ibid. lxv, 0' → Is 65:20 (ref-only). Denis's readings noted: superbi (v. 5), Fili mi (v. 17), ostendam (v. 19), v. 27, 1 Pet 3:15 'fide et spe', Ecclus 41:15."
-    },
-    {
-      "id": "proverbs-023",
-      "book": "proverbs",
-      "art": 23,
-      "chapter_guess": 23,
-      "pages": [
-        169,
-        173
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:48:17Z",
-      "note": "Published (scheduled run, worker). The article file's first lines (22:28–29) belong to Art. XXII and were moved there. Margins corrected with notes: 'Eccli. xxii, 6' → Ecclus 32:6; 'Ps. x, 14' (Hebrew) → Ps 9:35. Tagged without margin note: Ecclus 31:23, 31:38. Conjectural corrections: 'præinducatur' → 'præinductam', 'præteactas' → 'præteritas'. v. 35 'et* non dolui' (margin '* sed') kept with a note. Bible data slip: Rom 13:12 in data/bible/drc reads 'passed And the day'."
-    },
-    {
-      "id": "proverbs-024",
-      "book": "proverbs",
-      "art": 24,
-      "chapter_guess": 24,
-      "pages": [
-        173,
-        179
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:53:14Z",
-      "note": "Published (scheduled run, worker). Garbled asterisks in the transcription kept in t with notes (v. 15 'iniquitatem * in * impietatem'; end remark '* ibi Tamen quod dicitur hic *'): check against the scan. Margin Prov. xxviii, 26 does not fit (28:23 marked, noted); II Reg. xxiii, 5 kept as printed though it hardly fits. Job 33:29–30 and Prov 6:9 tagged without margin notes (Denis names them)."
-    },
-    {
-      "id": "proverbs-025",
-      "book": "proverbs",
-      "art": 25,
-      "chapter_guess": 25,
-      "pages": [
-        179,
-        184
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:53:14Z",
-      "note": "Published (scheduled run, worker). Title partly lost in the transcription ('QUAS TRANSTUL[…]TI … […]LERUNT VIRI'), filled as 'HÆ QUOQUE PARABOLÆ SALOMONIS, QUAS TRANSTULERUNT VIRI, ETC.': check against the scan. Range margins (Luke 14:8–11, Luke 1:46–55) marked at first verse."
-    },
-    {
-      "id": "proverbs-026",
-      "book": "proverbs",
-      "art": 26,
-      "chapter_guess": 26,
-      "pages": [
-        184,
-        188
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T21:53:14Z",
-      "note": "Published (scheduled run, worker). Last line ('frequenter sequuntur … inferni supplicia', PDF 188 right column) taken from proverbs-027.txt line 16. v. 6 transcribed 'iniquitatem habens' read as 'bibens' (Vulgate; Denis's gloss 'potare'): check the scan. Margin 'Prov. xxviii, 8' at v. 22 is 18:8 (noted). '[…]' after 'libidinosum' (v. 28) dropped as a lost margin note. DR data slip: Prov 26:23 'earthern'."
-    },
-    {
-      "id": "proverbs-027",
-      "book": "proverbs",
-      "art": 27,
-      "chapter_guess": 27,
-      "pages": [
-        188,
-        194
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:00:32Z",
-      "note": "Published (scheduled run, worker). A stray line in proverbs-027.txt (line 16, 'frequenter sequuntur facta injusta et opera vitiosa, sicque loquentem praecipitat ad inferni supplicia.') is the end of Art. XXVI (26:28, after '…quia ex verbis quae profert,'): left out here. v. 13 transcription garbled ('pro quibus * aufer ei spopondit, aufer pignus ab eo *'), read as 'pro quibus spopondit, aufer pignus ab eo': check the scan. Margin variant at v. 8 ('irreformatione') and a margin summary left out. Denis's readings noted: osculantis (v. 6), evacuet (v. 16), concitati spiritus (v. 4), dulcibus (v. 9). Ecclus 29:28–30 ref-only at 29:28 (DR/Vulgate numbering out of step there)."
-    },
-    {
-      "id": "proverbs-028",
-      "book": "proverbs",
-      "art": 28,
-      "chapter_guess": 28,
-      "pages": [
-        194,
-        198
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:04:49Z",
-      "note": "Published (scheduled run, worker). End of the article (vv. 25 end–28, PDF 198 right column) taken from proverbs-029.txt lines 7–8. Margin 'Ibid. xxx, 23' at v. 14 is Job 31:23 (noted). Ezech 45:9 'separate eorum vestra' kept as printed (garbled; Vulgate confinia vestra)."
-    },
-    {
-      "id": "proverbs-029",
-      "book": "proverbs",
-      "art": 29,
-      "chapter_guess": 29,
-      "pages": [
-        198,
-        203
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:04:49Z",
-      "note": "Published (scheduled run, worker). v. 1 joined across a column break ('dura cervice cordis | impatienter se habet'); the sentence seems short by a word ('contemnit'?): check the scan. '[…]' at v. 27 dropped (sense runs on). 'Gloria patris, filius sapiens' (v. 17) not in the Vulgate: left unmarked with a note."
-    },
-    {
-      "id": "proverbs-030",
-      "book": "proverbs",
-      "art": 30,
-      "chapter_guess": 30,
-      "pages": [
-        203,
-        214
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:04:49Z",
-      "note": "Published (scheduled run, two workers). DOUAY-RHEIMS DATA BUG: data/bible/drc/proverbs.json has v. 29's text under 30:19 and 30:29 empty, so the lemmata of 30:19 and 30:29 are plain English without markers; once the Bible file is fixed they should get markers. Also 30:22 reads 'when be is filled'. Kept as printed with notes: investigabiliter, alii destituti, instituisset; 'hericiaciis' (Ps 103:18) probably garbled. 'Ps. lxvi, 5' read as Ps 56:5, 'Is. iii … 13' as Is 3:15 (noted)."
-    },
-    {
-      "id": "proverbs-031",
-      "book": "proverbs",
-      "art": 31,
-      "chapter_guess": 31,
-      "pages": [
-        214,
-        223
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:11:40Z",
-      "note": "Published (scheduled run, two workers, split at v. 13). Chapter-only margins (Matt. xiii, xx, xxiv; Apoc. v, xix, xxi) given as verse 1, ref-only, with a note. 'Non legatum, non angelum misit' (Is 63:9 in the old/Septuagint reading) left untagged with a note. Margin 'Is. liii, 14' → Is 52:14 (note). Margin ⟦31⟧ stands beside 'Mulier timens Dominum' (v. 30); tagged 31:30. Tagged without margin note: Luke 6:12, Matt 19:28, Ps 44:17. 2 Thess 3:10: printed asterisk with margin 'vult operari' explained in a note. Lev 19:15 and Gen 18:19 quoted loosely: only the matching words marked."
-    },
-    {
-      "id": "proverbs-032",
-      "book": "proverbs",
-      "art": 32,
-      "chapter_guess": 31,
-      "pages": [
-        223,
-        226
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:11:40Z",
-      "note": "Published (scheduled run, one worker). Margin 'Prov. viii, 4' → Prov 7:4 (note); 'Matth. xix, 20' → Matt 19:21 ref-only (note). Heb 2:4 in Denis's order; 2 Tim 3:17 Denis omits 'Dei'."
-    },
-    {
-      "id": "proverbs-033",
-      "book": "proverbs",
-      "art": 33,
-      "chapter_guess": 31,
-      "pages": [
-        226,
-        231
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:16:50Z",
-      "note": "Published (scheduled run, worker). v. 21 printed 'spiritualiter*' with margin variant 'specialiter' (noted; stray 'ter' dropped). John 1:16 tagged without margin note. 120 virgins: note pointing to Acts 1:14–15. Trailing '[…]' after 'Amen.' are end-of-book blanks."
-    },
-    {
-      "id": "ecclesiastes-001",
-      "book": "ecclesiastes",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        233,
-        243
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:19:27Z",
-      "note": "Published (scheduled run, two workers, split at v. 7; first Ecclesiastes article: work title 'Enarratio in librum Ecclesiastæ', PDF = printed page + 22). Margin 'Job xxxiv, 21' → Job 34:24 (note). Prov 15:20 / 10:1 loose: ref-only with note. Jerome's 'et non miremur' looks corrupt (translated as 'non meruimus', noted). Note on 'Vapor fumi et aura tenuis' (Jerome, from Aquila/Symmachus/Theodotion) is the worker's recollection: worth a check. v. 18: Denis reads 'addit et dolorem' (DR 'labour'), noted. 2 Thess 2:10 as the margin gives (the Vulgate file numbers it 2:11). 3 Kings 4:29–34 given as 4:29 with a note. Tagged without margin note: Eccles 12:13."
-    },
-    {
-      "id": "ecclesiastes-002",
-      "book": "ecclesiastes",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        243,
-        248
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:19:27Z",
-      "note": "Published with one gap: at the column break on p. 223 (PDF 245), after 'Et quamvis non possit suo Crea-' the right column begins 'per Isaiam testatur': a line or more seems lost; marked […] with a note on the likely sense. Please check PDF 245 against the scan. 'tædium me vitæ meæ' read as 'tæduit' (Vulgate 2:17). Margin 'Ps. liii, 6' → Ps 52:6; 'Jon. iv, 3' → Jon 4:8 (Denis's wording), both noted. 2 Cor 6:14: Denis has 'conventio' (noted). Prov 21:17: Denis 'non erit sapiens' (noted). Margin Jos xiii–xxi given as Jos 13:1."
-    },
-    {
-      "id": "ecclesiastes-003",
-      "book": "ecclesiastes",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        248,
-        254
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:28:00Z",
-      "note": "Published (scheduled run, one worker). Margin '11' beside 'Deus docet nos super jumenta' read as Job 35:11 (note). Is 26:17-18 in Denis's division (note). Rom 12:15 tagged for 'flere cum flentibus' only (note: the Apostle has 'rejoice'). Tagged without margin note: Luke 12:4, Luke 6:21, Job 8:21, 1 Cor 7:3, 7:5, Matt 15:13, Deut 32:39, Gal 2:20, Col 3:3, Job 5:17-18, Prov 4:23, Joel 2:13, Ps 50:6, Eccles 2:11, Gen 3:19, Matt 10:39, Ps 15:10, Acts 13:36, Apoc 10:6, John 7:6, 2:4, Job 23:10, Ps 65:10, Acts 23:8. Latin 'persecutaretur' (v. 18 gloss) read as 'perscrutaretur' by the sense: check the scan."
-    },
-    {
-      "id": "ecclesiastes-004",
-      "book": "ecclesiastes",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        254,
-        259
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:28:00Z",
-      "note": "Published (scheduled run, one worker). Hab 1:13 in Denis's wording ('conculcante' for 'devorante', note); Hab 1:3 ref-only. 'si natus non esset' tagged Matt 26:24, Mark 14:21 ref-only (note). Is 9:6 quoted as 'Puer natus est nobis' (note). From v. 10 on no margin notes in the transcription; tagged where Denis names the source: Ps 132:1, Ps 104:20-21, Wis 10:14, Job 36:7-12 (in part, note), Amos 6:1, Soph 1:9, Is 9:6, John 8:44; Ezech 28:17 ref-only."
-    },
-    {
-      "id": "ecclesiastes-005",
-      "book": "ecclesiastes",
-      "art": 5,
-      "chapter_guess": 5,
-      "pages": [
-        259,
-        265
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:27:48Z",
-      "note": "Published (scheduled run, one worker). The pre-cut article stopped mid-word ('permodicum reputant in-'); its last lines ('…tuitu et amore retributionis futuræ … ante faciem Dei?', with margins Phil 1:23, Ps 119:5, Ps 41:3) stood at the head of ecclesiastes-006.txt and were added here. Margin 'Ps. cxi, 4' → Ps 140:4; 'Ps. xciv, 3' words are Ps 46:3 (both marked, note); Luke 18:24–25 as the margin gives, though Denis's 'regnum cœlorum' is Matt 19:23–24 (note); Hab 1:3 ref-only, 1:13 marked (note). Tagged without margin note: Ps 75:6."
-    },
-    {
-      "id": "ecclesiastes-006",
-      "book": "ecclesiastes",
-      "art": 6,
-      "chapter_guess": 6,
-      "pages": [
-        265,
-        267
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-18T22:27:48Z",
-      "note": "Published (scheduled run, one worker). Its pre-cut file began with the last lines of Art. V (moved there). Margin 'Is. xxxiii, 11' → Is 27:11 (note); Is 47:13 quoted freely (note). 'De hoc ego pronuntio' kept as printed (Vulgate 'ergo')."
-    },
-    {
-      "id": "ecclesiastes-007",
-      "book": "ecclesiastes",
-      "art": 7,
-      "chapter_guess": 7,
-      "pages": [
-        267,
-        280
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:11:48Z",
-      "note": "Published (scheduled run, two workers). Art. VII treats chapter 7 and 8:1 (Denis ends the chapter with 'Sapientia hominis lucet in vultu ejus'): published under both chapters, the 8:1 part under ch. 8 before Art. VIII. Margin 'Eccli. xi, 22, 23' → Ecclus 3:22–23; 'Ps. cvii, 24' → Ps 103:24; 'Prov. xxii, 4' → Prov 23:4; 'Ps. cxxviii, 6' → Ps 138:6; 'Ps. cxviii, 9' → Ps 117:9 (each with a note). v. 18: 'Omnia… sed non singula, vitare valemus' looks reversed; translated by the usual teaching, with a note. Douay-Rheims data slip: John 6:45 reads 'cometh forth me' (should be 'cometh to me')."
-    },
-    {
-      "id": "ecclesiastes-008",
-      "book": "ecclesiastes",
-      "art": 8,
-      "chapter_guess": 8,
-      "pages": [
-        280,
-        286
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:11:48Z",
-      "note": "Published (scheduled run, one worker). Art. VIII treats 8:2–17 and 9:1 ('Omnia hæc tractavi in corde meo'): published under both chapters, the 9:1 part under ch. 9. Margin 'Job xxiv, … 36, 37' read as Job 34:7, 34:36 (note). Jer 8:15 / 14:19 and Hab 1:3, 13 quoted freely (notes). The transcriber's note at the end placed v. 17, Rom 11:33–34 and Jer 23:18; followed."
-    },
-    {
-      "id": "ecclesiastes-009",
-      "book": "ecclesiastes",
-      "art": 9,
-      "chapter_guess": 9,
-      "pages": [
-        286,
-        293
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:21:33Z",
-      "note": "Published (scheduled run, two workers). One word ending lost in the transcription at v. 10 ('prosequ[…]re', surely 'prosequere'): kept as […]. Margin 'I Joann. iii, 24' → 1 John 4:13 and 'Ibid. iv, 6' → 1 John 5:19; 'Mach. iii, 19' only loosely matches 1 Mach 3:19 (reference only); Prov 20:9 quoted in an older Latin form; Osee 'Quia oblitus es mei, obliviscar et ego tui' matches no verse word for word (Osee 4:6, reference only) — each with a note. The closing question on whether one can know one has charity is tagged v. 1."
-    },
-    {
-      "id": "ecclesiastes-010",
-      "book": "ecclesiastes",
-      "art": 10,
-      "chapter_guess": 10,
-      "pages": [
-        293,
-        300
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:21:33Z",
-      "note": "Published (scheduled run, one worker). Printed footnote correction 'manuum' used at v. 18. Margin 'Cf. Prov. xxii, 12' not Denis's wording (reference only, note); Ecclus 27:29 quoted loosely (note); Gen 3:1, 4, 13, 14 reference only. Denis's variant readings of 10:1, 10:5, 10:11, 10:19 ('bibentes') noted."
-    },
-    {
-      "id": "ecclesiastes-011",
-      "book": "ecclesiastes",
-      "art": 11,
-      "chapter_guess": 11,
-      "pages": [
-        300,
-        305
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:27:00Z",
-      "note": "The article's last lines (from 'distinctæ partes ætatis' to 'pro eodem sumuntur', p. 283 right column) had been cut into ecclesiastes-012.txt; joined back here."
-    },
-    {
-      "id": "ecclesiastes-012",
-      "book": "ecclesiastes",
-      "art": 12,
-      "chapter_guess": 12,
-      "pages": [
-        305,
-        315
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:27:00Z",
-      "note": "Editor's Vulgate readings beside asterisks (eum*, conteratur*, imminuto numero*, Quando*) given as bracketed notes; margin 'Ps. cxi, 3' taken as Ps 140:3."
-    },
-    {
-      "id": "song-of-solomon-001",
-      "book": "song-of-solomon",
-      "art": 1,
-      "chapter_guess": null,
-      "pages": [
-        315,
-        317
-      ],
-      "status": "done",
-      "claimed": "2026-11-19T01:33:02Z",
-      "note": "Published (scheduled run, one worker for Art. I and II; first Canticle article: work title 'Enarratio in Canticum canticorum Salomonis', filed under chapter 1). Prologue article: untagged except the two paragraphs (Bernard, Gregory) on in whose person 1:1 is spoken. Transcription repeated 'sit de latere Christi dormientis in cruce' (kept once).",
-      "source": "transcribed"
-    },
-    {
-      "id": "song-of-solomon-002",
-      "book": "song-of-solomon",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        317,
-        318
-      ],
-      "status": "done",
-      "claimed": "2026-11-19T01:33:02Z",
-      "note": "Published (scheduled run, with Art. I). Prologue article, filed under chapter 1 with no verse tags. Matt 22:12–13 and Ex 19:12–13 reference only; Heb 12:20 quoted.",
-      "source": "transcribed"
-    },
-    {
-      "id": "song-of-solomon-003-part1",
-      "book": "song-of-solomon",
-      "art": 3,
-      "chapter_guess": 1,
-      "pages": [
-        318,
-        326
-      ],
-      "status": "done",
-      "claimed": "2026-11-19T01:33:40Z",
-      "note": "Published (scheduled run, two workers): chapter 1, vv. 1–6 up to Deut 33:12 'inter humeros illius requiescet' (the lines moved from part 2's file). Margin 'Ps. lxxxiii, 12' → Ps 73:12 (ref only, note); 'Ps. i, 8' → Ps 50:8 (note); Acts 13:47 / Is 49:6 split (note); Matt 5:12 with Luke 6:23 wording (note). Douay-Rheims data slip: Cant 1:3 reads 'the rightous love thee'.",
-      "source": "transcribed",
-      "part": 1,
-      "parts": 2
-    },
-    {
-      "id": "song-of-solomon-003-part2",
-      "book": "song-of-solomon",
-      "art": 3,
-      "chapter_guess": 1,
-      "pages": [
-        327,
-        334
-      ],
-      "status": "done",
-      "note": "Douay-Rheims slip in data/bible/drc: Cant 1:14 reads 'Behold thou are fair' (twice; should be 'art'), quoted as it stands.",
-      "source": "transcribed",
-      "part": 2,
-      "parts": 2,
-      "claimed": "2026-11-19T01:38:30Z"
-    },
-    {
-      "id": "song-of-solomon-004",
-      "book": "song-of-solomon",
-      "art": 4,
-      "chapter_guess": 1,
-      "pages": [
-        334,
-        343
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:38:30Z",
-      "note": "Margin '48. 11.' beside 'Creator Salvatorque' fits no verse: given as Is 43:11 with a note (guess). Douay-Rheims slips in data/bible/drc: Cant 1:3 'rightous', 1:14 'thou are fair'."
-    },
-    {
-      "id": "song-of-solomon-005",
-      "book": "song-of-solomon",
-      "art": 5,
-      "chapter_guess": 1,
-      "pages": [
-        343,
-        350
-      ],
-      "status": "done",
-      "claimed": "2026-11-19T01:39:00Z",
-      "note": "Published (scheduled run, one worker). Garbled repeats in the transcription (near v. 3 and the Coloss. 2:3 line) kept once. Latin corrections worth a glance: 'cum oculo sancto recipere' → 'osculo'; 'quo summus redemptus' → 'quo sumus redempti'. Margin 'II Cor. xii, 1–4' ref only at 12:2, 12:4; Matt 17:16 / Mark 9:18 quoted as Mark (note); 'Ps. cm, 2' read as Ps 103:2. Douay-Rheims data slip: Cant 1:14 'thou are fair' (twice) for 'art'.",
-      "source": "transcribed"
-    },
-    {
-      "id": "song-of-solomon-006",
-      "book": "song-of-solomon",
-      "art": 6,
-      "chapter_guess": 2,
-      "pages": [
-        350,
-        360
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:43:00Z",
-      "note": "Published (scheduled run, two workers, split at v. 7). Its last lines ('nil agere queo … sicut jam expositum est') stood in Art. VII's pre-cut file and were moved back here. Latin emendations incl. designantur for 'desiderantur' (v. 7). Denis reads sponsa mea (2:13, Vulgate speciosa) and Bethel (2:17, Vulgate Bether): noted. Tagged without a margin note (Denis names the source): Cant 1:15, 1 Cor 13:12, Matt 7:15, Ezech 3:17, Is 21:8, 21:10, Luke 19:42, Jer 15:19, Ps 10:8 with Ps 139:14. Margin 'Ibid. 1,5,4' read as John 15:1, 5, 4."
-    },
-    {
-      "id": "song-of-solomon-007",
-      "book": "song-of-solomon",
-      "art": 7,
-      "chapter_guess": 2,
-      "pages": [
-        360,
-        366
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:43:00Z",
-      "note": "Published (scheduled run, one worker). The end of the heading is lost in the transcription ('EXPOSITIO EJUSDEM CAPITULI SECUNDI, I…'; probably '… DE SPONSO ET SPONSA PARTICULARI', cf. Art. IV and VIII): title given with […], check the scan. Its last lines ('nem solitam … custoditior exstet') stood in Art. VIII's pre-cut file and were moved here. Six margin notes transcribed as italics in the text were taken as margin notes. 'sequeque humiliter' read as 'seque humiliet' (a guess). Dan 4:7–9 tagged without a margin note (Denis names Daniel)."
-    },
-    {
-      "id": "song-of-solomon-008",
-      "book": "song-of-solomon",
-      "art": 8,
-      "chapter_guess": 2,
-      "pages": [
-        366,
-        372
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:46:00Z",
-      "note": "Its pre-cut file lacked its last line ('consolaretur gregem … hinnulo', p. 350 right column, cut into Art. IX's file); joined back. Matt. xvi, 4 of the margin is Matt 16:3 in the Douay-Rheims (noted). Tagged without a margin note: Heb 13:4, Ezech 28:13, Luke 2:19."
-    },
-    {
-      "id": "song-of-solomon-009",
-      "book": "song-of-solomon",
-      "art": 9,
-      "chapter_guess": 3,
-      "pages": [
-        372,
-        378
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:46:00Z",
-      "note": "Its last lines ('rificemini ab eodem … respuit compati', with II Tim. iii, 12) stood only in the page transcription (p. 356); joined on. Margin 'Matth. xxii, 10' taken as Matt 22:40 (ref only, noted); 'Pater, quos dedisti mihi, volo' blends John 17:24 with 17:22 (noted)."
-    },
-    {
-      "id": "song-of-solomon-010",
-      "book": "song-of-solomon",
-      "art": 10,
-      "chapter_guess": 3,
-      "pages": [
-        378,
-        381
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:56:00Z",
-      "note": "Published (scheduled run, one worker). Its last block ('ma, quoniam hæ virtutes … ad quamlibet animam Christi sponsam', p. 359) stood in Art. XI's pre-cut file and was moved here; the end of Art. IX in this file (already published with Art. IX) was left out. Verse 5 not treated. 2 Par 15:15 marked though Denis's wording is closer to 2 Par 15:12 (noted); Prov 14:33 ('Cf.') reference only. Douay-Rheims data slip: Cant 3:7 ends with '?'."
-    },
-    {
-      "id": "song-of-solomon-011",
-      "book": "song-of-solomon",
-      "art": 11,
-      "chapter_guess": 3,
-      "pages": [
-        381,
-        381
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:56:00Z",
-      "note": "Published together with song-of-solomon-011-2 as one article (Art. XI, pp. 359–363): this item held its opening ('IN lectulo meo … proficiens om-'). Heading pieced together from the two damaged copies ('…CAPITULI TERT[…]' and '[…]TII, DE CHRISTO ET SPONSA SINGULARI')."
-    },
-    {
-      "id": "song-of-solomon-011-2",
-      "book": "song-of-solomon",
-      "art": 11,
-      "chapter_guess": 3,
-      "pages": [
-        381,
-        385
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:56:00Z",
-      "note": "Published with song-of-solomon-011 (Art. XI). Margin '1 Cor. v, 19' is 2 Cor 5:19 (noted). 'subjectum ex quo suæ incarnationis' seems to lack a word: kept as printed, English supplies '[came the matter]'. Verses 5 and 8 not treated."
-    },
-    {
-      "id": "song-of-solomon-012",
-      "book": "song-of-solomon",
-      "art": 12,
-      "chapter_guess": 4,
-      "pages": [
-        385,
-        396
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T01:57:30Z",
-      "note": "Margin '11 Reg. xxm, 8; 1 Par. xi, 10' read as 2 Kings 23:8, 1 Par 11:10 (ref only). Latin kept as printed: 'sique creditis', 'His sensis et armis' (noted); 'torpore accedit ac timoris' read as 'torpore acediæ ac timoris' (a guess). Matt 13:8 margin: Denis's opening words are closer to Luke 8:8 (noted)."
-    },
-    {
-      "id": "song-of-solomon-013",
-      "book": "song-of-solomon",
-      "art": 13,
-      "chapter_guess": 4,
-      "pages": [
-        396,
-        402
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:04:00Z",
-      "note": "Published (scheduled run, one worker). Margin 'Ps. cxi, 8' is Ps 141:8 (noted). Denis reads 'vulnerasti me' in 4:9 and 'in conspectu Dei' in Job 13:15 (noted). v. 15 not treated; vv. 12–14 in one paragraph (Denis refers back to Art. XII). The translator's note placing St Antony's saying on discretion in Cassian, Conferences II, was added by the translator, not from the margin."
-    },
-    {
-      "id": "song-of-solomon-014",
-      "book": "song-of-solomon",
-      "art": 14,
-      "chapter_guess": 4,
-      "pages": [
-        402,
-        406
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:04:00Z",
-      "note": "Published (scheduled run, one worker). An asterisk after 'quasi candens pollebat' in the transcription (footnote mark or doubtful reading?) was dropped: check the scan. Ps 45:6 with Denis's 'in medio ejus non est commotus' (noted). Tagged without a margin note: Ps 44:3, John 7:38. Denis treats v. 8 last, after v. 16; vv. 3 and 15 not treated."
-    },
-    {
-      "id": "song-of-solomon-015",
-      "book": "song-of-solomon",
-      "art": 15,
-      "chapter_guess": 5,
-      "pages": [
-        406,
-        416
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:13:00Z",
-      "note": "Margin 'Ps. cxxiv, 6' read as Ps 114:6 (Custodiens parvulos); 'Ibid. 12' (Luke 3:12) read as Luke 3:10 (Quid ergo faciemus?); both noted. Stray margin '13' in v. 15 dropped; '* ejus' at v. 14 taken as a variant note. Latin 'elementi' read as 'clementi'. Kept as printed: 'quæritur' (v. 9), 'Et sicut universi oculi' (v. 12, sense wants 'sic', noted). Added unmarginated quotations Mark 16:15, John 5:46, 2 Pet 1:19, Heb 1:3."
-    },
-    {
-      "id": "song-of-solomon-016",
-      "book": "song-of-solomon",
-      "art": 16,
-      "chapter_guess": 5,
-      "pages": [
-        416,
-        421
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:13:00Z",
-      "note": "Margin correction 'defectuositatem' preferred to printed 'defructuositatem' (noted); variant 'affectuosius' for 'virtuosius' noted. Added unmarginated quotations Job 13:15, Ps 9:11, Job 30:20-21, Job 33:14."
-    },
-    {
-      "id": "song-of-solomon-017",
-      "book": "song-of-solomon",
-      "art": 17,
-      "chapter_guess": 5,
-      "pages": [
-        421,
-        424
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:12:00Z",
-      "note": "Published (scheduled run, one worker). Its last lines ('præsentia et auditu operiri solebam … Cetera patent', p. 402) stood in Art. XVIII's pre-cut file and were moved here. Denis treats only vv. 1–8 ('Cetera patent'). Margin '*perfecte' corrects the printed 'perfecta' (5:2 gloss). 'quoniam enim videre et invenire non valeo' kept as printed ('enim' perhaps for 'eum'). Denis takes 'Veni in hortum meum' as a command (noted)."
-    },
-    {
-      "id": "song-of-solomon-018",
-      "book": "song-of-solomon",
-      "art": 18,
-      "chapter_guess": 6,
-      "pages": [
-        424,
-        431
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:17:00Z",
-      "note": "Published (scheduled run, one worker). Denis's chapter 6 begins with 'Quo abiit dilectus tuus', which is Cant 5:17 in the Vulgate numbering used here: the opening paragraph is untagged, with Cant 5:8, 5:9 and 5:17 markers; the last paragraph treats Cant 7:1 ('Quid videbis in Sunamite') and is untagged with a Cant 7:1 marker. Margin variant 'alias pietatis' (v. 11) noted. Tagged without a margin note (Denis names Isaias): Is 1:21, 2:3."
-    },
-    {
-      "id": "song-of-solomon-019",
-      "book": "song-of-solomon",
-      "art": 19,
-      "chapter_guess": 6,
-      "pages": [
-        431,
-        435
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:21:00Z",
-      "note": "Heading damaged in the transcription; title taken as 'DECLARATIO EJUSDEM CAPITULI SEXTI, DE CHRISTO ET SPONSA PARTICULARI.' (check scan). Paragraphs on 5:17 and 7:1 (Denis's chapter 6 begins/ends there) kept untagged in the ch. 6 article with Cant 5:17 / Cant 7:1 markers, as in Art. XVIII. Margin 'Ps. lxxxii, 26' read as Ps 72:26, 'Ps. cxxii, 1' as Ps 132:1 (noted)."
-    },
-    {
-      "id": "song-of-solomon-020",
-      "book": "song-of-solomon",
-      "art": 20,
-      "chapter_guess": 6,
-      "pages": [
-        435,
-        439
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:21:00Z",
-      "note": "7:1 paragraph kept untagged in the ch. 6 article (Cant 7:1 marker), as in Art. XVIII. Margin 'Ps. lxxvii, 3' read as Ps 67:3 (noted); stray margin '3.' taken as the end of 'Rom. ix, 2, 3'."
-    },
-    {
-      "id": "song-of-solomon-021",
-      "book": "song-of-solomon",
-      "art": 21,
-      "chapter_guess": 7,
-      "pages": [
-        439,
-        444
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:27:00Z",
-      "note": "Published (scheduled run, one worker). v. 5: transcription reads 'rubeis contuntur' (not a word; perhaps 'induuntur'), noted in the text: check the scan. Transcription slips corrected (monitia→monilia, caprææ→capreæ, desi/Agnat→designat, two Cyrillic letters). Denis's variants noted: 7:1 'feminum' for 'femorum', 7:5 'juncta' for 'vincta', Is 49:6 'in salutem'. Tit 3:5 margin kept ref-only (words closer to John 3:5). Cant 5:11 beside 'per optimum aurum'. Tagged without margin note: Matt 6:21, Cant 4:4. Douay-Rheims file has 'inebreateth' at Ps 22:5."
-    },
-    {
-      "id": "song-of-solomon-022",
-      "book": "song-of-solomon",
-      "art": 22,
-      "chapter_guess": 7,
-      "pages": [
-        444,
-        448
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:31:00Z",
-      "note": "Published (scheduled run, one worker). Syllable lost at a line break, 'Certe meri-/dicitur', read 'merito'. Transcription 'ejus' read 'cujus' (v. 10). Margin verse numbers v. 9/v. 10 are one off (judged by the text: 7:10, 7:11). 'Ps. i.xxvi, 3' read Ps 76:3. Variants noted: Jer 48:10 'negligenter', Is 26:18, 7:5 'juncta', Ecclus 18:30 'voluptate'. Tagged without margin note: Matt 12:34, Matt 5:5, Luke 6:24–25, 2 Cor 1:5, Ps 9:2 (same words open Ps 110, 137)."
-    },
-    {
-      "id": "song-of-solomon-023",
-      "book": "song-of-solomon",
-      "art": 23,
-      "chapter_guess": 7,
-      "pages": [
-        448,
-        452
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:27:30Z",
-      "note": "Margin 'Luc. xxii, 41' (drops of blood) given as Luke 22:44, ref only (noted); chapter-only margins (Gen. iv, vi, xii, xxii, xlii–xlv) given as verse 1."
-    },
-    {
-      "id": "song-of-solomon-024",
-      "book": "song-of-solomon",
-      "art": 24,
-      "chapter_guess": 8,
-      "pages": [
-        452,
-        460
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:27:30Z",
-      "note": "Published with one gap: PDF 458, v. 10, after 'ante Spiritus' the next line seems lost (sense probably 'Sancti missionem murus fui…'); marked […]. Please check the scan and fill it. Margin 'Is. I, 10' read as Is 50:10 (noted); stray margins '32.' = Luke 24:32, '13.' = Ps 84:13."
-    },
-    {
-      "id": "song-of-solomon-025",
-      "book": "song-of-solomon",
-      "art": 25,
-      "chapter_guess": 8,
-      "pages": [
-        460,
-        466
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:37:00Z"
-    },
-    {
-      "id": "song-of-solomon-026",
-      "book": "song-of-solomon",
-      "art": 26,
-      "chapter_guess": 8,
-      "pages": [
-        466,
-        471
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:37:00Z"
-    },
-    {
-      "id": "wisdom-001",
-      "book": "wisdom",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        475,
-        484
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:37:30Z"
-    },
-    {
-      "id": "wisdom-002",
-      "book": "wisdom",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        484,
-        490
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "claimed": "2026-11-19T02:43:00Z"
-    },
-    {
-      "id": "wisdom-003",
-      "book": "wisdom",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        490,
-        496
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-004",
-      "book": "wisdom",
-      "art": 4,
-      "chapter_guess": 4,
-      "pages": [
-        496,
-        501
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-005",
-      "book": "wisdom",
-      "art": 5,
-      "chapter_guess": 5,
-      "pages": [
-        501,
-        507
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-006",
-      "book": "wisdom",
-      "art": 6,
-      "chapter_guess": 6,
-      "pages": [
-        507,
-        513
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-007",
-      "book": "wisdom",
-      "art": 7,
-      "chapter_guess": 7,
-      "pages": [
-        513,
-        521
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-008",
-      "book": "wisdom",
-      "art": 8,
-      "chapter_guess": 8,
-      "pages": [
-        521,
-        527
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-009",
-      "book": "wisdom",
-      "art": 9,
-      "chapter_guess": 9,
-      "pages": [
-        527,
-        532
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-010",
-      "book": "wisdom",
-      "art": 10,
-      "chapter_guess": 10,
-      "pages": [
-        532,
-        539
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-011",
-      "book": "wisdom",
-      "art": 11,
-      "chapter_guess": 11,
-      "pages": [
-        539,
-        545
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-012",
-      "book": "wisdom",
-      "art": 12,
-      "chapter_guess": 12,
-      "pages": [
-        545,
-        551
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-013",
-      "book": "wisdom",
-      "art": 13,
-      "chapter_guess": 13,
-      "pages": [
-        551,
-        555
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-014",
-      "book": "wisdom",
-      "art": 14,
-      "chapter_guess": 14,
-      "pages": [
-        555,
-        560
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-015",
-      "book": "wisdom",
-      "art": 15,
-      "chapter_guess": 15,
-      "pages": [
-        560,
-        564
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-016",
-      "book": "wisdom",
-      "art": 16,
-      "chapter_guess": 16,
-      "pages": [
-        564,
-        570
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-017",
-      "book": "wisdom",
-      "art": 17,
-      "chapter_guess": 17,
-      "pages": [
-        570,
-        574
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-018",
-      "book": "wisdom",
-      "art": 18,
-      "chapter_guess": 18,
-      "pages": [
-        574,
-        580
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "wisdom-019",
-      "book": "wisdom",
-      "art": 19,
-      "chapter_guess": 19,
-      "pages": [
-        580,
-        586
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    }
-  ]
+ "volume": "t7",
+ "items": [
+  {
+   "id": "proverbs-001",
+   "book": "proverbs",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    27,
+    40
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:00:55Z",
+   "note": "Published (scheduled run, two workers; first Proverbs article: work title 'Enarratio in Proverbia Salomonis regis Israel', PDF = printed page + 22). Text lost at the foot of p. 16 (PDF 38) left column, after 'Psalmista : Sicut oves', marked […] (Ps 48:15 noted): check the scan. Margin readings corrected with notes: '1 Reg. xii, 3' (Ididia) → 2 Kings 12:25; 'Par. xxii' → 1 Par 22:9; 'Joann. v… 20' → John 10:20; 'I Cor. iv, 18' → 2 Cor 4:17-18; 'Ps. lxxii, 27' → Ps 72:19; 'Posuit in lacum vitam meam' (beside Jer 51:34) is Lam 3:53 (ref-only). Chapter-only margins given verses (Prov 3:18, 22:18, 29:5; Ecclus 6:35; Matt 15:14-15). Margins missing their book on p37/p39 read from the text (Job 21:14, Is 30:10, Ps 14:4, Ps 26:13, Is 64:4, 1 Cor 2:9, Is 32:17-18). Tagged without margin note: Matt 6:9, Ps 140:5, Job 18:10, Jer 30:11, Prov 28:1. Douay-Rheims slip: Acts 20:27 'spread' for 'spared'."
+  },
+  {
+   "id": "proverbs-002",
+   "book": "proverbs",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    40,
+    45
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:00:55Z",
+   "note": "Published (scheduled run, worker). The cut left the article's last line on p45 ('infusa, pro salute æterna … accendimur'); added. A '[…]' after 'ignavia,' (p45) kept; the sense runs on, probably nothing lost. Margin readings corrected with notes: 'Exod. xv, 14' → Ex 20:14; 's. xi, 2' → Is 11:2; 'id. iii, 9' → Is 3:9; 'Joann. ii' → 1 John 2:11. Denis reads 'hereditabunt' at Matt 5:4 (noted). Douay-Rheims slip: Prov 2:7 'He wilt keep'."
+  },
+  {
+   "id": "proverbs-003",
+   "book": "proverbs",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    45,
+    56
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:08:46Z",
+   "note": "Published (scheduled run, two workers). The cut had put the end of Art. III (v. 35: 'tur. Unde in Ecclesiastico … Superbi gloria cito fit ignominia', p56 right column) into proverbs-004; moved here. Margin readings corrected or supplied (cut-off margins), with notes: Osee 8:12, Is 50:10, Osee 13:9, 2 Cor 3:5, Phil 2:13, Is 49:10, Apoc 7:16, Mal 3:10-11, Agg 1:9-10, Ps 80:13, Job 38:8, Job 36:29-31, Ps 118:103, Ps 50:8, Gal 5:20, Gen 2:10; 'cordium inspector' given as 1 Kings 16:7 / Prov 24:12 / Ecclus 23:28 (guesses, noted); Elias's words are 3 Kings 18:15 (margin 3 Kings 17:1, 4 Kings 3:14). v. 3 quotations have no margin notes; tagged where Denis names the source. Is 26:19 'ros dulcis *': the edition's footnote is not in the transcription. Douay-Rheims slip: Prov 3:3 'mercy aud truth' (shows in the article until fixed)."
+  },
+  {
+   "id": "proverbs-004",
+   "book": "proverbs",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    56,
+    62
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:08:46Z",
+   "note": "Published (scheduled run, worker). Margin readings corrected with notes: 'I Par. viii, 9, 10' → 1 Par 28:9-10; 'Ibid. viii, 7' → John 8:47; 'Joann. vi, 4' → John 6:64; 'Ps. cxviii, 33' → Ps 118:133; 'Cor. xiv, 3' → 1 Cor 14:38; 'Amos v, 1[…]' → Amos 5:12; 'I Reg. vii' → 2 Kings 7:14 (Denis's wording is 1 Par 22:10). v. 27 'manifeste malum est, omnino abstinere' seems to lack a 'non' (noted; check the scan). 'natura ligni' (v. 16 paragraph) looks corrupt, left out of the English. Tagged without margin note: Ps 82:14, Jer 4:1, 1 Cor 14:40."
+  },
+  {
+   "id": "proverbs-005",
+   "book": "proverbs",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    62,
+    65
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:11:23Z",
+   "note": "Published (scheduled run, worker). Margin 'Jer. x' does not fit: the words are Jer 23:24 (noted). Psalm number of the margin for 'Iniquitates meæ supergressæ' unreadable: Ps 37:5 marked (noted). Ps 48:13/21: v. 21 quoted, v. 13 ref-only. Denis reads 'Ipse iniquus morietur' at v. 23 (noted). Cyril's 'Proverbs' glossed as probably the Speculum sapientiae (uncertain). Douay-Rheims slip: Is 12:3 'Thou shall draw'."
+  },
+  {
+   "id": "proverbs-006",
+   "book": "proverbs",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    65,
+    72
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:11:23Z",
+   "note": "Published (scheduled run, two workers, split at v. 16). '[…]' in the first line ('de diligentia […] circa fidejussionem', PDF 65): check the scan. Margin readings corrected with notes: 'Ecclus. xxix, 20' → Ecclus 29:19 (DR numbering); 'Philip. 12' → Phil 2:12 (ref-only); 'Is. lvi' → Is 56:10; 'Ps. lxxxviii, 12' → Ps 78:12; 'Ezech. xvi' → Ezech 16:52 (ref-only, loose). Range margins (Ex 22:1–4, 7–13; Deut 22:22–25; Jer 3:1–13; Ezech 16:15–34) given ref-only markers to their first verse. Denis's readings noted: v. 5 'de insidiis aucupis', v. 15 'morte improvisa' in italics, v. 31 italics run past the Vulgate."
+  },
+  {
+   "id": "proverbs-007",
+   "book": "proverbs",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    72,
+    75
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:15:33Z",
+   "note": "Published (scheduled run, worker). Title completed from the right-column heading on p72 ('FILI MI, CUSTODI SERMONES MEOS'). Bible data: Prov 7:1 in both data/bible/drc and the Vulgate file stops at 'Son,' / 'Fili,' (missing 'honour the Lord, and thou shalt be strong: and besides him fear no other'); that half of the lemma is plain English for now. Margin 'Is. ii, 12' → Is 51:12 (noted). Tagged without margin note: 1 Kings 2:30, 2 Mach 15:2, Ps 143:1, Ps 48:15, Matt 16:18. The printed '*victimam' (likely an edition footnote) left out."
+  },
+  {
+   "id": "proverbs-008",
+   "book": "proverbs",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    75,
+    82
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:19:58Z",
+   "note": "Published (scheduled run, two workers, split at v. 22). The print's verse numbers run one verse out from v. 28 on; tagged by the text. Denis skips v. 16. Readings noted: v. 4 lemma adds 'ut convertamini et salvemini'; v. 13 'in quantum servilis, dicitur vulnerare' obscure (translated literally, '[so the print]'); v. 19 gloss has 'auro obrizo'; Osee 13:11 'et principes in indignatione mea'; 1 Tim 6:19 'thesaurum bonum'. 'Injustitia mortis est acquisitio' (beside Sap. i, 16) is not in the Douay-Rheims: left unmarked with a note. Margin 'Ps. cm, 31' read as Ps 103:31; 'Dan. vii, 9 … 13, 22' marked at 7:9. Tagged without margin note: Job 40:14, John 1:18, John 1:1. Possible misprint 'irrationabilibus ac animatis' (inanimatis?) kept."
+  },
+  {
+   "id": "proverbs-009",
+   "book": "proverbs",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    82,
+    86
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:19:58Z",
+   "note": "Published (scheduled run, worker). Denis's gloss on the Vulgate addition after v. 18 ('Qui enim applicabitur illi…', not in the Douay-Rheims) is its own untagged last paragraph, with a note. Matt 26:27 margin given as ref-only (consecration words are 26:28, noted). Readings noted: John 4:34 'of my Father'; v. 16 'Quis est parvulus?'; 1 John 5:10 'the Father'."
+  },
+  {
+   "id": "proverbs-010",
+   "book": "proverbs",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    86,
+    93
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:26:24Z",
+   "note": "Published (scheduled run, worker). The article file was cut short at 'perver-sa_, i' (end of v. 32 gloss); completed from transcribed/p93.txt. Margin numerals corrected with notes: Ps 83:18→82:18, 'Ps. x, 3 sec. Hebr.'→Ps 9:24, Ps 111:4→140:4, Ps 86:6→76:6, Is 11:24→40:24, 1 Thess 1:9→2 Thess 1:9. Ps 21:27: Denis has 'Nomina' where the Vulgate has 'corda' (printed footnote missing): only 'shall live for ever and ever' marked, with a note. Bible data slip: John 6:45 in data/bible/drc reads 'cometh forth me' (should be 'cometh to me')."
+  },
+  {
+   "id": "proverbs-011",
+   "book": "proverbs",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    93,
+    100
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:26:24Z",
+   "note": "Published (scheduled run, worker). Is 66:2 quoted in an older Latin form (no margin note): reference-only marker with a note; Is 24:18 ('Cf.') reference-only. Col 3:13 margin: last words are Eph 4:32's, marked so with a note. v. 10 'exaltabitur' (margin variant 'exsultabit') noted. Range margins (Acts 12; Job 1 with Tob 1–2; 1 Kings 28; Job 32–37) given reference-only markers with the full margin reading in a note. Repeated transcription lines (around Luke 19:13 / Matt 25:21 and 1 Kings 28) dropped."
+  },
+  {
+   "id": "proverbs-012",
+   "book": "proverbs",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    100,
+    106
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:26:39Z",
+   "note": "Published (scheduled run, worker). 'Qui suavis est…' (end of v. 11 in the Vulgate, start of v. 12 in the Douay-Rheims) tagged 12:12; Denis reads 'in moderationibus, in suis monitionibus' (noted). Other readings noted: v. 12 monumentum, v. 23 versutus, v. 27; Is 57:17, 1 Cor 7:14, Is 50:4. 'Num. v, 19, 22, 21' as ref-only markers. 1 Thess 4:17 kept (Vulgate file has it at 4:18). Tagged without margin note: Job 36:13, Jer 4:2, Wis 6:26, Is 50:4, Is 32:7, Matt 5:9, Zach 6:13, 2 Cor 7:10, Ecclus 30:24–25, Job 1:1, 2 Tim 3:13; Jas 1:2 ref-only. Stories of Joab, Absalom, Saul, Naboth have no margin note, so no marker."
+  },
+  {
+   "id": "proverbs-013",
+   "book": "proverbs",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    106,
+    112
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:26:39Z",
+   "note": "Published (scheduled run, worker). Margin 'Ps. lxxi, 6' does not fit: the words are Ps 62:6 (noted). Ecclus 29:28 (Vulgate) marked 29:27 (Douay-Rheims numbering, noted). Tagged without margin note: Jas 3:2. Variants noted: v. 2 impiorum; John 14:21 ostendam; 1 Pet 1:8 videntes; Seneca 'pauca'. v. 1 'Tales fuerunt Audiunt…' seems to lack a word (Latin kept as printed). Douay-Rheims slip: Prov 13:2 'month' for 'mouth'."
+  },
+  {
+   "id": "proverbs-014",
+   "book": "proverbs",
+   "art": 14,
+   "chapter_guess": 14,
+   "pages": [
+    112,
+    119
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:34:16Z",
+   "note": "Published (scheduled run, worker). v. 9: Denis reads 'Stultis illudit peccatum' (ref-only lemma marker, noted). Readings noted at vv. 23, 26, 28 ('neque ordinatos', perhaps 'atque'). Margin 'Joann. iv, 1' → 1 John 4:1. Tagged without margin note: Luke 13:5. Loose quotations ref-only: Tob 3:22, Prov 2:14, Ps 57:11, Hab 2:4/Rom 1:17. Wis 7:30 inverted and Jer 34:16 'holy' noted. Ranges given by first verse: 1 Kings 25:18, Dan 13:45."
+  },
+  {
+   "id": "proverbs-015",
+   "book": "proverbs",
+   "art": 15,
+   "chapter_guess": 15,
+   "pages": [
+    119,
+    127
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:34:16Z",
+   "note": "Published (scheduled run, two workers, split at v. 18). Margin 'Ps. xxvii, 1' → Ps 26:1; 'Matth. xviii, 20' → Matt 8:20 (noted); Job 14:2 note belongs to the clause before the Anna sentence. v. 14 'quærit' (margin correction of 'quæret'). Ranges at first verse: 1 Kings 25:24, Judg 8:2, 1 Mach 16:15, 2 Kings 13:27. Readings noted: v. 9 'vita impii', Rom 12:2, Jer 17:9, Matt 5:7, Mich 7:9 'Deducet', Deut 25:16 'impietatem'. Many obvious quotations tagged without margin note (Ps 33:16–17, Ezech 9:9, Soph 1:12, Ps 72:11, Ps 93:8–9, Prov 28:9, Gen 4:4–5, Ps 5:7, Ps 10:8, Ps 138:8, Ps 85:13, Gen 37:35, Ps 145:9, Deut 10:18, 1 Tim 5:3, Ps 147:3, Is 60:18, Is 1:16, Mich 2:1, Heb 4:12, Matt 17:5, Mark 16:20). Margin numeral for v. 31 missing. Kept 'digna in cathedra' (dignus?)."
+  },
+  {
+   "id": "proverbs-016",
+   "book": "proverbs",
+   "art": 16,
+   "chapter_guess": 16,
+   "pages": [
+    127,
+    135
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:39:09Z",
+   "note": "Published (scheduled run, worker). v. 11: the transcription has 'Lapides sæculi … pro Saeculi, positum Sæculi … in saeculo'; the lemma keeps 'sæculi', but Denis's explanation of the copyists' error was corrected to 'Lapides sacculi', 'pro Sacculi', 'in sacculo' (check the print). v. 1: 'reliquasque virtutum quas amiserunt' translated as the virtues they did not lose, with a note. Margins corrected with notes: Ecclus xxiii, 23 → Ecclus 18:23; Ps xxxvii, 3 → Ps 27:3; 'Cf. Joel ii, 23' marked though closer to Deut 11:14. Denis's readings noted: v. 13 'dirigetur', v. 14 'nuntius … placabit eum', Job 21:30 'in diem malum'."
+  },
+  {
+   "id": "proverbs-017",
+   "book": "proverbs",
+   "art": 17,
+   "chapter_guess": 17,
+   "pages": [
+    135,
+    142
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:39:09Z",
+   "note": "Published (scheduled run, worker). Margins corrected with notes: Jer xvii, 20 → Jer 18:20; 'Sap. iii' → Wis 3:6; bare 'v. 14' → Eccles 10:14; 2 Cor 1:14 kept ref-only (wording closer to 1 Thess 2:20). Latin slips corrected: v. 13 'recordet' → 'recedet', 'excusef' → 'excuset'. v. 28 printed '…in corde stulti. reputabitur. Intelligens.' kept as printed, with a note. Denis's readings noted: v. 19 'os suum', v. 17 'Deum et proximum', Ecclus 19:12 'femori canis', v. 6 margin variant 'alias participes'."
+  },
+  {
+   "id": "proverbs-018",
+   "book": "proverbs",
+   "art": 18,
+   "chapter_guess": 18,
+   "pages": [
+    142,
+    148
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:41:30Z",
+   "note": "Published (scheduled run, worker). v. 1 Denis prints execrabilis (margin variant exprobrabilis), noted. Gen 19:7–9 quoted loosely: 19:7 reference-only, 19:9 marked in part. Bernard passage: Ps 26:3 and Gal 5:17 reference-only. Luke 14:11 marked with 18:14 in a note; Matt 5:32 / 19:9 reference-only. Ps 132:1 tagged without margin note (Denis names the Psalmist). Several of Denis's readings differing from the Vulgate noted."
+  },
+  {
+   "id": "proverbs-019",
+   "book": "proverbs",
+   "art": 19,
+   "chapter_guess": 19,
+   "pages": [
+    148,
+    159
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:41:59Z",
+   "note": "Published (scheduled run, two workers). Art. XIX treats chapters 19 AND 20 (no separate heading for ch. 20; the next article is numbered XXI): published under both chapters. Its last lines (20:30, 'do æquanimiter toleretur … vigent in homine.', top of PDF 159 right column) had been cut into proverbs-021.txt and were taken from there. 20:5 transcription garbled ('igno- * sed tum est'), read as 'ignotum est aliis; sed homo sapiens'. III Esdr. 3:18–24 (not in the DR) given as a note. Douay-Rheims data slip: Lev 24:20 reads 'eye for ere'."
+  },
+  {
+   "id": "proverbs-021",
+   "book": "proverbs",
+   "art": 21,
+   "chapter_guess": 21,
+   "pages": [
+    159,
+    164
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:48:17Z",
+   "note": "Published (scheduled run, worker). proverbs-021.txt also held ch. 22 (Art. XXII, heading missing: now proverbs-022) and, inside v. 1, the end of the 20:30 gloss (lines 24–42, used by Art. XIX). v. 15 'amari[…]tudo' kept, translated 'bitterness' with a note. Margin 'Cf. Ibid. xxxiii, 33' → Ecclus 3:33 (ref-only, noted). Readings kept with notes: exors (v. 6), sapientiam (v. 11), judicium (v. 21), victorias (v. 28), superare (2 Par 25:8). Tagged without margin note: Mich 6:7–8, Job 24:7, Prov 19:25, Luke 6:30, Prov 19:5, Is 46:10, Jer 49:19, Job 23:13, Ps 32:17, 2 Par 25:8."
+  },
+  {
+   "id": "proverbs-022",
+   "book": "proverbs",
+   "art": 22,
+   "chapter_guess": 22,
+   "pages": [
+    164,
+    169
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:48:17Z",
+   "note": "Published (scheduled run, worker). The printed heading is missing from the transcription (running heads p165–168 say ART. XXII): title supplied in brackets from v. 1, with an article note; please take the real title from the scan (PDF 164/165). Text from proverbs-021.txt (ch. 22) and the first lines of proverbs-023.txt (22:28–29). Margins corrected with notes: 'Jacob. ii, 3' → Jas 2:5; 'Ps. lxxx, 3' → Ps 80:13; 'Ps. x, 14 sec. Hebr.' → Ps 9:35; 'Ibid. lxv, 0' → Is 65:20 (ref-only). Denis's readings noted: superbi (v. 5), Fili mi (v. 17), ostendam (v. 19), v. 27, 1 Pet 3:15 'fide et spe', Ecclus 41:15."
+  },
+  {
+   "id": "proverbs-023",
+   "book": "proverbs",
+   "art": 23,
+   "chapter_guess": 23,
+   "pages": [
+    169,
+    173
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:48:17Z",
+   "note": "Published (scheduled run, worker). The article file's first lines (22:28–29) belong to Art. XXII and were moved there. Margins corrected with notes: 'Eccli. xxii, 6' → Ecclus 32:6; 'Ps. x, 14' (Hebrew) → Ps 9:35. Tagged without margin note: Ecclus 31:23, 31:38. Conjectural corrections: 'præinducatur' → 'præinductam', 'præteactas' → 'præteritas'. v. 35 'et* non dolui' (margin '* sed') kept with a note. Bible data slip: Rom 13:12 in data/bible/drc reads 'passed And the day'."
+  },
+  {
+   "id": "proverbs-024",
+   "book": "proverbs",
+   "art": 24,
+   "chapter_guess": 24,
+   "pages": [
+    173,
+    179
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:53:14Z",
+   "note": "Published (scheduled run, worker). Garbled asterisks in the transcription kept in t with notes (v. 15 'iniquitatem * in * impietatem'; end remark '* ibi Tamen quod dicitur hic *'): check against the scan. Margin Prov. xxviii, 26 does not fit (28:23 marked, noted); II Reg. xxiii, 5 kept as printed though it hardly fits. Job 33:29–30 and Prov 6:9 tagged without margin notes (Denis names them)."
+  },
+  {
+   "id": "proverbs-025",
+   "book": "proverbs",
+   "art": 25,
+   "chapter_guess": 25,
+   "pages": [
+    179,
+    184
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:53:14Z",
+   "note": "Published (scheduled run, worker). Title partly lost in the transcription ('QUAS TRANSTUL[…]TI … […]LERUNT VIRI'), filled as 'HÆ QUOQUE PARABOLÆ SALOMONIS, QUAS TRANSTULERUNT VIRI, ETC.': check against the scan. Range margins (Luke 14:8–11, Luke 1:46–55) marked at first verse."
+  },
+  {
+   "id": "proverbs-026",
+   "book": "proverbs",
+   "art": 26,
+   "chapter_guess": 26,
+   "pages": [
+    184,
+    188
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T21:53:14Z",
+   "note": "Published (scheduled run, worker). Last line ('frequenter sequuntur … inferni supplicia', PDF 188 right column) taken from proverbs-027.txt line 16. v. 6 transcribed 'iniquitatem habens' read as 'bibens' (Vulgate; Denis's gloss 'potare'): check the scan. Margin 'Prov. xxviii, 8' at v. 22 is 18:8 (noted). '[…]' after 'libidinosum' (v. 28) dropped as a lost margin note. DR data slip: Prov 26:23 'earthern'."
+  },
+  {
+   "id": "proverbs-027",
+   "book": "proverbs",
+   "art": 27,
+   "chapter_guess": 27,
+   "pages": [
+    188,
+    194
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:00:32Z",
+   "note": "Published (scheduled run, worker). A stray line in proverbs-027.txt (line 16, 'frequenter sequuntur facta injusta et opera vitiosa, sicque loquentem praecipitat ad inferni supplicia.') is the end of Art. XXVI (26:28, after '…quia ex verbis quae profert,'): left out here. v. 13 transcription garbled ('pro quibus * aufer ei spopondit, aufer pignus ab eo *'), read as 'pro quibus spopondit, aufer pignus ab eo': check the scan. Margin variant at v. 8 ('irreformatione') and a margin summary left out. Denis's readings noted: osculantis (v. 6), evacuet (v. 16), concitati spiritus (v. 4), dulcibus (v. 9). Ecclus 29:28–30 ref-only at 29:28 (DR/Vulgate numbering out of step there)."
+  },
+  {
+   "id": "proverbs-028",
+   "book": "proverbs",
+   "art": 28,
+   "chapter_guess": 28,
+   "pages": [
+    194,
+    198
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:04:49Z",
+   "note": "Published (scheduled run, worker). End of the article (vv. 25 end–28, PDF 198 right column) taken from proverbs-029.txt lines 7–8. Margin 'Ibid. xxx, 23' at v. 14 is Job 31:23 (noted). Ezech 45:9 'separate eorum vestra' kept as printed (garbled; Vulgate confinia vestra)."
+  },
+  {
+   "id": "proverbs-029",
+   "book": "proverbs",
+   "art": 29,
+   "chapter_guess": 29,
+   "pages": [
+    198,
+    203
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:04:49Z",
+   "note": "Published (scheduled run, worker). v. 1 joined across a column break ('dura cervice cordis | impatienter se habet'); the sentence seems short by a word ('contemnit'?): check the scan. '[…]' at v. 27 dropped (sense runs on). 'Gloria patris, filius sapiens' (v. 17) not in the Vulgate: left unmarked with a note."
+  },
+  {
+   "id": "proverbs-030",
+   "book": "proverbs",
+   "art": 30,
+   "chapter_guess": 30,
+   "pages": [
+    203,
+    214
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:04:49Z",
+   "note": "Published (scheduled run, two workers). DOUAY-RHEIMS DATA BUG: data/bible/drc/proverbs.json has v. 29's text under 30:19 and 30:29 empty, so the lemmata of 30:19 and 30:29 are plain English without markers; once the Bible file is fixed they should get markers. Also 30:22 reads 'when be is filled'. Kept as printed with notes: investigabiliter, alii destituti, instituisset; 'hericiaciis' (Ps 103:18) probably garbled. 'Ps. lxvi, 5' read as Ps 56:5, 'Is. iii … 13' as Is 3:15 (noted)."
+  },
+  {
+   "id": "proverbs-031",
+   "book": "proverbs",
+   "art": 31,
+   "chapter_guess": 31,
+   "pages": [
+    214,
+    223
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:11:40Z",
+   "note": "Published (scheduled run, two workers, split at v. 13). Chapter-only margins (Matt. xiii, xx, xxiv; Apoc. v, xix, xxi) given as verse 1, ref-only, with a note. 'Non legatum, non angelum misit' (Is 63:9 in the old/Septuagint reading) left untagged with a note. Margin 'Is. liii, 14' → Is 52:14 (note). Margin ⟦31⟧ stands beside 'Mulier timens Dominum' (v. 30); tagged 31:30. Tagged without margin note: Luke 6:12, Matt 19:28, Ps 44:17. 2 Thess 3:10: printed asterisk with margin 'vult operari' explained in a note. Lev 19:15 and Gen 18:19 quoted loosely: only the matching words marked."
+  },
+  {
+   "id": "proverbs-032",
+   "book": "proverbs",
+   "art": 32,
+   "chapter_guess": 31,
+   "pages": [
+    223,
+    226
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:11:40Z",
+   "note": "Published (scheduled run, one worker). Margin 'Prov. viii, 4' → Prov 7:4 (note); 'Matth. xix, 20' → Matt 19:21 ref-only (note). Heb 2:4 in Denis's order; 2 Tim 3:17 Denis omits 'Dei'."
+  },
+  {
+   "id": "proverbs-033",
+   "book": "proverbs",
+   "art": 33,
+   "chapter_guess": 31,
+   "pages": [
+    226,
+    231
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:16:50Z",
+   "note": "Published (scheduled run, worker). v. 21 printed 'spiritualiter*' with margin variant 'specialiter' (noted; stray 'ter' dropped). John 1:16 tagged without margin note. 120 virgins: note pointing to Acts 1:14–15. Trailing '[…]' after 'Amen.' are end-of-book blanks."
+  },
+  {
+   "id": "ecclesiastes-001",
+   "book": "ecclesiastes",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    233,
+    243
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:19:27Z",
+   "note": "Published (scheduled run, two workers, split at v. 7; first Ecclesiastes article: work title 'Enarratio in librum Ecclesiastæ', PDF = printed page + 22). Margin 'Job xxxiv, 21' → Job 34:24 (note). Prov 15:20 / 10:1 loose: ref-only with note. Jerome's 'et non miremur' looks corrupt (translated as 'non meruimus', noted). Note on 'Vapor fumi et aura tenuis' (Jerome, from Aquila/Symmachus/Theodotion) is the worker's recollection: worth a check. v. 18: Denis reads 'addit et dolorem' (DR 'labour'), noted. 2 Thess 2:10 as the margin gives (the Vulgate file numbers it 2:11). 3 Kings 4:29–34 given as 4:29 with a note. Tagged without margin note: Eccles 12:13."
+  },
+  {
+   "id": "ecclesiastes-002",
+   "book": "ecclesiastes",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    243,
+    248
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:19:27Z",
+   "note": "Published with one gap: at the column break on p. 223 (PDF 245), after 'Et quamvis non possit suo Crea-' the right column begins 'per Isaiam testatur': a line or more seems lost; marked […] with a note on the likely sense. Please check PDF 245 against the scan. 'tædium me vitæ meæ' read as 'tæduit' (Vulgate 2:17). Margin 'Ps. liii, 6' → Ps 52:6; 'Jon. iv, 3' → Jon 4:8 (Denis's wording), both noted. 2 Cor 6:14: Denis has 'conventio' (noted). Prov 21:17: Denis 'non erit sapiens' (noted). Margin Jos xiii–xxi given as Jos 13:1."
+  },
+  {
+   "id": "ecclesiastes-003",
+   "book": "ecclesiastes",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    248,
+    254
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:28:00Z",
+   "note": "Published (scheduled run, one worker). Margin '11' beside 'Deus docet nos super jumenta' read as Job 35:11 (note). Is 26:17-18 in Denis's division (note). Rom 12:15 tagged for 'flere cum flentibus' only (note: the Apostle has 'rejoice'). Tagged without margin note: Luke 12:4, Luke 6:21, Job 8:21, 1 Cor 7:3, 7:5, Matt 15:13, Deut 32:39, Gal 2:20, Col 3:3, Job 5:17-18, Prov 4:23, Joel 2:13, Ps 50:6, Eccles 2:11, Gen 3:19, Matt 10:39, Ps 15:10, Acts 13:36, Apoc 10:6, John 7:6, 2:4, Job 23:10, Ps 65:10, Acts 23:8. Latin 'persecutaretur' (v. 18 gloss) read as 'perscrutaretur' by the sense: check the scan."
+  },
+  {
+   "id": "ecclesiastes-004",
+   "book": "ecclesiastes",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    254,
+    259
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:28:00Z",
+   "note": "Published (scheduled run, one worker). Hab 1:13 in Denis's wording ('conculcante' for 'devorante', note); Hab 1:3 ref-only. 'si natus non esset' tagged Matt 26:24, Mark 14:21 ref-only (note). Is 9:6 quoted as 'Puer natus est nobis' (note). From v. 10 on no margin notes in the transcription; tagged where Denis names the source: Ps 132:1, Ps 104:20-21, Wis 10:14, Job 36:7-12 (in part, note), Amos 6:1, Soph 1:9, Is 9:6, John 8:44; Ezech 28:17 ref-only."
+  },
+  {
+   "id": "ecclesiastes-005",
+   "book": "ecclesiastes",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    259,
+    265
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:27:48Z",
+   "note": "Published (scheduled run, one worker). The pre-cut article stopped mid-word ('permodicum reputant in-'); its last lines ('…tuitu et amore retributionis futuræ … ante faciem Dei?', with margins Phil 1:23, Ps 119:5, Ps 41:3) stood at the head of ecclesiastes-006.txt and were added here. Margin 'Ps. cxi, 4' → Ps 140:4; 'Ps. xciv, 3' words are Ps 46:3 (both marked, note); Luke 18:24–25 as the margin gives, though Denis's 'regnum cœlorum' is Matt 19:23–24 (note); Hab 1:3 ref-only, 1:13 marked (note). Tagged without margin note: Ps 75:6."
+  },
+  {
+   "id": "ecclesiastes-006",
+   "book": "ecclesiastes",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    265,
+    267
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-18T22:27:48Z",
+   "note": "Published (scheduled run, one worker). Its pre-cut file began with the last lines of Art. V (moved there). Margin 'Is. xxxiii, 11' → Is 27:11 (note); Is 47:13 quoted freely (note). 'De hoc ego pronuntio' kept as printed (Vulgate 'ergo')."
+  },
+  {
+   "id": "ecclesiastes-007",
+   "book": "ecclesiastes",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    267,
+    280
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:11:48Z",
+   "note": "Published (scheduled run, two workers). Art. VII treats chapter 7 and 8:1 (Denis ends the chapter with 'Sapientia hominis lucet in vultu ejus'): published under both chapters, the 8:1 part under ch. 8 before Art. VIII. Margin 'Eccli. xi, 22, 23' → Ecclus 3:22–23; 'Ps. cvii, 24' → Ps 103:24; 'Prov. xxii, 4' → Prov 23:4; 'Ps. cxxviii, 6' → Ps 138:6; 'Ps. cxviii, 9' → Ps 117:9 (each with a note). v. 18: 'Omnia… sed non singula, vitare valemus' looks reversed; translated by the usual teaching, with a note. Douay-Rheims data slip: John 6:45 reads 'cometh forth me' (should be 'cometh to me')."
+  },
+  {
+   "id": "ecclesiastes-008",
+   "book": "ecclesiastes",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    280,
+    286
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:11:48Z",
+   "note": "Published (scheduled run, one worker). Art. VIII treats 8:2–17 and 9:1 ('Omnia hæc tractavi in corde meo'): published under both chapters, the 9:1 part under ch. 9. Margin 'Job xxiv, … 36, 37' read as Job 34:7, 34:36 (note). Jer 8:15 / 14:19 and Hab 1:3, 13 quoted freely (notes). The transcriber's note at the end placed v. 17, Rom 11:33–34 and Jer 23:18; followed."
+  },
+  {
+   "id": "ecclesiastes-009",
+   "book": "ecclesiastes",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    286,
+    293
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:21:33Z",
+   "note": "Published (scheduled run, two workers). One word ending lost in the transcription at v. 10 ('prosequ[…]re', surely 'prosequere'): kept as […]. Margin 'I Joann. iii, 24' → 1 John 4:13 and 'Ibid. iv, 6' → 1 John 5:19; 'Mach. iii, 19' only loosely matches 1 Mach 3:19 (reference only); Prov 20:9 quoted in an older Latin form; Osee 'Quia oblitus es mei, obliviscar et ego tui' matches no verse word for word (Osee 4:6, reference only) — each with a note. The closing question on whether one can know one has charity is tagged v. 1."
+  },
+  {
+   "id": "ecclesiastes-010",
+   "book": "ecclesiastes",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    293,
+    300
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:21:33Z",
+   "note": "Published (scheduled run, one worker). Printed footnote correction 'manuum' used at v. 18. Margin 'Cf. Prov. xxii, 12' not Denis's wording (reference only, note); Ecclus 27:29 quoted loosely (note); Gen 3:1, 4, 13, 14 reference only. Denis's variant readings of 10:1, 10:5, 10:11, 10:19 ('bibentes') noted."
+  },
+  {
+   "id": "ecclesiastes-011",
+   "book": "ecclesiastes",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    300,
+    305
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:27:00Z",
+   "note": "The article's last lines (from 'distinctæ partes ætatis' to 'pro eodem sumuntur', p. 283 right column) had been cut into ecclesiastes-012.txt; joined back here."
+  },
+  {
+   "id": "ecclesiastes-012",
+   "book": "ecclesiastes",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    305,
+    315
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:27:00Z",
+   "note": "Editor's Vulgate readings beside asterisks (eum*, conteratur*, imminuto numero*, Quando*) given as bracketed notes; margin 'Ps. cxi, 3' taken as Ps 140:3."
+  },
+  {
+   "id": "song-of-solomon-001",
+   "book": "song-of-solomon",
+   "art": 1,
+   "chapter_guess": null,
+   "pages": [
+    315,
+    317
+   ],
+   "status": "done",
+   "claimed": "2026-11-19T01:33:02Z",
+   "note": "Published (scheduled run, one worker for Art. I and II; first Canticle article: work title 'Enarratio in Canticum canticorum Salomonis', filed under chapter 1). Prologue article: untagged except the two paragraphs (Bernard, Gregory) on in whose person 1:1 is spoken. Transcription repeated 'sit de latere Christi dormientis in cruce' (kept once).",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-002",
+   "book": "song-of-solomon",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    317,
+    318
+   ],
+   "status": "done",
+   "claimed": "2026-11-19T01:33:02Z",
+   "note": "Published (scheduled run, with Art. I). Prologue article, filed under chapter 1 with no verse tags. Matt 22:12–13 and Ex 19:12–13 reference only; Heb 12:20 quoted.",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-003-part1",
+   "book": "song-of-solomon",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    318,
+    326
+   ],
+   "status": "done",
+   "claimed": "2026-11-19T01:33:40Z",
+   "note": "Published (scheduled run, two workers): chapter 1, vv. 1–6 up to Deut 33:12 'inter humeros illius requiescet' (the lines moved from part 2's file). Margin 'Ps. lxxxiii, 12' → Ps 73:12 (ref only, note); 'Ps. i, 8' → Ps 50:8 (note); Acts 13:47 / Is 49:6 split (note); Matt 5:12 with Luke 6:23 wording (note). Douay-Rheims data slip: Cant 1:3 reads 'the rightous love thee'.",
+   "source": "transcribed",
+   "part": 1,
+   "parts": 2
+  },
+  {
+   "id": "song-of-solomon-003-part2",
+   "book": "song-of-solomon",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    327,
+    334
+   ],
+   "status": "done",
+   "note": "Douay-Rheims slip in data/bible/drc: Cant 1:14 reads 'Behold thou are fair' (twice; should be 'art'), quoted as it stands.",
+   "source": "transcribed",
+   "part": 2,
+   "parts": 2,
+   "claimed": "2026-11-19T01:38:30Z"
+  },
+  {
+   "id": "song-of-solomon-004",
+   "book": "song-of-solomon",
+   "art": 4,
+   "chapter_guess": 1,
+   "pages": [
+    334,
+    343
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:38:30Z",
+   "note": "Margin '48. 11.' beside 'Creator Salvatorque' fits no verse: given as Is 43:11 with a note (guess). Douay-Rheims slips in data/bible/drc: Cant 1:3 'rightous', 1:14 'thou are fair'."
+  },
+  {
+   "id": "song-of-solomon-005",
+   "book": "song-of-solomon",
+   "art": 5,
+   "chapter_guess": 1,
+   "pages": [
+    343,
+    350
+   ],
+   "status": "done",
+   "claimed": "2026-11-19T01:39:00Z",
+   "note": "Published (scheduled run, one worker). Garbled repeats in the transcription (near v. 3 and the Coloss. 2:3 line) kept once. Latin corrections worth a glance: 'cum oculo sancto recipere' → 'osculo'; 'quo summus redemptus' → 'quo sumus redempti'. Margin 'II Cor. xii, 1–4' ref only at 12:2, 12:4; Matt 17:16 / Mark 9:18 quoted as Mark (note); 'Ps. cm, 2' read as Ps 103:2. Douay-Rheims data slip: Cant 1:14 'thou are fair' (twice) for 'art'.",
+   "source": "transcribed"
+  },
+  {
+   "id": "song-of-solomon-006",
+   "book": "song-of-solomon",
+   "art": 6,
+   "chapter_guess": 2,
+   "pages": [
+    350,
+    360
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:43:00Z",
+   "note": "Published (scheduled run, two workers, split at v. 7). Its last lines ('nil agere queo … sicut jam expositum est') stood in Art. VII's pre-cut file and were moved back here. Latin emendations incl. designantur for 'desiderantur' (v. 7). Denis reads sponsa mea (2:13, Vulgate speciosa) and Bethel (2:17, Vulgate Bether): noted. Tagged without a margin note (Denis names the source): Cant 1:15, 1 Cor 13:12, Matt 7:15, Ezech 3:17, Is 21:8, 21:10, Luke 19:42, Jer 15:19, Ps 10:8 with Ps 139:14. Margin 'Ibid. 1,5,4' read as John 15:1, 5, 4."
+  },
+  {
+   "id": "song-of-solomon-007",
+   "book": "song-of-solomon",
+   "art": 7,
+   "chapter_guess": 2,
+   "pages": [
+    360,
+    366
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:43:00Z",
+   "note": "Published (scheduled run, one worker). The end of the heading is lost in the transcription ('EXPOSITIO EJUSDEM CAPITULI SECUNDI, I…'; probably '… DE SPONSO ET SPONSA PARTICULARI', cf. Art. IV and VIII): title given with […], check the scan. Its last lines ('nem solitam … custoditior exstet') stood in Art. VIII's pre-cut file and were moved here. Six margin notes transcribed as italics in the text were taken as margin notes. 'sequeque humiliter' read as 'seque humiliet' (a guess). Dan 4:7–9 tagged without a margin note (Denis names Daniel)."
+  },
+  {
+   "id": "song-of-solomon-008",
+   "book": "song-of-solomon",
+   "art": 8,
+   "chapter_guess": 2,
+   "pages": [
+    366,
+    372
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:46:00Z",
+   "note": "Its pre-cut file lacked its last line ('consolaretur gregem … hinnulo', p. 350 right column, cut into Art. IX's file); joined back. Matt. xvi, 4 of the margin is Matt 16:3 in the Douay-Rheims (noted). Tagged without a margin note: Heb 13:4, Ezech 28:13, Luke 2:19."
+  },
+  {
+   "id": "song-of-solomon-009",
+   "book": "song-of-solomon",
+   "art": 9,
+   "chapter_guess": 3,
+   "pages": [
+    372,
+    378
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:46:00Z",
+   "note": "Its last lines ('rificemini ab eodem … respuit compati', with II Tim. iii, 12) stood only in the page transcription (p. 356); joined on. Margin 'Matth. xxii, 10' taken as Matt 22:40 (ref only, noted); 'Pater, quos dedisti mihi, volo' blends John 17:24 with 17:22 (noted)."
+  },
+  {
+   "id": "song-of-solomon-010",
+   "book": "song-of-solomon",
+   "art": 10,
+   "chapter_guess": 3,
+   "pages": [
+    378,
+    381
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:56:00Z",
+   "note": "Published (scheduled run, one worker). Its last block ('ma, quoniam hæ virtutes … ad quamlibet animam Christi sponsam', p. 359) stood in Art. XI's pre-cut file and was moved here; the end of Art. IX in this file (already published with Art. IX) was left out. Verse 5 not treated. 2 Par 15:15 marked though Denis's wording is closer to 2 Par 15:12 (noted); Prov 14:33 ('Cf.') reference only. Douay-Rheims data slip: Cant 3:7 ends with '?'."
+  },
+  {
+   "id": "song-of-solomon-011",
+   "book": "song-of-solomon",
+   "art": 11,
+   "chapter_guess": 3,
+   "pages": [
+    381,
+    381
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:56:00Z",
+   "note": "Published together with song-of-solomon-011-2 as one article (Art. XI, pp. 359–363): this item held its opening ('IN lectulo meo … proficiens om-'). Heading pieced together from the two damaged copies ('…CAPITULI TERT[…]' and '[…]TII, DE CHRISTO ET SPONSA SINGULARI')."
+  },
+  {
+   "id": "song-of-solomon-011-2",
+   "book": "song-of-solomon",
+   "art": 11,
+   "chapter_guess": 3,
+   "pages": [
+    381,
+    385
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:56:00Z",
+   "note": "Published with song-of-solomon-011 (Art. XI). Margin '1 Cor. v, 19' is 2 Cor 5:19 (noted). 'subjectum ex quo suæ incarnationis' seems to lack a word: kept as printed, English supplies '[came the matter]'. Verses 5 and 8 not treated."
+  },
+  {
+   "id": "song-of-solomon-012",
+   "book": "song-of-solomon",
+   "art": 12,
+   "chapter_guess": 4,
+   "pages": [
+    385,
+    396
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:57:30Z",
+   "note": "Margin '11 Reg. xxm, 8; 1 Par. xi, 10' read as 2 Kings 23:8, 1 Par 11:10 (ref only). Latin kept as printed: 'sique creditis', 'His sensis et armis' (noted); 'torpore accedit ac timoris' read as 'torpore acediæ ac timoris' (a guess). Matt 13:8 margin: Denis's opening words are closer to Luke 8:8 (noted)."
+  },
+  {
+   "id": "song-of-solomon-013",
+   "book": "song-of-solomon",
+   "art": 13,
+   "chapter_guess": 4,
+   "pages": [
+    396,
+    402
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:04:00Z",
+   "note": "Published (scheduled run, one worker). Margin 'Ps. cxi, 8' is Ps 141:8 (noted). Denis reads 'vulnerasti me' in 4:9 and 'in conspectu Dei' in Job 13:15 (noted). v. 15 not treated; vv. 12–14 in one paragraph (Denis refers back to Art. XII). The translator's note placing St Antony's saying on discretion in Cassian, Conferences II, was added by the translator, not from the margin."
+  },
+  {
+   "id": "song-of-solomon-014",
+   "book": "song-of-solomon",
+   "art": 14,
+   "chapter_guess": 4,
+   "pages": [
+    402,
+    406
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:04:00Z",
+   "note": "Published (scheduled run, one worker). An asterisk after 'quasi candens pollebat' in the transcription (footnote mark or doubtful reading?) was dropped: check the scan. Ps 45:6 with Denis's 'in medio ejus non est commotus' (noted). Tagged without a margin note: Ps 44:3, John 7:38. Denis treats v. 8 last, after v. 16; vv. 3 and 15 not treated."
+  },
+  {
+   "id": "song-of-solomon-015",
+   "book": "song-of-solomon",
+   "art": 15,
+   "chapter_guess": 5,
+   "pages": [
+    406,
+    416
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:13:00Z",
+   "note": "Margin 'Ps. cxxiv, 6' read as Ps 114:6 (Custodiens parvulos); 'Ibid. 12' (Luke 3:12) read as Luke 3:10 (Quid ergo faciemus?); both noted. Stray margin '13' in v. 15 dropped; '* ejus' at v. 14 taken as a variant note. Latin 'elementi' read as 'clementi'. Kept as printed: 'quæritur' (v. 9), 'Et sicut universi oculi' (v. 12, sense wants 'sic', noted). Added unmarginated quotations Mark 16:15, John 5:46, 2 Pet 1:19, Heb 1:3."
+  },
+  {
+   "id": "song-of-solomon-016",
+   "book": "song-of-solomon",
+   "art": 16,
+   "chapter_guess": 5,
+   "pages": [
+    416,
+    421
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:13:00Z",
+   "note": "Margin correction 'defectuositatem' preferred to printed 'defructuositatem' (noted); variant 'affectuosius' for 'virtuosius' noted. Added unmarginated quotations Job 13:15, Ps 9:11, Job 30:20-21, Job 33:14."
+  },
+  {
+   "id": "song-of-solomon-017",
+   "book": "song-of-solomon",
+   "art": 17,
+   "chapter_guess": 5,
+   "pages": [
+    421,
+    424
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:12:00Z",
+   "note": "Published (scheduled run, one worker). Its last lines ('præsentia et auditu operiri solebam … Cetera patent', p. 402) stood in Art. XVIII's pre-cut file and were moved here. Denis treats only vv. 1–8 ('Cetera patent'). Margin '*perfecte' corrects the printed 'perfecta' (5:2 gloss). 'quoniam enim videre et invenire non valeo' kept as printed ('enim' perhaps for 'eum'). Denis takes 'Veni in hortum meum' as a command (noted)."
+  },
+  {
+   "id": "song-of-solomon-018",
+   "book": "song-of-solomon",
+   "art": 18,
+   "chapter_guess": 6,
+   "pages": [
+    424,
+    431
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:17:00Z",
+   "note": "Published (scheduled run, one worker). Denis's chapter 6 begins with 'Quo abiit dilectus tuus', which is Cant 5:17 in the Vulgate numbering used here: the opening paragraph is untagged, with Cant 5:8, 5:9 and 5:17 markers; the last paragraph treats Cant 7:1 ('Quid videbis in Sunamite') and is untagged with a Cant 7:1 marker. Margin variant 'alias pietatis' (v. 11) noted. Tagged without a margin note (Denis names Isaias): Is 1:21, 2:3."
+  },
+  {
+   "id": "song-of-solomon-019",
+   "book": "song-of-solomon",
+   "art": 19,
+   "chapter_guess": 6,
+   "pages": [
+    431,
+    435
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:21:00Z",
+   "note": "Heading damaged in the transcription; title taken as 'DECLARATIO EJUSDEM CAPITULI SEXTI, DE CHRISTO ET SPONSA PARTICULARI.' (check scan). Paragraphs on 5:17 and 7:1 (Denis's chapter 6 begins/ends there) kept untagged in the ch. 6 article with Cant 5:17 / Cant 7:1 markers, as in Art. XVIII. Margin 'Ps. lxxxii, 26' read as Ps 72:26, 'Ps. cxxii, 1' as Ps 132:1 (noted)."
+  },
+  {
+   "id": "song-of-solomon-020",
+   "book": "song-of-solomon",
+   "art": 20,
+   "chapter_guess": 6,
+   "pages": [
+    435,
+    439
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:21:00Z",
+   "note": "7:1 paragraph kept untagged in the ch. 6 article (Cant 7:1 marker), as in Art. XVIII. Margin 'Ps. lxxvii, 3' read as Ps 67:3 (noted); stray margin '3.' taken as the end of 'Rom. ix, 2, 3'."
+  },
+  {
+   "id": "song-of-solomon-021",
+   "book": "song-of-solomon",
+   "art": 21,
+   "chapter_guess": 7,
+   "pages": [
+    439,
+    444
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:27:00Z",
+   "note": "Published (scheduled run, one worker). v. 5: transcription reads 'rubeis contuntur' (not a word; perhaps 'induuntur'), noted in the text: check the scan. Transcription slips corrected (monitia→monilia, caprææ→capreæ, desi/Agnat→designat, two Cyrillic letters). Denis's variants noted: 7:1 'feminum' for 'femorum', 7:5 'juncta' for 'vincta', Is 49:6 'in salutem'. Tit 3:5 margin kept ref-only (words closer to John 3:5). Cant 5:11 beside 'per optimum aurum'. Tagged without margin note: Matt 6:21, Cant 4:4. Douay-Rheims file has 'inebreateth' at Ps 22:5."
+  },
+  {
+   "id": "song-of-solomon-022",
+   "book": "song-of-solomon",
+   "art": 22,
+   "chapter_guess": 7,
+   "pages": [
+    444,
+    448
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:31:00Z",
+   "note": "Published (scheduled run, one worker). Syllable lost at a line break, 'Certe meri-/dicitur', read 'merito'. Transcription 'ejus' read 'cujus' (v. 10). Margin verse numbers v. 9/v. 10 are one off (judged by the text: 7:10, 7:11). 'Ps. i.xxvi, 3' read Ps 76:3. Variants noted: Jer 48:10 'negligenter', Is 26:18, 7:5 'juncta', Ecclus 18:30 'voluptate'. Tagged without margin note: Matt 12:34, Matt 5:5, Luke 6:24–25, 2 Cor 1:5, Ps 9:2 (same words open Ps 110, 137)."
+  },
+  {
+   "id": "song-of-solomon-023",
+   "book": "song-of-solomon",
+   "art": 23,
+   "chapter_guess": 7,
+   "pages": [
+    448,
+    452
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:27:30Z",
+   "note": "Margin 'Luc. xxii, 41' (drops of blood) given as Luke 22:44, ref only (noted); chapter-only margins (Gen. iv, vi, xii, xxii, xlii–xlv) given as verse 1."
+  },
+  {
+   "id": "song-of-solomon-024",
+   "book": "song-of-solomon",
+   "art": 24,
+   "chapter_guess": 8,
+   "pages": [
+    452,
+    460
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:27:30Z",
+   "note": "Published with one gap: PDF 458, v. 10, after 'ante Spiritus' the next line seems lost (sense probably 'Sancti missionem murus fui…'); marked […]. Please check the scan and fill it. Margin 'Is. I, 10' read as Is 50:10 (noted); stray margins '32.' = Luke 24:32, '13.' = Ps 84:13."
+  },
+  {
+   "id": "song-of-solomon-025",
+   "book": "song-of-solomon",
+   "art": 25,
+   "chapter_guess": 8,
+   "pages": [
+    460,
+    466
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:37:00Z"
+  },
+  {
+   "id": "song-of-solomon-026",
+   "book": "song-of-solomon",
+   "art": 26,
+   "chapter_guess": 8,
+   "pages": [
+    466,
+    471
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:37:00Z"
+  },
+  {
+   "id": "wisdom-001",
+   "book": "wisdom",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    475,
+    484
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:37:30Z"
+  },
+  {
+   "id": "wisdom-002",
+   "book": "wisdom",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    484,
+    490
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:43:00Z"
+  },
+  {
+   "id": "wisdom-003",
+   "book": "wisdom",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    490,
+    496
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-004",
+   "book": "wisdom",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    496,
+    501
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-005",
+   "book": "wisdom",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    501,
+    507
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-006",
+   "book": "wisdom",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    507,
+    513
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-007",
+   "book": "wisdom",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    513,
+    521
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-008",
+   "book": "wisdom",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    521,
+    527
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-009",
+   "book": "wisdom",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    527,
+    532
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-010",
+   "book": "wisdom",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    532,
+    539
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-011",
+   "book": "wisdom",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    539,
+    545
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-012",
+   "book": "wisdom",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    545,
+    551
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-013",
+   "book": "wisdom",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    551,
+    555
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-014",
+   "book": "wisdom",
+   "art": 14,
+   "chapter_guess": 14,
+   "pages": [
+    555,
+    560
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-015",
+   "book": "wisdom",
+   "art": 15,
+   "chapter_guess": 15,
+   "pages": [
+    560,
+    564
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-016",
+   "book": "wisdom",
+   "art": 16,
+   "chapter_guess": 16,
+   "pages": [
+    564,
+    570
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-017",
+   "book": "wisdom",
+   "art": 17,
+   "chapter_guess": 17,
+   "pages": [
+    570,
+    574
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-018",
+   "book": "wisdom",
+   "art": 18,
+   "chapter_guess": 18,
+   "pages": [
+    574,
+    580
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "wisdom-019",
+   "book": "wisdom",
+   "art": 19,
+   "chapter_guess": 19,
+   "pages": [
+    580,
+    586
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  }
+ ]
 }
