@@ -598,9 +598,10 @@
     300,
     305
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:27:00Z"
+   "claimed": "2026-11-19T01:27:00Z",
+   "note": "The article's last lines (from 'distinctæ partes ætatis' to 'pro eodem sumuntur', p. 283 right column) had been cut into ecclesiastes-012.txt; joined back here."
   },
   {
    "id": "ecclesiastes-012",
@@ -611,9 +612,10 @@
     305,
     315
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:27:00Z"
+   "claimed": "2026-11-19T01:27:00Z",
+   "note": "Editor's Vulgate readings beside asterisks (eum*, conteratur*, imminuto numero*, Quando*) given as bracketed notes; margin 'Ps. cxi, 3' taken as Ps 140:3."
   },
   {
    "id": "song-of-solomon-001",
