@@ -1230,7 +1230,7 @@
    ],
    "status": "done",
    "source": "transcribed",
-   "note": "At 16:13 the transcription runs words together ('admissi credunPaulus et Moyses', PDF p. 567 or so): printed as 'credun[…] Paulus' with a note (probably 'creduntur, ut'); check against the scan."
+   "note": "At 16:13 the transcription runs words together ('admissi credunPaulus et Moyses', PDF p. 566): printed as 'credun[…] Paulus' with a note (probably 'creduntur, ut'); check against the scan."
   },
   {
    "id": "wisdom-017",
@@ -1267,8 +1267,9 @@
     580,
     586
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T03:41:00Z"
   }
  ]
 }
