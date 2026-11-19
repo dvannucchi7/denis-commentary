@@ -1064,9 +1064,10 @@
     496,
     501
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:44:00Z"
+   "claimed": "2026-11-19T02:44:00Z",
+   "note": "Published (scheduled run, one worker). The last lines of the article ('et accusabuntur a conscientia propria … deprimentur in ima', 4:20) were transcribed at the top of PDF 501's right column and had been cut into Art. V; moved back here. Margin readings corrected (notes): 'Eccli. xliv, 6' → Ecclus 44:16; 'Ps. lxxxii, 19' → Ps 72:19; 'Jer. xxiv, 18, 19' → Jer 29:18–19; 'Ps. lxxxvii, c.' → Ps 87:6; 'Dan. xiii,' → Dan 13:56. Printed 'uvis' (margin 'ovis', Is 59:5) and 'decedentes' (margin 'decidentes', 4:19) kept with notes. 4:12 stray 'autem' dropped. Douay-Rheims file 4:17 'and it shall not understand' (Challoner: 'and shall not understand')?"
   },
   {
    "id": "wisdom-005",
@@ -1077,9 +1078,10 @@
     501,
     507
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:44:00Z"
+   "claimed": "2026-11-19T02:44:00Z",
+   "note": "Published (scheduled run, one worker). The article's last two paragraphs (Jerome's 'Si Sanctus ille ita expavit…' with 2 Pet 3:10–12, and Is 59:17–18 on the armour of God) are in the right column of PDF 507, which the pre-cut article file missed; translated by the run and added. Margin numbers corrected: Matt 25:13→25:33, Matt 12:31→12:34, 1 Cor 8:8→13:8, Ps 37:8→27:8. Ezech 30:24 and Ezech 18:21–22 loose (notes). 'In † Threnis … Posuit me in proverbium vulgi' is Job 17:6 as the margin gives; 'factus sum quasi vas inutile' noted (Ps 30:13, Jer 48:38). Denis treats Wis 6:1 at the end (untagged paragraph, marked Wis 6:1). Tagged without margin note: Is 57:1, Is 60:19, Ps 90:4–5, 2 Pet 3:10–12."
   },
   {
    "id": "wisdom-006",
