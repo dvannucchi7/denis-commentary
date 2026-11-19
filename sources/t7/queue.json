@@ -714,9 +714,10 @@
     350,
     360
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:43:00Z"
+   "claimed": "2026-11-19T01:43:00Z",
+   "note": "Published (scheduled run, two workers, split at v. 7). Its last lines ('nil agere queo … sicut jam expositum est') stood in Art. VII's pre-cut file and were moved back here. Latin emendations incl. designantur for 'desiderantur' (v. 7). Denis reads sponsa mea (2:13, Vulgate speciosa) and Bethel (2:17, Vulgate Bether): noted. Tagged without a margin note (Denis names the source): Cant 1:15, 1 Cor 13:12, Matt 7:15, Ezech 3:17, Is 21:8, 21:10, Luke 19:42, Jer 15:19, Ps 10:8 with Ps 139:14. Margin 'Ibid. 1,5,4' read as John 15:1, 5, 4."
   },
   {
    "id": "song-of-solomon-007",
@@ -727,9 +728,10 @@
     360,
     366
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:43:00Z"
+   "claimed": "2026-11-19T01:43:00Z",
+   "note": "Published (scheduled run, one worker). The end of the heading is lost in the transcription ('EXPOSITIO EJUSDEM CAPITULI SECUNDI, I…'; probably '… DE SPONSO ET SPONSA PARTICULARI', cf. Art. IV and VIII): title given with […], check the scan. Its last lines ('nem solitam … custoditior exstet') stood in Art. VIII's pre-cut file and were moved here. Six margin notes transcribed as italics in the text were taken as margin notes. 'sequeque humiliter' read as 'seque humiliet' (a guess). Dan 4:7–9 tagged without a margin note (Denis names Daniel)."
   },
   {
    "id": "song-of-solomon-008",
