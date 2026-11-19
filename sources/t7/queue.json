@@ -1187,9 +1187,10 @@
     551,
     555
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:25:53Z"
+   "claimed": "2026-11-19T03:25:53Z",
+   "note": "Published (scheduled run, one worker). Opening block 'ultionem, ut fertur in Exodo… damnabuntur' (end of Art. XII) left to Art. XII, which has it; the end of the Isaias quotation ('…ut confun-dantur… non audient', Ps 113:13–14) was in the right column of PDF 555 (cut into wisdom-014.txt) and was moved here. Transcription slips read: 'ulpis' (after a page turn, v. 2 area) as 'salutis'; 'pertinens rubrica' (v. 14) as 'perliniens'; 'carum'→'earum'. Kept as transcribed: 'fucum', 'ætherem', 'præactis'. Margin 'Jer. ii, 19' marked as Jer 51:19 with a note; 'Ps. cxiii, 5, 6' = Vulgate Ps 113:13–14; Is 44:9–20 range: only v. 9 quoted. Job 37:23 ('quod scriptum est') tagged without margin note. Footnote mark '1)' (Summa contra gentiles) not a reference."
   },
   {
    "id": "wisdom-014",
@@ -1200,9 +1201,10 @@
     555,
     560
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:25:53Z"
+   "claimed": "2026-11-19T03:25:53Z",
+   "note": "Published (scheduled run, one worker). At the column turn of PDF 555 a repeated heading and the end of Art. XIII were removed; '[…]cripere' read as 'eripere'. Transcription slips corrected (consecera-tum, elaborarit, cum qui→eum qui, allicinunt, tuneque); 'lignæ navi', 'decepula' kept. Margin 'Jer. x, 14, 15; li, 17, 18': Denis's wording is Jer 51:17–18 (marked), Jer 10:14–15 reference-only with a note. Col 3:5 and Phil 1:8 reference-only. Variant readings noted in brackets (vv. 3, 4, 6, 14, 19, 25, 29, 31). The article ends somewhat abruptly at 'cujus opinionis videtur et Varro fuisse' (before Art. XV): check the scan that nothing is lost."
   },
   {
    "id": "wisdom-015",
