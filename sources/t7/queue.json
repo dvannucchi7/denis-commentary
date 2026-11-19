@@ -670,8 +670,8 @@
     327,
     334
    ],
-   "status": "in-progress",
-   "note": "Its pre-cut file began mid-sentence ('vitæ, te intra se … inter humeros illius requiescet.', with Deut 33:12); those lines were moved to part 1. Part 2 now starts at 'Indica (inquam) mihi'.",
+   "status": "done",
+   "note": "Douay-Rheims slip in data/bible/drc: Cant 1:14 reads 'Behold thou are fair' (twice; should be 'art'), quoted as it stands.",
    "source": "transcribed",
    "part": 2,
    "parts": 2,
@@ -686,9 +686,10 @@
     334,
     343
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:38:30Z"
+   "claimed": "2026-11-19T01:38:30Z",
+   "note": "Margin '48. 11.' beside 'Creator Salvatorque' fits no verse: given as Is 43:11 with a note (guess). Douay-Rheims slips in data/bible/drc: Cant 1:3 'rightous', 1:14 'thou are fair'."
   },
   {
    "id": "song-of-solomon-005",
