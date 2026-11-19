@@ -570,9 +570,10 @@
     286,
     293
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:21:33Z"
+   "claimed": "2026-11-19T01:21:33Z",
+   "note": "Published (scheduled run, two workers). One word ending lost in the transcription at v. 10 ('prosequ[…]re', surely 'prosequere'): kept as […]. Margin 'I Joann. iii, 24' → 1 John 4:13 and 'Ibid. iv, 6' → 1 John 5:19; 'Mach. iii, 19' only loosely matches 1 Mach 3:19 (reference only); Prov 20:9 quoted in an older Latin form; Osee 'Quia oblitus es mei, obliviscar et ego tui' matches no verse word for word (Osee 4:6, reference only) — each with a note. The closing question on whether one can know one has charity is tagged v. 1."
   },
   {
    "id": "ecclesiastes-010",
@@ -583,9 +584,10 @@
     293,
     300
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:21:33Z"
+   "claimed": "2026-11-19T01:21:33Z",
+   "note": "Published (scheduled run, one worker). Printed footnote correction 'manuum' used at v. 18. Margin 'Cf. Prov. xxii, 12' not Denis's wording (reference only, note); Ecclus 27:29 quoted loosely (note); Gen 3:1, 4, 13, 14 reference only. Denis's variant readings of 10:1, 10:5, 10:11, 10:19 ('bibentes') noted."
   },
   {
    "id": "ecclesiastes-011",
