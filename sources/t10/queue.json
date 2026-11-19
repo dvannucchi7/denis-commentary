@@ -68,11 +68,12 @@
     54,
     62
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 1,
    "parts": 3,
-   "claimed": "2026-11-19T03:56:13Z"
+   "claimed": "2026-11-19T03:56:13Z",
+   "note": "Part 1 of 3 published (scheduled run, two workers split at the v. 56 lemma; Dan 3:49–63, ending with Dan 12:3, whose last words 'erudiunt … æternitates' stand at the top of daniel-004-part2.txt: part 2 should start after them, at the v. 64 lemma). Pages given as pp. 44–69 for the whole article. Lost letters at a page turn: 'Ecclesia mi- / et triumphans' read 'mi[litans]'. Margin numbers corrected with notes: Ps cxlvii, 19 → Ps 147:8; Ps cxiii, 2 → Ps 112:2; Ps lxxxix, 2 → Ps 79:2; Job xliii, 2 → Job 42:2; Job xxxviii, 18 → Job 37:18; 'Deut. xxxii, 27' does not fit 'Manus Domini fecit hæc omnia' (Job 12:9 marked, noted). Prov 10:1 / 13:1 and Ex 25:20, 22 (words of Heb 9:5) reference-only with notes."
   },
   {
    "id": "daniel-004-part2",
