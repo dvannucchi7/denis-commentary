@@ -27,7 +27,8 @@
    "source": "transcribed",
    "part": 1,
    "parts": 2,
-   "claimed": "2026-11-19T03:47:06Z"
+   "claimed": "2026-11-19T03:47:06Z",
+   "note": "(from the Daniel 1 run) The first lines of the old daniel-002-part1.txt, 'gunt mendacium veritati … quotidie crucifigens' (PDF p. 25 right column), are the end of Art. I and are now published there; leave them out of Art. II."
   },
   {
    "id": "daniel-002-part2",
@@ -53,8 +54,9 @@
     41,
     54
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T03:52:59Z"
   },
   {
    "id": "daniel-004-part1",
