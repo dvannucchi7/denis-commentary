@@ -992,8 +992,9 @@
     460,
     466
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:37:00Z"
   },
   {
    "id": "song-of-solomon-026",
@@ -1004,8 +1005,9 @@
     466,
     471
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:37:00Z"
   },
   {
    "id": "wisdom-001",
