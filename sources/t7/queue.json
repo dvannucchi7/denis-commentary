@@ -1162,9 +1162,8 @@
     539,
     545
    ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-19T03:13:00Z"
+   "status": "done",
+   "source": "transcribed"
   },
   {
    "id": "wisdom-012",
@@ -1175,9 +1174,9 @@
     545,
     551
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:13:00Z"
+   "note": "The end of Art. XII (on 12:27, 'ultionem, ut fertur in Exodo … anima damnabuntur', top of the right column of p. 529) had been cut into wisdom-013.txt; moved to wisdom-012.txt and translated here."
   },
   {
    "id": "wisdom-013",
