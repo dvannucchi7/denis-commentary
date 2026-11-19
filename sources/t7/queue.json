@@ -1188,8 +1188,9 @@
     551,
     555
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T03:25:53Z"
   },
   {
    "id": "wisdom-014",
@@ -1200,8 +1201,9 @@
     555,
     560
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T03:25:53Z"
   },
   {
    "id": "wisdom-015",
