@@ -768,8 +768,9 @@
     378,
     381
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:56:00Z"
   },
   {
    "id": "song-of-solomon-011",
@@ -780,8 +781,9 @@
     381,
     381
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:56:00Z"
   },
   {
    "id": "song-of-solomon-011-2",
@@ -792,8 +794,9 @@
     381,
     385
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:56:00Z"
   },
   {
    "id": "song-of-solomon-012",
