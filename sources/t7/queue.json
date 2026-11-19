@@ -966,9 +966,10 @@
     448,
     452
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:27:30Z"
+   "claimed": "2026-11-19T02:27:30Z",
+   "note": "Margin 'Luc. xxii, 41' (drops of blood) given as Luke 22:44, ref only (noted); chapter-only margins (Gen. iv, vi, xii, xxii, xlii–xlv) given as verse 1."
   },
   {
    "id": "song-of-solomon-024",
@@ -979,9 +980,10 @@
     452,
     460
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:27:30Z"
+   "claimed": "2026-11-19T02:27:30Z",
+   "note": "Published with one gap: PDF 458, v. 10, after 'ante Spiritus' the next line seems lost (sense probably 'Sancti missionem murus fui…'); marked […]. Please check the scan and fill it. Margin 'Is. I, 10' read as Is 50:10 (noted); stray margins '32.' = Luke 24:32, '13.' = Ps 84:13."
   },
   {
    "id": "song-of-solomon-025",
