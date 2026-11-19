@@ -1215,9 +1215,9 @@
     560,
     564
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:29:00Z"
+   "note": "The last lines of Art. XV (15:19, 'runt ab ejus obsequio … veniet eis', top of the right column of p. 542) had been cut into wisdom-016.txt; moved to wisdom-015.txt and translated here."
   },
   {
    "id": "wisdom-016",
@@ -1228,9 +1228,9 @@
     564,
     570
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T03:29:00Z"
+   "note": "At 16:13 the transcription runs words together ('admissi credunPaulus et Moyses', PDF p. 567 or so): printed as 'credun[…] Paulus' with a note (probably 'creduntur, ut'); check against the scan."
   },
   {
    "id": "wisdom-017",
