@@ -825,8 +825,9 @@
     396,
     402
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:04:00Z"
   },
   {
    "id": "song-of-solomon-014",
@@ -837,8 +838,9 @@
     402,
     406
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T02:04:00Z"
   },
   {
    "id": "song-of-solomon-015",
