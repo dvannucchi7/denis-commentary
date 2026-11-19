@@ -994,9 +994,10 @@
     460,
     466
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:37:00Z"
+   "claimed": "2026-11-19T02:37:00Z",
+   "note": "Published (scheduled run, one worker). Title's end unread in the transcription ('DECLARATIO EJUSDEM CAPITULI OCTAVI, […]'); completed from the article's other heading line ('DE CHRISTO ET SPONSA PARTICULARI'). v. 3: transcription 'amplexabitur me in cordis' read 'in cœlis' ('in heaven'): check the scan. Lemma of v. 2 adds 'et in cubiculum genitricis meæ' (Cant 3:4), noted. 'Ibid. 21' → Rom 7:24; 'Is. liii, 1-3' → Is 53:4, 53:3 (noted); 'Petr. ii, 8' → 1 Pet 2:8. Verse 4 not treated. 'Nil durum… verus amor' noted as not Scripture."
   },
   {
    "id": "song-of-solomon-026",
@@ -1007,9 +1008,10 @@
     466,
     471
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:37:00Z"
+   "claimed": "2026-11-19T02:37:00Z",
+   "note": "Published (scheduled run, one worker). Last article on the Canticle. Heading transcribed only as 'ELUCIDATIO EJUSDEM CAPITULI OCTAVI,'; 'DE CHRISTO ET SPONSA SINGULARI' added from the running head (the bride is the Blessed Virgin throughout): check the scan. Margin 'Luc. ii, 2[…]' → Luke 2:22. '[ordines]' (p. 446) kept without brackets: check whether the brackets are the edition's. 8:13 'amici auscultant te' (Vulgate has no 'te'), noted. Transcriptions of PDF 470 and 472 failed ('no images came through'): p. 470 follows the end of this article ('IN CANTICUM CANTICORUM' heading at the foot of PDF 469), p. 472 is in Wisdom: both need re-transcribing."
   },
   {
    "id": "wisdom-001",
