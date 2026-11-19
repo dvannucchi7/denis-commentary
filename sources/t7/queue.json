@@ -1092,9 +1092,10 @@
     507,
     513
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:54:50Z"
+   "claimed": "2026-11-19T02:54:50Z",
+   "note": "Published (scheduled run, one worker). The article file's lines 7–12 (two paragraphs 'Sanctus ille ita expavit…' and 'Postremo et id sciendum… Is. lix, 17, 18', plus heading fragments) are the displaced end of Art. V (wisdom-005 ends mid-sentence at 'Si'): left out here; check that Art. V has them. Margin 'Osee xiii' given as Osee 13:11. Long margin list at v. 8 (2 Par 19:7; Rom 2:11; Eph 6:9; Col 3:25; 1 Pet 1:17): Eph 6:9 quoted, others reference-only; Jer 49:19 quoted, Jer 50:44 reference-only. Denis's readings differing from the Vulgate noted (vv. 8, 11, 17; 1 Pet 3:15, Tit 1:9, Prov 10:21, 1 Cor 14:38, Cant 5:2, Is 27:9). Tagged without margin note (source named): Job 34:30, Ps 7:9, John 17:3, Jer 9:24, Wis 6:1."
   },
   {
    "id": "wisdom-007",
@@ -1105,9 +1106,10 @@
     513,
     521
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:54:50Z"
+   "claimed": "2026-11-19T02:54:50Z",
+   "note": "Published (scheduled run, two workers, split at v. 17). 7:8: the transcription has '* duxi corporales nihil esse dixi*' (a printed variant mark?): 'dixi' used; check the scan. Margin 'Eccle. i, 13' is Eccles 1:15; 'Ibid. ii' given as 1 Cor 2:11; Acts xviii, 6, 18–23; xix, 9, 10 as reference-only markers with a note. Denis's readings differing from the Vulgate noted (vv. 1, 16, 18 incl. 'Morum mutationes', 'divisiones temporum', 22, 23, 29; Gal 6:3). Tagged without margin note (source named): 1 Pet 4:10, Wis 1:6, Is 11:2, John 4:24, Wis 8:1. Bracketed notes attribute 'Homo generat hominem et sol' to Aristotle, Physics II, 2, and Augustine on Zoroaster to City of God XXI, 14 (from memory: check). Douay-Rheims slip: John 15:15 'friends. because'."
   },
   {
    "id": "wisdom-008",
