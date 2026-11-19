@@ -770,9 +770,10 @@
     378,
     381
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:56:00Z"
+   "claimed": "2026-11-19T01:56:00Z",
+   "note": "Published (scheduled run, one worker). Its last block ('ma, quoniam hæ virtutes … ad quamlibet animam Christi sponsam', p. 359) stood in Art. XI's pre-cut file and was moved here; the end of Art. IX in this file (already published with Art. IX) was left out. Verse 5 not treated. 2 Par 15:15 marked though Denis's wording is closer to 2 Par 15:12 (noted); Prov 14:33 ('Cf.') reference only. Douay-Rheims data slip: Cant 3:7 ends with '?'."
   },
   {
    "id": "song-of-solomon-011",
@@ -783,9 +784,10 @@
     381,
     381
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:56:00Z"
+   "claimed": "2026-11-19T01:56:00Z",
+   "note": "Published together with song-of-solomon-011-2 as one article (Art. XI, pp. 359–363): this item held its opening ('IN lectulo meo … proficiens om-'). Heading pieced together from the two damaged copies ('…CAPITULI TERT[…]' and '[…]TII, DE CHRISTO ET SPONSA SINGULARI')."
   },
   {
    "id": "song-of-solomon-011-2",
@@ -796,9 +798,10 @@
     381,
     385
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:56:00Z"
+   "claimed": "2026-11-19T01:56:00Z",
+   "note": "Published with song-of-solomon-011 (Art. XI). Margin '1 Cor. v, 19' is 2 Cor 5:19 (noted). 'subjectum ex quo suæ incarnationis' seems to lack a word: kept as printed, English supplies '[came the matter]'. Verses 5 and 8 not treated."
   },
   {
    "id": "song-of-solomon-012",
