@@ -626,8 +626,9 @@
     315,
     317
    ],
-   "status": "in-progress",
+   "status": "done",
    "claimed": "2026-11-19T01:33:02Z",
+   "note": "Published (scheduled run, one worker for Art. I and II; first Canticle article: work title 'Enarratio in Canticum canticorum Salomonis', filed under chapter 1). Prologue article: untagged except the two paragraphs (Bernard, Gregory) on in whose person 1:1 is spoken. Transcription repeated 'sit de latere Christi dormientis in cruce' (kept once).",
    "source": "transcribed"
   },
   {
@@ -639,8 +640,9 @@
     317,
     318
    ],
-   "status": "in-progress",
+   "status": "done",
    "claimed": "2026-11-19T01:33:02Z",
+   "note": "Published (scheduled run, with Art. I). Prologue article, filed under chapter 1 with no verse tags. Matt 22:12–13 and Ex 19:12–13 reference only; Heb 12:20 quoted.",
    "source": "transcribed"
   },
   {
@@ -652,8 +654,9 @@
     318,
     326
    ],
-   "status": "in-progress",
+   "status": "done",
    "claimed": "2026-11-19T01:33:40Z",
+   "note": "Published (scheduled run, two workers): chapter 1, vv. 1–6 up to Deut 33:12 'inter humeros illius requiescet' (the lines moved from part 2's file). Margin 'Ps. lxxxiii, 12' → Ps 73:12 (ref only, note); 'Ps. i, 8' → Ps 50:8 (note); Acts 13:47 / Is 49:6 split (note); Matt 5:12 with Luke 6:23 wording (note). Douay-Rheims data slip: Cant 1:3 reads 'the rightous love thee'.",
    "source": "transcribed",
    "part": 1,
    "parts": 2
