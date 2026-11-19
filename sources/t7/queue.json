@@ -812,9 +812,10 @@
     385,
     396
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T01:57:30Z"
+   "claimed": "2026-11-19T01:57:30Z",
+   "note": "Margin '11 Reg. xxm, 8; 1 Par. xi, 10' read as 2 Kings 23:8, 1 Par 11:10 (ref only). Latin kept as printed: 'sique creditis', 'His sensis et armis' (noted); 'torpore accedit ac timoris' read as 'torpore acediæ ac timoris' (a guess). Matt 13:8 margin: Denis's opening words are closer to Luke 8:8 (noted)."
   },
   {
    "id": "song-of-solomon-013",
