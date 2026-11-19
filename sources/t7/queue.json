@@ -826,9 +826,10 @@
     396,
     402
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:04:00Z"
+   "claimed": "2026-11-19T02:04:00Z",
+   "note": "Published (scheduled run, one worker). Margin 'Ps. cxi, 8' is Ps 141:8 (noted). Denis reads 'vulnerasti me' in 4:9 and 'in conspectu Dei' in Job 13:15 (noted). v. 15 not treated; vv. 12–14 in one paragraph (Denis refers back to Art. XII). The translator's note placing St Antony's saying on discretion in Cassian, Conferences II, was added by the translator, not from the margin."
   },
   {
    "id": "song-of-solomon-014",
@@ -839,9 +840,10 @@
     402,
     406
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:04:00Z"
+   "claimed": "2026-11-19T02:04:00Z",
+   "note": "Published (scheduled run, one worker). An asterisk after 'quasi candens pollebat' in the transcription (footnote mark or doubtful reading?) was dropped: check the scan. Ps 45:6 with Denis's 'in medio ejus non est commotus' (noted). Tagged without a margin note: Ps 44:3, John 7:38. Denis treats v. 8 last, after v. 16; vv. 3 and 15 not treated."
   },
   {
    "id": "song-of-solomon-015",
