@@ -1095,7 +1095,7 @@
    "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-19T02:54:50Z",
-   "note": "Published (scheduled run, one worker). The article file's lines 7–12 (two paragraphs 'Sanctus ille ita expavit…' and 'Postremo et id sciendum… Is. lix, 17, 18', plus heading fragments) are the displaced end of Art. V (wisdom-005 ends mid-sentence at 'Si'): left out here; check that Art. V has them. Margin 'Osee xiii' given as Osee 13:11. Long margin list at v. 8 (2 Par 19:7; Rom 2:11; Eph 6:9; Col 3:25; 1 Pet 1:17): Eph 6:9 quoted, others reference-only; Jer 49:19 quoted, Jer 50:44 reference-only. Denis's readings differing from the Vulgate noted (vv. 8, 11, 17; 1 Pet 3:15, Tit 1:9, Prov 10:21, 1 Cor 14:38, Cant 5:2, Is 27:9). Tagged without margin note (source named): Job 34:30, Ps 7:9, John 17:3, Jer 9:24, Wis 6:1."
+   "note": "Published (scheduled run, one worker). The article file's lines 7–12 (two paragraphs 'Sanctus ille ita expavit…' and 'Postremo et id sciendum… Is. lix, 17, 18', plus heading fragments) are the displaced end of Art. V (wisdom-005 ends mid-sentence at 'Si') (another run moved them to Art. V): left out here. Margin 'Osee xiii' given as Osee 13:11. Long margin list at v. 8 (2 Par 19:7; Rom 2:11; Eph 6:9; Col 3:25; 1 Pet 1:17): Eph 6:9 quoted, others reference-only; Jer 49:19 quoted, Jer 50:44 reference-only. Denis's readings differing from the Vulgate noted (vv. 8, 11, 17; 1 Pet 3:15, Tit 1:9, Prov 10:21, 1 Cor 14:38, Cant 5:2, Is 27:9). Tagged without margin note (source named): Job 34:30, Ps 7:9, John 17:3, Jer 9:24, Wis 6:1."
   },
   {
    "id": "wisdom-007",
@@ -1134,8 +1134,9 @@
     527,
     532
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T03:07:01Z"
   },
   {
    "id": "wisdom-010",
@@ -1146,8 +1147,9 @@
     532,
     539
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T03:07:01Z"
   },
   {
    "id": "wisdom-011",
