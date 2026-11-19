@@ -596,8 +596,9 @@
     300,
     305
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:27:00Z"
   },
   {
    "id": "ecclesiastes-012",
@@ -608,8 +609,9 @@
     305,
     315
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-19T01:27:00Z"
   },
   {
    "id": "song-of-solomon-001",
