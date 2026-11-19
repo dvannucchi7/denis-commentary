@@ -650,7 +650,8 @@
     318,
     326
    ],
-   "status": "todo",
+   "status": "in-progress",
+   "claimed": "2026-11-19T01:33:40Z",
    "source": "transcribed",
    "part": 1,
    "parts": 2
@@ -665,6 +666,7 @@
     334
    ],
    "status": "todo",
+   "note": "Its pre-cut file began mid-sentence ('vitæ, te intra se … inter humeros illius requiescet.', with Deut 33:12); those lines were moved to part 1. Part 2 now starts at 'Indica (inquam) mihi'.",
    "source": "transcribed",
    "part": 2,
    "parts": 2
