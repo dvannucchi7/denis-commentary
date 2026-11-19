@@ -938,9 +938,10 @@
     439,
     444
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:27:00Z"
+   "claimed": "2026-11-19T02:27:00Z",
+   "note": "Published (scheduled run, one worker). v. 5: transcription reads 'rubeis contuntur' (not a word; perhaps 'induuntur'), noted in the text: check the scan. Transcription slips corrected (monitia→monilia, caprææ→capreæ, desi/Agnat→designat, two Cyrillic letters). Denis's variants noted: 7:1 'feminum' for 'femorum', 7:5 'juncta' for 'vincta', Is 49:6 'in salutem'. Tit 3:5 margin kept ref-only (words closer to John 3:5). Cant 5:11 beside 'per optimum aurum'. Tagged without margin note: Matt 6:21, Cant 4:4. Douay-Rheims file has 'inebreateth' at Ps 22:5."
   },
   {
    "id": "song-of-solomon-022",
@@ -951,9 +952,10 @@
     444,
     448
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-19T02:31:00Z"
+   "claimed": "2026-11-19T02:31:00Z",
+   "note": "Published (scheduled run, one worker). Syllable lost at a line break, 'Certe meri-/dicitur', read 'merito'. Transcription 'ejus' read 'cujus' (v. 10). Margin verse numbers v. 9/v. 10 are one off (judged by the text: 7:10, 7:11). 'Ps. i.xxvi, 3' read Ps 76:3. Variants noted: Jer 48:10 'negligenter', Is 26:18, 7:5 'juncta', Ecclus 18:30 'voluptate'. Tagged without margin note: Matt 12:34, Matt 5:5, Luke 6:24–25, 2 Cor 1:5, Ps 9:2 (same words open Ps 110, 137)."
   },
   {
    "id": "song-of-solomon-023",
