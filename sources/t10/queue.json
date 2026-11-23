@@ -118,7 +118,8 @@
    "source": "transcribed",
    "part": 1,
    "parts": 2,
-   "claimed": "2026-11-23T22:11:26Z"
+   "claimed": "2026-11-23T22:11:26Z",
+   "note": "(from the part 2 run) Part 2 takes the v. 24 lemma 'Forsitan ignoscet Deus delictis tuis. Quum per Ezechielem … omnium iniquitatum ejus non recordabor amplius: cur Daniel dubitative locutus est …' whole (it starts at the end of daniel-005-part1.txt): part 1 should end at '… non patietur animam ire in tenebras.'"
   },
   {
    "id": "daniel-005-part2",
@@ -157,8 +158,9 @@
     102,
     111
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:13:30Z"
   },
   {
    "id": "daniel-008-part1",
