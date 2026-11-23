@@ -393,9 +393,10 @@
     227,
     235
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:37:23Z"
+   "claimed": "2026-11-23T22:37:23Z",
+   "note": "Published (scheduled run, two workers split at the v. 16 lemma; Osee 2:10–24). Needs scan of PDF 230 (printed p. 220): the transcription of that page stops in the left column at 'nati ex Judæa et Isra' and has no right column, so the rest of the v. 15 exposition (valley of Achor, 'canet ibi …') is missing, marked […] with an article note. Misread margins corrected with notes: 'Ps. lxxxix, 15' = Ps 79:15; 'Ps. xxxvi, 14' = Ps 26:14; 'Is. iii, 15' = Is 52:15. Ranges given reference-only with notes: Ex 32:7–14, Acts 2–4, Gen 34:2–3, Num 28–29. Is 64:4/1 Cor 2:9 and Matt 9:22/Luke 18:42: the wording Denis follows marked, the other reference-only. Mal 1:6 ('timet' for 'honoureth') and Jer 5:3 (fidem/truth) noted. Variant '*conjugem' as a note. DR data slip: Rom 13:12 'is passed And the day'."
   },
   {
    "id": "hosea-007",
