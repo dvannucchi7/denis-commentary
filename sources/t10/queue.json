@@ -84,11 +84,12 @@
     63,
     71
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 2,
    "parts": 3,
-   "claimed": "2026-11-23T22:11:11Z"
+   "claimed": "2026-11-23T22:11:11Z",
+   "note": "Part 2 of 3 published (scheduled run, two workers split at the v. 77 lemma; vv. 64–88, starting after the Dan 12:3 words that end part 1, and ending with the sentence 'Et istud miraculum in Sanctis novi Testamenti … conscribitur', which straddles into daniel-004-part3.txt). Margin numbers corrected with notes: Ps cxlvii, 16/17 → Ps 147:5/6 and Ps cxlvii, 19, 20 → Ps 147:8–9 (Hebrew numbering); Job xxxvii, 35 → Job 38:35; Job xxxviii, 11–13 → Job 37:11–13; Ps lxxxvi, 3 → Ps 76:3 (reference only); Ps. i, 19 → Ps 50:19; 'Job xxxiv' (God on the beasts) → Job 39:1, 'Job xl, xli' → Job 40:20 (reference only). Denis reads 'æstas' for 'æstus' at v. 67 (noted). Augustine's 'decimo de Trinitate' for the Plotinus passage (City of God X, 14) noted. DR data slips: Rom 13:12 'is passed And', Is 12:3 'Thou shall draw'."
   },
   {
    "id": "daniel-004-part3",
@@ -99,11 +100,12 @@
     72,
     79
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 3,
    "parts": 3,
-   "claimed": "2026-11-23T22:11:11Z"
+   "claimed": "2026-11-23T22:11:11Z",
+   "note": "Part 3 of 3 published (scheduled run, one worker; from 'Ex quo frivola declaratur instantia Hebræi' to the end: v. 50 again, vv. 89–100, and the question why Daniel is not named, tagged vv. 1, 12). Margin 'v. 94' at 'Tunc Nabuchodonosor rex obstupuit' read as v. 91; 'vers. 3' as a reference-only marker to 3:3. Denis says Deuteronomy for 'Dominum Deum tuum adorabis' (Matthew's wording): Deut 6:13 marked, noted. Variant readings noted: 'Deo solo' (3:95), 'A me ergo rege' (3:96), 'de omni angustia' (Ecclus 51:12); 'catena*' with margin variant 'caterva'. DR data slip: Tob 12:7 lacks 'but honourable'."
   },
   {
    "id": "daniel-005-part1",
