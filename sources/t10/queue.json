@@ -517,7 +517,7 @@
    "status": "in-progress",
    "source": "transcribed",
    "claimed": "2026-11-23T22:44:27Z",
-   "note": "(22:47 run) Re-cut: hosea-015.txt ended mid-sentence at 'Facta est mihi'; its end ('hereditas mea quasi leo in silva … patres eorum per idololatriam', vv. 15–16, PDF 273 right column) had been cut into hosea-016.txt and is now moved back to the end of hosea-015.txt. If you started from the old file, translate those lines too."
+   "note": "(22:47 run) Re-cut: hosea-015.txt ended mid-sentence at 'Facta est mihi'; its end ('hereditas mea quasi leo in silva … patres eorum per idololatriam', vv. 15–16, PDF 273 right column) had been cut into hosea-016.txt and is now moved back to the end of hosea-015.txt. If you started from the old file, translate those lines too. | (from the hosea-014 run, 22:43) The lines between 'ARTICULUS XV' and its title in the old hosea-015.txt ('rum bona consumunt … exposita est præcedenti articulo.') are the end of Art. XIV, now published there; leave them out of Art. XV (hosea-015.txt no longer has them)."
   },
   {
    "id": "hosea-016",
@@ -542,8 +542,9 @@
     276,
     280
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:46:40Z"
   },
   {
    "id": "hosea-018",
