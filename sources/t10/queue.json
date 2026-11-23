@@ -249,9 +249,10 @@
     155,
     168
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:25:32Z"
+   "claimed": "2026-11-23T22:25:32Z",
+   "note": "Published (scheduled run, two workers split at the v. 22 lemma). The article's last lines ('populos, et telam quam orditus est super universas nationes … Morere; et statim fulminabitur', PDF 168 right column) had been cut into daniel-013.txt (lines 27–45, before a repeated Art. XIII heading); they are now published at the end of Art. XII, so leave them out of Art. XIII (daniel-013 was claimed by another run when this was found). Margin 'Esther i, 1; 11, 18' taken as Esth 1:1 and 2:18 (reference only, noted); 'Dan. vi' as Dan 6:1; 'II Mach. ix, 7 et seq.' as 2 Mach 9:7 (noted: the pain is at 9:5). v. 10: Denis prints 'Et exaltabitur cornu ejus' as Scripture, not in the Vulgate of v. 10 (noted, unmarked). Variants noted: cornu for cor (v. 12), illum/illud (v. 17), coram eo (v. 26), impii testamentum simulabunt (v. 32), principes (v. 41), fortitudine with margin variant multitudine (v. 44). In Jerome's quotation in the introduction 'a capitulo duodecimo' kept as printed (perhaps decimo)."
   },
   {
    "id": "daniel-013",
