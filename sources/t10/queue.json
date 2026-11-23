@@ -587,8 +587,9 @@
     288,
     292
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:52:27Z"
   },
   {
    "id": "hosea-021",
@@ -599,8 +600,9 @@
     292,
     299
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:52:27Z"
   },
   {
    "id": "hosea-022",
@@ -611,8 +613,9 @@
     299,
     302
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:52:27Z"
   },
   {
    "id": "hosea-023",
