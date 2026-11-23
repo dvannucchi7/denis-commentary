@@ -146,9 +146,10 @@
     93,
     102
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:12:11Z"
+   "claimed": "2026-11-23T22:12:11Z",
+   "note": "End of the article (5:30-31, PDF p. 102 right column, 'Non habitabitur … dignus') had been cut into daniel-007.txt; moved back. Margin 'Jer. i, li' read as Jer. l, li; 'Dan. i, 2' beside the v. 7 cross-reference does not fit (Dan 2:2 used, with a note)."
   },
   {
    "id": "daniel-007",
