@@ -500,9 +500,10 @@
     265,
     267
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:43:40Z"
+   "claimed": "2026-11-23T22:43:40Z",
+   "note": "Published (22:44 run, one worker). The end of the article (from '…subdito-/rum bona consumunt' to '…exposita est præcedenti articulo') had been cut into hosea-015.txt (between 'ARTICULUS XV' and its title); moved back into hosea-014.txt. 'Salus populi ego sum…' is the Introit of the 19th Sunday after Pentecost, not a verse: margin 'Cf. Is. xliii; Ps. xxxvi, 39' as reference-only markers with a note. Matt 15:8, Apoc 3:20, Gal 6:2 reference-only (allusions)."
   },
   {
    "id": "hosea-015",
