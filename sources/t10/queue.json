@@ -187,7 +187,7 @@
    "chapter_guess": 7,
    "pages": [
     123,
-    133
+    124
    ],
    "status": "in-progress",
    "source": "transcribed",
@@ -199,14 +199,14 @@
    "id": "daniel-009",
    "book": "daniel",
    "art": 9,
-   "chapter_guess": 9,
+   "chapter_guess": 8,
    "pages": [
-    133,
+    124,
     133
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:21:30Z"
+   "note": "Re-cut (22:25 run): the old daniel-009 was not an article but the heading and first sentence of Art. X (ch. 9, running heads 'ART. X'); Art. IX (ch. 8; running heads PDF 124-133 'ENARRATIO IN CAP. VIII … ART. IX') had been left inside daniel-008-part2.txt with no heading. daniel-009.txt now holds Art. IX. Needs scan of PDF 124 (printed p. 114): its transcription has only a few lines, so the end of Art. VIII (after 'Nunc facta est salus et virtus, et regnum Dei nostri, et potestas Christi', Apoc 12:10; Dan 7:28) and the heading and start of Art. IX (Dan 8:1 to the middle of v. 2, up to '…regione, id est in regno Elamitarum') are lost. The rest of Art. IX (PDF 124-133) reads clean and can be translated once p. 124 is supplied."
   },
   {
    "id": "daniel-010",
@@ -219,7 +219,8 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:22:05Z"
+   "claimed": "2026-11-23T22:22:05Z",
+   "note": "(from the 22:25 run) Art. X treats ch. 9. Its heading and first sentence were in the old daniel-009.txt (now re-used for Art. IX); they read: 'ARTICU[LUS X] / ENARRATIO CAPITULI NONI : IN ANNO PRIMO [DARII FILII ASSUERI, DE SEMINE MEDORUM.] / ⟦1⟧ NUNC visio scribitur, quæ secundum rem gestam et ordinem libri istius octava est, ut ex Scholastica probatur historia. _In anno primo Darii filii Assueri._' The '### DARII FILII ASSUERI, DE SEMINE MEDORUM.' at the top of daniel-010.txt is the end of that title, and 'Secundum Hieronymum …' follows the first sentence."
   },
   {
    "id": "daniel-011",
