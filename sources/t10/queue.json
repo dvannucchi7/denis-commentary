@@ -971,9 +971,10 @@
     421,
     426
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "amos-013.txt starts 'locustæ, id est …' straight after the heading: the lemma's opening words (7:1 'et ecce fictor') seem to be lost or in the heading; the first 23 lines formerly there belonged to Art. XII and were moved to amos-012.txt."
+   "note": "amos-013.txt starts 'locustæ, id est …' straight after the heading: the lemma's opening words (7:1 'et ecce fictor') seem to be lost or in the heading; the first 23 lines formerly there belonged to Art. XII and were moved to amos-012.txt.",
+   "claimed": "2026-11-23T23:59:57Z"
   },
   {
    "id": "amos-014",
@@ -985,7 +986,8 @@
     429
    ],
    "status": "todo",
-   "source": "transcribed"
+   "source": "transcribed",
+   "note": "amos-014.txt: the end of Art. XIII (7:17 moral, 'minas remittit' to 'moriuntur.') had been cut into it after 8:3 and was moved to amos-013.txt. The text from '_Deus,_ id est, fragorem quemdam' (line after the second heading '[…]LUS XIV') continues 8:3 'dicit Dominus'."
   },
   {
    "id": "amos-015",
