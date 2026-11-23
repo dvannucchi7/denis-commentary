@@ -836,9 +836,9 @@
     385,
     388
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:42:03Z"
+   "note": "Transcription has '[…]' at the column break in 2:11 ('Numquid non ita est, […] filii Israel?'); the lemma reads complete, so nothing taken as lost. Margin 'Osee xiv, 1' for 'some escaped the Assyrians' does not fit that verse: kept as a reference with a note. Chapter-only margins (Is. xv, xvi; Jer. xlviii; Ezech. xxv; IV Reg. xvi, xxi, xxiii, xxiv; Sap. xiii–xv) given as verse 1."
   },
   {
    "id": "amos-004",
@@ -849,9 +849,9 @@
     388,
     391
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:42:03Z"
+   "note": "End of the article (2:12 'rigore avertere' to 2:15 'in astutia eorum', PDF 391 right column) had been cut into amos-005.txt; moved back. Margin 1 Thess. iv, 16 tagged as 1 Thess 4:15 because data/bible/drc 1 Thessalonians 4 is one verse behind the Vulgate from v. 12 (v. 18 empty): fix the Bible file and retag (note in the article). Denis reads 'super vos' at 2:13 (noted)."
   },
   {
    "id": "amos-005",
