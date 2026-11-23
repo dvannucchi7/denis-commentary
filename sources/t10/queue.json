@@ -435,9 +435,10 @@
     243,
     250
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:39:13Z"
+   "claimed": "2026-11-23T22:39:13Z",
+   "note": "Published with gaps marked […]: on v. 1 (PDF 243, 'Et non […] est misericordia ad proximos […] […] […]', a few words at the foot of a column), on v. 2 ('Et […] est: Benedicite', one word), and between PDF 244 and 245 (after '…sanguinem sanguini miscuerunt.' the text resumes mid-sentence 'mendacia: Nos, inquiunt…': at least a line lost). Re-transcribe PDF 243–245 and fill in. DR text slip at Prov 3:3: 'mercy aud truth'."
   },
   {
    "id": "hosea-010",
@@ -448,9 +449,10 @@
     250,
     253
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:39:13Z"
+   "claimed": "2026-11-23T22:39:13Z",
+   "note": "End of the article (PDF p. 253 right column, 'det, In consilio justorum … duces cæcorum') had been cut into hosea-011.txt; moved back."
   },
   {
    "id": "hosea-011",
