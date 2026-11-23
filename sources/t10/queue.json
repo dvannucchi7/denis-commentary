@@ -943,9 +943,10 @@
     415,
     418
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:54:38Z"
+   "claimed": "2026-11-23T23:54:38Z",
+   "note": "Published (23:26 run, one worker). Repeated transcription line at the column break in v. 14 ('hili, id est mendaciis … vanitates') dropped. Cut-off margin 'II Reg. vi, 15; I Par. xiii, 8; xv,' taken as 1 Par 15:16 (note). 'Cf. Is. lxvi, 1, 2' as reference-only Is 66:2 (Denis's older wording, note). Douay-Rheims data slips: Ps 7:14 'prepared to instruments' (for 'the instruments'), 2 Kings 6:15 'louse' (for 'house')."
   },
   {
    "id": "amos-012",
@@ -956,9 +957,10 @@
     418,
     421
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:54:38Z"
+   "claimed": "2026-11-23T23:54:38Z",
+   "note": "Published (23:26 run, one worker). Its end (6:14–15, 'ipsis non habeant' to 'pertrahuntur iniqui') had been cut into amos-013.txt; moved back. Margins corrected: 'Ps. lii, 9' as Ps 51:9, 'Ezech. xiii, 20' as Ezech 3:20 (3:18 also fits), each noted. Denis's variants noted at Job 21:12, Tob 4:14, Matt 25:32."
   },
   {
    "id": "amos-013",
@@ -970,7 +972,8 @@
     426
    ],
    "status": "todo",
-   "source": "transcribed"
+   "source": "transcribed",
+   "note": "amos-013.txt starts 'locustæ, id est …' straight after the heading: the lemma's opening words (7:1 'et ecce fictor') seem to be lost or in the heading; the first 23 lines formerly there belonged to Art. XII and were moved to amos-012.txt."
   },
   {
    "id": "amos-014",
