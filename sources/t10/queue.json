@@ -290,11 +290,12 @@
     188,
     198
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 1,
    "parts": 2,
-   "claimed": "2026-11-23T22:30:03Z"
+   "claimed": "2026-11-23T22:30:03Z",
+   "note": "Whole article published from this file (scheduled run, two workers split at the v. 18 lemma; Dan 14:1–42 and Jerome on the 'loud voice', ending 'Amen.', PDF p. 195 = p. 185). The transcription-failure message after 'Amen.' is PDF 196, which follows the end of the article (probably a blank verso). Margin verse numbers run one ahead from v. 8 (tagged by the text). 'Et rex Astyages' marked Dan 13:65 (no margin note). Jer 10:15/51:18: 51:18 marked, 10:15 reference-only; Jer 40:7–12 range noted. Variant notes '*Porro Daniel', '*Contemnebant', 'corallinis' given as notes; 'dirutus' (Vulgate diruptus) kept. 14:41 lemma's Latin side is in the Vulgate wording (Denis interposes a gloss)."
   },
   {
    "id": "daniel-015-part2",
@@ -310,7 +311,7 @@
    "part": 2,
    "parts": 2,
    "claimed": "2026-11-23T22:30:20Z",
-   "note": "Holds no Daniel text: Art. XV ends in part 1 ('…Deus sublimis et benedictus. Amen.'), so part 1 is the whole article. PDF 199–209 is the front matter of the minor prophets (title page, the Cologne Carthusian vicar's dedication to Johann Rinck, a damaged half-title 'Enarratio in Osee prophetam'), with the columns cut short at the edges. The transcriptions of PDF 196, 200 and 206 failed ('no images came through'): p. 196 falls inside Art. XV (part 1). Dave: decide whether the front matter is wanted; re-transcribe PDF 196, 200, 206."
+   "note": "Not part of Art. XV (scheduled run, 23 Nov): Art. XV ends on PDF 195 and was published whole. This file (PDF 197–208) is the front matter of the Minor Prophets (title pages, the Cologne editor's dedicatory letter to Johann Rinck, …), and PDF 200 and 206 failed to transcribe. Dave: decide whether any of it should be translated; otherwise mark done."
   },
   {
    "id": "hosea-001",
