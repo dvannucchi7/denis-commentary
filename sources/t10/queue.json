@@ -516,10 +516,10 @@
     267,
     273
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-23T22:44:27Z",
-   "note": "(22:47 run) Re-cut: hosea-015.txt ended mid-sentence at 'Facta est mihi'; its end ('hereditas mea quasi leo in silva … patres eorum per idololatriam', vv. 15–16, PDF 273 right column) had been cut into hosea-016.txt and is now moved back to the end of hosea-015.txt. If you started from the old file, translate those lines too. | (from the hosea-014 run, 22:43) The lines between 'ARTICULUS XV' and its title in the old hosea-015.txt ('rum bona consumunt … exposita est præcedenti articulo.') are the end of Art. XIV, now published there; leave them out of Art. XV (hosea-015.txt no longer has them)."
+   "note": "Published (scheduled run, one worker), with the end of the article (7:15–16, PDF 273 right column) that another run had moved back from hosea-016.txt. Chapter-only margins (III Reg. xx, Exod. xiv, IV Reg. iii/vii/xiii) given as verse 1 reference-only markers; III Reg. xiii placed at 3 Kings 13:18 (noted). Quotations Denis names without a margin note marked (Is 2:17, Is 26:16, Job 34:27, Job 21:14, Jer 5:3, 5:11–12, 5:21, Dan 9:26, Luke 19:43–44, John 9:24, Luke 23:2, John 19:15): unconfirmed by the margin. Wording differences noted at Ezech 17:20, Ezech 30:24, Jer 5:21; erudivi (7:15) and ruminabant (7:14) explained."
   },
   {
    "id": "hosea-016",
