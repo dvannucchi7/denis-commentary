@@ -234,9 +234,10 @@
     146,
     155
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:25:00Z"
+   "claimed": "2026-11-23T22:25:00Z",
+   "note": "Published (22:25 run, two workers split at the v. 10 lemma). Notes: Ezech 1:16 'quasi visio maris' said of the wheels, not the creatures; Ezech 18:21 'Quacumque hora ingemuerit peccator' is not in the Vulgate (reference-only, 18:22 marked); Denis's readings 'juxta principem Persarum' (v. 13) and 'visio in dies protelatur' (v. 14). Margin variants kept as printed: 'accidereve' (margin 'accidere'), 'lauta ciboria' (probably cibaria), '*sermonem' (v. 1). Augustine's reading of Luke 10:42 ('Unum est opus') left unmarked with a note."
   },
   {
    "id": "daniel-012",
