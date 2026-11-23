@@ -277,9 +277,10 @@
     175,
     188
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:30:00Z"
+   "claimed": "2026-11-23T22:30:00Z",
+   "note": "Published (22:30 run, two workers split at the v. 22 lemma). Corrected 'filium suam' → 'filiam suam' (v. 3). Margin '1 Reg. xv' taken as 1 Kings 15:27–28; 'Ps. x, 5, sec. Hebr.' as Ps 9:26 (note). Bar 1:19, 22 and Cant 2:4 ('Vulnerata caritate ego sum') reference-only with notes; '2 Kings 24:14' (Coarctor undique nimis) marked without margin note (Denis names Kings). Margin variants '⟦virtute⟧' (v. 1) dropped, '* adfleverunt' (v. 33) as a note. Denis's readings noted: Ecclus 1:22, 23:37, 9:8, the v. 17 lemma, 'in manus hominum' (v. 23), no 'sanctum' (v. 45). DR data slip: Dan 13:6 'all that hand any matters of judgment' (should be 'had')."
   },
   {
    "id": "daniel-015-part1",
