@@ -463,9 +463,10 @@
     253,
     257
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:41:36Z"
+   "claimed": "2026-11-23T22:41:36Z",
+   "note": "Published (22:41 run, one worker). Margin 'Ibid. xxiv, 7' (4 Kings 24:7) where Denis names 2 Paralipomenon: reference-only with a note. Whole-chapter margins (Jer. xlii–xliv, xlvi; Ezech. xvii, xxix–xxxii; Jos. xiii–xxi; IV Reg. xvii) given as v. 1 with notes. 'Ibid. 4-6' split into 4 Kings 17:4, 5, 6. Printed footnote '*alias sanare*' at v. 13 kept in t and explained. 'Cor. xi, 31' taken as 1 Cor 11:31. DR slip noticed: Jer 28:9 'whom the hath sent' (missing 'Lord')."
   },
   {
    "id": "hosea-012",
@@ -476,9 +477,10 @@
     257,
     260
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:41:36Z"
+   "claimed": "2026-11-23T22:41:36Z",
+   "note": "Published (22:41 run, one worker). Margin notes beside v. 3 sit one line out of place; matched in order (Ps 38:7, Ecclus 10:10 ref-only, Is 47:10, Ecclus 19:21, Ecclus 23:28). Margin Luke 11:52 but words closer to Matt 23:13 (note). Job 5:19 tagged without margin (Denis names Job; variant 'non videbis malum', note)."
   },
   {
    "id": "hosea-013",
@@ -489,9 +491,10 @@
     260,
     265
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:41:36Z"
+   "claimed": "2026-11-23T22:41:36Z",
+   "note": "Published (22:41 run, one worker). End of the article (6:9–11, from 'secundum Bedam, quæ modo Neapolis…' to '…fine mundi') had been cut into hosea-014.txt (after the Art. XIV heading); moved back into hosea-013.txt. Margin 'Ps. lxxxvi, 3' taken as Ps 76:3 (note); 'Ezech. xlii–xlvii' as Ezech 42:1 ref-only (note); 'Cf. Jer. ii, 12' ref-only. DR slips noticed: Rom 13:12 'passed And the day' (capital A), Matt 11:21 'Woe thee, Corozain' (missing 'to')."
   },
   {
    "id": "hosea-014",
