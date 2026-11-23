@@ -763,9 +763,10 @@
     357,
     362
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:26:33Z"
+   "claimed": "2026-11-23T23:26:33Z",
+   "note": "Published (23:26 run, one worker). Text lost in the transcription, marked […]: v. 18 ('Zelatus est zelo magni […] ecclesiæ') and v. 20 (rest of Rom 16:20 after 'Deus conteret', reference-only marker with note). Duplicated transcription line ('rabilisque dies ista consistet. Veniet enim', Dan 12:1) dropped. Tagged without margin: Ps 84:2, Acts 4:32, Cant 1:1, 1 Pet 2:2, Matt 11:25, 1 Cor 7:5, 7:29, Ps 31:9, 1 Cor 2:6, 2 Cor 1:5, Jas 5:9 (margin Jac. v, 8), Dan 10:14 (end of Dan 10:12 quotation). Rare word 'fractilantium' (v. 13) explained in a note."
   },
   {
    "id": "joel-005-part1",
