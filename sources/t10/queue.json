@@ -630,9 +630,10 @@
     302,
     308
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:58:10Z"
+   "claimed": "2026-11-23T22:58:10Z",
+   "note": "v. 12 printed 'in negotiatione' and 'cum sanctis fidelibus' (Vulgate negatione, fidelis): kept with notes. Deut 7:6 tagged without a margin note (also Deut 14:2). Is 48:9 reference-only (Denis far from the Douay). Douay-Rheims slip in data/bible/drc Ex 5:21: stray comma 'because you have, made our savour'."
   },
   {
    "id": "hosea-024",
