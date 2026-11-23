@@ -737,7 +737,7 @@
     344,
     348
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-23T23:23:13Z"
   },
@@ -745,12 +745,12 @@
    "id": "joel-003",
    "book": "joel",
    "art": 3,
-   "chapter_guess": 1,
+   "chapter_guess": 2,
    "pages": [
     348,
     357
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-23T23:23:13Z"
   },
