@@ -303,11 +303,12 @@
     199,
     209
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
    "part": 2,
    "parts": 2,
-   "claimed": "2026-11-23T22:30:20Z"
+   "claimed": "2026-11-23T22:30:20Z",
+   "note": "Holds no Daniel text: Art. XV ends in part 1 ('…Deus sublimis et benedictus. Amen.'), so part 1 is the whole article. PDF 199–209 is the front matter of the minor prophets (title page, the Cologne Carthusian vicar's dedication to Johann Rinck, a damaged half-title 'Enarratio in Osee prophetam'), with the columns cut short at the edges. The transcriptions of PDF 196, 200 and 206 failed ('no images came through'): p. 196 falls inside Art. XV (part 1). Dave: decide whether the front matter is wanted; re-transcribe PDF 196, 200, 206."
   },
   {
    "id": "hosea-001",
