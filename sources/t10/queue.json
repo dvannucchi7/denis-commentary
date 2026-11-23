@@ -266,7 +266,7 @@
    "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-23T22:26:14Z",
-   "note": "The transcription of PDF p. 168 put the end of Art. XII (right column top, 'populos, et telam quam orditus est … Morere; et statim fulminabitur.', with Jerome's LXX reading of Is 25:7 and the Scholastic History on Antichrist's death) inside daniel-013.txt; it was left out of Art. XIII and is missing from daniel-012.txt, so check that Art. XII has it. Margin notes giving only a chapter (4 Kings xxv, 2 Par. xxxvi, Gen. vi, vii) given as verse 1 with a note; Ezech 4:6 tagged though not in the margin (Denis names Ezechiel). Douay-Rheims slip in data/bible/drc John 6:45: 'cometh forth me' for 'cometh to me'."
+   "note": "The transcription of PDF p. 168 put the end of Art. XII (right column top, 'populos, et telam quam orditus est … Morere; et statim fulminabitur.', with Jerome's LXX reading of Is 25:7 and the Scholastic History on Antichrist's death) inside daniel-013.txt; it was left out of Art. XIII and is missing from daniel-012.txt, so check that Art. XII has it. Margin notes giving only a chapter (4 Kings xxv, 2 Par. xxxvi, Gen. vi, vii) given as verse 1 with a note; Ezech 4:6 tagged though not in the margin (Denis names Ezechiel). Douay-Rheims slip in data/bible/drc John 6:45: 'cometh forth me' for 'cometh to me'. (Now published at the end of Art. XII by the Daniel 11 run.)"
   },
   {
    "id": "daniel-014",
@@ -374,8 +374,9 @@
     222,
     227
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:36:35Z"
   },
   {
    "id": "hosea-006",
