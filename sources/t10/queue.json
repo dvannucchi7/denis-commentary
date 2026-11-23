@@ -419,9 +419,10 @@
     240,
     243
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:39:30Z"
+   "claimed": "2026-11-23T22:39:30Z",
+   "note": "Published (22:40 run, one worker). Title completed from the mid-page heading ('[…]XIT DOMINUS AD ME : ADHUC VADE.'). The end of Art. VII that stood in hosea-008.txt (lines 37–44) was left out (note on hosea-007). Margin '⟦3⟧' before 'Et ipsi filii Israel respectant' is v. 1; 'Jer. xxxiii, 5' is Jer 23:5 (note); Ezech 34:24 per the margin, Denis closer to Ezech 37:25 (note); 'Exod. xii, xix, etc.' as reference-only Ex 12:1, 19:1 (note); Dan 9:26 marked, 9:27 reference-only. Denis's readings kept: 'respectant', 'Non fornicaberis cum alienis'."
   },
   {
    "id": "hosea-009",
