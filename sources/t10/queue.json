@@ -188,10 +188,11 @@
     123,
     133
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
    "part": 2,
-   "parts": 2
+   "parts": 2,
+   "claimed": "2026-11-23T22:21:30Z"
   },
   {
    "id": "daniel-009",
@@ -202,8 +203,9 @@
     133,
     133
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:21:30Z"
   },
   {
    "id": "daniel-010",
