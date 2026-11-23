@@ -379,9 +379,10 @@
     222,
     227
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:36:35Z"
+   "claimed": "2026-11-23T22:36:35Z",
+   "note": "Published (scheduled run, one worker). Misread margins corrected with notes: 'Is. ux, 2' = Is 59:2; 'Ibid. i, 1' = Is 50:1; 'Ps. i, 5' = Ps 50:5; 'Ps. cxlvii, 20' = Ps 147:9. Loose quotations of Ezech 16:4–13 and the Jeremias patchwork (Jer 23:39, 40; 24:9; 25:18, 8) partly marked, partly reference-only, with notes. Is 19:25 as Denis words it differs from the DR (noted). v. 8 'ornaverunt idoli quod dicitur Baal' kept as printed (noted). Stray margin 'v. 3' inside the Eph 3:5–6 quotation ignored."
   },
   {
    "id": "hosea-006",
