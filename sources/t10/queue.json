@@ -515,7 +515,8 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:44:27Z"
+   "claimed": "2026-11-23T22:44:27Z",
+   "note": "(22:47 run) Re-cut: hosea-015.txt ended mid-sentence at 'Facta est mihi'; its end ('hereditas mea quasi leo in silva … patres eorum per idololatriam', vv. 15–16, PDF 273 right column) had been cut into hosea-016.txt and is now moved back to the end of hosea-015.txt. If you started from the old file, translate those lines too."
   },
   {
    "id": "hosea-016",
@@ -527,7 +528,8 @@
     276
    ],
    "status": "todo",
-   "source": "transcribed"
+   "source": "transcribed",
+   "note": "Re-cut (22:47 run): the text before 'DE Israel et Ephraim ac Samaria possumus loqui dupliciter' was the end of Art. XV and has been moved to hosea-015.txt; Art. XVI starts at 'DE Israel'."
   },
   {
    "id": "hosea-017",
