@@ -221,10 +221,10 @@
     133,
     146
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-23T22:22:05Z",
-   "note": "(from the 22:25 run) Art. X treats ch. 9. Its heading and first sentence were in the old daniel-009.txt (now re-used for Art. IX); they read: 'ARTICU[LUS X] / ENARRATIO CAPITULI NONI : IN ANNO PRIMO [DARII FILII ASSUERI, DE SEMINE MEDORUM.] / ⟦1⟧ NUNC visio scribitur, quæ secundum rem gestam et ordinem libri istius octava est, ut ex Scholastica probatur historia. _In anno primo Darii filii Assueri._' The '### DARII FILII ASSUERI, DE SEMINE MEDORUM.' at the top of daniel-010.txt is the end of that title, and 'Secundum Hieronymum …' follows the first sentence."
+   "note": "The article's first lines ('NUNC visio scribitur … In anno primo Darii filii Assueri', PDF p. 133 foot of left column under the heading) were cut into daniel-009.txt; they are included here. Margin 'Is. i, 10' read as Is 50:10; 'Oratio Manassæ' not in the DR text (reference to 2 Par 33:12, with a note); 'Matt. xvi, 4' is 16:3 in the DR text."
   },
   {
    "id": "daniel-011",
