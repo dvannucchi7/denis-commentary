@@ -189,11 +189,12 @@
     123,
     124
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
    "part": 2,
    "parts": 2,
-   "claimed": "2026-11-23T22:21:30Z"
+   "claimed": "2026-11-23T22:21:30Z",
+   "note": "Part 2 published (22:25 run, translated directly; Dan 7:23 'Et conculcabit' to the middle of the Apoc 12:10 quotation, 4 paragraphs). It starts at 'runt. Et conculcabit': the word 'nocue-runt' at the end of daniel-008-part1.txt belongs to part 1. Needs scan of PDF 124 (printed p. 114): the transcription of that page has only a few lines, so the end of the article (after 'et potestas Christi', Apoc 12:10, and Dan 7:28) is missing, marked […] with a note. Pages given as pp. 101–114 for the whole article. Matt 12:8 and John 14:6 reference-only (paraphrased); notes on Denis's readings 'sermones blasphemiæ' (v. 25), 'Data est bestiæ' (Apoc 13:7), 'ejus' (Apoc 14:11)."
   },
   {
    "id": "daniel-009",
