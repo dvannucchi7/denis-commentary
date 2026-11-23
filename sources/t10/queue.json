@@ -114,12 +114,12 @@
     79,
     86
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 1,
    "parts": 2,
    "claimed": "2026-11-23T22:11:26Z",
-   "note": "(from the part 2 run) Part 2 takes the v. 24 lemma 'Forsitan ignoscet Deus delictis tuis. Quum per Ezechielem … omnium iniquitatum ejus non recordabor amplius: cur Daniel dubitative locutus est …' whole (it starts at the end of daniel-005-part1.txt): part 1 should end at '… non patietur animam ire in tenebras.'"
+   "note": "Part 1 of 2 published (scheduled run, two workers split at the v. 17 lemma; Dan 4:1 to the Tobias quotation in v. 24, ending '…non patietur animam ire in tenebras'). The last lines of daniel-005-part1.txt, from the lemma '_Forsitan ignoscet Deus delictis tuis._' ('Quum per Ezechielem … omnium ini-'), are NOT translated: part 2 must start there and join them to the top of daniel-005-part2.txt. Pages given as pp. 69–83 for the whole article. Garbled line restored as 'cœpit intra se tacite cogitare, qualiter religio regio culmini servaret honorem' (v. 16); 'hostibus imprimis' kept, noted as perhaps 'imprimi'. Margin 'vers. 12' beside 'germen radicum ejus' marked 4:20 (same words), noted; margin '* pabulum' at v. 20 as a note. Is 29:14/1 Cor 1:19 and Matt 10:19/Luke 21:14 double notes: words quoted marked, the other reference-only. Ecclus 3:33 (old version), Luke 12:37, Luke 10:34, Wis 12:18, Apoc 12:14, Is 37:36 and the Apoc voices reference-only with notes. Ps 72:9 tagged without margin note (Denis cites it with 'itemque')."
   },
   {
    "id": "daniel-005-part2",
@@ -134,7 +134,8 @@
    "source": "transcribed",
    "part": 2,
    "parts": 2,
-   "claimed": "2026-11-23T22:13:00Z"
+   "claimed": "2026-11-23T22:13:00Z",
+   "note": "Start from the lemma '_Forsitan ignoscet Deus delictis tuis._' near the end of daniel-005-part1.txt (its last lines, 'Quum per Ezechielem … omnium ini-', continue at the top of this file); part 1 stops before it."
   },
   {
    "id": "daniel-006",
