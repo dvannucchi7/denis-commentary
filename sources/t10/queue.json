@@ -776,10 +776,11 @@
     362,
     369
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
    "part": 1,
-   "parts": 2
+   "parts": 2,
+   "claimed": "2026-11-23T23:33:49Z"
   },
   {
    "id": "joel-005-part2",
@@ -790,10 +791,11 @@
     370,
     377
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
    "part": 2,
-   "parts": 2
+   "parts": 2,
+   "claimed": "2026-11-23T23:33:49Z"
   },
   {
    "id": "amos-001",
