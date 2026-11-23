@@ -431,8 +431,9 @@
     243,
     250
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:39:13Z"
   },
   {
    "id": "hosea-010",
@@ -443,8 +444,9 @@
     250,
     253
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:39:13Z"
   },
   {
    "id": "hosea-011",
