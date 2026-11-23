@@ -737,8 +737,9 @@
     344,
     348
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:23:13Z"
   },
   {
    "id": "joel-003",
@@ -749,8 +750,9 @@
     348,
     357
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:23:13Z"
   },
   {
    "id": "joel-004",
