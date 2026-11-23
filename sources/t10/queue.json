@@ -777,7 +777,7 @@
     362,
     369
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 1,
    "parts": 2,
@@ -792,11 +792,12 @@
     370,
     377
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 2,
    "parts": 2,
-   "claimed": "2026-11-23T23:33:49Z"
+   "claimed": "2026-11-23T23:33:49Z",
+   "note": "Done through Joel's end ('… benedictus. Amen.', PDF 372). The rest of this article file is the start of the Amos proœmium (PDF 373–376), transcribed only as broken half-lines, and PDF 376 and 377 (start of Amos Art. I) failed to transcribe: they need re-transcribing from the scan."
   },
   {
    "id": "amos-001",
