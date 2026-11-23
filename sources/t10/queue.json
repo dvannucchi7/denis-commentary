@@ -943,8 +943,9 @@
     415,
     418
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:54:38Z"
   },
   {
    "id": "amos-012",
@@ -955,8 +956,9 @@
     418,
     421
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:54:38Z"
   },
   {
    "id": "amos-013",
