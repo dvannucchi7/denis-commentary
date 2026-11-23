@@ -808,9 +808,10 @@
     377,
     383
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:37:36Z"
+   "claimed": "2026-11-23T23:37:36Z",
+   "note": "Published (23:26 run, one worker). Denis's preface to Amos (ENARRATIO IN AMOS PROPHETAM) is at the end of joel-005-part2.txt and not part of this article. Douay-Rheims data for Amos 1:11 lacks 'and hath cast off all pity' (Vulgate 'et violaverit misericordiam ejus'): lemma left unmarked with a note; data/bible/drc may need fixing. Margin '⟦2.⟧' between vv. 13–14 is 1 Kings 11:2. Chapter-only/range margins given as the fitting verse: Jer 27:1, Judg 11:3, 4 Kings 21:2, 3 Kings 18:42, Ezech 25:16, Gen 28:12–13. Tagged without margin (Denis names the source): Is 8:4, Ex 20:5. 'Salmanasar' kept as printed (margin corrects to Theglathphalasar), noted. 'Benadab, habens ultimam litteram' read as lacking the b, noted."
   },
   {
    "id": "amos-002",
@@ -821,9 +822,10 @@
     383,
     385
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:37:36Z"
+   "claimed": "2026-11-23T23:37:36Z",
+   "note": "Published (23:26 run, one worker). Heading damaged at the edges only; no text lost. Notes on printed 'corporali' and 'Deinde' (possible slips), Is 56:10 'desolati sunt et evanuerunt' (not in Isaias), Ps 68:16 'claudit'. 'Prægnantes Galaad' at v. 3 is the Septuagint reading (Vulgate v. 13), noted. Left untagged (no margin): 'nec levat oculos … cœlum' (cf. Luke 18:13), 'sine veste nuptiali' (Matt 22:11)."
   },
   {
    "id": "amos-003",
