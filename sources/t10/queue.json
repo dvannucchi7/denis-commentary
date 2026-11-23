@@ -407,7 +407,8 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:38:06Z"
+   "claimed": "2026-11-23T22:38:06Z",
+   "note": "(from the hosea-008 run, 22:43) hosea-007.txt stops mid-word at '…quorum conver-'. The rest of Art. VII stands in hosea-008.txt (lines 37–44, PDF p. 240): 'satio in cœlis est, exaudit pro se ipsis et aliis. Illi quoque exaudiunt terram, id est peccatores et pœnitentes, auxiliando eis pro posse in omnibus, utpote instruendo, orando, increpando, et gratiam sibi concessam, ipsis liberalissime impertiendo. — Postremo moralitas eorum quæ nunc omissa sunt, patet ex præcedenti articulo.' It is left out of Art. VIII; add it to the end of Art. VII."
   },
   {
    "id": "hosea-008",
