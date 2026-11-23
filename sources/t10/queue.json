@@ -588,9 +588,10 @@
     288,
     292
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:52:27Z"
+   "claimed": "2026-11-23T22:52:27Z",
+   "note": "Published (22:41 run, one worker). 'ca[…]ros' at the page break read as 'caros'. Notes where Denis's reading differs (Osee 9:4, 9:7, 1 John 2:19, 1 Pet 1:14, 1 Cor 14:29). Osee 9:13 lemma lacks 'ut vidi'. 1 Cor 14:29, 31 tagged without margin note (Denis names the Apostle)."
   },
   {
    "id": "hosea-021",
@@ -601,9 +602,10 @@
     292,
     299
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:52:27Z"
+   "claimed": "2026-11-23T22:52:27Z",
+   "note": "Published (22:41 run, one worker). Lemma 10:5 read 'vaccas' (note). Margin ranges given as reference-only on first verses (2 Par 29:1, Judg 6:25/27). Tagged without margin note, Denis naming the source: Tob 3:22, Prov 1:26, Jer 2:13, Judg 8:18–19. Denis's 'Gabaonitis' for the men of Gabaa kept with a note."
   },
   {
    "id": "hosea-022",
@@ -614,9 +616,10 @@
     299,
     302
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:52:27Z"
+   "claimed": "2026-11-23T22:52:27Z",
+   "note": "Published (22:41 run, one worker). Article number missing on the transcribed heading (XXII from the sequence). Margin 'Eccle. iv, 10' is Eccles 9:10; 'Jer. xxiii, 15' — first words are Jer 9:15 (both noted). Ecclus 24:11 Denis reads 'colla … sublimium' (reference-only with note). Tagged without margin: 1 Esd 9:6, Ecclus 34:1, Ps 126:1. DR slip noticed: Osee 10:8 'say to the mountains Cover us' (colon missing)."
   },
   {
    "id": "hosea-023",
@@ -640,8 +643,9 @@
     308,
     311
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:01:23Z"
   },
   {
    "id": "hosea-025",
@@ -652,8 +656,9 @@
     311,
     316
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:01:23Z"
   },
   {
    "id": "hosea-026",
@@ -664,8 +669,9 @@
     316,
     319
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:01:23Z"
   },
   {
    "id": "hosea-027",
