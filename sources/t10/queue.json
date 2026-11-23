@@ -337,9 +337,10 @@
     211,
     216
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:32:54Z"
+   "claimed": "2026-11-23T22:32:54Z",
+   "note": "Margin '* novem' corrects Denis's 'viginti octo' (Ezechias' years) to 29: noted at 4 Kings 18:2."
   },
   {
    "id": "hosea-003",
@@ -350,9 +351,10 @@
     216,
     220
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:33:02Z"
+   "claimed": "2026-11-23T22:33:02Z",
+   "note": "Margin 'IV Reg. xxv, 24' does not fit (4 Kings 25:7 used, with a note); 'Ephes. v, 23' beside words of Col 1:18 (noted). DR text slip at Rom 9:26: 'it shalt be'."
   },
   {
    "id": "hosea-004",
