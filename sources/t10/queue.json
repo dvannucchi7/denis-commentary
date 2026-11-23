@@ -1,1742 +1,1742 @@
 {
-  "volume": "t10",
-  "items": [
-    {
-      "id": "daniel-001",
-      "book": "daniel",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        17,
-        25
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "End of the article (PDF p. 25, right column, 'gunt mendacium veritati … crucifigens') had been cut into daniel-002-part1.txt; moved back into daniel-001.txt. Margin 'Jer. i, 17' taken as Jer 50:17; Denis says 'as Isaias foretold' of Joakim's burial (Jer 22:19), kept with a note; corrected margins Ps 93:12, Ecclus 31:23, Jdt 8:10, Ps 76:3 (each noted)."
-    },
-    {
-      "id": "daniel-002-part1",
-      "book": "daniel",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        25,
-        33
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "part": 1,
-      "parts": 2,
-      "claimed": "2026-11-19T03:47:06Z",
-      "note": "(from the Daniel 1 run) The first lines of the old daniel-002-part1.txt, 'gunt mendacium veritati … quotidie crucifigens' (PDF p. 25 right column), are the end of Art. I and are now published there; leave them out of Art. II. | Part 1 published (scheduled run, one worker; Dan 2:1 to mid v. 23). Needs scan of PDF 26 (printed p. 16): the transcription stops after 'Nam et Josephus decimo Antiquitatum libro, Post secundum, inquit,' and the rest of that column is missing (it must have held the v. 1 lemma 'et conterritus est spiritus ejus'); marked […] with a note. Misread margins corrected with notes: 'Eccli. v, 1' = Ecclus 1:1; 'IV Reg. ix, 11' = 4 Kings 20:11; 'Væ terræ cujus rex puer est' is Eccles 10:16 (Denis says Ecclesiasticus). Margin variant notes '* novi' (v. 8), '* deceptione plenam' (v. 9) given as notes. 'perierant' (Jer 10:11) kept as transcribed."
-    },
-    {
-      "id": "daniel-002-part2",
-      "book": "daniel",
-      "art": 2,
-      "chapter_guess": 2,
-      "pages": [
-        34,
-        41
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "part": 2,
-      "parts": 2,
-      "claimed": "2026-11-19T03:47:06Z",
-      "note": "Part 2 published (scheduled run, one worker; mid v. 23 to the end, with the St Francis paragraph). Misread margins corrected with notes: 'Is. ix, 12' = Is 60:12; 'Ps. i, 8' = Ps 50:8; 'Ps. lxxxi, 19' = Ps 71:19; 'Exod. xviii' = Ex 18:11. Ranges Acts 28:3-6, 14:10-12 given single reference-only markers. Denis reads 'præfectum et magistrum' (v. 48) for 'præfectum magistratuum'; margin '* erat' (v. 49) as a note. 'domo succensa' kept as printed."
-    },
-    {
-      "id": "daniel-003",
-      "book": "daniel",
-      "art": 3,
-      "chapter_guess": 3,
-      "pages": [
-        41,
-        54
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Margin 'Jer. xxiv, 17' cannot be right (Jer 24 has 10 verses): taken as Jer 24:9, with a note (wording closest to Jer 34:17). Edition reading notes kept at 3:3 (erexerat/posuerat) and 3:26. DR data slip: Dan 3:47 reads 'nine and forth cubits'."
-    },
-    {
-      "id": "daniel-004-part1",
-      "book": "daniel",
-      "art": 4,
-      "chapter_guess": 3,
-      "pages": [
-        54,
-        62
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "part": 1,
-      "parts": 3,
-      "claimed": "2026-11-19T03:56:13Z",
-      "note": "Part 1 of 3 published (scheduled run, two workers split at the v. 56 lemma; Dan 3:49–63, ending with Dan 12:3, whose last words 'erudiunt … æternitates' stand at the top of daniel-004-part2.txt: part 2 should start after them, at the v. 64 lemma). Pages given as pp. 44–69 for the whole article. Lost letters at a page turn: 'Ecclesia mi- / et triumphans' read 'mi[litans]'. Margin numbers corrected with notes: Ps cxlvii, 19 → Ps 147:8; Ps cxiii, 2 → Ps 112:2; Ps lxxxix, 2 → Ps 79:2; Job xliii, 2 → Job 42:2; Job xxxviii, 18 → Job 37:18; 'Deut. xxxii, 27' does not fit 'Manus Domini fecit hæc omnia' (Job 12:9 marked, noted). Prov 10:1 / 13:1 and Ex 25:20, 22 (words of Heb 9:5) reference-only with notes."
-    },
-    {
-      "id": "daniel-004-part2",
-      "book": "daniel",
-      "art": 4,
-      "chapter_guess": 3,
-      "pages": [
-        63,
-        71
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "part": 2,
-      "parts": 3,
-      "claimed": "2026-11-23T22:11:11Z",
-      "note": "Part 2 of 3 published (scheduled run, two workers split at the v. 77 lemma; vv. 64–88, starting after the Dan 12:3 words that end part 1, and ending with the sentence 'Et istud miraculum in Sanctis novi Testamenti … conscribitur', which straddles into daniel-004-part3.txt). Margin numbers corrected with notes: Ps cxlvii, 16/17 → Ps 147:5/6 and Ps cxlvii, 19, 20 → Ps 147:8–9 (Hebrew numbering); Job xxxvii, 35 → Job 38:35; Job xxxviii, 11–13 → Job 37:11–13; Ps lxxxvi, 3 → Ps 76:3 (reference only); Ps. i, 19 → Ps 50:19; 'Job xxxiv' (God on the beasts) → Job 39:1, 'Job xl, xli' → Job 40:20 (reference only). Denis reads 'æstas' for 'æstus' at v. 67 (noted). Augustine's 'decimo de Trinitate' for the Plotinus passage (City of God X, 14) noted. DR data slips: Rom 13:12 'is passed And', Is 12:3 'Thou shall draw'."
-    },
-    {
-      "id": "daniel-004-part3",
-      "book": "daniel",
-      "art": 4,
-      "chapter_guess": 3,
-      "pages": [
-        72,
-        79
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "part": 3,
-      "parts": 3,
-      "claimed": "2026-11-23T22:11:11Z",
-      "note": "Part 3 of 3 published (scheduled run, one worker; from 'Ex quo frivola declaratur instantia Hebræi' to the end: v. 50 again, vv. 89–100, and the question why Daniel is not named, tagged vv. 1, 12). Margin 'v. 94' at 'Tunc Nabuchodonosor rex obstupuit' read as v. 91; 'vers. 3' as a reference-only marker to 3:3. Denis says Deuteronomy for 'Dominum Deum tuum adorabis' (Matthew's wording): Deut 6:13 marked, noted. Variant readings noted: 'Deo solo' (3:95), 'A me ergo rege' (3:96), 'de omni angustia' (Ecclus 51:12); 'catena*' with margin variant 'caterva'. DR data slip: Tob 12:7 lacks 'but honourable'."
-    },
-    {
-      "id": "daniel-005-part1",
-      "book": "daniel",
-      "art": 5,
-      "chapter_guess": 4,
-      "pages": [
-        79,
-        86
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "part": 1,
-      "parts": 2,
-      "claimed": "2026-11-23T22:11:26Z",
-      "note": "Part 1 of 2 published (scheduled run, two workers split at the v. 17 lemma; Dan 4:1 to the Tobias quotation in v. 24, ending '…non patietur animam ire in tenebras'). The last lines of daniel-005-part1.txt, from the lemma '_Forsitan ignoscet Deus delictis tuis._' ('Quum per Ezechielem … omnium ini-'), are NOT translated: part 2 must start there and join them to the top of daniel-005-part2.txt. Pages given as pp. 69–83 for the whole article. Garbled line restored as 'cœpit intra se tacite cogitare, qualiter religio regio culmini servaret honorem' (v. 16); 'hostibus imprimis' kept, noted as perhaps 'imprimi'. Margin 'vers. 12' beside 'germen radicum ejus' marked 4:20 (same words), noted; margin '* pabulum' at v. 20 as a note. Is 29:14/1 Cor 1:19 and Matt 10:19/Luke 21:14 double notes: words quoted marked, the other reference-only. Ecclus 3:33 (old version), Luke 12:37, Luke 10:34, Wis 12:18, Apoc 12:14, Is 37:36 and the Apoc voices reference-only with notes. Ps 72:9 tagged without margin note (Denis cites it with 'itemque')."
-    },
-    {
-      "id": "daniel-005-part2",
-      "book": "daniel",
-      "art": 5,
-      "chapter_guess": 4,
-      "pages": [
-        87,
-        93
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "part": 2,
-      "parts": 2,
-      "claimed": "2026-11-23T22:13:00Z",
-      "note": "Start from the lemma '_Forsitan ignoscet Deus delictis tuis._' near the end of daniel-005-part1.txt (its last lines, 'Quum per Ezechielem … omnium ini-', continue at the top of this file); part 1 stops before it. | Part 2 published (scheduled run, one worker; from the v. 24 lemma 'Forsitan ignoscet' to the end). Margin 'v. 23' beside 'Omnia hæc … venerunt' is v. 25 (tagged so). Jer 18:7 and Wis 11:24 marked without margin notes (Denis names the source). Rom 11:33, Jon 3:4, Is 38:1, Gen 2:25, Dan 3:100, Dan 3:27 reference-only. Notes on Denis's readings: transiit (v. 28), sanasti (Tob 11:17), tenebris (1 Pet 1:14), regis (Prov 20:28), 'omnes viæ' (v. 34); Sedulius for 'Sallust'; Art. VI cross-reference. Latin slips fixed: pœnitexeret→pœniteret, rege.fuit, prophéticæ."
-    },
-    {
-      "id": "daniel-006",
-      "book": "daniel",
-      "art": 6,
-      "chapter_guess": 5,
-      "pages": [
-        93,
-        102
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:12:11Z",
-      "note": "End of the article (5:30-31, PDF p. 102 right column, 'Non habitabitur … dignus') had been cut into daniel-007.txt; moved back. Margin 'Jer. i, li' read as Jer. l, li; 'Dan. i, 2' beside the v. 7 cross-reference does not fit (Dan 2:2 used, with a note)."
-    },
-    {
-      "id": "daniel-007",
-      "book": "daniel",
-      "art": 7,
-      "chapter_guess": 6,
-      "pages": [
-        102,
-        111
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:13:30Z",
-      "note": "Published (scheduled run, two workers split at the v. 10 lemma). Gen 41:40 marked without margin note (named and word for word). Range notes given one marker each (Acts 2:4, Luke 22:12, Num 28:4, Dan 3:23); 'Exod. xx' as Ex 20:1 with a note; margin 'v. 14' there is Acts 1:14. Matt 17:19 / Luke 17:6: 'Tollere, et jacta te in mare' fits Matt 21:21 (note). Notes: 2 Esd 9:3 'quater in nocte' not in the Vulgate; Mark 14:40 'præ tristitia' is from Luke 22:45; Ecclus 27:30 adds 'illusio'; Prov 18:1 exsecrabilis. DR data slip: 1 John 5:4 'overcameth'."
-    },
-    {
-      "id": "daniel-008-part1",
-      "book": "daniel",
-      "art": 8,
-      "chapter_guess": 7,
-      "pages": [
-        111,
-        122
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "part": 1,
-      "parts": 2,
-      "claimed": "2026-11-23T22:20:08Z",
-      "note": "Part 1 of 2 published (scheduled run, two workers split at the v. 10 lemma; Dan 7:1 to the end of v. 23, '…munitiones comburendo', taking the first line of daniel-008-part2.txt to finish the sentence). Part 2 (published earlier) also began with 'Et conculcabit … comburendo': that duplicate paragraph was removed. Misread margins corrected with notes: 'Ps. lxxxix, 14' = Ps 79:14; 'Ps. xxxiv, 6' = Ps 33:6; 'Apoc. iv, 2, i' = Apoc 4:2, 4; 'I Cor. xv' = 1 Cor 15:24; 'Eccle. iii, 20' (Jerome's wording closer to Ecclus 40:11) reference-only. Is 10:23/Rom 9:28: Rom marked, Is reference-only. Deut 32:8 quoted after the Septuagint (noted). Apoc 19:20 loosely quoted (noted). Matt 19:27 words ('Vos qui reliquistis omnia') unmarked, no margin note (noted). Kept as printed with notes: 'ad labores ac verba' (perhaps verbera), Nahum 'faciem consummationem' (faciet). DR data slip: Is 8:8 'the breadth of thy, land'."
-    },
-    {
-      "id": "daniel-008-part2",
-      "book": "daniel",
-      "art": 8,
-      "chapter_guess": 7,
-      "pages": [
-        123,
-        124
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "part": 2,
-      "parts": 2,
-      "claimed": "2026-11-23T22:21:30Z",
-      "note": "Part 2 published (22:25 run, translated directly; Dan 7:23 'Et conculcabit' to the middle of the Apoc 12:10 quotation, 4 paragraphs). It starts at 'runt. Et conculcabit': the word 'nocue-runt' at the end of daniel-008-part1.txt belongs to part 1. Needs scan of PDF 124 (printed p. 114): the transcription of that page has only a few lines, so the end of the article (after 'et potestas Christi', Apoc 12:10, and Dan 7:28) is missing, marked […] with a note. Pages given as pp. 101–114 for the whole article. Matt 12:8 and John 14:6 reference-only (paraphrased); notes on Denis's readings 'sermones blasphemiæ' (v. 25), 'Data est bestiæ' (Apoc 13:7), 'ejus' (Apoc 14:11)."
-    },
-    {
-      "id": "daniel-009",
-      "book": "daniel",
-      "art": 9,
-      "chapter_guess": 8,
-      "pages": [
-        124,
-        133
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Re-cut (22:25 run): the old daniel-009 was not an article but the heading and first sentence of Art. X (ch. 9, running heads 'ART. X'); Art. IX (ch. 8; running heads PDF 124-133 'ENARRATIO IN CAP. VIII … ART. IX') had been left inside daniel-008-part2.txt with no heading. daniel-009.txt now holds Art. IX. Needs scan of PDF 124 (printed p. 114): its transcription has only a few lines, so the end of Art. VIII (after 'Nunc facta est salus et virtus, et regnum Dei nostri, et potestas Christi', Apoc 12:10; Dan 7:28) and the heading and start of Art. IX (Dan 8:1 to the middle of v. 2, up to '…regione, id est in regno Elamitarum') are lost. The rest of Art. IX (PDF 124-133) reads clean and can be translated once p. 124 is supplied."
-    },
-    {
-      "id": "daniel-010",
-      "book": "daniel",
-      "art": 10,
-      "chapter_guess": 9,
-      "pages": [
-        133,
-        146
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:22:05Z",
-      "note": "The article's first lines ('NUNC visio scribitur … In anno primo Darii filii Assueri', PDF p. 133 foot of left column under the heading) were cut into daniel-009.txt; they are included here. Margin 'Is. i, 10' read as Is 50:10; 'Oratio Manassæ' not in the DR text (reference to 2 Par 33:12, with a note); 'Matt. xvi, 4' is 16:3 in the DR text."
-    },
-    {
-      "id": "daniel-011",
-      "book": "daniel",
-      "art": 11,
-      "chapter_guess": 10,
-      "pages": [
-        146,
-        155
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:25:00Z",
-      "note": "Published (22:25 run, two workers split at the v. 10 lemma). Notes: Ezech 1:16 'quasi visio maris' said of the wheels, not the creatures; Ezech 18:21 'Quacumque hora ingemuerit peccator' is not in the Vulgate (reference-only, 18:22 marked); Denis's readings 'juxta principem Persarum' (v. 13) and 'visio in dies protelatur' (v. 14). Margin variants kept as printed: 'accidereve' (margin 'accidere'), 'lauta ciboria' (probably cibaria), '*sermonem' (v. 1). Augustine's reading of Luke 10:42 ('Unum est opus') left unmarked with a note."
-    },
-    {
-      "id": "daniel-012",
-      "book": "daniel",
-      "art": 12,
-      "chapter_guess": 11,
-      "pages": [
-        155,
-        168
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:25:32Z",
-      "note": "Published (scheduled run, two workers split at the v. 22 lemma). The article's last lines ('populos, et telam quam orditus est super universas nationes … Morere; et statim fulminabitur', PDF 168 right column) had been cut into daniel-013.txt (lines 27–45, before a repeated Art. XIII heading); they are now published at the end of Art. XII, so leave them out of Art. XIII (daniel-013 was claimed by another run when this was found). Margin 'Esther i, 1; 11, 18' taken as Esth 1:1 and 2:18 (reference only, noted); 'Dan. vi' as Dan 6:1; 'II Mach. ix, 7 et seq.' as 2 Mach 9:7 (noted: the pain is at 9:5). v. 10: Denis prints 'Et exaltabitur cornu ejus' as Scripture, not in the Vulgate of v. 10 (noted, unmarked). Variants noted: cornu for cor (v. 12), illum/illud (v. 17), coram eo (v. 26), impii testamentum simulabunt (v. 32), principes (v. 41), fortitudine with margin variant multitudine (v. 44). In Jerome's quotation in the introduction 'a capitulo duodecimo' kept as printed (perhaps decimo)."
-    },
-    {
-      "id": "daniel-013",
-      "book": "daniel",
-      "art": 13,
-      "chapter_guess": 12,
-      "pages": [
-        168,
-        175
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:26:14Z",
-      "note": "The transcription of PDF p. 168 put the end of Art. XII ('populos, et telam … Morere; et statim fulminabitur.') inside daniel-013.txt; left out of Art. XIII (Art. XII has it). Margin notes giving only a chapter (4 Kings xxv, 2 Par. xxxvi, Gen. vi, vii) given as verse 1 with a note; Ezech 4:6 tagged though not in the margin (Denis names Ezechiel). Douay-Rheims slip in data/bible/drc John 6:45: 'cometh forth me' for 'cometh to me'."
-    },
-    {
-      "id": "daniel-014",
-      "book": "daniel",
-      "art": 14,
-      "chapter_guess": 13,
-      "pages": [
-        175,
-        188
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:30:00Z",
-      "note": "Published (22:30 run, two workers split at the v. 22 lemma). Corrected 'filium suam' → 'filiam suam' (v. 3). Margin '1 Reg. xv' taken as 1 Kings 15:27–28; 'Ps. x, 5, sec. Hebr.' as Ps 9:26 (note). Bar 1:19, 22 and Cant 2:4 ('Vulnerata caritate ego sum') reference-only with notes; '2 Kings 24:14' (Coarctor undique nimis) marked without margin note (Denis names Kings). Margin variants '⟦virtute⟧' (v. 1) dropped, '* adfleverunt' (v. 33) as a note. Denis's readings noted: Ecclus 1:22, 23:37, 9:8, the v. 17 lemma, 'in manus hominum' (v. 23), no 'sanctum' (v. 45). DR data slip: Dan 13:6 'all that hand any matters of judgment' (should be 'had')."
-    },
-    {
-      "id": "daniel-015-part1",
-      "book": "daniel",
-      "art": 15,
-      "chapter_guess": 14,
-      "pages": [
-        188,
-        198
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "part": 1,
-      "parts": 2,
-      "claimed": "2026-11-23T22:30:03Z",
-      "note": "Whole article published from this file (scheduled run, two workers split at the v. 18 lemma; Dan 14:1–42 and Jerome on the 'loud voice', ending 'Amen.', PDF p. 195 = p. 185). The transcription-failure message after 'Amen.' is PDF 196, which follows the end of the article (probably a blank verso). Margin verse numbers run one ahead from v. 8 (tagged by the text). 'Et rex Astyages' marked Dan 13:65 (no margin note). Jer 10:15/51:18: 51:18 marked, 10:15 reference-only; Jer 40:7–12 range noted. Variant notes '*Porro Daniel', '*Contemnebant', 'corallinis' given as notes; 'dirutus' (Vulgate diruptus) kept. 14:41 lemma's Latin side is in the Vulgate wording (Denis interposes a gloss)."
-    },
-    {
-      "id": "daniel-015-part2",
-      "book": "daniel",
-      "art": 15,
-      "chapter_guess": 14,
-      "pages": [
-        199,
-        209
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "part": 2,
-      "parts": 2,
-      "claimed": "2026-11-23T22:30:20Z",
-      "note": "Not part of Art. XV (scheduled run, 23 Nov): Art. XV ends on PDF 195 and was published whole. This file (PDF 197–208) is the front matter of the Minor Prophets (title pages, the Cologne editor's dedicatory letter to Johann Rinck, …), and PDF 200 and 206 failed to transcribe. Dave: decide whether any of it should be translated; otherwise mark done."
-    },
-    {
-      "id": "hosea-001",
-      "book": "hosea",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        209,
-        211
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:31:25Z",
-      "note": "General preamble to the twelve Prophets, no verse tags. The first line has '[…]' after 'evangelicis' (probably nothing lost; kept as printed)."
-    },
-    {
-      "id": "hosea-002",
-      "book": "hosea",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        211,
-        216
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:32:54Z",
-      "note": "Margin '* novem' corrects Denis's 'viginti octo' (Ezechias' years) to 29: noted at 4 Kings 18:2."
-    },
-    {
-      "id": "hosea-003",
-      "book": "hosea",
-      "art": 3,
-      "chapter_guess": null,
-      "pages": [
-        216,
-        220
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:33:02Z",
-      "note": "Margin 'IV Reg. xxv, 24' does not fit (4 Kings 25:7 used, with a note); 'Ephes. v, 23' beside words of Col 1:18 (noted). DR text slip at Rom 9:26: 'it shalt be'."
-    },
-    {
-      "id": "hosea-004",
-      "book": "hosea",
-      "art": 4,
-      "chapter_guess": 1,
-      "pages": [
-        220,
-        222
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:35:16Z",
-      "note": "Transcription of PDF 220–221 had ae/oe for æ/œ: normalized; 'affixerunt' read as 'afflixerunt'. Matt 7:23 quoted with the closing words of Luke 13:27 (noted)."
-    },
-    {
-      "id": "hosea-005",
-      "book": "hosea",
-      "art": 5,
-      "chapter_guess": 2,
-      "pages": [
-        222,
-        227
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:36:35Z",
-      "note": "Published (scheduled run, one worker). Misread margins corrected with notes: 'Is. ux, 2' = Is 59:2; 'Ibid. i, 1' = Is 50:1; 'Ps. i, 5' = Ps 50:5; 'Ps. cxlvii, 20' = Ps 147:9. Loose quotations of Ezech 16:4–13 and the Jeremias patchwork (Jer 23:39, 40; 24:9; 25:18, 8) partly marked, partly reference-only, with notes. Is 19:25 as Denis words it differs from the DR (noted). v. 8 'ornaverunt idoli quod dicitur Baal' kept as printed (noted). Stray margin 'v. 3' inside the Eph 3:5–6 quotation ignored."
-    },
-    {
-      "id": "hosea-006",
-      "book": "hosea",
-      "art": 6,
-      "chapter_guess": 2,
-      "pages": [
-        227,
-        235
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:37:23Z",
-      "note": "Published (scheduled run, two workers split at the v. 16 lemma; Osee 2:10–24). Needs scan of PDF 230 (printed p. 220): the transcription of that page stops in the left column at 'nati ex Judæa et Isra' and has no right column, so the rest of the v. 15 exposition (valley of Achor, 'canet ibi …') is missing, marked […] with an article note. Misread margins corrected with notes: 'Ps. lxxxix, 15' = Ps 79:15; 'Ps. xxxvi, 14' = Ps 26:14; 'Is. iii, 15' = Is 52:15. Ranges given reference-only with notes: Ex 32:7–14, Acts 2–4, Gen 34:2–3, Num 28–29. Is 64:4/1 Cor 2:9 and Matt 9:22/Luke 18:42: the wording Denis follows marked, the other reference-only. Mal 1:6 ('timet' for 'honoureth') and Jer 5:3 (fidem/truth) noted. Variant '*conjugem' as a note. DR data slip: Rom 13:12 'is passed And the day'."
-    },
-    {
-      "id": "hosea-007",
-      "book": "hosea",
-      "art": 7,
-      "chapter_guess": 2,
-      "pages": [
-        235,
-        240
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:38:06Z",
-      "note": "The last lines of the article (PDF 240 right column top, 'satio in cœlis est … patet ex præcedenti articulo.') were cut into hosea-008.txt; translated here. Margin numerals corrected (noted): Ps cxv,12→Ps 115:3; Zach ix,7→9:17; Gal v,7→5:17; Ps cxii,33→Ps 103:33. Margin '1 Cor. xii, 1' does not fit: given as reference-only 1 Cor 12:31 with a note (check)."
-    },
-    {
-      "id": "hosea-008",
-      "book": "hosea",
-      "art": 8,
-      "chapter_guess": 3,
-      "pages": [
-        240,
-        243
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:39:30Z",
-      "note": "Published (22:40 run, one worker). Title completed from the mid-page heading ('[…]XIT DOMINUS AD ME : ADHUC VADE.'). The end of Art. VII that stood in hosea-008.txt (lines 37–44) was left out (note on hosea-007). Margin '⟦3⟧' before 'Et ipsi filii Israel respectant' is v. 1; 'Jer. xxxiii, 5' is Jer 23:5 (note); Ezech 34:24 per the margin, Denis closer to Ezech 37:25 (note); 'Exod. xii, xix, etc.' as reference-only Ex 12:1, 19:1 (note); Dan 9:26 marked, 9:27 reference-only. Denis's readings kept: 'respectant', 'Non fornicaberis cum alienis'."
-    },
-    {
-      "id": "hosea-009",
-      "book": "hosea",
-      "art": 9,
-      "chapter_guess": 4,
-      "pages": [
-        243,
-        250
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:39:13Z",
-      "note": "Published with gaps marked […]: on v. 1 (PDF 243, 'Et non […] est misericordia ad proximos […] […] […]', a few words at the foot of a column), on v. 2 ('Et […] est: Benedicite', one word), and between PDF 244 and 245 (after '…sanguinem sanguini miscuerunt.' the text resumes mid-sentence 'mendacia: Nos, inquiunt…': at least a line lost). Re-transcribe PDF 243–245 and fill in. DR text slip at Prov 3:3: 'mercy aud truth'."
-    },
-    {
-      "id": "hosea-010",
-      "book": "hosea",
-      "art": 10,
-      "chapter_guess": 4,
-      "pages": [
-        250,
-        253
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:39:13Z",
-      "note": "End of the article (PDF p. 253 right column, 'det, In consilio justorum … duces cæcorum') had been cut into hosea-011.txt; moved back."
-    },
-    {
-      "id": "hosea-011",
-      "book": "hosea",
-      "art": 11,
-      "chapter_guess": 5,
-      "pages": [
-        253,
-        257
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:41:36Z",
-      "note": "Published (22:41 run, one worker). Margin 'Ibid. xxiv, 7' (4 Kings 24:7) where Denis names 2 Paralipomenon: reference-only with a note. Whole-chapter margins (Jer. xlii–xliv, xlvi; Ezech. xvii, xxix–xxxii; Jos. xiii–xxi; IV Reg. xvii) given as v. 1 with notes. 'Ibid. 4-6' split into 4 Kings 17:4, 5, 6. Printed footnote '*alias sanare*' at v. 13 kept in t and explained. 'Cor. xi, 31' taken as 1 Cor 11:31. DR slip noticed: Jer 28:9 'whom the hath sent' (missing 'Lord')."
-    },
-    {
-      "id": "hosea-012",
-      "book": "hosea",
-      "art": 12,
-      "chapter_guess": 5,
-      "pages": [
-        257,
-        260
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:41:36Z",
-      "note": "Published (22:41 run, one worker). Margin notes beside v. 3 sit one line out of place; matched in order (Ps 38:7, Ecclus 10:10 ref-only, Is 47:10, Ecclus 19:21, Ecclus 23:28). Margin Luke 11:52 but words closer to Matt 23:13 (note). Job 5:19 tagged without margin (Denis names Job; variant 'non videbis malum', note)."
-    },
-    {
-      "id": "hosea-013",
-      "book": "hosea",
-      "art": 13,
-      "chapter_guess": 6,
-      "pages": [
-        260,
-        265
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:41:36Z",
-      "note": "Published (22:41 run, one worker). End of the article (6:9–11, from 'secundum Bedam, quæ modo Neapolis…' to '…fine mundi') had been cut into hosea-014.txt (after the Art. XIV heading); moved back into hosea-013.txt. Margin 'Ps. lxxxvi, 3' taken as Ps 76:3 (note); 'Ezech. xlii–xlvii' as Ezech 42:1 ref-only (note); 'Cf. Jer. ii, 12' ref-only. DR slips noticed: Rom 13:12 'passed And the day' (capital A), Matt 11:21 'Woe thee, Corozain' (missing 'to')."
-    },
-    {
-      "id": "hosea-014",
-      "book": "hosea",
-      "art": 14,
-      "chapter_guess": 6,
-      "pages": [
-        265,
-        267
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:43:40Z",
-      "note": "Published (22:44 run, one worker). The end of the article (from '…subdito-/rum bona consumunt' to '…exposita est præcedenti articulo') had been cut into hosea-015.txt (between 'ARTICULUS XV' and its title); moved back into hosea-014.txt. 'Salus populi ego sum…' is the Introit of the 19th Sunday after Pentecost, not a verse: margin 'Cf. Is. xliii; Ps. xxxvi, 39' as reference-only markers with a note. Matt 15:8, Apoc 3:20, Gal 6:2 reference-only (allusions)."
-    },
-    {
-      "id": "hosea-015",
-      "book": "hosea",
-      "art": 15,
-      "chapter_guess": 6,
-      "pages": [
-        267,
-        273
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:44:27Z",
-      "note": "Published (scheduled run, one worker), with the end of the article (7:15–16, PDF 273 right column) that another run had moved back from hosea-016.txt. Chapter-only margins (III Reg. xx, Exod. xiv, IV Reg. iii/vii/xiii) given as verse 1 reference-only markers; III Reg. xiii placed at 3 Kings 13:18 (noted). Quotations Denis names without a margin note marked (Is 2:17, Is 26:16, Job 34:27, Job 21:14, Jer 5:3, 5:11–12, 5:21, Dan 9:26, Luke 19:43–44, John 9:24, Luke 23:2, John 19:15): unconfirmed by the margin. Wording differences noted at Ezech 17:20, Ezech 30:24, Jer 5:21; erudivi (7:15) and ruminabant (7:14) explained."
-    },
-    {
-      "id": "hosea-016",
-      "book": "hosea",
-      "art": 16,
-      "chapter_guess": 6,
-      "pages": [
-        273,
-        276
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "note": "Re-cut (22:47 run): the text before 'DE Israel et Ephraim ac Samaria possumus loqui dupliciter' was the end of Art. XV and has been moved to hosea-015.txt; Art. XVI starts at 'DE Israel'. | Published (scheduled run, one worker). Margin 'Ps. lxxviii, 6' = Ps 68:6 (noted). Job 5:13 'astutos' for 'sapientes' noted. Phil 2:12, Luke 13:5 reference-only. Ps 118:168 and Ps 18:15 tagged without margin notes (Denis introduces them). 'insidias diabolo' (Eph 6:11) kept as printed.",
-      "claimed": "2026-11-23T22:45:42Z"
-    },
-    {
-      "id": "hosea-017",
-      "book": "hosea",
-      "art": 17,
-      "chapter_guess": 8,
-      "pages": [
-        276,
-        280
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:46:40Z",
-      "note": "Published (22:47 run, one worker). Margin '⟦40⟧' read as v. 10; 'Ibid. 9, 10' as 1 Kings 10:9–10, 'Sap. xiii, xiv' as Wis 13:1, 'IV Reg. xxv' as 4 Kings 25:1 (reference-only); 2 Cor 6:15–16 paraphrased (reference-only); 'Cf.' note 4 Kings 18:13, 2 Par 26:15, 32:5 reference-only with a note. Denis's readings noted: 'o Domine Deus' (v. 2), 'in eis' (v. 7), 'partes' (3 Kings 11:31), 'in gutture' (Ps 149:6); 8:6 marked as one clause with a note."
-    },
-    {
-      "id": "hosea-018",
-      "book": "hosea",
-      "art": 18,
-      "chapter_guess": 8,
-      "pages": [
-        280,
-        282
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:47:02Z"
-    },
-    {
-      "id": "hosea-019",
-      "book": "hosea",
-      "art": 19,
-      "chapter_guess": 9,
-      "pages": [
-        282,
-        288
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:48:01Z",
-      "note": "Margin variant readings noted in the English (v. 7 tribulationis/retributionis, v. 8, v. 13, v. 15); v. 9 has an asterisk with no margin note in the transcription (dropped). Margin 'Ps. cxiii, 5, 8 sec. Hebr.' given as Ps 113:13, 16 (Vulgate). 'in principium' read as 'in principio' (v. 10)."
-    },
-    {
-      "id": "hosea-020",
-      "book": "hosea",
-      "art": 20,
-      "chapter_guess": 9,
-      "pages": [
-        288,
-        292
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:52:27Z",
-      "note": "Published (22:41 run, one worker). 'ca[…]ros' at the page break read as 'caros'. Notes where Denis's reading differs (Osee 9:4, 9:7, 1 John 2:19, 1 Pet 1:14, 1 Cor 14:29). Osee 9:13 lemma lacks 'ut vidi'. 1 Cor 14:29, 31 tagged without margin note (Denis names the Apostle)."
-    },
-    {
-      "id": "hosea-021",
-      "book": "hosea",
-      "art": 21,
-      "chapter_guess": 10,
-      "pages": [
-        292,
-        299
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:52:27Z",
-      "note": "Published (22:41 run, one worker). Lemma 10:5 read 'vaccas' (note). Margin ranges given as reference-only on first verses (2 Par 29:1, Judg 6:25/27). Tagged without margin note, Denis naming the source: Tob 3:22, Prov 1:26, Jer 2:13, Judg 8:18–19. Denis's 'Gabaonitis' for the men of Gabaa kept with a note."
-    },
-    {
-      "id": "hosea-022",
-      "book": "hosea",
-      "art": 22,
-      "chapter_guess": 10,
-      "pages": [
-        299,
-        302
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:52:27Z",
-      "note": "Published (22:41 run, one worker). Article number missing on the transcribed heading (XXII from the sequence). Margin 'Eccle. iv, 10' is Eccles 9:10; 'Jer. xxiii, 15' — first words are Jer 9:15 (both noted). Ecclus 24:11 Denis reads 'colla … sublimium' (reference-only with note). Tagged without margin: 1 Esd 9:6, Ecclus 34:1, Ps 126:1. DR slip noticed: Osee 10:8 'say to the mountains Cover us' (colon missing)."
-    },
-    {
-      "id": "hosea-023",
-      "book": "hosea",
-      "art": 23,
-      "chapter_guess": 10,
-      "pages": [
-        302,
-        308
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T22:58:10Z",
-      "note": "v. 12 printed 'in negotiatione' and 'cum sanctis fidelibus' (Vulgate negatione, fidelis): kept with notes. Deut 7:6 tagged without a margin note (also Deut 14:2). Is 48:9 reference-only (Denis far from the Douay). Douay-Rheims slip in data/bible/drc Ex 5:21: stray comma 'because you have, made our savour'."
-    },
-    {
-      "id": "hosea-024",
-      "book": "hosea",
-      "art": 24,
-      "chapter_guess": 11,
-      "pages": [
-        308,
-        311
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:01:23Z",
-      "note": "Published (22:41 run, one worker). End of the article (Rom 16:17 line, 'rursusque : Observetis eos … declinate ab eis') had been transcribed inside hosea-025.txt; moved back. Margin 'Ps. lxxxix, 6' is Ps 79:6; 'John vi, 53' fits 6:56; bare margin '13' beside 'Videte ne quis vos decipiat' (Col 2:8) fits nothing (note). 'Rex Israel' (Palm Sunday) is John 12:13, margin Matt 21:9 (both marked). Is 66:15 quoted 'juxta LXX' (reference-only, note). Printed footnote 'alias negatione' at 11:12 kept in t."
-    },
-    {
-      "id": "hosea-025",
-      "book": "hosea",
-      "art": 25,
-      "chapter_guess": 12,
-      "pages": [
-        311,
-        316
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:01:23Z",
-      "note": "Published (22:41 run, one worker). A stray line of Art. XXIV removed from the start of this file. Quotations in the v. 7 paragraph have no margin notes; tagged as named by Denis (Dan 13:56, Is 1:10, Ezech 16:3, Lev 19:35–36, Ps 61:10, Prov 31:24) and Col 3:5 in the v. 8 paragraph. Ezech 'xviii, 13; xxxiii, 4' quotation marked on 33:4. DR slips noticed: Apoc 22:12 'to every, man'; Jon 2:1 'Jonah' for 'Jonas'."
-    },
-    {
-      "id": "hosea-026",
-      "book": "hosea",
-      "art": 26,
-      "chapter_guess": 12,
-      "pages": [
-        316,
-        319
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:01:23Z",
-      "note": "Published (22:41 run, one worker). End of the article (12:14, 'consistet. Uniuscujusque … solenniter impleatur') had been transcribed after the Art. XXVII heading (PDF p. 319, right column above the heading); moved back from hosea-027.txt. Between 'in ipsum retorquebi-' (left column, end) and 'consistet' (right column, top) some words seem lost: shown as […] — check PDF p. 319 (printed p. 309). Margin 'Ps. cxi, 5' is Ps 140:5 (note); Deut 18:15 quoted in the wording of Acts 3:22 (note)."
-    },
-    {
-      "id": "hosea-027",
-      "book": "hosea",
-      "art": 27,
-      "chapter_guess": 13,
-      "pages": [
-        319,
-        324
-      ],
-      "status": "done",
-      "source": "transcribed"
-    },
-    {
-      "id": "hosea-028",
-      "book": "hosea",
-      "art": 28,
-      "chapter_guess": 13,
-      "pages": [
-        324,
-        326
-      ],
-      "status": "done",
-      "source": "transcribed"
-    },
-    {
-      "id": "hosea-029",
-      "book": "hosea",
-      "art": 29,
-      "chapter_guess": 14,
-      "pages": [
-        326,
-        337
-      ],
-      "status": "needs-scan",
-      "source": "transcribed",
-      "note": "Not translated (22:41 run): the transcription of PDF pp. 334 and 336 failed (the transcriber reports no image), so most of the moral exposition of ch. 14 and part of Denis's preface to Joel (after the 'ENARRATIO IN JOELEM PROPHETAM' heading, PDF 335–336) are missing. hosea-029.txt also holds that Joel preface, which belongs before joel-001. Re-transcribe PDF 334 and 336 first."
-    },
-    {
-      "id": "joel-001",
-      "book": "joel",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        337,
-        344
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:13:18Z",
-      "note": "Published (22:41 run, one worker). Margin 'Ps. lxxxii, 26' is Ps 72:26 (note). Chapter-only and range margins given as first verse (1 Mach 1:1, Num 18:1, 4 Kings 17:1/25:1, Esth 8:1/9:1). Tagged without margin, Denis naming the source: Is 5:7, Ps 37:6, 48:13, Job 38:41, Ps 103:27, 144:15. Printed footnote '* alias perierunt' (v. 16) given as a note. Denis's preface to Joel (PDF 335–336) is in hosea-029.txt and not yet translated (see hosea-029)."
-    },
-    {
-      "id": "joel-002",
-      "book": "joel",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        344,
-        348
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:23:13Z"
-    },
-    {
-      "id": "joel-003",
-      "book": "joel",
-      "art": 3,
-      "chapter_guess": 2,
-      "pages": [
-        348,
-        357
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:23:13Z"
-    },
-    {
-      "id": "joel-004",
-      "book": "joel",
-      "art": 4,
-      "chapter_guess": 1,
-      "pages": [
-        357,
-        362
-      ],
-      "status": "done",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:26:33Z",
-      "note": "Published (23:26 run, one worker). Text lost in the transcription, marked […]: v. 18 ('Zelatus est zelo magni […] ecclesiæ') and v. 20 (rest of Rom 16:20 after 'Deus conteret', reference-only marker with note). Duplicated transcription line ('rabilisque dies ista consistet. Veniet enim', Dan 12:1) dropped. Tagged without margin: Ps 84:2, Acts 4:32, Cant 1:1, 1 Pet 2:2, Matt 11:25, 1 Cor 7:5, 7:29, Ps 31:9, 1 Cor 2:6, 2 Cor 1:5, Jas 5:9 (margin Jac. v, 8), Dan 10:14 (end of Dan 10:12 quotation). Rare word 'fractilantium' (v. 13) explained in a note."
-    },
-    {
-      "id": "joel-005-part1",
-      "book": "joel",
-      "art": 5,
-      "chapter_guess": 3,
-      "pages": [
-        362,
-        369
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "part": 1,
-      "parts": 2,
-      "claimed": "2026-11-23T23:33:49Z"
-    },
-    {
-      "id": "joel-005-part2",
-      "book": "joel",
-      "art": 5,
-      "chapter_guess": 3,
-      "pages": [
-        370,
-        377
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "part": 2,
-      "parts": 2,
-      "claimed": "2026-11-23T23:33:49Z"
-    },
-    {
-      "id": "amos-001",
-      "book": "amos",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        377,
-        383
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:37:36Z"
-    },
-    {
-      "id": "amos-002",
-      "book": "amos",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        383,
-        385
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:37:36Z"
-    },
-    {
-      "id": "amos-003",
-      "book": "amos",
-      "art": 3,
-      "chapter_guess": 2,
-      "pages": [
-        385,
-        388
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:42:03Z"
-    },
-    {
-      "id": "amos-004",
-      "book": "amos",
-      "art": 4,
-      "chapter_guess": 3,
-      "pages": [
-        388,
-        391
-      ],
-      "status": "in-progress",
-      "source": "transcribed",
-      "claimed": "2026-11-23T23:42:03Z"
-    },
-    {
-      "id": "amos-005",
-      "book": "amos",
-      "art": 5,
-      "chapter_guess": 3,
-      "pages": [
-        391,
-        396
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-006",
-      "book": "amos",
-      "art": 6,
-      "chapter_guess": 4,
-      "pages": [
-        396,
-        398
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-007",
-      "book": "amos",
-      "art": 7,
-      "chapter_guess": 4,
-      "pages": [
-        398,
-        402
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-008",
-      "book": "amos",
-      "art": 8,
-      "chapter_guess": 4,
-      "pages": [
-        402,
-        404
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-009",
-      "book": "amos",
-      "art": 9,
-      "chapter_guess": 5,
-      "pages": [
-        405,
-        412
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-010",
-      "book": "amos",
-      "art": 10,
-      "chapter_guess": 5,
-      "pages": [
-        412,
-        415
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-011",
-      "book": "amos",
-      "art": 11,
-      "chapter_guess": 5,
-      "pages": [
-        415,
-        418
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-012",
-      "book": "amos",
-      "art": 12,
-      "chapter_guess": 5,
-      "pages": [
-        418,
-        421
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-013",
-      "book": "amos",
-      "art": 13,
-      "chapter_guess": 5,
-      "pages": [
-        421,
-        426
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-014",
-      "book": "amos",
-      "art": 14,
-      "chapter_guess": 5,
-      "pages": [
-        426,
-        429
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "amos-015",
-      "book": "amos",
-      "art": 15,
-      "chapter_guess": 9,
-      "pages": [
-        429,
-        439
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "obadiah-001",
-      "book": "obadiah",
-      "art": 1,
-      "chapter_guess": null,
-      "pages": [
-        441,
-        448
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "obadiah-002",
-      "book": "obadiah",
-      "art": 2,
-      "chapter_guess": null,
-      "pages": [
-        448,
-        454
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "jonah-001",
-      "book": "jonah",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        459,
-        464
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "jonah-002",
-      "book": "jonah",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        464,
-        466
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "jonah-003",
-      "book": "jonah",
-      "art": 3,
-      "chapter_guess": 2,
-      "pages": [
-        466,
-        469
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "jonah-004",
-      "book": "jonah",
-      "art": 4,
-      "chapter_guess": 3,
-      "pages": [
-        469,
-        473
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "jonah-005",
-      "book": "jonah",
-      "art": 5,
-      "chapter_guess": 4,
-      "pages": [
-        473,
-        479
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-001",
-      "book": "micah",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        479,
-        484
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-002",
-      "book": "micah",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        484,
-        488
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-003",
-      "book": "micah",
-      "art": 3,
-      "chapter_guess": 2,
-      "pages": [
-        488,
-        493
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-004",
-      "book": "micah",
-      "art": 4,
-      "chapter_guess": 3,
-      "pages": [
-        493,
-        497
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-005",
-      "book": "micah",
-      "art": 5,
-      "chapter_guess": 4,
-      "pages": [
-        497,
-        502
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-006",
-      "book": "micah",
-      "art": 6,
-      "chapter_guess": 4,
-      "pages": [
-        502,
-        504
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-006-2",
-      "book": "micah",
-      "art": 6,
-      "chapter_guess": 5,
-      "pages": [
-        504,
-        510
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-007",
-      "book": "micah",
-      "art": 7,
-      "chapter_guess": 6,
-      "pages": [
-        510,
-        514
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-008",
-      "book": "micah",
-      "art": 8,
-      "chapter_guess": 6,
-      "pages": [
-        514,
-        516
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-009",
-      "book": "micah",
-      "art": 9,
-      "chapter_guess": 7,
-      "pages": [
-        516,
-        516
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "micah-010",
-      "book": "micah",
-      "art": 10,
-      "chapter_guess": 7,
-      "pages": [
-        516,
-        527
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "nahum-001",
-      "book": "nahum",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        527,
-        531
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "nahum-002",
-      "book": "nahum",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        531,
-        534
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "nahum-003",
-      "book": "nahum",
-      "art": 3,
-      "chapter_guess": 1,
-      "pages": [
-        534,
-        539
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "nahum-004",
-      "book": "nahum",
-      "art": 4,
-      "chapter_guess": 3,
-      "pages": [
-        539,
-        547
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "habakkuk-001",
-      "book": "habakkuk",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        547,
-        551
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "habakkuk-002",
-      "book": "habakkuk",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        551,
-        554
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "habakkuk-003",
-      "book": "habakkuk",
-      "art": 3,
-      "chapter_guess": 2,
-      "pages": [
-        554,
-        559
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "habakkuk-004",
-      "book": "habakkuk",
-      "art": 4,
-      "chapter_guess": 2,
-      "pages": [
-        559,
-        565
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "habakkuk-005",
-      "book": "habakkuk",
-      "art": 5,
-      "chapter_guess": 3,
-      "pages": [
-        565,
-        571
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "habakkuk-006",
-      "book": "habakkuk",
-      "art": 6,
-      "chapter_guess": 3,
-      "pages": [
-        571,
-        574
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "habakkuk-007",
-      "book": "habakkuk",
-      "art": 7,
-      "chapter_guess": 3,
-      "pages": [
-        574,
-        581
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zephaniah-001",
-      "book": "zephaniah",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        583,
-        587
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zephaniah-002",
-      "book": "zephaniah",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        587,
-        592
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zephaniah-003",
-      "book": "zephaniah",
-      "art": 3,
-      "chapter_guess": 2,
-      "pages": [
-        592,
-        596
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zephaniah-004",
-      "book": "zephaniah",
-      "art": 4,
-      "chapter_guess": 2,
-      "pages": [
-        596,
-        599
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zephaniah-005",
-      "book": "zephaniah",
-      "art": 5,
-      "chapter_guess": 3,
-      "pages": [
-        599,
-        611
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "haggai-001",
-      "book": "haggai",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        611,
-        613
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "haggai-002",
-      "book": "haggai",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        613,
-        616
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "haggai-003",
-      "book": "haggai",
-      "art": 3,
-      "chapter_guess": 1,
-      "pages": [
-        616,
-        622
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "haggai-004",
-      "book": "haggai",
-      "art": 4,
-      "chapter_guess": null,
-      "pages": [
-        622,
-        627
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-001",
-      "book": "zechariah",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        627,
-        633
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-002",
-      "book": "zechariah",
-      "art": 2,
-      "chapter_guess": 1,
-      "pages": [
-        633,
-        636
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-003",
-      "book": "zechariah",
-      "art": 3,
-      "chapter_guess": 2,
-      "pages": [
-        636,
-        640
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-004",
-      "book": "zechariah",
-      "art": 4,
-      "chapter_guess": 3,
-      "pages": [
-        640,
-        644
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-005",
-      "book": "zechariah",
-      "art": 5,
-      "chapter_guess": 4,
-      "pages": [
-        644,
-        647
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-006",
-      "book": "zechariah",
-      "art": 6,
-      "chapter_guess": 4,
-      "pages": [
-        647,
-        648
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-007",
-      "book": "zechariah",
-      "art": 7,
-      "chapter_guess": 5,
-      "pages": [
-        648,
-        651
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-008",
-      "book": "zechariah",
-      "art": 8,
-      "chapter_guess": 6,
-      "pages": [
-        651,
-        656
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-009",
-      "book": "zechariah",
-      "art": 9,
-      "chapter_guess": 7,
-      "pages": [
-        656,
-        659
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-010",
-      "book": "zechariah",
-      "art": 10,
-      "chapter_guess": 7,
-      "pages": [
-        659,
-        663
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-011",
-      "book": "zechariah",
-      "art": 11,
-      "chapter_guess": 8,
-      "pages": [
-        663,
-        666
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-012",
-      "book": "zechariah",
-      "art": 12,
-      "chapter_guess": 9,
-      "pages": [
-        666,
-        672
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-013",
-      "book": "zechariah",
-      "art": 13,
-      "chapter_guess": 10,
-      "pages": [
-        672,
-        676
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-014",
-      "book": "zechariah",
-      "art": 14,
-      "chapter_guess": 10,
-      "pages": [
-        676,
-        678
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-015",
-      "book": "zechariah",
-      "art": 15,
-      "chapter_guess": 11,
-      "pages": [
-        678,
-        683
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-016",
-      "book": "zechariah",
-      "art": 16,
-      "chapter_guess": 12,
-      "pages": [
-        683,
-        686
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-017",
-      "book": "zechariah",
-      "art": 17,
-      "chapter_guess": 12,
-      "pages": [
-        686,
-        688
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-018",
-      "book": "zechariah",
-      "art": 18,
-      "chapter_guess": 13,
-      "pages": [
-        688,
-        692
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "zechariah-019",
-      "book": "zechariah",
-      "art": 19,
-      "chapter_guess": 14,
-      "pages": [
-        692,
-        701
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "malachi-001",
-      "book": "malachi",
-      "art": 1,
-      "chapter_guess": 1,
-      "pages": [
-        701,
-        708
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "malachi-003",
-      "book": "malachi",
-      "art": 3,
-      "chapter_guess": 2,
-      "pages": [
-        708,
-        712
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "malachi-004",
-      "book": "malachi",
-      "art": 4,
-      "chapter_guess": 2,
-      "pages": [
-        712,
-        714
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "malachi-005",
-      "book": "malachi",
-      "art": 5,
-      "chapter_guess": 3,
-      "pages": [
-        714,
-        719
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "malachi-006",
-      "book": "malachi",
-      "art": 6,
-      "chapter_guess": 4,
-      "pages": [
-        719,
-        721
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    },
-    {
-      "id": "malachi-007",
-      "book": "malachi",
-      "art": 7,
-      "chapter_guess": 4,
-      "pages": [
-        721,
-        726
-      ],
-      "status": "todo",
-      "source": "transcribed"
-    }
-  ]
+ "volume": "t10",
+ "items": [
+  {
+   "id": "daniel-001",
+   "book": "daniel",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    17,
+    25
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "End of the article (PDF p. 25, right column, 'gunt mendacium veritati … crucifigens') had been cut into daniel-002-part1.txt; moved back into daniel-001.txt. Margin 'Jer. i, 17' taken as Jer 50:17; Denis says 'as Isaias foretold' of Joakim's burial (Jer 22:19), kept with a note; corrected margins Ps 93:12, Ecclus 31:23, Jdt 8:10, Ps 76:3 (each noted)."
+  },
+  {
+   "id": "daniel-002-part1",
+   "book": "daniel",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    25,
+    33
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "part": 1,
+   "parts": 2,
+   "claimed": "2026-11-19T03:47:06Z",
+   "note": "(from the Daniel 1 run) The first lines of the old daniel-002-part1.txt, 'gunt mendacium veritati … quotidie crucifigens' (PDF p. 25 right column), are the end of Art. I and are now published there; leave them out of Art. II. | Part 1 published (scheduled run, one worker; Dan 2:1 to mid v. 23). Needs scan of PDF 26 (printed p. 16): the transcription stops after 'Nam et Josephus decimo Antiquitatum libro, Post secundum, inquit,' and the rest of that column is missing (it must have held the v. 1 lemma 'et conterritus est spiritus ejus'); marked […] with a note. Misread margins corrected with notes: 'Eccli. v, 1' = Ecclus 1:1; 'IV Reg. ix, 11' = 4 Kings 20:11; 'Væ terræ cujus rex puer est' is Eccles 10:16 (Denis says Ecclesiasticus). Margin variant notes '* novi' (v. 8), '* deceptione plenam' (v. 9) given as notes. 'perierant' (Jer 10:11) kept as transcribed."
+  },
+  {
+   "id": "daniel-002-part2",
+   "book": "daniel",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    34,
+    41
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "part": 2,
+   "parts": 2,
+   "claimed": "2026-11-19T03:47:06Z",
+   "note": "Part 2 published (scheduled run, one worker; mid v. 23 to the end, with the St Francis paragraph). Misread margins corrected with notes: 'Is. ix, 12' = Is 60:12; 'Ps. i, 8' = Ps 50:8; 'Ps. lxxxi, 19' = Ps 71:19; 'Exod. xviii' = Ex 18:11. Ranges Acts 28:3-6, 14:10-12 given single reference-only markers. Denis reads 'præfectum et magistrum' (v. 48) for 'præfectum magistratuum'; margin '* erat' (v. 49) as a note. 'domo succensa' kept as printed."
+  },
+  {
+   "id": "daniel-003",
+   "book": "daniel",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    41,
+    54
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Margin 'Jer. xxiv, 17' cannot be right (Jer 24 has 10 verses): taken as Jer 24:9, with a note (wording closest to Jer 34:17). Edition reading notes kept at 3:3 (erexerat/posuerat) and 3:26. DR data slip: Dan 3:47 reads 'nine and forth cubits'."
+  },
+  {
+   "id": "daniel-004-part1",
+   "book": "daniel",
+   "art": 4,
+   "chapter_guess": 3,
+   "pages": [
+    54,
+    62
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "part": 1,
+   "parts": 3,
+   "claimed": "2026-11-19T03:56:13Z",
+   "note": "Part 1 of 3 published (scheduled run, two workers split at the v. 56 lemma; Dan 3:49–63, ending with Dan 12:3, whose last words 'erudiunt … æternitates' stand at the top of daniel-004-part2.txt: part 2 should start after them, at the v. 64 lemma). Pages given as pp. 44–69 for the whole article. Lost letters at a page turn: 'Ecclesia mi- / et triumphans' read 'mi[litans]'. Margin numbers corrected with notes: Ps cxlvii, 19 → Ps 147:8; Ps cxiii, 2 → Ps 112:2; Ps lxxxix, 2 → Ps 79:2; Job xliii, 2 → Job 42:2; Job xxxviii, 18 → Job 37:18; 'Deut. xxxii, 27' does not fit 'Manus Domini fecit hæc omnia' (Job 12:9 marked, noted). Prov 10:1 / 13:1 and Ex 25:20, 22 (words of Heb 9:5) reference-only with notes."
+  },
+  {
+   "id": "daniel-004-part2",
+   "book": "daniel",
+   "art": 4,
+   "chapter_guess": 3,
+   "pages": [
+    63,
+    71
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "part": 2,
+   "parts": 3,
+   "claimed": "2026-11-23T22:11:11Z",
+   "note": "Part 2 of 3 published (scheduled run, two workers split at the v. 77 lemma; vv. 64–88, starting after the Dan 12:3 words that end part 1, and ending with the sentence 'Et istud miraculum in Sanctis novi Testamenti … conscribitur', which straddles into daniel-004-part3.txt). Margin numbers corrected with notes: Ps cxlvii, 16/17 → Ps 147:5/6 and Ps cxlvii, 19, 20 → Ps 147:8–9 (Hebrew numbering); Job xxxvii, 35 → Job 38:35; Job xxxviii, 11–13 → Job 37:11–13; Ps lxxxvi, 3 → Ps 76:3 (reference only); Ps. i, 19 → Ps 50:19; 'Job xxxiv' (God on the beasts) → Job 39:1, 'Job xl, xli' → Job 40:20 (reference only). Denis reads 'æstas' for 'æstus' at v. 67 (noted). Augustine's 'decimo de Trinitate' for the Plotinus passage (City of God X, 14) noted. DR data slips: Rom 13:12 'is passed And', Is 12:3 'Thou shall draw'."
+  },
+  {
+   "id": "daniel-004-part3",
+   "book": "daniel",
+   "art": 4,
+   "chapter_guess": 3,
+   "pages": [
+    72,
+    79
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "part": 3,
+   "parts": 3,
+   "claimed": "2026-11-23T22:11:11Z",
+   "note": "Part 3 of 3 published (scheduled run, one worker; from 'Ex quo frivola declaratur instantia Hebræi' to the end: v. 50 again, vv. 89–100, and the question why Daniel is not named, tagged vv. 1, 12). Margin 'v. 94' at 'Tunc Nabuchodonosor rex obstupuit' read as v. 91; 'vers. 3' as a reference-only marker to 3:3. Denis says Deuteronomy for 'Dominum Deum tuum adorabis' (Matthew's wording): Deut 6:13 marked, noted. Variant readings noted: 'Deo solo' (3:95), 'A me ergo rege' (3:96), 'de omni angustia' (Ecclus 51:12); 'catena*' with margin variant 'caterva'. DR data slip: Tob 12:7 lacks 'but honourable'."
+  },
+  {
+   "id": "daniel-005-part1",
+   "book": "daniel",
+   "art": 5,
+   "chapter_guess": 4,
+   "pages": [
+    79,
+    86
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "part": 1,
+   "parts": 2,
+   "claimed": "2026-11-23T22:11:26Z",
+   "note": "Part 1 of 2 published (scheduled run, two workers split at the v. 17 lemma; Dan 4:1 to the Tobias quotation in v. 24, ending '…non patietur animam ire in tenebras'). The last lines of daniel-005-part1.txt, from the lemma '_Forsitan ignoscet Deus delictis tuis._' ('Quum per Ezechielem … omnium ini-'), are NOT translated: part 2 must start there and join them to the top of daniel-005-part2.txt. Pages given as pp. 69–83 for the whole article. Garbled line restored as 'cœpit intra se tacite cogitare, qualiter religio regio culmini servaret honorem' (v. 16); 'hostibus imprimis' kept, noted as perhaps 'imprimi'. Margin 'vers. 12' beside 'germen radicum ejus' marked 4:20 (same words), noted; margin '* pabulum' at v. 20 as a note. Is 29:14/1 Cor 1:19 and Matt 10:19/Luke 21:14 double notes: words quoted marked, the other reference-only. Ecclus 3:33 (old version), Luke 12:37, Luke 10:34, Wis 12:18, Apoc 12:14, Is 37:36 and the Apoc voices reference-only with notes. Ps 72:9 tagged without margin note (Denis cites it with 'itemque')."
+  },
+  {
+   "id": "daniel-005-part2",
+   "book": "daniel",
+   "art": 5,
+   "chapter_guess": 4,
+   "pages": [
+    87,
+    93
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "part": 2,
+   "parts": 2,
+   "claimed": "2026-11-23T22:13:00Z",
+   "note": "Start from the lemma '_Forsitan ignoscet Deus delictis tuis._' near the end of daniel-005-part1.txt (its last lines, 'Quum per Ezechielem … omnium ini-', continue at the top of this file); part 1 stops before it. | Part 2 published (scheduled run, one worker; from the v. 24 lemma 'Forsitan ignoscet' to the end). Margin 'v. 23' beside 'Omnia hæc … venerunt' is v. 25 (tagged so). Jer 18:7 and Wis 11:24 marked without margin notes (Denis names the source). Rom 11:33, Jon 3:4, Is 38:1, Gen 2:25, Dan 3:100, Dan 3:27 reference-only. Notes on Denis's readings: transiit (v. 28), sanasti (Tob 11:17), tenebris (1 Pet 1:14), regis (Prov 20:28), 'omnes viæ' (v. 34); Sedulius for 'Sallust'; Art. VI cross-reference. Latin slips fixed: pœnitexeret→pœniteret, rege.fuit, prophéticæ."
+  },
+  {
+   "id": "daniel-006",
+   "book": "daniel",
+   "art": 6,
+   "chapter_guess": 5,
+   "pages": [
+    93,
+    102
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:12:11Z",
+   "note": "End of the article (5:30-31, PDF p. 102 right column, 'Non habitabitur … dignus') had been cut into daniel-007.txt; moved back. Margin 'Jer. i, li' read as Jer. l, li; 'Dan. i, 2' beside the v. 7 cross-reference does not fit (Dan 2:2 used, with a note)."
+  },
+  {
+   "id": "daniel-007",
+   "book": "daniel",
+   "art": 7,
+   "chapter_guess": 6,
+   "pages": [
+    102,
+    111
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:13:30Z",
+   "note": "Published (scheduled run, two workers split at the v. 10 lemma). Gen 41:40 marked without margin note (named and word for word). Range notes given one marker each (Acts 2:4, Luke 22:12, Num 28:4, Dan 3:23); 'Exod. xx' as Ex 20:1 with a note; margin 'v. 14' there is Acts 1:14. Matt 17:19 / Luke 17:6: 'Tollere, et jacta te in mare' fits Matt 21:21 (note). Notes: 2 Esd 9:3 'quater in nocte' not in the Vulgate; Mark 14:40 'præ tristitia' is from Luke 22:45; Ecclus 27:30 adds 'illusio'; Prov 18:1 exsecrabilis. DR data slip: 1 John 5:4 'overcameth'."
+  },
+  {
+   "id": "daniel-008-part1",
+   "book": "daniel",
+   "art": 8,
+   "chapter_guess": 7,
+   "pages": [
+    111,
+    122
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "part": 1,
+   "parts": 2,
+   "claimed": "2026-11-23T22:20:08Z",
+   "note": "Part 1 of 2 published (scheduled run, two workers split at the v. 10 lemma; Dan 7:1 to the end of v. 23, '…munitiones comburendo', taking the first line of daniel-008-part2.txt to finish the sentence). Part 2 (published earlier) also began with 'Et conculcabit … comburendo': that duplicate paragraph was removed. Misread margins corrected with notes: 'Ps. lxxxix, 14' = Ps 79:14; 'Ps. xxxiv, 6' = Ps 33:6; 'Apoc. iv, 2, i' = Apoc 4:2, 4; 'I Cor. xv' = 1 Cor 15:24; 'Eccle. iii, 20' (Jerome's wording closer to Ecclus 40:11) reference-only. Is 10:23/Rom 9:28: Rom marked, Is reference-only. Deut 32:8 quoted after the Septuagint (noted). Apoc 19:20 loosely quoted (noted). Matt 19:27 words ('Vos qui reliquistis omnia') unmarked, no margin note (noted). Kept as printed with notes: 'ad labores ac verba' (perhaps verbera), Nahum 'faciem consummationem' (faciet). DR data slip: Is 8:8 'the breadth of thy, land'."
+  },
+  {
+   "id": "daniel-008-part2",
+   "book": "daniel",
+   "art": 8,
+   "chapter_guess": 7,
+   "pages": [
+    123,
+    124
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "part": 2,
+   "parts": 2,
+   "claimed": "2026-11-23T22:21:30Z",
+   "note": "Part 2 published (22:25 run, translated directly; Dan 7:23 'Et conculcabit' to the middle of the Apoc 12:10 quotation, 4 paragraphs). It starts at 'runt. Et conculcabit': the word 'nocue-runt' at the end of daniel-008-part1.txt belongs to part 1. Needs scan of PDF 124 (printed p. 114): the transcription of that page has only a few lines, so the end of the article (after 'et potestas Christi', Apoc 12:10, and Dan 7:28) is missing, marked […] with a note. Pages given as pp. 101–114 for the whole article. Matt 12:8 and John 14:6 reference-only (paraphrased); notes on Denis's readings 'sermones blasphemiæ' (v. 25), 'Data est bestiæ' (Apoc 13:7), 'ejus' (Apoc 14:11)."
+  },
+  {
+   "id": "daniel-009",
+   "book": "daniel",
+   "art": 9,
+   "chapter_guess": 8,
+   "pages": [
+    124,
+    133
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Re-cut (22:25 run): the old daniel-009 was not an article but the heading and first sentence of Art. X (ch. 9, running heads 'ART. X'); Art. IX (ch. 8; running heads PDF 124-133 'ENARRATIO IN CAP. VIII … ART. IX') had been left inside daniel-008-part2.txt with no heading. daniel-009.txt now holds Art. IX. Needs scan of PDF 124 (printed p. 114): its transcription has only a few lines, so the end of Art. VIII (after 'Nunc facta est salus et virtus, et regnum Dei nostri, et potestas Christi', Apoc 12:10; Dan 7:28) and the heading and start of Art. IX (Dan 8:1 to the middle of v. 2, up to '…regione, id est in regno Elamitarum') are lost. The rest of Art. IX (PDF 124-133) reads clean and can be translated once p. 124 is supplied."
+  },
+  {
+   "id": "daniel-010",
+   "book": "daniel",
+   "art": 10,
+   "chapter_guess": 9,
+   "pages": [
+    133,
+    146
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:22:05Z",
+   "note": "The article's first lines ('NUNC visio scribitur … In anno primo Darii filii Assueri', PDF p. 133 foot of left column under the heading) were cut into daniel-009.txt; they are included here. Margin 'Is. i, 10' read as Is 50:10; 'Oratio Manassæ' not in the DR text (reference to 2 Par 33:12, with a note); 'Matt. xvi, 4' is 16:3 in the DR text."
+  },
+  {
+   "id": "daniel-011",
+   "book": "daniel",
+   "art": 11,
+   "chapter_guess": 10,
+   "pages": [
+    146,
+    155
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:25:00Z",
+   "note": "Published (22:25 run, two workers split at the v. 10 lemma). Notes: Ezech 1:16 'quasi visio maris' said of the wheels, not the creatures; Ezech 18:21 'Quacumque hora ingemuerit peccator' is not in the Vulgate (reference-only, 18:22 marked); Denis's readings 'juxta principem Persarum' (v. 13) and 'visio in dies protelatur' (v. 14). Margin variants kept as printed: 'accidereve' (margin 'accidere'), 'lauta ciboria' (probably cibaria), '*sermonem' (v. 1). Augustine's reading of Luke 10:42 ('Unum est opus') left unmarked with a note."
+  },
+  {
+   "id": "daniel-012",
+   "book": "daniel",
+   "art": 12,
+   "chapter_guess": 11,
+   "pages": [
+    155,
+    168
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:25:32Z",
+   "note": "Published (scheduled run, two workers split at the v. 22 lemma). The article's last lines ('populos, et telam quam orditus est super universas nationes … Morere; et statim fulminabitur', PDF 168 right column) had been cut into daniel-013.txt (lines 27–45, before a repeated Art. XIII heading); they are now published at the end of Art. XII, so leave them out of Art. XIII (daniel-013 was claimed by another run when this was found). Margin 'Esther i, 1; 11, 18' taken as Esth 1:1 and 2:18 (reference only, noted); 'Dan. vi' as Dan 6:1; 'II Mach. ix, 7 et seq.' as 2 Mach 9:7 (noted: the pain is at 9:5). v. 10: Denis prints 'Et exaltabitur cornu ejus' as Scripture, not in the Vulgate of v. 10 (noted, unmarked). Variants noted: cornu for cor (v. 12), illum/illud (v. 17), coram eo (v. 26), impii testamentum simulabunt (v. 32), principes (v. 41), fortitudine with margin variant multitudine (v. 44). In Jerome's quotation in the introduction 'a capitulo duodecimo' kept as printed (perhaps decimo)."
+  },
+  {
+   "id": "daniel-013",
+   "book": "daniel",
+   "art": 13,
+   "chapter_guess": 12,
+   "pages": [
+    168,
+    175
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:26:14Z",
+   "note": "The transcription of PDF p. 168 put the end of Art. XII ('populos, et telam … Morere; et statim fulminabitur.') inside daniel-013.txt; left out of Art. XIII (Art. XII has it). Margin notes giving only a chapter (4 Kings xxv, 2 Par. xxxvi, Gen. vi, vii) given as verse 1 with a note; Ezech 4:6 tagged though not in the margin (Denis names Ezechiel). Douay-Rheims slip in data/bible/drc John 6:45: 'cometh forth me' for 'cometh to me'."
+  },
+  {
+   "id": "daniel-014",
+   "book": "daniel",
+   "art": 14,
+   "chapter_guess": 13,
+   "pages": [
+    175,
+    188
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:30:00Z",
+   "note": "Published (22:30 run, two workers split at the v. 22 lemma). Corrected 'filium suam' → 'filiam suam' (v. 3). Margin '1 Reg. xv' taken as 1 Kings 15:27–28; 'Ps. x, 5, sec. Hebr.' as Ps 9:26 (note). Bar 1:19, 22 and Cant 2:4 ('Vulnerata caritate ego sum') reference-only with notes; '2 Kings 24:14' (Coarctor undique nimis) marked without margin note (Denis names Kings). Margin variants '⟦virtute⟧' (v. 1) dropped, '* adfleverunt' (v. 33) as a note. Denis's readings noted: Ecclus 1:22, 23:37, 9:8, the v. 17 lemma, 'in manus hominum' (v. 23), no 'sanctum' (v. 45). DR data slip: Dan 13:6 'all that hand any matters of judgment' (should be 'had')."
+  },
+  {
+   "id": "daniel-015-part1",
+   "book": "daniel",
+   "art": 15,
+   "chapter_guess": 14,
+   "pages": [
+    188,
+    198
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "part": 1,
+   "parts": 2,
+   "claimed": "2026-11-23T22:30:03Z",
+   "note": "Whole article published from this file (scheduled run, two workers split at the v. 18 lemma; Dan 14:1–42 and Jerome on the 'loud voice', ending 'Amen.', PDF p. 195 = p. 185). The transcription-failure message after 'Amen.' is PDF 196, which follows the end of the article (probably a blank verso). Margin verse numbers run one ahead from v. 8 (tagged by the text). 'Et rex Astyages' marked Dan 13:65 (no margin note). Jer 10:15/51:18: 51:18 marked, 10:15 reference-only; Jer 40:7–12 range noted. Variant notes '*Porro Daniel', '*Contemnebant', 'corallinis' given as notes; 'dirutus' (Vulgate diruptus) kept. 14:41 lemma's Latin side is in the Vulgate wording (Denis interposes a gloss)."
+  },
+  {
+   "id": "daniel-015-part2",
+   "book": "daniel",
+   "art": 15,
+   "chapter_guess": 14,
+   "pages": [
+    199,
+    209
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "part": 2,
+   "parts": 2,
+   "claimed": "2026-11-23T22:30:20Z",
+   "note": "Not part of Art. XV (scheduled run, 23 Nov): Art. XV ends on PDF 195 and was published whole. This file (PDF 197–208) is the front matter of the Minor Prophets (title pages, the Cologne editor's dedicatory letter to Johann Rinck, …), and PDF 200 and 206 failed to transcribe. Dave: decide whether any of it should be translated; otherwise mark done."
+  },
+  {
+   "id": "hosea-001",
+   "book": "hosea",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    209,
+    211
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:31:25Z",
+   "note": "General preamble to the twelve Prophets, no verse tags. The first line has '[…]' after 'evangelicis' (probably nothing lost; kept as printed)."
+  },
+  {
+   "id": "hosea-002",
+   "book": "hosea",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    211,
+    216
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:32:54Z",
+   "note": "Margin '* novem' corrects Denis's 'viginti octo' (Ezechias' years) to 29: noted at 4 Kings 18:2."
+  },
+  {
+   "id": "hosea-003",
+   "book": "hosea",
+   "art": 3,
+   "chapter_guess": null,
+   "pages": [
+    216,
+    220
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:33:02Z",
+   "note": "Margin 'IV Reg. xxv, 24' does not fit (4 Kings 25:7 used, with a note); 'Ephes. v, 23' beside words of Col 1:18 (noted). DR text slip at Rom 9:26: 'it shalt be'."
+  },
+  {
+   "id": "hosea-004",
+   "book": "hosea",
+   "art": 4,
+   "chapter_guess": 1,
+   "pages": [
+    220,
+    222
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:35:16Z",
+   "note": "Transcription of PDF 220–221 had ae/oe for æ/œ: normalized; 'affixerunt' read as 'afflixerunt'. Matt 7:23 quoted with the closing words of Luke 13:27 (noted)."
+  },
+  {
+   "id": "hosea-005",
+   "book": "hosea",
+   "art": 5,
+   "chapter_guess": 2,
+   "pages": [
+    222,
+    227
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:36:35Z",
+   "note": "Published (scheduled run, one worker). Misread margins corrected with notes: 'Is. ux, 2' = Is 59:2; 'Ibid. i, 1' = Is 50:1; 'Ps. i, 5' = Ps 50:5; 'Ps. cxlvii, 20' = Ps 147:9. Loose quotations of Ezech 16:4–13 and the Jeremias patchwork (Jer 23:39, 40; 24:9; 25:18, 8) partly marked, partly reference-only, with notes. Is 19:25 as Denis words it differs from the DR (noted). v. 8 'ornaverunt idoli quod dicitur Baal' kept as printed (noted). Stray margin 'v. 3' inside the Eph 3:5–6 quotation ignored."
+  },
+  {
+   "id": "hosea-006",
+   "book": "hosea",
+   "art": 6,
+   "chapter_guess": 2,
+   "pages": [
+    227,
+    235
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:37:23Z",
+   "note": "Published (scheduled run, two workers split at the v. 16 lemma; Osee 2:10–24). Needs scan of PDF 230 (printed p. 220): the transcription of that page stops in the left column at 'nati ex Judæa et Isra' and has no right column, so the rest of the v. 15 exposition (valley of Achor, 'canet ibi …') is missing, marked […] with an article note. Misread margins corrected with notes: 'Ps. lxxxix, 15' = Ps 79:15; 'Ps. xxxvi, 14' = Ps 26:14; 'Is. iii, 15' = Is 52:15. Ranges given reference-only with notes: Ex 32:7–14, Acts 2–4, Gen 34:2–3, Num 28–29. Is 64:4/1 Cor 2:9 and Matt 9:22/Luke 18:42: the wording Denis follows marked, the other reference-only. Mal 1:6 ('timet' for 'honoureth') and Jer 5:3 (fidem/truth) noted. Variant '*conjugem' as a note. DR data slip: Rom 13:12 'is passed And the day'."
+  },
+  {
+   "id": "hosea-007",
+   "book": "hosea",
+   "art": 7,
+   "chapter_guess": 2,
+   "pages": [
+    235,
+    240
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:38:06Z",
+   "note": "The last lines of the article (PDF 240 right column top, 'satio in cœlis est … patet ex præcedenti articulo.') were cut into hosea-008.txt; translated here. Margin numerals corrected (noted): Ps cxv,12→Ps 115:3; Zach ix,7→9:17; Gal v,7→5:17; Ps cxii,33→Ps 103:33. Margin '1 Cor. xii, 1' does not fit: given as reference-only 1 Cor 12:31 with a note (check)."
+  },
+  {
+   "id": "hosea-008",
+   "book": "hosea",
+   "art": 8,
+   "chapter_guess": 3,
+   "pages": [
+    240,
+    243
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:39:30Z",
+   "note": "Published (22:40 run, one worker). Title completed from the mid-page heading ('[…]XIT DOMINUS AD ME : ADHUC VADE.'). The end of Art. VII that stood in hosea-008.txt (lines 37–44) was left out (note on hosea-007). Margin '⟦3⟧' before 'Et ipsi filii Israel respectant' is v. 1; 'Jer. xxxiii, 5' is Jer 23:5 (note); Ezech 34:24 per the margin, Denis closer to Ezech 37:25 (note); 'Exod. xii, xix, etc.' as reference-only Ex 12:1, 19:1 (note); Dan 9:26 marked, 9:27 reference-only. Denis's readings kept: 'respectant', 'Non fornicaberis cum alienis'."
+  },
+  {
+   "id": "hosea-009",
+   "book": "hosea",
+   "art": 9,
+   "chapter_guess": 4,
+   "pages": [
+    243,
+    250
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:39:13Z",
+   "note": "Published with gaps marked […]: on v. 1 (PDF 243, 'Et non […] est misericordia ad proximos […] […] […]', a few words at the foot of a column), on v. 2 ('Et […] est: Benedicite', one word), and between PDF 244 and 245 (after '…sanguinem sanguini miscuerunt.' the text resumes mid-sentence 'mendacia: Nos, inquiunt…': at least a line lost). Re-transcribe PDF 243–245 and fill in. DR text slip at Prov 3:3: 'mercy aud truth'."
+  },
+  {
+   "id": "hosea-010",
+   "book": "hosea",
+   "art": 10,
+   "chapter_guess": 4,
+   "pages": [
+    250,
+    253
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:39:13Z",
+   "note": "End of the article (PDF p. 253 right column, 'det, In consilio justorum … duces cæcorum') had been cut into hosea-011.txt; moved back."
+  },
+  {
+   "id": "hosea-011",
+   "book": "hosea",
+   "art": 11,
+   "chapter_guess": 5,
+   "pages": [
+    253,
+    257
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:41:36Z",
+   "note": "Published (22:41 run, one worker). Margin 'Ibid. xxiv, 7' (4 Kings 24:7) where Denis names 2 Paralipomenon: reference-only with a note. Whole-chapter margins (Jer. xlii–xliv, xlvi; Ezech. xvii, xxix–xxxii; Jos. xiii–xxi; IV Reg. xvii) given as v. 1 with notes. 'Ibid. 4-6' split into 4 Kings 17:4, 5, 6. Printed footnote '*alias sanare*' at v. 13 kept in t and explained. 'Cor. xi, 31' taken as 1 Cor 11:31. DR slip noticed: Jer 28:9 'whom the hath sent' (missing 'Lord')."
+  },
+  {
+   "id": "hosea-012",
+   "book": "hosea",
+   "art": 12,
+   "chapter_guess": 5,
+   "pages": [
+    257,
+    260
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:41:36Z",
+   "note": "Published (22:41 run, one worker). Margin notes beside v. 3 sit one line out of place; matched in order (Ps 38:7, Ecclus 10:10 ref-only, Is 47:10, Ecclus 19:21, Ecclus 23:28). Margin Luke 11:52 but words closer to Matt 23:13 (note). Job 5:19 tagged without margin (Denis names Job; variant 'non videbis malum', note)."
+  },
+  {
+   "id": "hosea-013",
+   "book": "hosea",
+   "art": 13,
+   "chapter_guess": 6,
+   "pages": [
+    260,
+    265
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:41:36Z",
+   "note": "Published (22:41 run, one worker). End of the article (6:9–11, from 'secundum Bedam, quæ modo Neapolis…' to '…fine mundi') had been cut into hosea-014.txt (after the Art. XIV heading); moved back into hosea-013.txt. Margin 'Ps. lxxxvi, 3' taken as Ps 76:3 (note); 'Ezech. xlii–xlvii' as Ezech 42:1 ref-only (note); 'Cf. Jer. ii, 12' ref-only. DR slips noticed: Rom 13:12 'passed And the day' (capital A), Matt 11:21 'Woe thee, Corozain' (missing 'to')."
+  },
+  {
+   "id": "hosea-014",
+   "book": "hosea",
+   "art": 14,
+   "chapter_guess": 6,
+   "pages": [
+    265,
+    267
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:43:40Z",
+   "note": "Published (22:44 run, one worker). The end of the article (from '…subdito-/rum bona consumunt' to '…exposita est præcedenti articulo') had been cut into hosea-015.txt (between 'ARTICULUS XV' and its title); moved back into hosea-014.txt. 'Salus populi ego sum…' is the Introit of the 19th Sunday after Pentecost, not a verse: margin 'Cf. Is. xliii; Ps. xxxvi, 39' as reference-only markers with a note. Matt 15:8, Apoc 3:20, Gal 6:2 reference-only (allusions)."
+  },
+  {
+   "id": "hosea-015",
+   "book": "hosea",
+   "art": 15,
+   "chapter_guess": 6,
+   "pages": [
+    267,
+    273
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:44:27Z",
+   "note": "Published (scheduled run, one worker), with the end of the article (7:15–16, PDF 273 right column) that another run had moved back from hosea-016.txt. Chapter-only margins (III Reg. xx, Exod. xiv, IV Reg. iii/vii/xiii) given as verse 1 reference-only markers; III Reg. xiii placed at 3 Kings 13:18 (noted). Quotations Denis names without a margin note marked (Is 2:17, Is 26:16, Job 34:27, Job 21:14, Jer 5:3, 5:11–12, 5:21, Dan 9:26, Luke 19:43–44, John 9:24, Luke 23:2, John 19:15): unconfirmed by the margin. Wording differences noted at Ezech 17:20, Ezech 30:24, Jer 5:21; erudivi (7:15) and ruminabant (7:14) explained."
+  },
+  {
+   "id": "hosea-016",
+   "book": "hosea",
+   "art": 16,
+   "chapter_guess": 6,
+   "pages": [
+    273,
+    276
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "note": "Re-cut (22:47 run): the text before 'DE Israel et Ephraim ac Samaria possumus loqui dupliciter' was the end of Art. XV and has been moved to hosea-015.txt; Art. XVI starts at 'DE Israel'. | Published (scheduled run, one worker). Margin 'Ps. lxxviii, 6' = Ps 68:6 (noted). Job 5:13 'astutos' for 'sapientes' noted. Phil 2:12, Luke 13:5 reference-only. Ps 118:168 and Ps 18:15 tagged without margin notes (Denis introduces them). 'insidias diabolo' (Eph 6:11) kept as printed.",
+   "claimed": "2026-11-23T22:45:42Z"
+  },
+  {
+   "id": "hosea-017",
+   "book": "hosea",
+   "art": 17,
+   "chapter_guess": 8,
+   "pages": [
+    276,
+    280
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:46:40Z",
+   "note": "Published (22:47 run, one worker). Margin '⟦40⟧' read as v. 10; 'Ibid. 9, 10' as 1 Kings 10:9–10, 'Sap. xiii, xiv' as Wis 13:1, 'IV Reg. xxv' as 4 Kings 25:1 (reference-only); 2 Cor 6:15–16 paraphrased (reference-only); 'Cf.' note 4 Kings 18:13, 2 Par 26:15, 32:5 reference-only with a note. Denis's readings noted: 'o Domine Deus' (v. 2), 'in eis' (v. 7), 'partes' (3 Kings 11:31), 'in gutture' (Ps 149:6); 8:6 marked as one clause with a note."
+  },
+  {
+   "id": "hosea-018",
+   "book": "hosea",
+   "art": 18,
+   "chapter_guess": 8,
+   "pages": [
+    280,
+    282
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:47:02Z"
+  },
+  {
+   "id": "hosea-019",
+   "book": "hosea",
+   "art": 19,
+   "chapter_guess": 9,
+   "pages": [
+    282,
+    288
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:48:01Z",
+   "note": "Margin variant readings noted in the English (v. 7 tribulationis/retributionis, v. 8, v. 13, v. 15); v. 9 has an asterisk with no margin note in the transcription (dropped). Margin 'Ps. cxiii, 5, 8 sec. Hebr.' given as Ps 113:13, 16 (Vulgate). 'in principium' read as 'in principio' (v. 10)."
+  },
+  {
+   "id": "hosea-020",
+   "book": "hosea",
+   "art": 20,
+   "chapter_guess": 9,
+   "pages": [
+    288,
+    292
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:52:27Z",
+   "note": "Published (22:41 run, one worker). 'ca[…]ros' at the page break read as 'caros'. Notes where Denis's reading differs (Osee 9:4, 9:7, 1 John 2:19, 1 Pet 1:14, 1 Cor 14:29). Osee 9:13 lemma lacks 'ut vidi'. 1 Cor 14:29, 31 tagged without margin note (Denis names the Apostle)."
+  },
+  {
+   "id": "hosea-021",
+   "book": "hosea",
+   "art": 21,
+   "chapter_guess": 10,
+   "pages": [
+    292,
+    299
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:52:27Z",
+   "note": "Published (22:41 run, one worker). Lemma 10:5 read 'vaccas' (note). Margin ranges given as reference-only on first verses (2 Par 29:1, Judg 6:25/27). Tagged without margin note, Denis naming the source: Tob 3:22, Prov 1:26, Jer 2:13, Judg 8:18–19. Denis's 'Gabaonitis' for the men of Gabaa kept with a note."
+  },
+  {
+   "id": "hosea-022",
+   "book": "hosea",
+   "art": 22,
+   "chapter_guess": 10,
+   "pages": [
+    299,
+    302
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:52:27Z",
+   "note": "Published (22:41 run, one worker). Article number missing on the transcribed heading (XXII from the sequence). Margin 'Eccle. iv, 10' is Eccles 9:10; 'Jer. xxiii, 15' — first words are Jer 9:15 (both noted). Ecclus 24:11 Denis reads 'colla … sublimium' (reference-only with note). Tagged without margin: 1 Esd 9:6, Ecclus 34:1, Ps 126:1. DR slip noticed: Osee 10:8 'say to the mountains Cover us' (colon missing)."
+  },
+  {
+   "id": "hosea-023",
+   "book": "hosea",
+   "art": 23,
+   "chapter_guess": 10,
+   "pages": [
+    302,
+    308
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T22:58:10Z",
+   "note": "v. 12 printed 'in negotiatione' and 'cum sanctis fidelibus' (Vulgate negatione, fidelis): kept with notes. Deut 7:6 tagged without a margin note (also Deut 14:2). Is 48:9 reference-only (Denis far from the Douay). Douay-Rheims slip in data/bible/drc Ex 5:21: stray comma 'because you have, made our savour'."
+  },
+  {
+   "id": "hosea-024",
+   "book": "hosea",
+   "art": 24,
+   "chapter_guess": 11,
+   "pages": [
+    308,
+    311
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:01:23Z",
+   "note": "Published (22:41 run, one worker). End of the article (Rom 16:17 line, 'rursusque : Observetis eos … declinate ab eis') had been transcribed inside hosea-025.txt; moved back. Margin 'Ps. lxxxix, 6' is Ps 79:6; 'John vi, 53' fits 6:56; bare margin '13' beside 'Videte ne quis vos decipiat' (Col 2:8) fits nothing (note). 'Rex Israel' (Palm Sunday) is John 12:13, margin Matt 21:9 (both marked). Is 66:15 quoted 'juxta LXX' (reference-only, note). Printed footnote 'alias negatione' at 11:12 kept in t."
+  },
+  {
+   "id": "hosea-025",
+   "book": "hosea",
+   "art": 25,
+   "chapter_guess": 12,
+   "pages": [
+    311,
+    316
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:01:23Z",
+   "note": "Published (22:41 run, one worker). A stray line of Art. XXIV removed from the start of this file. Quotations in the v. 7 paragraph have no margin notes; tagged as named by Denis (Dan 13:56, Is 1:10, Ezech 16:3, Lev 19:35–36, Ps 61:10, Prov 31:24) and Col 3:5 in the v. 8 paragraph. Ezech 'xviii, 13; xxxiii, 4' quotation marked on 33:4. DR slips noticed: Apoc 22:12 'to every, man'; Jon 2:1 'Jonah' for 'Jonas'."
+  },
+  {
+   "id": "hosea-026",
+   "book": "hosea",
+   "art": 26,
+   "chapter_guess": 12,
+   "pages": [
+    316,
+    319
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:01:23Z",
+   "note": "Published (22:41 run, one worker). End of the article (12:14, 'consistet. Uniuscujusque … solenniter impleatur') had been transcribed after the Art. XXVII heading (PDF p. 319, right column above the heading); moved back from hosea-027.txt. Between 'in ipsum retorquebi-' (left column, end) and 'consistet' (right column, top) some words seem lost: shown as […] — check PDF p. 319 (printed p. 309). Margin 'Ps. cxi, 5' is Ps 140:5 (note); Deut 18:15 quoted in the wording of Acts 3:22 (note)."
+  },
+  {
+   "id": "hosea-027",
+   "book": "hosea",
+   "art": 27,
+   "chapter_guess": 13,
+   "pages": [
+    319,
+    324
+   ],
+   "status": "done",
+   "source": "transcribed"
+  },
+  {
+   "id": "hosea-028",
+   "book": "hosea",
+   "art": 28,
+   "chapter_guess": 13,
+   "pages": [
+    324,
+    326
+   ],
+   "status": "done",
+   "source": "transcribed"
+  },
+  {
+   "id": "hosea-029",
+   "book": "hosea",
+   "art": 29,
+   "chapter_guess": 14,
+   "pages": [
+    326,
+    337
+   ],
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Not translated (22:41 run): the transcription of PDF pp. 334 and 336 failed (the transcriber reports no image), so most of the moral exposition of ch. 14 and part of Denis's preface to Joel (after the 'ENARRATIO IN JOELEM PROPHETAM' heading, PDF 335–336) are missing. hosea-029.txt also holds that Joel preface, which belongs before joel-001. Re-transcribe PDF 334 and 336 first."
+  },
+  {
+   "id": "joel-001",
+   "book": "joel",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    337,
+    344
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:13:18Z",
+   "note": "Published (22:41 run, one worker). Margin 'Ps. lxxxii, 26' is Ps 72:26 (note). Chapter-only and range margins given as first verse (1 Mach 1:1, Num 18:1, 4 Kings 17:1/25:1, Esth 8:1/9:1). Tagged without margin, Denis naming the source: Is 5:7, Ps 37:6, 48:13, Job 38:41, Ps 103:27, 144:15. Printed footnote '* alias perierunt' (v. 16) given as a note. Denis's preface to Joel (PDF 335–336) is in hosea-029.txt and not yet translated (see hosea-029)."
+  },
+  {
+   "id": "joel-002",
+   "book": "joel",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    344,
+    348
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:23:13Z"
+  },
+  {
+   "id": "joel-003",
+   "book": "joel",
+   "art": 3,
+   "chapter_guess": 2,
+   "pages": [
+    348,
+    357
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:23:13Z"
+  },
+  {
+   "id": "joel-004",
+   "book": "joel",
+   "art": 4,
+   "chapter_guess": 1,
+   "pages": [
+    357,
+    362
+   ],
+   "status": "done",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:26:33Z",
+   "note": "Published (23:26 run, one worker). Text lost in the transcription, marked […]: v. 18 ('Zelatus est zelo magni […] ecclesiæ') and v. 20 (rest of Rom 16:20 after 'Deus conteret', reference-only marker with note). Duplicated transcription line ('rabilisque dies ista consistet. Veniet enim', Dan 12:1) dropped. Tagged without margin: Ps 84:2, Acts 4:32, Cant 1:1, 1 Pet 2:2, Matt 11:25, 1 Cor 7:5, 7:29, Ps 31:9, 1 Cor 2:6, 2 Cor 1:5, Jas 5:9 (margin Jac. v, 8), Dan 10:14 (end of Dan 10:12 quotation). Rare word 'fractilantium' (v. 13) explained in a note."
+  },
+  {
+   "id": "joel-005-part1",
+   "book": "joel",
+   "art": 5,
+   "chapter_guess": 3,
+   "pages": [
+    362,
+    369
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "part": 1,
+   "parts": 2,
+   "claimed": "2026-11-23T23:33:49Z"
+  },
+  {
+   "id": "joel-005-part2",
+   "book": "joel",
+   "art": 5,
+   "chapter_guess": 3,
+   "pages": [
+    370,
+    377
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "part": 2,
+   "parts": 2,
+   "claimed": "2026-11-23T23:33:49Z"
+  },
+  {
+   "id": "amos-001",
+   "book": "amos",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    377,
+    383
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:37:36Z"
+  },
+  {
+   "id": "amos-002",
+   "book": "amos",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    383,
+    385
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:37:36Z"
+  },
+  {
+   "id": "amos-003",
+   "book": "amos",
+   "art": 3,
+   "chapter_guess": 2,
+   "pages": [
+    385,
+    388
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:42:03Z"
+  },
+  {
+   "id": "amos-004",
+   "book": "amos",
+   "art": 4,
+   "chapter_guess": 3,
+   "pages": [
+    388,
+    391
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:42:03Z"
+  },
+  {
+   "id": "amos-005",
+   "book": "amos",
+   "art": 5,
+   "chapter_guess": 3,
+   "pages": [
+    391,
+    396
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-006",
+   "book": "amos",
+   "art": 6,
+   "chapter_guess": 4,
+   "pages": [
+    396,
+    398
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-007",
+   "book": "amos",
+   "art": 7,
+   "chapter_guess": 4,
+   "pages": [
+    398,
+    402
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-008",
+   "book": "amos",
+   "art": 8,
+   "chapter_guess": 4,
+   "pages": [
+    402,
+    404
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-009",
+   "book": "amos",
+   "art": 9,
+   "chapter_guess": 5,
+   "pages": [
+    405,
+    412
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-010",
+   "book": "amos",
+   "art": 10,
+   "chapter_guess": 5,
+   "pages": [
+    412,
+    415
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-011",
+   "book": "amos",
+   "art": 11,
+   "chapter_guess": 5,
+   "pages": [
+    415,
+    418
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-012",
+   "book": "amos",
+   "art": 12,
+   "chapter_guess": 5,
+   "pages": [
+    418,
+    421
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-013",
+   "book": "amos",
+   "art": 13,
+   "chapter_guess": 5,
+   "pages": [
+    421,
+    426
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-014",
+   "book": "amos",
+   "art": 14,
+   "chapter_guess": 5,
+   "pages": [
+    426,
+    429
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "amos-015",
+   "book": "amos",
+   "art": 15,
+   "chapter_guess": 9,
+   "pages": [
+    429,
+    439
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "obadiah-001",
+   "book": "obadiah",
+   "art": 1,
+   "chapter_guess": null,
+   "pages": [
+    441,
+    448
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "obadiah-002",
+   "book": "obadiah",
+   "art": 2,
+   "chapter_guess": null,
+   "pages": [
+    448,
+    454
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "jonah-001",
+   "book": "jonah",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    459,
+    464
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "jonah-002",
+   "book": "jonah",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    464,
+    466
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "jonah-003",
+   "book": "jonah",
+   "art": 3,
+   "chapter_guess": 2,
+   "pages": [
+    466,
+    469
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "jonah-004",
+   "book": "jonah",
+   "art": 4,
+   "chapter_guess": 3,
+   "pages": [
+    469,
+    473
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "jonah-005",
+   "book": "jonah",
+   "art": 5,
+   "chapter_guess": 4,
+   "pages": [
+    473,
+    479
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-001",
+   "book": "micah",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    479,
+    484
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-002",
+   "book": "micah",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    484,
+    488
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-003",
+   "book": "micah",
+   "art": 3,
+   "chapter_guess": 2,
+   "pages": [
+    488,
+    493
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-004",
+   "book": "micah",
+   "art": 4,
+   "chapter_guess": 3,
+   "pages": [
+    493,
+    497
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-005",
+   "book": "micah",
+   "art": 5,
+   "chapter_guess": 4,
+   "pages": [
+    497,
+    502
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-006",
+   "book": "micah",
+   "art": 6,
+   "chapter_guess": 4,
+   "pages": [
+    502,
+    504
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-006-2",
+   "book": "micah",
+   "art": 6,
+   "chapter_guess": 5,
+   "pages": [
+    504,
+    510
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-007",
+   "book": "micah",
+   "art": 7,
+   "chapter_guess": 6,
+   "pages": [
+    510,
+    514
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-008",
+   "book": "micah",
+   "art": 8,
+   "chapter_guess": 6,
+   "pages": [
+    514,
+    516
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-009",
+   "book": "micah",
+   "art": 9,
+   "chapter_guess": 7,
+   "pages": [
+    516,
+    516
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "micah-010",
+   "book": "micah",
+   "art": 10,
+   "chapter_guess": 7,
+   "pages": [
+    516,
+    527
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "nahum-001",
+   "book": "nahum",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    527,
+    531
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "nahum-002",
+   "book": "nahum",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    531,
+    534
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "nahum-003",
+   "book": "nahum",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    534,
+    539
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "nahum-004",
+   "book": "nahum",
+   "art": 4,
+   "chapter_guess": 3,
+   "pages": [
+    539,
+    547
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "habakkuk-001",
+   "book": "habakkuk",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    547,
+    551
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "habakkuk-002",
+   "book": "habakkuk",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    551,
+    554
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "habakkuk-003",
+   "book": "habakkuk",
+   "art": 3,
+   "chapter_guess": 2,
+   "pages": [
+    554,
+    559
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "habakkuk-004",
+   "book": "habakkuk",
+   "art": 4,
+   "chapter_guess": 2,
+   "pages": [
+    559,
+    565
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "habakkuk-005",
+   "book": "habakkuk",
+   "art": 5,
+   "chapter_guess": 3,
+   "pages": [
+    565,
+    571
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "habakkuk-006",
+   "book": "habakkuk",
+   "art": 6,
+   "chapter_guess": 3,
+   "pages": [
+    571,
+    574
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "habakkuk-007",
+   "book": "habakkuk",
+   "art": 7,
+   "chapter_guess": 3,
+   "pages": [
+    574,
+    581
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zephaniah-001",
+   "book": "zephaniah",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    583,
+    587
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zephaniah-002",
+   "book": "zephaniah",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    587,
+    592
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zephaniah-003",
+   "book": "zephaniah",
+   "art": 3,
+   "chapter_guess": 2,
+   "pages": [
+    592,
+    596
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zephaniah-004",
+   "book": "zephaniah",
+   "art": 4,
+   "chapter_guess": 2,
+   "pages": [
+    596,
+    599
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zephaniah-005",
+   "book": "zephaniah",
+   "art": 5,
+   "chapter_guess": 3,
+   "pages": [
+    599,
+    611
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "haggai-001",
+   "book": "haggai",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    611,
+    613
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "haggai-002",
+   "book": "haggai",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    613,
+    616
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "haggai-003",
+   "book": "haggai",
+   "art": 3,
+   "chapter_guess": 1,
+   "pages": [
+    616,
+    622
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "haggai-004",
+   "book": "haggai",
+   "art": 4,
+   "chapter_guess": null,
+   "pages": [
+    622,
+    627
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-001",
+   "book": "zechariah",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    627,
+    633
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-002",
+   "book": "zechariah",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    633,
+    636
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-003",
+   "book": "zechariah",
+   "art": 3,
+   "chapter_guess": 2,
+   "pages": [
+    636,
+    640
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-004",
+   "book": "zechariah",
+   "art": 4,
+   "chapter_guess": 3,
+   "pages": [
+    640,
+    644
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-005",
+   "book": "zechariah",
+   "art": 5,
+   "chapter_guess": 4,
+   "pages": [
+    644,
+    647
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-006",
+   "book": "zechariah",
+   "art": 6,
+   "chapter_guess": 4,
+   "pages": [
+    647,
+    648
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-007",
+   "book": "zechariah",
+   "art": 7,
+   "chapter_guess": 5,
+   "pages": [
+    648,
+    651
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-008",
+   "book": "zechariah",
+   "art": 8,
+   "chapter_guess": 6,
+   "pages": [
+    651,
+    656
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-009",
+   "book": "zechariah",
+   "art": 9,
+   "chapter_guess": 7,
+   "pages": [
+    656,
+    659
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-010",
+   "book": "zechariah",
+   "art": 10,
+   "chapter_guess": 7,
+   "pages": [
+    659,
+    663
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-011",
+   "book": "zechariah",
+   "art": 11,
+   "chapter_guess": 8,
+   "pages": [
+    663,
+    666
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-012",
+   "book": "zechariah",
+   "art": 12,
+   "chapter_guess": 9,
+   "pages": [
+    666,
+    672
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-013",
+   "book": "zechariah",
+   "art": 13,
+   "chapter_guess": 10,
+   "pages": [
+    672,
+    676
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-014",
+   "book": "zechariah",
+   "art": 14,
+   "chapter_guess": 10,
+   "pages": [
+    676,
+    678
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-015",
+   "book": "zechariah",
+   "art": 15,
+   "chapter_guess": 11,
+   "pages": [
+    678,
+    683
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-016",
+   "book": "zechariah",
+   "art": 16,
+   "chapter_guess": 12,
+   "pages": [
+    683,
+    686
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-017",
+   "book": "zechariah",
+   "art": 17,
+   "chapter_guess": 12,
+   "pages": [
+    686,
+    688
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-018",
+   "book": "zechariah",
+   "art": 18,
+   "chapter_guess": 13,
+   "pages": [
+    688,
+    692
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "zechariah-019",
+   "book": "zechariah",
+   "art": 19,
+   "chapter_guess": 14,
+   "pages": [
+    692,
+    701
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "malachi-001",
+   "book": "malachi",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    701,
+    708
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "malachi-003",
+   "book": "malachi",
+   "art": 3,
+   "chapter_guess": 2,
+   "pages": [
+    708,
+    712
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "malachi-004",
+   "book": "malachi",
+   "art": 4,
+   "chapter_guess": 2,
+   "pages": [
+    712,
+    714
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "malachi-005",
+   "book": "malachi",
+   "art": 5,
+   "chapter_guess": 3,
+   "pages": [
+    714,
+    719
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "malachi-006",
+   "book": "malachi",
+   "art": 6,
+   "chapter_guess": 4,
+   "pages": [
+    719,
+    721
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  },
+  {
+   "id": "malachi-007",
+   "book": "malachi",
+   "art": 7,
+   "chapter_guess": 4,
+   "pages": [
+    721,
+    726
+   ],
+   "status": "todo",
+   "source": "transcribed"
+  }
+ ]
 }
