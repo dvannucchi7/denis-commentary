@@ -725,9 +725,10 @@
     337,
     344
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:13:18Z"
+   "claimed": "2026-11-23T23:13:18Z",
+   "note": "Published (22:41 run, one worker). Margin 'Ps. lxxxii, 26' is Ps 72:26 (note). Chapter-only and range margins given as first verse (1 Mach 1:1, Num 18:1, 4 Kings 17:1/25:1, Esth 8:1/9:1). Tagged without margin, Denis naming the source: Is 5:7, Ps 37:6, 48:13, Job 38:41, Ps 103:27, 144:15. Printed footnote '* alias perierunt' (v. 16) given as a note. Denis's preface to Joel (PDF 335–336) is in hosea-029.txt and not yet translated (see hosea-029)."
   },
   {
    "id": "joel-002",
