@@ -644,9 +644,10 @@
     308,
     311
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:01:23Z"
+   "claimed": "2026-11-23T23:01:23Z",
+   "note": "Published (22:41 run, one worker). End of the article (Rom 16:17 line, 'rursusque : Observetis eos … declinate ab eis') had been transcribed inside hosea-025.txt; moved back. Margin 'Ps. lxxxix, 6' is Ps 79:6; 'John vi, 53' fits 6:56; bare margin '13' beside 'Videte ne quis vos decipiat' (Col 2:8) fits nothing (note). 'Rex Israel' (Palm Sunday) is John 12:13, margin Matt 21:9 (both marked). Is 66:15 quoted 'juxta LXX' (reference-only, note). Printed footnote 'alias negatione' at 11:12 kept in t."
   },
   {
    "id": "hosea-025",
@@ -657,9 +658,10 @@
     311,
     316
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:01:23Z"
+   "claimed": "2026-11-23T23:01:23Z",
+   "note": "Published (22:41 run, one worker). A stray line of Art. XXIV removed from the start of this file. Quotations in the v. 7 paragraph have no margin notes; tagged as named by Denis (Dan 13:56, Is 1:10, Ezech 16:3, Lev 19:35–36, Ps 61:10, Prov 31:24) and Col 3:5 in the v. 8 paragraph. Ezech 'xviii, 13; xxxiii, 4' quotation marked on 33:4. DR slips noticed: Apoc 22:12 'to every, man'; Jon 2:1 'Jonah' for 'Jonas'."
   },
   {
    "id": "hosea-026",
@@ -670,9 +672,10 @@
     316,
     319
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:01:23Z"
+   "claimed": "2026-11-23T23:01:23Z",
+   "note": "Published (22:41 run, one worker). End of the article (12:14, 'consistet. Uniuscujusque … solenniter impleatur') had been transcribed after the Art. XXVII heading (PDF p. 319, right column above the heading); moved back from hosea-027.txt. Between 'in ipsum retorquebi-' (left column, end) and 'consistet' (right column, top) some words seem lost: shown as […] — check PDF p. 319 (printed p. 309). Margin 'Ps. cxi, 5' is Ps 140:5 (note); Deut 18:15 quoted in the wording of Acts 3:22 (note)."
   },
   {
    "id": "hosea-027",
