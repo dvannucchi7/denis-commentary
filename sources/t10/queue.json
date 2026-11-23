@@ -712,8 +712,9 @@
     326,
     337
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Not translated (22:41 run): the transcription of PDF pp. 334 and 336 failed (the transcriber reports no image), so most of the moral exposition of ch. 14 and part of Denis's preface to Joel (after the 'ENARRATIO IN JOELEM PROPHETAM' heading, PDF 335–336) are missing. hosea-029.txt also holds that Joel preface, which belongs before joel-001. Re-transcribe PDF 334 and 336 first."
   },
   {
    "id": "joel-001",
@@ -724,8 +725,9 @@
     337,
     344
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-23T23:13:18Z"
   },
   {
    "id": "joel-002",
