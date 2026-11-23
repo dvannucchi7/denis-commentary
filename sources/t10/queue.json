@@ -875,9 +875,10 @@
     396,
     398
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:47:48Z"
+   "claimed": "2026-11-23T23:47:48Z",
+   "note": "Published (23:26 run, one worker). Denis passes over vv. 4–8. Notes on Denis's variants: 1 Cor 14:38 'ignorabit', Jas 5:3 'in die judicii', Prov 18:19 'frater adjuvans fratrem'. Ecclus 13:20 taken from margin 'Ibid. xiii, / 20.' set a little below. Douay-Rheims data slip: Mark 16:16 'shall he condemned' (for 'be')."
   },
   {
    "id": "amos-007",
@@ -888,9 +889,10 @@
     398,
     402
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:47:48Z"
+   "claimed": "2026-11-23T23:47:48Z",
+   "note": "Published (23:26 run, one worker). A stray fragment 'dor sitis.' at the start of the v. 7 line (PDF c. 400) was dropped: possibly text lost or misplaced there, check the scan. Margin 'Ps. cxiii, 8, sec. Hebr.' given as Ps 113:16, 'Ps. i, 8' as Ps 50:8 (notes). Is 3:9 tagged without margin (Denis names Isaias). 'Induaverunt' corrected to 'Induraverunt' (Jer 5:3). Douay-Rheims data slip: Amos 4:7 'rain upon on city' (for 'one city')."
   },
   {
    "id": "amos-008",
