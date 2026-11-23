@@ -130,12 +130,12 @@
     87,
     93
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 2,
    "parts": 2,
    "claimed": "2026-11-23T22:13:00Z",
-   "note": "Start from the lemma '_Forsitan ignoscet Deus delictis tuis._' near the end of daniel-005-part1.txt (its last lines, 'Quum per Ezechielem … omnium ini-', continue at the top of this file); part 1 stops before it."
+   "note": "Start from the lemma '_Forsitan ignoscet Deus delictis tuis._' near the end of daniel-005-part1.txt (its last lines, 'Quum per Ezechielem … omnium ini-', continue at the top of this file); part 1 stops before it. | Part 2 published (scheduled run, one worker; from the v. 24 lemma 'Forsitan ignoscet' to the end). Margin 'v. 23' beside 'Omnia hæc … venerunt' is v. 25 (tagged so). Jer 18:7 and Wis 11:24 marked without margin notes (Denis names the source). Rom 11:33, Jon 3:4, Is 38:1, Gen 2:25, Dan 3:100, Dan 3:27 reference-only. Notes on Denis's readings: transiit (v. 28), sanasti (Tob 11:17), tenebris (1 Pet 1:14), regis (Prov 20:28), 'omnes viæ' (v. 34); Sedulius for 'Sallust'; Art. VI cross-reference. Latin slips fixed: pœnitexeret→pœniteret, rege.fuit, prophéticæ."
   },
   {
    "id": "daniel-006",
@@ -159,9 +159,10 @@
     102,
     111
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T22:13:30Z"
+   "claimed": "2026-11-23T22:13:30Z",
+   "note": "Published (scheduled run, two workers split at the v. 10 lemma). Gen 41:40 marked without margin note (named and word for word). Range notes given one marker each (Acts 2:4, Luke 22:12, Num 28:4, Dan 3:23); 'Exod. xx' as Ex 20:1 with a note; margin 'v. 14' there is Acts 1:14. Matt 17:19 / Luke 17:6: 'Tollere, et jacta te in mare' fits Matt 21:21 (note). Notes: 2 Esd 9:3 'quater in nocte' not in the Vulgate; Mark 14:40 'præ tristitia' is from Luke 22:45; Ecclus 27:30 adds 'illusio'; Prov 18:1 exsecrabilis. DR data slip: 1 John 5:4 'overcameth'."
   },
   {
    "id": "daniel-008-part1",
