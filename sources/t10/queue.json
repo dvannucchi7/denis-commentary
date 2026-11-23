@@ -176,11 +176,12 @@
     111,
     122
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "part": 1,
    "parts": 2,
-   "claimed": "2026-11-23T22:20:08Z"
+   "claimed": "2026-11-23T22:20:08Z",
+   "note": "Part 1 of 2 published (scheduled run, two workers split at the v. 10 lemma; Dan 7:1 to the end of v. 23, '…munitiones comburendo', taking the first line of daniel-008-part2.txt to finish the sentence). Part 2 (published earlier) also began with 'Et conculcabit … comburendo': that duplicate paragraph was removed. Misread margins corrected with notes: 'Ps. lxxxix, 14' = Ps 79:14; 'Ps. xxxiv, 6' = Ps 33:6; 'Apoc. iv, 2, i' = Apoc 4:2, 4; 'I Cor. xv' = 1 Cor 15:24; 'Eccle. iii, 20' (Jerome's wording closer to Ecclus 40:11) reference-only. Is 10:23/Rom 9:28: Rom marked, Is reference-only. Deut 32:8 quoted after the Septuagint (noted). Apoc 19:20 loosely quoted (noted). Matt 19:27 words ('Vos qui reliquistis omnia') unmarked, no margin note (noted). Kept as printed with notes: 'ad labores ac verba' (perhaps verbera), Nahum 'faciem consummationem' (faciet). DR data slip: Is 8:8 'the breadth of thy, land'."
   },
   {
    "id": "daniel-008-part2",
