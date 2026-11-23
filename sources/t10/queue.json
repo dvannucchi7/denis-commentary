@@ -172,10 +172,11 @@
     111,
     122
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
    "part": 1,
-   "parts": 2
+   "parts": 2,
+   "claimed": "2026-11-23T22:20:08Z"
   },
   {
    "id": "daniel-008-part2",
