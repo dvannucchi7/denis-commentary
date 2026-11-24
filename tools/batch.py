@@ -109,6 +109,12 @@ def _page_images(pdf, p):
     rows = (g < 128).sum(axis=1); ys = np.where(rows > w * .003)[0]
     if len(ys) == 0: return []
     top, bottom = max(0, ys[0] - 10), min(h, ys[-1] + 10)
+    # faint last lines (light print) fall under the darkness threshold: take in any text-like rows of lighter
+    # ink below, inside the page and short of its bottom edge (found 24 Nov: a column's last lines were lost)
+    x0, x1 = int(w * .08), int(w * .92)
+    faint = (g[:, x0:x1] < 175).sum(axis=1)
+    below = np.where((faint[bottom:int(h * .96)] > w * .02) & (faint[bottom:int(h * .96)] < w * .6))[0]
+    if len(below): bottom = min(h, bottom + int(below[-1]) + 12)
     ink = (g[int(h * .08):int(h * .95)] < 128).sum(axis=0).astype(float)
     lo, hi = int(w * .40), int(w * .60); k = max(3, w // 200)
     gx = lo + int(np.argmin(np.convolve(ink, np.ones(k) / k, mode="same")[lo:hi]))

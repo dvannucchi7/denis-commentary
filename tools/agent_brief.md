@@ -22,6 +22,8 @@ This brief holds every rule you need (it condenses `CLAUDE.md` and `TRANSLATING.
   `?`/`!` for `t`). Drop gutter letters A–D, stray `)` `(` `|`, page numbers, running heads, and digits that
   are misread margin verse numbers (`— 45`). Keep Denis's own Latin, spelling and punctuation (æ, œ, j, quum,
   his variant readings of Scripture): do not normalize or rewrite it. When unsure, keep what is printed.
+- Type each paragraph's Latin yourself as you go; never build it with a script (going through it word by
+  word is how the lemmata and quotations get noticed: tested 24 Nov).
 - Never put the article heading (ARTICULUS …, its title) in a paragraph. Where a word is lost, write `[…]`
   in both `t` and `en` and say so in your final message; never invent missing text.
 - **Transcribed volumes** (t13, t6, t7, t10, t1: the Latin was transcribed from page images, not OCR'd):

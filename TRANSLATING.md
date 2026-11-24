@@ -7,6 +7,18 @@ the procedure.
 
 ## Steps
 
+0. **What to read, and the shortcuts** (Dave, 24 Nov 2026: tested on five articles with no loss of quality).
+   A run reads this file (skipping the parts marked in italics when their condition holds) and
+   `tools/agent_brief.md`, which states every translation rule. `CLAUDE.md` is already in a run's context
+   when the repository is registered: do not read it again; open it only to change the interface or the
+   data format. Use these tools for the routine steps instead of doing them by hand:
+   `python3 tools/queue.py next` prints the first claimable item in the order below (or `none`);
+   `python3 tools/queue.py claim <vol> <id>` claims it in one go (sets it in progress, commits, pulls, pushes;
+   prints `claimed`, or `taken` if another run got it first: then run `next` again);
+   `python3 tools/queue.py done <vol> <id> ["note"]` marks it done before the publish commit. They keep the
+   queue files' layout. `python3 tools/check_app.py <book> <chapter>` checks the chapter in the app headless
+   (articles in order, focus view from a verse tag and from a verse, Latin view, page errors) and ends
+   `RESULT: ok` or names the problem: that is the whole app check of step 7.
 1. **Pick the work, and keep going.** Note the time when the run starts (`date -u`). Work through the
    queues in order: first the re-tags in `sources/retag.json` (see "Re-tagging published articles"
    below), then the re-checks in `sources/t11/recheck.json` (see "Re-checking a published
@@ -102,15 +114,22 @@ the procedure.
    running over two verses gets one marker per verse. In a Gospel, a quotation from the chapter being
    treated is `C:V`; from another Gospel it is `Matt`/`Mark`/`Luke`/`John C:V` (shown red); from the Old
    Testament, blue.
-6. **Write the article** as a work file (`work/<id>.json`, format at the top of `tools/add_article.py`)
-   and merge it: `python3 tools/add_article.py work/<id>.json`. It first expands the shorthand markers
+6. **Write the article** as a work file, `work/<id>.json`, in this format (no need to look it up elsewhere):
+   `{"book": "genesis", "chapter": 6, "work": "…", "source": "…", "num": "XXXIV", "title": "<Latin title as
+   printed>", "title_en": "…", "pages": "pp. 158–162", "note": "(optional)", "paras": [{"v": [14, 15],
+   "t": "Latin…", "en": "English…"}, …]}`; copy "work" and "source" from the top of
+   `data/commentary/<book>.json`. **Type each paragraph's Latin (`t`) yourself as you go, from the
+   transcription; never build it with a script.** Going through the Latin word by word is how the lemmata
+   and quotations get noticed (tested 24 Nov: runs that built the Latin by script marked fewer of them).
+   Then merge it: `python3 tools/add_article.py work/<id>.json`. It first expands the shorthand markers
    (if it stops on an anchor, fix that marker and run it again); it also switches the book on in the app.
 7. **Check.** `python3 tools/check_quotes.py` must report 0 problems. Fix any quotation that does not
-   match the Douay-Rheims. Run `python3 tools/check_tags.py <book> <chapter> <art>` and, for every
+   match the Douay-Rheims. Run `python3 tools/check_tags.py <book> <chapter> <art>` (add `--brief` when you wrote the
+   paragraphs yourself and have them in front of you) and, for every
    paragraph it flags, keep a tagged verse only if the paragraph plainly discusses it; otherwise narrow the
    tag (or use `"verses"`, or drop the tag).
    Run `python3 tools/recheck.py <vol> <id>` and deal with every `obvious`, `lemma?`, `untagged` and
-   `differs` line (step 5); re-run until only deliberate leftovers remain. Then serve the app (`python3 -m http.server`) and confirm the chapter opens and the article shows.
+   `differs` line (step 5); re-run until only deliberate leftovers remain. Then run `python3 tools/check_app.py <book> <chapter>`: it must end `RESULT: ok`.
 8. **Publish.** Set the item's status to `"done"` in the queue (add `"note"` if something needs Dave's
    attention, e.g. unreadable text), delete the work file, commit with a message naming the article
    (e.g. "Add Matthew 5, Art. IX"), then `git pull --rebase origin main` (someone else may have pushed

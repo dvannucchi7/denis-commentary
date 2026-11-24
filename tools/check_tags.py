@@ -48,9 +48,9 @@ def show(book, ch, art, all_paras):
         f = flagged(p, ch); q, c = evidence(p, ch)
         if not (all_paras or f): continue
         head = f"  para {i + 1}: tag {label(tagged(p))}; quotes {label(q) if q else '-'}; cites {label(c) if c else '-'}"
-        if f:     # needs a judgment: shown in full
+        if f:     # needs a judgment: shown in full (--brief: the start only, for paragraphs you wrote yourself)
             out.append(head + f"\n    NOT QUOTED OR CITED: {label(f)} (confirm each is discussed, or drop it)"
-                       + "\n    " + p.get("en", "")[:2000].replace("\n", " "))
+                       + "\n    " + p.get("en", "")[:(300 if BRIEF else 2000)].replace("\n", " ") + (" …" if BRIEF else ""))
         else:     # every tagged verse is quoted or cited: nothing to decide, one line
             out.append(head)
     if out: print(f"== {book} {ch}, Art. {art['num']}\n" + "\n".join(out))
@@ -73,5 +73,6 @@ def main(a):
             if len(a) > 2 and art["num"] != a[2]: continue
             show(book, ch, art, len(a) > 2)
 
+BRIEF = "--brief" in sys.argv
 if __name__ == "__main__":
-    main(sys.argv[1:])
+    main([x for x in sys.argv[1:] if x != "--brief"])

@@ -138,6 +138,12 @@ catch-up `python3 tools/margins.py read <vol> <pdf> <first> <last>`:
   indexes after. OCR'd into `sources/t12/pages/` (all with the heading split); queue
   `sources/t12/queue.json`; pre-cut articles in `sources/t12/articles/`. Done after t. XI.
 
+**Gaps before queueing (Dave, 24 Nov 2026).** After a volume is transcribed by the API, and before it is cut
+into articles, run `python3 tools/gap_pages.py <vol> <outdir>` and have a worker fill the `[…]` gaps from the
+column images (the tool's docstring gives the steps). A stronger model reads most of what the transcriber
+gave up on, and filling gaps first means no article is translated twice. The column images now take in
+faint last lines too (`tools/batch.py`, fixed 24 Nov).
+
 Translation runs follow `TRANSLATING.md` (procedure) with `tools/verses.py` (Douay-Rheims + Vulgate
 lookup; Vulgate text is in `sources/vulgate/`, not shown in the app), `tools/find_quotes.py` (finds
 runs of words in an article that match the Vulgate; no longer used for references, which come from the
@@ -215,5 +221,6 @@ separately, by `tools/margins.py`.
 ## Before committing
 
 1. `python3 tools/check_quotes.py`: 0 problems.
-2. Open the app (`python3 -m http.server`) and check the changed chapters: chapter text, articles in
-   order, focus view from a verse tag and from a verse, English/Latin switch.
+2. Check the changed chapters: `python3 tools/check_app.py <book> <chapter>` (headless: articles in order,
+   focus view from a verse tag and from a verse, English/Latin switch, page errors) must end `RESULT: ok`.
+   For interface changes, also open the app (`python3 -m http.server`) and look.
