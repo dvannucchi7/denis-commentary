@@ -864,9 +864,9 @@
     408,
     411
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:23:42Z"
+   "note": "Published; words lost in the transcription at 24:64 ('atque per contempla[…]ionem deseruit', PDF 411 right column top). Its end had been in genesis-068.txt (re-cut, commit e3a2270). The printed lemma of 24:21 reads 'Illa autem contemplabatur eum' (Vulgate 'Ipse … eam'; noted)."
   },
   {
    "id": "genesis-068",
@@ -877,9 +877,9 @@
     411,
     418
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:23:42Z"
+   "note": "Published; a word lost in the transcription in the first sentence ('describuntur novæ […] nuptiæ', PDF 411). Unreadable margin notes beside Augustine (twice), 'de uxore Levitæ' (given Judg 19:1, a guess), 'sanctus Job' (Job 1:1) and 'sagenæ' (Matt 13:47): check against the scan. Its end ('venantur ad mortem … rectitudini æquitatis') had been in genesis-069.txt (re-cut, commit a9b4902)."
   },
   {
    "id": "genesis-069",
