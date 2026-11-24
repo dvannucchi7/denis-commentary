@@ -1050,9 +1050,9 @@
     464,
     466
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T00:11:40Z"
+   "note": "Prov 6:9: Denis's second question (Usquequo dormitabis?) is not in the Vulgate; noted in the text."
   },
   {
    "id": "jonah-003",
@@ -1063,9 +1063,9 @@
     466,
     469
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T00:11:40Z"
+   "note": "Text lost at the column break on PDF 466 (p. 456): the left column ends 'ad præfigurandum tri-' and the right begins with v. 2; probably only a word or line ('…duanam sepulturam'?), marked tri[…]. Check the scan. End of the article (PDF 469 right column, 'in lacu inferiori … ut Salomon ait') had been cut into jonah-004.txt; moved back into jonah-003.txt. Read 'serræ' (v. 7) as seræ."
   },
   {
    "id": "jonah-004",
