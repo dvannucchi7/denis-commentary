@@ -1232,8 +1232,9 @@
     527,
     531
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:36:00Z"
   },
   {
    "id": "nahum-002",
@@ -1244,8 +1245,9 @@
     531,
     534
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:36:00Z"
   },
   {
    "id": "nahum-003",
