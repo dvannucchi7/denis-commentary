@@ -1255,8 +1255,9 @@
     527,
     531
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T10:21:55Z"
   },
   {
    "id": "genesis-098",
@@ -1267,8 +1268,9 @@
     532,
     537
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T10:21:55Z"
   },
   {
    "id": "genesis-099",
