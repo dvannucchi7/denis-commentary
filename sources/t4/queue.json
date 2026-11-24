@@ -55,12 +55,13 @@
     308,
     317
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "part": 1,
    "parts": 2,
    "order": 3,
-   "claimed": "2026-11-24T19:53:07Z"
+   "claimed": "2026-11-24T19:53:07Z",
+   "note": "vv. 1-7, by two workers. The half sentence 'In justis vero perambulat Deus,' that runs on into part 2 was moved to the top of sources/t4/articles/job-004-part2.txt. Quotation from the Prayer of Manasses ('Peccavi super numerum arenae maris', cited by Denis as 2 Paralipomenon) left without a marker: not in the app's Douay-Rheims. Readings chosen: 'patriae' for printed 'patris'; 'Basil ... Deus inclusit' kept as printed (perhaps 'indulsit')."
   },
   {
    "id": "job-004-part2",
