@@ -1,0 +1,34 @@
+[
+{
+"page": 91,
+"side": "L",
+"y": 2724,
+"raw": "T. 8.",
+"beside": "IN LIBR",
+"ctx": "ENA IN LIBR"
+},
+{
+"page": 91,
+"side": "R",
+"y": 350,
+"raw": "|",
+"beside": "UM TOBI.E",
+"ctx": "RRATIO UM TOBI.E"
+},
+{
+"page": 91,
+"side": "R",
+"y": 434,
+"raw": "|",
+"beside": "UM TOBI.E",
+"ctx": "RRATIO UM TOBI.E"
+},
+{
+"page": 91,
+"side": "R",
+"y": 2728,
+"raw": "^",
+"beside": "UM TOBI.E",
+"ctx": "RRATIO UM TOBI.E"
+}
+]
