@@ -1364,9 +1364,10 @@
     574,
     581
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:53:00Z"
+   "claimed": "2026-11-24T03:53:00Z",
+   "note": "Septuagint lemmata (Good Friday Tract) left unmarked with notes giving the Douay-Rheims wording. Margin Cant 4:9 'Caritate vulneratus sum' is not Vulgate wording (reference-only). Many quotations tagged without a margin note (Luke 23:48, Gal 4:4, 1 John 5:20, 2 Cor 6:2, Bar 3:38, John 17:4, 17:6, Ps 67:22, John 7:38, Ps 45:5, Is 57:20, Wis 5:6, Prov 18:10, Ps 70:3, Prov 27:23). DR data has a stray 'a' at Is 53:1 ('Who a hath believed')."
   },
   {
    "id": "zephaniah-001",
@@ -1377,9 +1378,10 @@
     583,
     587
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:53:00Z"
+   "claimed": "2026-11-24T03:53:00Z",
+   "note": "End of the article ('non æstimavi, sed ad moralitatem pergendum … litteralior reputatur', PDF 587 right column) was in zephaniah-002.txt and was moved back. Margin Ps. lxxxii, 11 read as Ps 72:11 (note in text)."
   },
   {
    "id": "zephaniah-002",
