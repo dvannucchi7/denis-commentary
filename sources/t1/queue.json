@@ -1767,9 +1767,9 @@
     716,
     725
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:41:53Z"
+   "note": "the end of the article (6 lines, PDF 725 right column top) re-cut from exodus-033.txt; margin '1 Reg. xv, 30' beside 'Accedite huc coram Domino' does not fit (given as 1 Kings 10:19 with a note) and 'Ps. xxxviii, 6' taken as Ps 33:6; two half-unread margin notes taken as Wis 16:20 and Jos 5:12"
   },
   {
    "id": "exodus-033",
@@ -1780,9 +1780,9 @@
     725,
     728
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:41:53Z"
+   "note": "two unread margin notes taken as Ecclus 15:3 and Ps 102:5 (noted in the text)"
   },
   {
    "id": "exodus-034",
