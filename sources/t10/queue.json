@@ -1024,8 +1024,9 @@
     448,
     454
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T00:10:09Z"
   },
   {
    "id": "jonah-001",
@@ -1036,8 +1037,9 @@
     459,
     464
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T00:10:09Z"
   },
   {
    "id": "jonah-002",
