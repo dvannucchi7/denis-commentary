@@ -999,9 +999,9 @@
     429,
     439
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T00:01:41Z"
+   "note": "PDF 438 (p. 428) not transcribed (the transcription file holds a refusal message instead of text), so the end of Art. XV is missing; PDF 440 likewise. Needs a fresh transcription of PDF 438 (and 440 for Abdias). The end of Art. XIV that had been cut into amos-015.txt was moved back."
   },
   {
    "id": "obadiah-001",
