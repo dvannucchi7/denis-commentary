@@ -760,9 +760,9 @@
     373,
     381
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:59:51Z"
+   "note": "Published as Genesis 19, Art. LIX (pp. 267–275, PDF 373–381; scheduled run, two workers, split at 19:18). Its end ('ex uno viro, unaque femina … Ammonitarum usque hodie', PDF 381 right column top) had been cut into genesis-060.txt; moved back. Words lost in the transcription, kept as […]: PDF 375 ('clauserunt […] ostium' 19:10, and the Greek word for blindness, evidently aorasia, 19:11), PDF 379 (19:21–22 lemmata; 'a sulfureo illo igne […]tione … ve[…]citer … infernl […]'), PDF 380 ('appare[…]'). Unreadable margin notes supplied: Jer 44:22, Is 15:5, Lam 4:6, 2 Pet 2:8 (noted)."
   },
   {
    "id": "genesis-060",
@@ -773,9 +773,9 @@
     381,
     383
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:59:51Z"
+   "note": "Published as Genesis 19, Art. LX (pp. 275–277, PDF 381–383; scheduled run, one worker). Its end ('urbibus, habere in se cives … esse præsumunt', PDF 383 right column top) had been cut into genesis-061.txt; moved back. One word lost at the opening ('edocemur, ut […] exemplo Lot'). Margin numerals unread for Is 3:9, John 8:44 (quoted) and Prov (Prov 2:14 given as reference-only), noted."
   },
   {
    "id": "genesis-061",
