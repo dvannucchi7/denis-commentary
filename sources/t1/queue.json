@@ -1419,9 +1419,10 @@
     608,
     610
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:53:43Z"
+   "claimed": "2026-11-24T10:53:43Z",
+   "note": "published; words lost in the transcription: one word after 'æternaliterque' (PDF 609) and about two words at the start of the 3:18 lemma ('[…] trium dierum', probably 'Ibimus viam', PDF 610); margin note beside the 3:1 lemma unreadable"
   },
   {
    "id": "exodus-007",
@@ -1432,9 +1433,10 @@
     610,
     619
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:53:43Z"
+   "claimed": "2026-11-24T10:53:43Z",
+   "note": "published; words lost in the transcription: in the passage on Moses's ass at 4:20 ('…corporis Isaac, […] meruerunt…', ending 'asinum […]') and after 'in monte Sinai ;' at 4:27 (PDF 619); two margin notes unreadable (given as Ex 7:20/14:16 and Jer 31:9)"
   },
   {
    "id": "exodus-008",
@@ -1445,9 +1447,10 @@
     619,
     621
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:53:43Z"
+   "claimed": "2026-11-24T10:53:43Z",
+   "note": "margin note 'Marc. […]' (numbers lost) given as Mark 14:50; margin 'Act. v, 32' given as Acts 10:42, whose words Denis quotes"
   },
   {
    "id": "exodus-009",
