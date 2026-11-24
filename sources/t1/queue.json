@@ -415,9 +415,9 @@
     253,
     259
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T06:26:13Z"
+   "note": "Published as Genesis 6, Art. XXXII (pp. 147–153, PDF 253–259; scheduled run, translated by the run). Its end ('sic prævidere … cladis designat', PDF 259 right column) had been cut into genesis-033.txt; moved back. Opening lemma is Gen 5:31 (untagged paragraph). Small gaps in the transcription kept as […]: lemma of 6:4 ('[…]que filiæ gestarunt', Vulgate 'illæque genuerunt'), 'Nam et Prophe[…] quando […] aliquid contemplabantur … ut Origenes disserunt' (PDF 257), '[…]ste gigantes' at the top of PDF 258 right column. Both margin notes beside Ezechiel and Isaias unreadable: Ezech 2:1 tagged, Is 21:3 reference-only (Denis's 'Corrui quum viderem' is loose), with notes. Duplicated line at the Num/Deut/1 Par notes removed."
   },
   {
    "id": "genesis-033",
