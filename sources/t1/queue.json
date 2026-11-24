@@ -1,1851 +1,1852 @@
 {
- "volume": "t1",
- "items": [
-  {
-   "id": "genesis-001",
-   "book": "genesis",
-   "art": 1,
-   "chapter_guess": null,
-   "pages": [
-    111,
-    113
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-002",
-   "book": "genesis",
-   "art": 2,
-   "chapter_guess": null,
-   "pages": [
-    113,
-    114
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "the end of this article (from 'quem et S. Bernardus vocat linguam Ecclesiæ' to 'sine derogatione gloriosi Hieronymi dico', PDF 114 right column) was transcribed after the heading of Art. III; moved back here"
-  },
-  {
-   "id": "genesis-003",
-   "book": "genesis",
-   "art": 3,
-   "chapter_guess": 1,
-   "pages": [
-    114,
-    119
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "'codicibus' (PDF 115) supplied from Jerome's prologue; margin note beside 'Ex Ægypto vocavi Filium meum' unreadable (tagged Osee 11:1); one word lost after 'quod sit unum' (kept as […])"
-  },
-  {
-   "id": "genesis-004",
-   "book": "genesis",
-   "art": 4,
-   "chapter_guess": 1,
-   "pages": [
-    119,
-    119
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T05:31:18Z",
-   "note": "Published as Genesis 1, Art. IV (p. 13, PDF 119; scheduled run, one worker with Art. V). A general article: no verse tags. Its second half ('de Deo ut creatore … in Deuteronomio', PDF 119 right column) had been cut into genesis-005.txt; moved back. Margin chapter notes Exod. xx, Lev. xiv, Num. xvi as reference-only (Ex 20:1, Lev 14:1, Num 16:1). Denis says nine Hagiographa but names eight (noted: Jerome's ninth is Daniel)."
-  },
-  {
-   "id": "genesis-005",
-   "book": "genesis",
-   "art": 5,
-   "chapter_guess": 1,
-   "pages": [
-    119,
-    123
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T05:31:18Z",
-   "note": "Published as Genesis 1, Art. V (pp. 13–17, PDF 119–123; scheduled run, one worker; its last sentences, 'quod per cœlum … infra tangetur', translated by the run). 'condita sunt ab eo Deo ipse solus adorandus' kept as printed (perhaps 'ideo'). Margin 'Gen. ii, 5' for a quotation starting at 2:4 (both marked, noted). Col 1:18 / 1:15 for Origen's principium/primogenitus; 2 Cor 4:4 reference-only. Margin 'Petrus Lombardus' given as a note."
-  },
-  {
-   "id": "genesis-006",
-   "book": "genesis",
-   "art": 6,
-   "chapter_guess": 1,
-   "pages": [
-    123,
-    126
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "the end of Art. V ('quod per cœlum intelligit naturam angelicam … et infra tangetur', PDF 123 right column) had been cut into this article's text; moved back to genesis-005.txt"
-  },
-  {
-   "id": "genesis-007",
-   "book": "genesis",
-   "art": 7,
-   "chapter_guess": 1,
-   "pages": [
-    127,
-    128
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-008",
-   "book": "genesis",
-   "art": 8,
-   "chapter_guess": 1,
-   "pages": [
-    128,
-    132
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "one word unreadable in the transcription (the Hebrew word Jerome gives for 'ferebatur', v. 2, PDF 130): kept as […]"
-  },
-  {
-   "id": "genesis-009",
-   "book": "genesis",
-   "art": 9,
-   "chapter_guess": 1,
-   "pages": [
-    132,
-    136
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-010",
-   "book": "genesis",
-   "art": 10,
-   "chapter_guess": 1,
-   "pages": [
-    136,
-    141
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T05:38:06Z",
-   "note": "Published as Genesis 1, Art. X (pp. 30–35, PDF 136–141; scheduled run, one worker). Its end ('Judæum Judæorum doctorem … in historiis tangit', PDF 141 right column) had been cut into genesis-011.txt; moved back. Ezech 46:15 reference-only (loose paraphrase); Ps 148:5 marked without a margin note (Denis's quotation runs on); Jas 4:14 marked without a margin note (word for word). Editors' footnote on 'trufatica' (falsa, Du Cange) given as a note. The paragraphs on why v. 8 lacks 'God saw that it was good' are tagged v. 8."
-  },
-  {
-   "id": "genesis-011",
-   "book": "genesis",
-   "art": 11,
-   "chapter_guess": 1,
-   "pages": [
-    141,
-    146
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Margin notes on lines 74 and 82 unreadable: Eccles 1:7 (Denis says 'Ecclesiastici') and John 6:1 supplied. Words lost in the v. 11–12 lemma ('Et […] ita', '[…] secundum speciem suam') and a line after 'pro ma-' (PDF 142?) shown as […]: check against the scan."
-  },
-  {
-   "id": "genesis-012",
-   "book": "genesis",
-   "art": 12,
-   "chapter_guess": 1,
-   "pages": [
-    146,
-    150
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Latin 'penes actus immutationem' read as 'aeris immutationem' (sense; cf. St Thomas); 'præludatur' kept with a note (read præcludatur)."
-  },
-  {
-   "id": "genesis-013",
-   "book": "genesis",
-   "art": 13,
-   "chapter_guess": 1,
-   "pages": [
-    150,
-    154
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T05:43:46Z",
-   "note": "Published as Genesis 1, Art. XIII (pp. 44–48, PDF 150–154; scheduled run, one worker). Its end (Albert, De coæquævis: 'Aer et aqua simul ornati sunt … Dionysius protestatur', PDF 154 right column) had been cut into genesis-014.txt; moved back. Margin gives Is 64:4 and 1 Cor 2:9 for 'Oculus non vidit': Is 64:4 marked (Denis's wording), 1 Cor 2:9 reference-only. Lyra's 'Producat terra herbam virentem' marked Gen 1:11 with a note (Vulgate 'Germinet'). 'Judæi inciderunt errores' kept as printed (an 'in' may be missing)."
-  },
-  {
-   "id": "genesis-014",
-   "book": "genesis",
-   "art": 14,
-   "chapter_guess": 1,
-   "pages": [
-    154,
-    162
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "the end of this article ('Deus in operibus suis … juxta expositionem præhabitam', PDF 162 right column) had been cut into Art. XV; moved back. One word lost in Damascene's quotation ('perterrens, et […] nos ad cognitionem', PDF 156); margin notes unreadable beside 'sunt genera. Nam quædam ex exhalationibus' (PDF 155) and beside 'Lætabitur Deus in operibus suis' (tagged Ps 103:31)"
-  },
-  {
-   "id": "genesis-015",
-   "book": "genesis",
-   "art": 15,
-   "chapter_guess": 1,
-   "pages": [
-    162,
-    166
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "the end of this article ('audis tunc omnia facta esse simul … excæcati sint tenebris', PDF 166 right column) had been cut into Art. XVI; moved back. Text lost after 'quæstione 74.' (PDF 163) and after 'per nomina rerum' (PDF 165); margin notes unreadable beside 'Omnes vos filii lucis' (tagged 1 Thess 5:5) and 'Istæ sunt generationes' (tagged Gen 2:4–5); the print's 'sol quinto die factus' and 'quarta die data est aquæ virtus' look like slips (noted in the English)"
-  },
-  {
-   "id": "genesis-016",
-   "book": "genesis",
-   "art": 16,
-   "chapter_guess": 1,
-   "pages": [
-    166,
-    169
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T05:47:06Z",
-   "note": "Published as Genesis 1, Art. XVI (pp. 60–63, PDF 166–169; scheduled run, one worker). Its end ('omnibus divitiis gloriantur … quasi in terra repentes', PDF 169 right column) had been cut into genesis-017.txt; moved back. An unreadable Isaias margin note beside 'Erit dies ex die' (not in Isaias): reference-only Is 66:23, the nearest verse, with a note; check the scan. Denis's 'Vidit Deus quod esset bonum' said of the second day marked 1:10 with a note. Luke 1:53, Prov 9:1 marked without margin notes. DR data slip: Rom 13:12 'The night is passed And the day…' (capital A)."
-  },
-  {
-   "id": "genesis-017",
-   "book": "genesis",
-   "art": 17,
-   "chapter_guess": 1,
-   "pages": [
-    169,
-    172
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Opening quotation tagged Rom 11:34 (Denis's words), margin gives Is. xl, 13: note added."
-  },
-  {
-   "id": "genesis-018",
-   "book": "genesis",
-   "art": 18,
-   "chapter_guess": 2,
-   "pages": [
-    172,
-    175
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "End of article ('quæ vere in Deo … productionis earum', PDF 175 right column) moved back from genesis-019.txt; 're- / quæ vere in Deo' read as 'requiescere in Deo'. Unreadable margin note by 'Nihil novum sub sole' taken as Eccles 1:10."
-  },
-  {
-   "id": "genesis-019",
-   "book": "genesis",
-   "art": 19,
-   "chapter_guess": 2,
-   "pages": [
-    175,
-    184
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "the end of this article ('per deserta Indiæ … diversi leguntur', PDF 184 right column) had been cut into Art. XX, and the end of Art. XVIII ('quæ vere in Deo … productionis earum', PDF 175) into this one; both moved. Margin Gen. x, 22 for Hevila does not fit (given as Gen 10:29, noted)"
-  },
-  {
-   "id": "genesis-020",
-   "book": "genesis",
-   "art": 20,
-   "chapter_guess": 2,
-   "pages": [
-    184,
-    188
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "words lost after 'tulit Dominus' (2:21, probably 'unam de costis ejus', PDF 187): kept as […]; margin Josue xv, 15 corrected to Jos 14:15 (noted)"
-  },
-  {
-   "id": "genesis-021",
-   "book": "genesis",
-   "art": 21,
-   "chapter_guess": 2,
-   "pages": [
-    189,
-    192
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Both Ecclesiasticus margin notes unreadable: Ecclus 15:14–15 and 17:1, 5, 6, 10, 11 supplied, with notes. 'judicem quoque futuro' read as 'judicium quoque futurum'."
-  },
-  {
-   "id": "genesis-022",
-   "book": "genesis",
-   "art": 22,
-   "chapter_guess": 2,
-   "pages": [
-    192,
-    197
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Printed 'prævenatur' read 'præveniatur', 'lætetur' read 'fatetur'."
-  },
-  {
-   "id": "genesis-023",
-   "book": "genesis",
-   "art": 23,
-   "chapter_guess": 3,
-   "pages": [
-    197,
-    202
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "the end of this article ('invideret eis quod regerent semetipsos … contra eum inducta sunt', PDF 202 right column) had been cut into Art. XXIV; moved back. PDF 199: text missing after 'In gestis quoque Alexandri habetur quod' (the margin itself notes a lacuna) and a broken word 'el[…]tur' (probably eloquitur); kept as […]. In the Scholastic History quotation 'Deus volens vos … assimilari' the sense seems to need nolens (noted, Latin unchanged)"
-  },
-  {
-   "id": "genesis-024",
-   "book": "genesis",
-   "art": 24,
-   "chapter_guess": 3,
-   "pages": [
-    202,
-    210
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Unreadable margin notes: Rom 5:14 ('ut testatur Apostolus') and 3 Kings 11:4 (Solomon's idols) supplied as reference-only markers, with notes."
-  },
-  {
-   "id": "genesis-025",
-   "book": "genesis",
-   "art": 25,
-   "chapter_guess": 3,
-   "pages": [
-    210,
-    215
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Margin '* herbam' beside 'herbas' (3:18) is a variant reading, given as a note."
-  },
-  {
-   "id": "genesis-026",
-   "book": "genesis",
-   "art": 26,
-   "chapter_guess": 3,
-   "pages": [
-    215,
-    219
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Unclear phrase 'derelinquantur a Deo de suis præsumptionibus' (3:21) translated with a note."
-  },
-  {
-   "id": "genesis-027",
-   "book": "genesis",
-   "art": 27,
-   "chapter_guess": 3,
-   "pages": [
-    219,
-    227
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published, but text is lost in the transcription on PDF 224: after 'mox transgressio facta' (question 6) and the answer at 'Respondetur communiter quod […]' (question 9). 'Deus nonnullis præcepit hoc' probably 'non illis' (note added)."
-  },
-  {
-   "id": "genesis-028",
-   "book": "genesis",
-   "art": 28,
-   "chapter_guess": 4,
-   "pages": [
-    227,
-    234
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Two words unreadable in the transcription (PDF 233: 'ejusdem sanguinis […] fuerunt', 'ultionem […] criminis'), kept as […]; sense clear. 'Jacob. v, i' read as Jas 5:4."
-  },
-  {
-   "id": "genesis-029",
-   "book": "genesis",
-   "art": 29,
-   "chapter_guess": 4,
-   "pages": [
-    234,
-    243
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Translated in two parts (split at 4:17). A Hebrew word Jerome gives ('In Hebræo […] dicitur', presumably Nod) is unread in the transcription. Job 13:24 margin: Denis's words are not the verse's; reference-only marker with a note."
-  },
-  {
-   "id": "genesis-030",
-   "book": "genesis",
-   "art": 30,
-   "chapter_guess": 4,
-   "pages": [
-    243,
-    247
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Three small gaps in the transcription, all inside lemmata (v. 5 twice, v. 16), left as […]. Unreadable margin notes taken as Acts 15:5 and Ps 58:12, with notes; Dan 9:27 tagged where the margin gives 9:26."
-  },
-  {
-   "id": "genesis-031",
-   "book": "genesis",
-   "art": 31,
-   "chapter_guess": 5,
-   "pages": [
-    247,
-    253
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Re-cut: end of article (PDF 253 right column) had been placed in genesis-032.txt. Three margin notes partly unread in the transcription (Ecclus 44:16, Ps 89:10, 2 Kings 19:32 supplied, with notes); margin 'I Cor. xv, 45' marked 1 Cor 15:48, where the words are."
-  },
-  {
-   "id": "genesis-032",
-   "book": "genesis",
-   "art": 32,
-   "chapter_guess": 6,
-   "pages": [
-    253,
-    259
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 6, Art. XXXII (pp. 147–153, PDF 253–259; scheduled run, translated by the run). Its end ('sic prævidere … cladis designat', PDF 259 right column) had been cut into genesis-033.txt; moved back. Opening lemma is Gen 5:31 (untagged paragraph). Small gaps in the transcription kept as […]: lemma of 6:4 ('[…]que filiæ gestarunt', Vulgate 'illæque genuerunt'), 'Nam et Prophe[…] quando […] aliquid contemplabantur … ut Origenes disserunt' (PDF 257), '[…]ste gigantes' at the top of PDF 258 right column. Both margin notes beside Ezechiel and Isaias unreadable: Ezech 2:1 tagged, Is 21:3 reference-only (Denis's 'Corrui quum viderem' is loose), with notes. Duplicated line at the Num/Deut/1 Par notes removed."
-  },
-  {
-   "id": "genesis-033",
-   "book": "genesis",
-   "art": 33,
-   "chapter_guess": 6,
-   "pages": [
-    259,
-    264
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-034",
-   "book": "genesis",
-   "art": 34,
-   "chapter_guess": 6,
-   "pages": [
-    264,
-    268
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-035",
-   "book": "genesis",
-   "art": 35,
-   "chapter_guess": 6,
-   "pages": [
-    268,
-    272
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "margin note unreadable in the transcription beside 'fructum centesimum, sexagesimum' (PDF 271): given as Matt 13:8, to be checked against the scan"
-  },
-  {
-   "id": "genesis-036",
-   "book": "genesis",
-   "art": 36,
-   "chapter_guess": 7,
-   "pages": [
-    272,
-    277
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "one word unreadable in the transcription at 7:12 ('impetuosissime ac […] cadens', PDF 275)"
-  },
-  {
-   "id": "genesis-037",
-   "book": "genesis",
-   "art": 37,
-   "chapter_guess": 7,
-   "pages": [
-    277,
-    279
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-038",
-   "book": "genesis",
-   "art": 38,
-   "chapter_guess": 8,
-   "pages": [
-    279,
-    284
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-039",
-   "book": "genesis",
-   "art": 39,
-   "chapter_guess": 8,
-   "pages": [
-    284,
-    288
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-040",
-   "book": "genesis",
-   "art": 40,
-   "chapter_guess": 9,
-   "pages": [
-    288,
-    295
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 9, Art. XL (pp. 182–189, PDF 288–295; scheduled run, two workers, split at 9:12). Small gaps in the transcription kept as […] ('metuunt homines, […] humanam', PDF 288; 'signum fœderis […] inter me', 9:12). Unreadable margin notes: Gen 14:14 (Abraham's servants) and, less certain, Gen 8:21 (beside 'assecuravit ipsum Noe') supplied with notes; 'cap. […], 13' given as Gen 42:13. Margin 'Ephes. xi, 5' read as Eph 6:5. Denis's 'Maledictus puer Chanaan' (9:25) noted."
-  },
-  {
-   "id": "genesis-041",
-   "book": "genesis",
-   "art": 41,
-   "chapter_guess": 9,
-   "pages": [
-    296,
-    299
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 9, Art. XLI (pp. 190–193, PDF 296–299; scheduled run, one worker). Its end ('apud eos, qui possunt prodesse … plurimæ auctoritates') had been cut into genesis-042.txt; moved back. Words lost in the 9:21–22 lemmata kept as […] (PDF 297?). Unreadable margin note beside 'Alios salvos fecit' tagged Matt 27:42 (also Mark 15:31); margin 'Ps. xlvi, 17' marked Ps 44:17, where the words are (noted)."
-  },
-  {
-   "id": "genesis-042",
-   "book": "genesis",
-   "art": 42,
-   "chapter_guess": 10,
-   "pages": [
-    299,
-    302
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 10, Art. XLII (pp. 193–196, PDF 299–302; scheduled run, one worker). Its end ('tium. Præterea, in Scholastica historia … quod alibi reprobavi', PDF 302 right column top) had been cut into genesis-043.txt; moved back. At 10:32 the transcription reads 'Ab his divisæ sunt penitus in terra' (Vulgate 'gentes'): kept, check the scan. Edition's variant notes (Ob hoc, Sinæum, usque Lesa, patre) given as bracketed notes."
-  },
-  {
-   "id": "genesis-043",
-   "book": "genesis",
-   "art": 43,
-   "chapter_guess": 11,
-   "pages": [
-    302,
-    308
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 11, Art. XLIII (pp. 196–202, PDF 302–308; scheduled run, one worker). Its end ('inter illos Enoch … cum conjuge sua in Haran', PDF 308 right column top) had been cut into genesis-044.txt; moved back. 'primis parentibus dinitum' kept as transcribed (read as 'inditum', noted). Jos 24:2 marked without a margin note (Denis names Josue)."
-  },
-  {
-   "id": "genesis-044",
-   "book": "genesis",
-   "art": 44,
-   "chapter_guess": 11,
-   "pages": [
-    308,
-    310
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 11, Art. XLIV (pp. 202–204, PDF 308–310; scheduled run, one worker). Its end ('cendo: Salutat vos Ecclesia … bonis ac justis', PDF 310 right column top) had been cut into genesis-045.txt; moved back. Margin Job xli, 25 marked Job 41:24, Osee x, 9 marked Osee 11:9, Is. xiv, 14 marked Is 14:13–14, where the words are (noted)."
-  },
-  {
-   "id": "genesis-045",
-   "book": "genesis",
-   "art": 45,
-   "chapter_guess": 12,
-   "pages": [
-    310,
-    318
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "margin notes unreadable in the transcription beside 'hæ in hac vita … de Hemor habetur' (PDF 313): 'Princeps Dei es apud nos' given as Gen 23:6; the second note not recovered"
-  },
-  {
-   "id": "genesis-046",
-   "book": "genesis",
-   "art": 46,
-   "chapter_guess": 12,
-   "pages": [
-    318,
-    321
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-047",
-   "book": "genesis",
-   "art": 47,
-   "chapter_guess": 13,
-   "pages": [
-    321,
-    323
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Denis's lemma at 13:14 reads 'Leva oculos tuos in directum' (the Clementine has no 'in directum' there; noted in a bracket)."
-  },
-  {
-   "id": "genesis-048",
-   "book": "genesis",
-   "art": 48,
-   "chapter_guess": 14,
-   "pages": [
-    324,
-    328
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Re-cut: end of the article moved back from genesis-049.txt. Printed 'alumnavit' at 14:14 kept (note suggests adunavit). Denis cites Thomas III q. 21; the passage is III q. 22 a. 5 (noted)."
-  },
-  {
-   "id": "genesis-049",
-   "book": "genesis",
-   "art": 49,
-   "chapter_guess": 14,
-   "pages": [
-    328,
-    329
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 14, Art. XLIX (pp. 222–223, PDF 328–329; scheduled run, one worker with Art. LI). Its end ('benedicitque Deo, et gratias agit ei … fides nostra', PDF 329 right column top) had been cut into genesis-050.txt; moved back."
-  },
-  {
-   "id": "genesis-050",
-   "book": "genesis",
-   "art": 50,
-   "chapter_guess": 15,
-   "pages": [
-    329,
-    337
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 15, Art. L (pp. 223–231, PDF 329–337; scheduled run, two workers, split at 15:9; the transcription heads it 'ARTICULUS I'). Unreadable margin 'Ps. […]' taken as Ps 17:31 (noted). 'magnus pa- / […] iste' (PDF 334) read as 'pavor iste'. Margin 'Jerem. 2' beside Caleb's age does not fit: Jos 14:7 given as reference-only, with a note. Douay-Rheims file slips seen: Gen 15:9 'three years. and a ram' (comma), Gen 15:18 'from the river to Egypt' (Challoner 'of Egypt')."
-  },
-  {
-   "id": "genesis-051",
-   "book": "genesis",
-   "art": 51,
-   "chapter_guess": 15,
-   "pages": [
-    337,
-    341
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 15, Art. LI (pp. 231–235, PDF 337–341; scheduled run, one worker with Art. XLIX). Its end ('assistebant, et pertinebant ad eum … usque ad fines terræ', PDF 341 right column top) had been cut into genesis-052.txt; moved back. Margin John 17:12 marked John 18:9 and Dan 9:26 marked 9:27, where the words are (noted). Douay-Rheims file slip seen: 1 John 5:4 'overcameth'."
-  },
-  {
-   "id": "genesis-052",
-   "book": "genesis",
-   "art": 52,
-   "chapter_guess": 16,
-   "pages": [
-    341,
-    347
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "margin note unreadable beside 'ante promiserit Abræ quod esset sobolem…' (PDF 341): given as Gen 15:4; at v. 13 the transcription garbles Lyra's quotation ('Videntis me'), 'Vidi posteriora' supplied from the lemma; the transcription also repeats some line-end syllables and one line (PDF 345–346), removed"
-  },
-  {
-   "id": "genesis-053",
-   "book": "genesis",
-   "art": 53,
-   "chapter_guess": 16,
-   "pages": [
-    347,
-    349
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published, but words are lost in the transcription on PDF 348 (16:6 passage): 'Cui re[…] Abram', 'Synagogam […] subjecto', 'ad […]atum', '[…] Sarai, fugam iniit'; and the last margin note 'I Pe[…]' (taken as 1 Pet 2:21, noted). Marked […]; please check the scan."
-  },
-  {
-   "id": "genesis-054",
-   "book": "genesis",
-   "art": 54,
-   "chapter_guess": 17,
-   "pages": [
-    349,
-    353
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published, but text is lost in the transcription (PDF 350–352): the end of the 17:5 lemma 'patrem multarum gen[…]', two margin notes beside 'ad Romanos et Galatas' (taken as Rom 4:11, Gal 3:7, noted), the end of the 17:7 lemma 'inter […]', and before 'ritum fecit' (17:14). Marked […]; please check the scan. Denis reads 'Ego Dominus omnipotens' (17:1) and 'ad Dominum' (17:18): noted."
-  },
-  {
-   "id": "genesis-055",
-   "book": "genesis",
-   "art": 55,
-   "chapter_guess": 17,
-   "pages": [
-    353,
-    356
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 17, Art. LV (pp. 247–250, PDF 353–356; scheduled run, one worker). Its end ('puer ille irritum fecit pactum Dei … tius locum habent', PDF 356 right column top) had been cut into genesis-056.txt; moved back. One word lost in the transcription ('in deserto […] diu manserunt'), kept as […]. Margin 'Act. xv' (chapter only) marked Acts 15:9."
-  },
-  {
-   "id": "genesis-056",
-   "book": "genesis",
-   "art": 56,
-   "chapter_guess": 17,
-   "pages": [
-    356,
-    359
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 17, Art. LVI (pp. 250–253, PDF 356–359; scheduled run, one worker). Printed 'quasi sermo quendam' read as 'quasi senio quodam' (check the scan); lemma 17:2 'Pactumque fœdus' kept (Vulgate 'Ponamque'). Margin Rom. xv, 19 marked Rom 6:13 and 6:19, where the words are (noted)."
-  },
-  {
-   "id": "genesis-057",
-   "book": "genesis",
-   "art": 57,
-   "chapter_guess": 18,
-   "pages": [
-    360,
-    369
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published, but words are lost in the transcription: the start of the 18:14 lemma ('[…] ad te'), 'prop[…]' (18:24, PDF ~367) and 'prosequendo meam […] petitionem' (18:27); unreadable margin notes beside the 18:1 lemma and at John 11:50 (tagged) and 1 Tim 5:8 (tagged). Marked […]; please check the scan. Margin Num. xvi, 26 taken as Num 26:11, Ezech. xxi, 8 as Ezech 21:4, Ps. i, 8 as Ps 50:8 (notes added). Re-cut: its end had been in genesis-058.txt."
-  },
-  {
-   "id": "genesis-058",
-   "book": "genesis",
-   "art": 58,
-   "chapter_guess": 18,
-   "pages": [
-    369,
-    373
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published, but text is lost in the transcription: the 18:1 lemma 'in convalle […] Mambre' and several margin notes (beside 1 Thess 5:8, Is 4:2, John 10:7, Wis 12:16 and one at the start of the questions, PDF 370–373); the passages were identified from the text (notes added). Marked […]; please check the scan. Re-cut: its heading was split and its end ('veni, et effudi … quod volo, facere?') was in genesis-059.txt."
-  },
-  {
-   "id": "genesis-059",
-   "book": "genesis",
-   "art": 59,
-   "chapter_guess": 19,
-   "pages": [
-    373,
-    381
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published as Genesis 19, Art. LIX (pp. 267–275, PDF 373–381; scheduled run, two workers, split at 19:18). Its end ('ex uno viro, unaque femina … Ammonitarum usque hodie', PDF 381 right column top) had been cut into genesis-060.txt; moved back. Words lost in the transcription, kept as […]: PDF 375 ('clauserunt […] ostium' 19:10, and the Greek word for blindness, evidently aorasia, 19:11), PDF 379 (19:21–22 lemmata; 'a sulfureo illo igne […]tione … ve[…]citer … infernl […]'), PDF 380 ('appare[…]'). Unreadable margin notes supplied: Jer 44:22, Is 15:5, Lam 4:6, 2 Pet 2:8 (noted)."
-  },
-  {
-   "id": "genesis-060",
-   "book": "genesis",
-   "art": 60,
-   "chapter_guess": 19,
-   "pages": [
-    381,
-    383
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published as Genesis 19, Art. LX (pp. 275–277, PDF 381–383; scheduled run, one worker). Its end ('urbibus, habere in se cives … esse præsumunt', PDF 383 right column top) had been cut into genesis-061.txt; moved back. One word lost at the opening ('edocemur, ut […] exemplo Lot'). Margin numerals unread for Is 3:9, John 8:44 (quoted) and Prov (Prov 2:14 given as reference-only), noted."
-  },
-  {
-   "id": "genesis-061",
-   "book": "genesis",
-   "art": 61,
-   "chapter_guess": 20,
-   "pages": [
-    383,
-    387
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published, but words are lost in the transcription in the 20:13 lemmata (PDF ~386, several words, marked […]) and at 'Sar[…] autem dixit' (20:16); please check the scan. The transcription's 'culpam' in the 20:18 lemma was read as 'vulvam' (the Vulgate's word): check. Margin Gen. xxi, 33 is loose (Gen 26:1 calls Abimelech king of the Palestines; noted). Re-cut: its end had been in genesis-062.txt."
-  },
-  {
-   "id": "genesis-062",
-   "book": "genesis",
-   "art": 62,
-   "chapter_guess": 21,
-   "pages": [
-    387,
-    391
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "One unreadable margin note beside the four kings Abraham defeated (PDF ~390): given as Gen 14:15 with a note. Margin Gen. xviii, 19 given as Gen 18:10 (noted). Denis has Abraham 'nonaginta' at his circumcision (noted)."
-  },
-  {
-   "id": "genesis-063",
-   "book": "genesis",
-   "art": 63,
-   "chapter_guess": 22,
-   "pages": [
-    392,
-    397
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Five margin notes unreadable in the transcription (PDF 393–397): identified from the text as 2 Par 3:1, Zach 2:4, John 21:5; two left as notes only (the upper room; 'ad Romanos', closest to Heb 11:19). Margin 'Ibid. x, 1' taken as Dan 10:1 (noted)."
-  },
-  {
-   "id": "genesis-064",
-   "book": "genesis",
-   "art": 64,
-   "chapter_guess": 22,
-   "pages": [
-    398,
-    399
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Re-cut: its end ('crucifigi pro nobis … in cordibus demoratur fidelium', PDF 399 right column top) was in genesis-065.txt; moved back and translated by the run. Margin notes for Jdt 8:22, 1 Mach 2:52, Wis 3:6 partly unreadable (noted)."
-  },
-  {
-   "id": "genesis-065",
-   "book": "genesis",
-   "art": 65,
-   "chapter_guess": 23,
-   "pages": [
-    399,
-    401
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Translated from the re-cut file: its end ('est translatus ad dominum Abrahæ … absconditur', PDF 401) had been in genesis-066.txt and was moved back (commit caa20cd). Denis's text of 23:12 adds 'coram Domino' (noted)."
-  },
-  {
-   "id": "genesis-066",
-   "book": "genesis",
-   "art": 66,
-   "chapter_guess": 24,
-   "pages": [
-    401,
-    408
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription (PDF 401–405): 24:2 'Pone manum […] femur meum'; 24:22 three words after 'Postquam autem' and 'armillas totidem in […]'; 24:47 'sua brachia […]'. Margin notes beside Gen 49:10 and 'Omnes animæ quæ egressæ sunt de femore Jacob' unreadable (tagged Ex 1:5; Denis's 'infra' may mean Gen 46:26). Suspect readings noted in the text: 'impotens' (24:11), 'memorare dolorem' (last sentence)."
-  },
-  {
-   "id": "genesis-067",
-   "book": "genesis",
-   "art": 67,
-   "chapter_guess": 24,
-   "pages": [
-    408,
-    411
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription at 24:64 ('atque per contempla[…]ionem deseruit', PDF 411 right column top). Its end had been in genesis-068.txt (re-cut, commit e3a2270). The printed lemma of 24:21 reads 'Illa autem contemplabatur eum' (Vulgate 'Ipse … eam'; noted)."
-  },
-  {
-   "id": "genesis-068",
-   "book": "genesis",
-   "art": 68,
-   "chapter_guess": 25,
-   "pages": [
-    411,
-    418
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; a word lost in the transcription in the first sentence ('describuntur novæ […] nuptiæ', PDF 411). Unreadable margin notes beside Augustine (twice), 'de uxore Levitæ' (given Judg 19:1, a guess), 'sanctus Job' (Job 1:1) and 'sagenæ' (Matt 13:47): check against the scan. Its end ('venantur ad mortem … rectitudini æquitatis') had been in genesis-069.txt (re-cut, commit a9b4902)."
-  },
-  {
-   "id": "genesis-069",
-   "book": "genesis",
-   "art": 69,
-   "chapter_guess": 26,
-   "pages": [
-    418,
-    423
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription at the top of PDF 422 (p. 316): the end of the lemma 26:25 'præcepitque servis suis ut fo[derent …]' and whatever gloss followed, before 'Jam enim fuerat animatus'. Margin notes unreadable: one beside 'Istud omnino concordat' (26:7; noted in the text), and the verse of 'II Reg. xv' beside 'amicus regis' (26:26; tagged 2 Kings 15:37). Denis's 'vicesimo capitulo' for Phicol is Gen 21:22 (noted)."
-  },
-  {
-   "id": "genesis-070",
-   "book": "genesis",
-   "art": 70,
-   "chapter_guess": 26,
-   "pages": [
-    423,
-    425
-   ],
-   "status": "done",
-   "source": "transcribed"
-  },
-  {
-   "id": "genesis-071",
-   "book": "genesis",
-   "art": 71,
-   "chapter_guess": 27,
-   "pages": [
-    425,
-    431
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription: the opening sentence 'benedixit J[…] filiis suis' (PDF 425); the lemma of 27:16 'pel[…] Jacob, […]' (end of PDF 426 / top of 427); 27:36 'supplantavit […] altera vice. Primogenita […]'; 27:39 'In pinguedine […]' (PDF 429). Margin notes partly unreadable: 'II Reg. […] 14' (tagged 2 Kings 8:14, as the same note earlier in the article), and 'Aug. in […] q. lxxx'. Translated from the re-cut file (end of the article moved back from genesis-072.txt). Art. LXX pages corrected to pp. 317–318."
-  },
-  {
-   "id": "genesis-072",
-   "book": "genesis",
-   "art": 72,
-   "chapter_guess": 27,
-   "pages": [
-    431,
-    434
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Its end ('A per Romanos deletis … sententialiter sunt inducta', PDF 434) had been in genesis-073.txt (re-cut, commit 8ad0120). Margin 'Jerem. […]' unreadable (Ephraim primogenitus meus = Jer 31:9); margin 'Is. xli, 11' tagged Is 45:25, whose words Denis quotes; marginal readings '* totus' and '* prætact' noted; Denis's 27:28 adds 'et olei' (noted)."
-  },
-  {
-   "id": "genesis-073",
-   "book": "genesis",
-   "art": 73,
-   "chapter_guess": 28,
-   "pages": [
-    434,
-    438
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Its end ('nosque pie hortantem … regni cœlestis', PDF 438) had been in genesis-074.txt (re-cut, commit dcf15ca). Margin 'Luc. xxi, 10-13' (the upper room) given as Luke 22:12; 'humanita- / II. Quidam' read as 'humanitati. Quidam' (check the scan); Denis's Hab 3:2 adds the Old Latin 'consideravi opera tua, et expavi'; 28:13 'docentem', 28:14 'ad orientem et occidentem' noted."
-  },
-  {
-   "id": "genesis-074",
-   "book": "genesis",
-   "art": 74,
-   "chapter_guess": 29,
-   "pages": [
-    438,
-    443
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription: 29:33 'audivit me Dominus habe[…] contemptui' (PDF 441), and at the start of the spiritual sense (PDF 441/442) 'profi[…]ens ad ea agenda quæ spiritualis pater suus et committit, venit in terram orientalem, id est, regionem cœlestem, quæ est terra viventium ingredi promeretur … Venit quoque in terram orientalem, id est, nomine et re ad militantem spectat Ecclesiam': a line or two seem to be missing (noted in the text). Margin notes unreadable beside 'ut ex filiabus Laban sumeret conjugem' (tagged Gen 28:2) and 'Apoc. […]' (tagged Apoc 3:7). 'solito manius' (29:11) read as 'solito maturius' (noted)."
-  },
-  {
-   "id": "genesis-075",
-   "book": "genesis",
-   "art": 75,
-   "chapter_guess": 30,
-   "pages": [
-    443,
-    453
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "already in the app from an earlier translation"
-  },
-  {
-   "id": "genesis-076",
-   "book": "genesis",
-   "art": 76,
-   "chapter_guess": 30,
-   "pages": [
-    453,
-    455
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "already in the app from an earlier translation"
-  },
-  {
-   "id": "genesis-077",
-   "book": "genesis",
-   "art": 77,
-   "chapter_guess": 31,
-   "pages": [
-    455,
-    460
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "already in the app from an earlier translation"
-  },
-  {
-   "id": "genesis-078",
-   "book": "genesis",
-   "art": 78,
-   "chapter_guess": 32,
-   "pages": [
-    460,
-    465
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription: 32:10 '(_[…] duabus turmis_ … regredior)' (Vulgate 'et nunc cum'), 32:31 'Ortus […] sol' (Vulgate 'Ortusque est ei statim sol'), and a word or two before 'eumque honorando' in the last sentence (PDF 465). Margin note beside 'Ideo loquitur Augustinus' unreadable; 'II. Reges. 14' tagged 2 Kings 8:14 (noted). Matt 13:58: Denis's words are Mark 6:5 + Matt 13:58 (both tagged, noted). The file also held the end of Art. LXXVII ('Omnipotentis conspexit … diu vixisse', PDF 460, after genesis-077.txt's '…qui visiones'): left out here; Art. LXXVII in the app (earlier sample translation) still stops at 'epulan[di] …' (31:54), so 31:54–55 and this closing passage on Laban are not yet translated. Its last paragraph ('Præterea de hoc sancti Jacob luctamine …', PDF 465) had been in genesis-079.txt; added."
-  },
-  {
-   "id": "genesis-079",
-   "book": "genesis",
-   "art": 79,
-   "chapter_guess": 32,
-   "pages": [
-    465,
-    467
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Its file began with the last paragraph of Art. LXXVIII ('Præterea de hoc sancti Jacob luctamine … ac fletum', PDF 465 right column, above the heading): moved back to Art. LXXVIII (Osee 12:3–4 tagged; its margin note is unreadable). Denis's Joel 2:11 reads 'castra Dei' (noted); Prov 12:21 adds 'nec perturbabit' (noted)."
-  },
-  {
-   "id": "genesis-080",
-   "book": "genesis",
-   "art": 80,
-   "chapter_guess": 33,
-   "pages": [
-    467,
-    469
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Its end ('…Hebræum æquivocum … desiderio amicitiæ atque concordiæ', PDF 469 right column top) had been in genesis-081.txt (re-cut, commit 54ca1c2). 33:11 'Vir a fratre' read as 'Vix a fratre'; Denis's Prov 21:1 has 'cor hominum' for 'cor regis' (noted)."
-  },
-  {
-   "id": "genesis-081",
-   "book": "genesis",
-   "art": 81,
-   "chapter_guess": 34,
-   "pages": [
-    469,
-    473
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Translated from the re-cut file (end of the article moved back from genesis-082.txt). 'per manum inquam' (PDF 473) read as 'per manum iniquam'. Denis's Judith 9:2–3 differs from the Clementine wording (noted)."
-  },
-  {
-   "id": "genesis-082",
-   "book": "genesis",
-   "art": 82,
-   "chapter_guess": 35,
-   "pages": [
-    473,
-    477
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Translated from the re-cut file (the end of Art. LXXXI and a repeated heading removed). The margin note beside 'ut primo Paralipomenon' (PDF 475) is unreadable in the transcription (tagged 1 Par 2:19, noted)."
-  },
-  {
-   "id": "genesis-083",
-   "book": "genesis",
-   "art": 83,
-   "chapter_guess": 35,
-   "pages": [
-    477,
-    479
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published from the re-cut file (end of the article moved back from genesis-084.txt). Words lost in the transcription: 35:2 'Abjicite deos […] et mundamini' (PDF 478); at the top of the right column of PDF 479 the transcription reads 'dormivit, amicorum, ad quam horrenda vitia', where 'amicorum' cannot be right (given as […], noted). Margin notes unreadable beside Col 3:5, Col 3:9 and 'Ephes. […], 24' (tagged Eph 4:24) and 'Zach. […]' (Zach 3:4). Read 'parem' as 'pacem', 'sincoræ' as 'sinceræ'."
-  },
-  {
-   "id": "genesis-084",
-   "book": "genesis",
-   "art": 84,
-   "chapter_guess": 36,
-   "pages": [
-    479,
-    482
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Translated from the re-cut file (end of the article moved back from genesis-085.txt; a repeated heading removed). Several margin notes unreadable in the transcription (tagged Gen 32:3, 4 Kings 8:20, Gen 22:21, 1 Par 1:51; each noted); 'Gen. xxxvi, 34' read as Gen 26:34 (noted). Denis's text has 'Balac' for Bela (36:32, noted)."
-  },
-  {
-   "id": "genesis-085",
-   "book": "genesis",
-   "art": 85,
-   "chapter_guess": 37,
-   "pages": [
-    482,
-    489
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription in Jerome on 'polymita' (37:3, PDF 483): '[…] mitos' and Aquila's rendering after 'interpretatus est […]' (probably Greek). Margin 'Jer. xli, 15' tagged Jer 40:15 (the words are there; noted). Gen 42:21 given by Denis to Ruben (noted). Prov 21:30 / Job 5:13 both given to Solomon by Denis (noted). Douay-Rheims slip in data/bible/drc/genesis.json, 37:4: 'hated hem' for 'hated him'."
-  },
-  {
-   "id": "genesis-086",
-   "book": "genesis",
-   "art": 86,
-   "chapter_guess": 37,
-   "pages": [
-    490,
-    492
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Two margin notes unreadable: beside 'tinxerunt tunicam … hædi' (37:31, nothing tagged) and beside 'Vultis super nos inducere sanguinem hominis hujus' (tagged Acts 5:28, noted). 'Tu es Filius meus dilectus, in quo mihi bene complacui' tagged Luke 3:22 + Matt 17:5 as the margin gives (noted)."
-  },
-  {
-   "id": "genesis-087",
-   "book": "genesis",
-   "art": 87,
-   "chapter_guess": 38,
-   "pages": [
-    492,
-    495
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published from the re-cut file (end of the article moved back from genesis-088.txt). Words lost in the transcription: 38:14 'eo quod crevisset Sela, videlicet tertius filius Judæ […] […] maritum' (PDF 493), and the end of the sentence 'sed nec David uxores suas ab Absalon cognitas […]' (PDF 494). Margin note beside 'de filiabus Lot' unreadable (tagged Gen 19:32). Denis's 38:12 reads 'mortua est Sue uxor Judæ' (Vulgate 'filia Sue', noted). Also in this commit: the Latin sides of eight quotation markers in Arts. LXIX, LXX, LXXI, LXXXI, LXXXII (this run's) now quote Denis's own wording."
-  },
-  {
-   "id": "genesis-088",
-   "book": "genesis",
-   "art": 88,
-   "chapter_guess": 39,
-   "pages": [
-    495,
-    498
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published from the re-cut file (end of the article moved back from genesis-089.txt). Words lost in the transcription: the start of the lemma 39:19 '[…] domino, et nimium credulus' (PDF 497). Margin note beside 'ipsa cooperata sunt ei in bonum' unreadable (tagged Rom 8:28, noted). Read 'et ille, apprehensa lacinia' (39:12) as 'et illa', 'serviv it' as 'servivit', 'concupiscentius' as 'concupiscentiis'."
-  },
-  {
-   "id": "genesis-089",
-   "book": "genesis",
-   "art": 89,
-   "chapter_guess": 39,
-   "pages": [
-    498,
-    500
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published from the re-cut file (end of the article moved back from genesis-090.txt; repeated heading removed there). Words lost in the transcription (PDF 499): 'beatissimi Joseph […] patriarchæ' and 'Deinceps ob […] suam inflexibilem æquitatem'. Margins checked: 'Psal. xc, 2' is Is 11:2, 'Jer. iii, 5' is Jer 51:5 (both noted)."
-  },
-  {
-   "id": "genesis-090",
-   "book": "genesis",
-   "art": 90,
-   "chapter_guess": 40,
-   "pages": [
-    500,
-    503
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; heading partly lost in the transcription ('ARTICU[…]', 'HIS[…] DUO EU[…]'), and words lost at 40:20 'natalitius Pharao[…] […] erat' (PDF 502). Margin 'Eccli. … xxix, 20' tagged Ecclus 29:19, where the Douay-Rheims file has those words (noted). Is 28:19 tagged on 'vexatio dat intellectum' (noted)."
-  },
-  {
-   "id": "genesis-091",
-   "book": "genesis",
-   "art": 91,
-   "chapter_guess": 41,
-   "pages": [
-    503,
-    508
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost at 41:42 'in ma[…]u ejus' (PDF 507). Margin notes partly lost: 'Ibid. […]' (Daniel; reference-only Dan 4:5, fairly but not fully sure, noted) and one unreadable beside 'Non observabitis somnia' (tagged Lev 19:26, noted). Margin 'Esth. viii, 8' tagged Esth 8:2 (the ring given to Mardochai; noted). The v. 47 lemma is printed garbled (kept, noted). Latin guesses: 'usque'→'usuque'."
-  },
-  {
-   "id": "genesis-092",
-   "book": "genesis",
-   "art": 92,
-   "chapter_guess": 41,
-   "pages": [
-    509,
-    510
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Translated from the re-cut file (end of the article moved back from genesis-093.txt). The margin note beside Eliseus' cry (4 Kings 2:12; 13:14) is unreadable in the transcription (noted)."
-  },
-  {
-   "id": "genesis-093",
-   "book": "genesis",
-   "art": 93,
-   "chapter_guess": 42,
-   "pages": [
-    510,
-    514
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:11:27Z",
-   "note": "Lost letters at v. 16 supplied as 'eri[tis]', 'dice[…]'; v. 38 'ad [ter]ram' supplied. Margin 'Gen. xxxvii, et seq.' given as Gen 37:5 (the dreams)."
-  },
-  {
-   "id": "genesis-094",
-   "book": "genesis",
-   "art": 94,
-   "chapter_guess": 43,
-   "pages": [
-    515,
-    518
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:12:12Z",
-   "note": "Translated from the re-cut file (end of the article moved back from genesis-095.txt). Supplied 'Schola[stic]am', 'm[ellis]', '[Desc]enderuntque'. A Greek word seems missing after 'a quo Græce' (resin passage): noted."
-  },
-  {
-   "id": "genesis-095",
-   "book": "genesis",
-   "art": 95,
-   "chapter_guess": 44,
-   "pages": [
-    518,
-    523
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription: the v. 10 lemma ('Fiat juxta […]', 'Apud quemcumque fuerit […]', PDF 520) and a word before 'tali' (PDF 521). Read 'peperit puritas conscientiæ' where the transcription has 'peperit pu- / Veritas conscientiæ' (PDF 522): check. Margin notes partly unreadable: beside Simeon and Levi (reference-only Gen 34:25), 'III Reg. […]' (3 Kings 17:6), 'Gen. […]' (Gen 37:8, noted). Acts 7:22: Denis has 'scientia' for 'sapientia' (noted)."
-  },
-  {
-   "id": "genesis-096",
-   "book": "genesis",
-   "art": 96,
-   "chapter_guess": 45,
-   "pages": [
-    523,
-    527
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription at 45:1 ('Multis […]', PDF 523), 45:10 (probably 'terra Gessen'), 45:13 ('Nuntia[…]'), Denis's derivation of 'stola' (45:22), and 45:28 ('[…] et ait: Sufficit mihi', '[…] mei', 'et […] ejus'; PDF 526–527). 'consolabunt eis' (PDF 523) does not construe: kept, with a note."
-  },
-  {
-   "id": "genesis-097",
-   "book": "genesis",
-   "art": 97,
-   "chapter_guess": 46,
-   "pages": [
-    527,
-    531
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:21:55Z",
-   "note": "Unreadable margin notes beside 1 Kings 3:10, Ps 84:9 and Acts 7:14 (identified from the words; noted). A word lost at 'per […] seu præoccupationem' (probably prolepsis; noted, not supplied)."
-  },
-  {
-   "id": "genesis-098",
-   "book": "genesis",
-   "art": 98,
-   "chapter_guess": 47,
-   "pages": [
-    532,
-    537
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:21:55Z",
-   "note": "Unreadable margin notes beside Gen 45:6 and John 1:14 (identified from the words; noted). One word lost ('non […]'). 'Lev. xi, passim' given as Lev 11:25. Douay-Rheims slip in data: Ps 38:13 'Be no silent' (should be 'Be not silent')."
-  },
-  {
-   "id": "genesis-099",
-   "book": "genesis",
-   "art": 99,
-   "chapter_guess": 48,
-   "pages": [
-    538,
-    543
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; words lost in the transcription at 48:22 (PDF 541): 'pro po[…] tuis', 'pro sepul[…] corporis tui', 'quia promi[…] me sepelire' (kept as […], with the evident sense in notes). Margin notes unreadable beside 48:16 (top of PDF 540) and beside 'Porro, supra legitur: Habitavit Jacob juxta oppidum' (tagged Gen 33:18–19, noted). Gen 35:5 tagged without a margin note (Denis quotes it word for word). Read 'qui erunt' (48:6) as 'tui erunt', 'sepeliri eam' (48:7) as 'sepelivi eam', 'Cui de duobus' as 'Cur de duobus', 'aliequi' as 'alioqui', 'impensti' as 'impendisti'. Kept as printed: 'neque consolando' (48:16, sense needs 'atque'), 'absque sorte de eam tribui Joseph' (probably 'dedi eam', noted). Denis's 48:15 reads 'Benedixitque Jacob Joseph' (Vulgate 'filiis Joseph', noted)."
-  },
-  {
-   "id": "genesis-001-2",
-   "book": "genesis",
-   "art": 100,
-   "chapter_guess": 49,
-   "pages": [
-    543,
-    554
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:30:12Z",
-   "note": "This is Art. C (the transcription read the heading as 'ARTICULUS I'). Several margin notes unreadable (beside Gen 34:25-26, 1 Kings 17, Luke 11:21/Matt 12:29, Is 53:12, Is 45:25, and around Silo/Saul/David: 1 Kings 4:4, 15:26, 16:13 are guesses); each has a bracketed note. Some doubtful readings kept and noted (posuerunt, e locetur, viam latam proditionis)."
-  },
-  {
-   "id": "genesis-002-2",
-   "book": "genesis",
-   "art": 101,
-   "chapter_guess": 49,
-   "pages": [
-    555,
-    565
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:30:12Z",
-   "note": "This is Art. CI. Unreadable margin notes beside Ps 118:100, Lyra's 'confortatæ sunt super benedictiones', Phil 3:5 and Gen 25:17 (identified from the words; noted)."
-  },
-  {
-   "id": "genesis-102",
-   "book": "genesis",
-   "art": 102,
-   "chapter_guess": 49,
-   "pages": [
-    565,
-    571
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "note": "Published; the end of the article (from 'Patris, juxta quod scriptum est: Salvavit sibi dextera ejus' to 'magni pendenda') was in genesis-103.txt and is included here. Unreadable margin notes identified from the words: Ps 44:4, John 20:17, Matt 11:7 and 7:24, Ps 97:1, Is 52:10 (noted). Read by sense (check): 49:13 'in montibus constantium demoratur infidelium' as 'in mentibus … fidelium'. Source notes added from the translator's knowledge (check): the 'fatuam legem' saying given to Averroes; 'æternitas in Patre…' as Hilary cited by Augustine."
-  },
-  {
-   "id": "genesis-103",
-   "book": "genesis",
-   "art": 103,
-   "chapter_guess": 50,
-   "pages": [
-    571,
-    581
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; the text that opens genesis-103.txt after the first sentence (Benjamin the ravening wolf, Bala and Zelpha) is the end of Art. CII and was left out here. Margin note unreadable beside 'non sit sicut ceteri qui spem non habent' (50:1, PDF 571; tagged 1 Thess 4:12, noted). Kept as printed with notes: 'fratres Jacob' (50:21; Joseph's brethren meant), 'servo Dei patri tuo' (50:17). Read 'inquit resistunt' as 'iniqui resistunt', 'arcam Attath' as 'aream Attath'. Margin Gen 47:29–30 given as reference-only, with a note."
-  },
-  {
-   "id": "exodus-001",
-   "book": "exodus",
-   "art": 1,
-   "chapter_guess": 1,
-   "pages": [
-    581,
-    587
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:41:48Z",
-   "note": "Translated from the re-cut file (end of the article moved back from exodus-002.txt). Margin notes with lost book or chapter beside Gen 46:26 and Gen 46:34 (identified; noted). Lost word supplied: 'Oderantque [filios] Israel'."
-  },
-  {
-   "id": "exodus-002",
-   "book": "exodus",
-   "art": 2,
-   "chapter_guess": 1,
-   "pages": [
-    587,
-    590
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:41:48Z",
-   "note": "Translated from the re-cut file (end moved back from exodus-003.txt). Unreadable margin notes beside 1 Pet 2:2 and Heb 12:1–2 (identified from the words; noted)."
-  },
-  {
-   "id": "exodus-003",
-   "book": "exodus",
-   "art": 3,
-   "chapter_guess": 2,
-   "pages": [
-    590,
-    597
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:42:32Z",
-   "note": "two margin notes unreadable (at the 2:11 lemma, given as Acts 7:24; and at Stephen's words, given as Acts 7:25): check against the scan; read 'Sed Scriptura loquitur' where the transcription has 'Sed Scri- / plura loquitur'"
-  },
-  {
-   "id": "exodus-004",
-   "book": "exodus",
-   "art": 4,
-   "chapter_guess": 2,
-   "pages": [
-    597,
-    599
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:42:32Z",
-   "note": "margin note 'I Cor. […]' (verse lost) given as 1 Cor 16:1: check against the scan"
-  },
-  {
-   "id": "exodus-005",
-   "book": "exodus",
-   "art": 5,
-   "chapter_guess": 3,
-   "pages": [
-    599,
-    607
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "note": "Published; text corrupt at a page break in the transcription: 'perfectio- / riis, per incredulitatem percussit mortaliter' (kept as 'perfectio[…]riis', noted). Unreadable margin notes, verses supplied with notes: Luke 3:22 (with Matt 3:17), John 17:1 (with John 12:28), Luke 22:10 (wording of Mark 14:13); 'Cf. Sap. III, […]' given as Wis 3:8 (reference-only). Margin 'I Reg. x, 1-7' given as 1 Kings 10:1. Kept as printed with notes: 'cognati' (3:1, Vulgate 'soceri'), 'necessabiliter' (probably 'incessabiliter'), 'subita certa differentia temporis' (read as 'sub certa'). Ex 12:33 tagged without a margin note. Douay-Rheims slip in data/bible/drc/exodus.json, 3:4: 'out of the midst of the bush. and said'."
-  },
-  {
-   "id": "exodus-006",
-   "book": "exodus",
-   "art": 6,
-   "chapter_guess": 3,
-   "pages": [
-    608,
-    610
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:53:43Z",
-   "note": "published; words lost in the transcription: one word after 'æternaliterque' (PDF 609) and about two words at the start of the 3:18 lemma ('[…] trium dierum', probably 'Ibimus viam', PDF 610); margin note beside the 3:1 lemma unreadable"
-  },
-  {
-   "id": "exodus-007",
-   "book": "exodus",
-   "art": 7,
-   "chapter_guess": 4,
-   "pages": [
-    610,
-    619
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:53:43Z",
-   "note": "published; words lost in the transcription: in the passage on Moses's ass at 4:20 ('…corporis Isaac, […] meruerunt…', ending 'asinum […]') and after 'in monte Sinai ;' at 4:27 (PDF 619); two margin notes unreadable (given as Ex 7:20/14:16 and Jer 31:9)"
-  },
-  {
-   "id": "exodus-008",
-   "book": "exodus",
-   "art": 8,
-   "chapter_guess": 4,
-   "pages": [
-    619,
-    621
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T10:53:43Z",
-   "note": "margin note 'Marc. […]' (numbers lost) given as Mark 14:50; margin 'Act. v, 32' given as Acts 10:42, whose words Denis quotes"
-  },
-  {
-   "id": "exodus-009",
-   "book": "exodus",
-   "art": 9,
-   "chapter_guess": 5,
-   "pages": [
-    621,
-    624
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:04:16Z",
-   "note": "read 'Quare misisti _nœ_?' as 'me?' and 'maniter … advenerum' as 'inaniter … advenerim' (PDF 624, top)"
-  },
-  {
-   "id": "exodus-010",
-   "book": "exodus",
-   "art": 10,
-   "chapter_guess": 5,
-   "pages": [
-    624,
-    625
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:04:16Z"
-  },
-  {
-   "id": "exodus-011",
-   "book": "exodus",
-   "art": 11,
-   "chapter_guess": 6,
-   "pages": [
-    626,
-    632
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:10:19Z",
-   "note": "margin numbers lost at several notes (given as Ex 3:14, Num 12:8, Gen 15:7, Jer 6:10, Acts 7:51): check against the scan"
-  },
-  {
-   "id": "exodus-012",
-   "book": "exodus",
-   "art": 12,
-   "chapter_guess": 7,
-   "pages": [
-    632,
-    641
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:11:16Z",
-   "note": "end of the article (vv. 24–25, re-cut from exodus-013.txt) added in a second commit; Ex 7:15 in data/bible/drc has a stray apostrophe ('on the ' bank'), copied into the quotation"
-  },
-  {
-   "id": "exodus-013",
-   "book": "exodus",
-   "art": 13,
-   "chapter_guess": 7,
-   "pages": [
-    641,
-    642
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:17:26Z"
-  },
-  {
-   "id": "exodus-014",
-   "book": "exodus",
-   "art": 14,
-   "chapter_guess": 8,
-   "pages": [
-    643,
-    649
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:19:52Z",
-   "note": "margin 'Exod. v. 2' (vessels borrowed) does not fit: given as Ex 11:2 with a note; two unreadable margin notes ([…]) taken as Ex 9:11 and the verse number of v. 22; possible gap at the page break after 'perforant pellem cui insederint'"
-  },
-  {
-   "id": "exodus-015",
-   "book": "exodus",
-   "art": 15,
-   "chapter_guess": 8,
-   "pages": [
-    649,
-    651
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:19:52Z",
-   "note": "one margin note unreadable ([…]); the words are adapted from Apoc 18:7, given as a reference with a note"
-  },
-  {
-   "id": "exodus-016",
-   "book": "exodus",
-   "art": 16,
-   "chapter_guess": 9,
-   "pages": [
-    651,
-    656
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:26:22Z",
-   "note": "Published as Exodus 9, Art. XVI (pp. 545–550). Its end ('populum, sicut præceperat Dominus per manum Moysis … per terram et aerem', PDF 656 right column top) had been cut into exodus-017.txt; moved back. Words lost in the transcription (PDF 656): the lemmata of 9:34–35 after 'Fulgura in pluviam fecit, id est terminavit' ('[…] hæc mala, […]'), and the margin note beside that verse ('[…] 7.', taken as Ps 134:7, noted). Margin 'Ps. lxxxvi, 10' given as Ps 76:10 (noted)."
-  },
-  {
-   "id": "exodus-017",
-   "book": "exodus",
-   "art": 17,
-   "chapter_guess": 9,
-   "pages": [
-    656,
-    658
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:26:22Z",
-   "note": "Published from the re-cut file (the displaced end of Art. XVI removed; its last sentence, Luke 12:47, added after the other run's re-cut de36c25). Margin note beside 'Scienti enim bonum facere…' lost; tagged Jas 4:17 (noted)."
-  },
-  {
-   "id": "exodus-018",
-   "book": "exodus",
-   "art": 18,
-   "chapter_guess": 10,
-   "pages": [
-    658,
-    662
-   ],
-   "status": "done",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:33:05Z",
-   "note": "end of the article (spiritual sense of the locusts and darkness, PDF 662 right column top) re-cut from exodus-019.txt; one margin note half unread ('[…] 31', taken as Ex 12:31); Douay-Rheims data slips: Ex 10:7 'Iet the men go', Ex 10:11 'so. but go'"
-  },
-  {
-   "id": "exodus-019",
-   "book": "exodus",
-   "art": 19,
-   "chapter_guess": 11,
-   "pages": [
-    662,
-    666
-   ],
-   "status": "needs-scan",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:33:05Z",
-   "note": "published; words lost in the transcription: the 11:4 lemma 'Media nocte ingre[…] Ægyptum' with an unreadable margin note beside it (PDF 662–663), and most of the 11:7 lemma in the spiritual part ('Et […] quanto […] ho', PDF 665–666); check against the scan"
-  },
-  {
-   "id": "exodus-020",
-   "book": "exodus",
-   "art": 20,
-   "chapter_guess": 12,
-   "pages": [
-    666,
-    677
-   ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:36:32Z"
-  },
-  {
-   "id": "exodus-021",
-   "book": "exodus",
-   "art": 21,
-   "chapter_guess": 12,
-   "pages": [
-    677,
-    679
-   ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:36:32Z"
-  },
-  {
-   "id": "exodus-022",
-   "book": "exodus",
-   "art": 22,
-   "chapter_guess": 12,
-   "pages": [
-    679,
-    683
-   ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-24T11:41:06Z"
-  },
-  {
-   "id": "exodus-023",
-   "book": "exodus",
-   "art": 23,
-   "chapter_guess": 12,
-   "pages": [
-    684,
-    686
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-024",
-   "book": "exodus",
-   "art": 24,
-   "chapter_guess": 13,
-   "pages": [
-    686,
-    690
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-025",
-   "book": "exodus",
-   "art": 25,
-   "chapter_guess": 13,
-   "pages": [
-    690,
-    691
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-026",
-   "book": "exodus",
-   "art": 26,
-   "chapter_guess": 14,
-   "pages": [
-    692,
-    697
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-027",
-   "book": "exodus",
-   "art": 27,
-   "chapter_guess": 14,
-   "pages": [
-    697,
-    699
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-028",
-   "book": "exodus",
-   "art": 28,
-   "chapter_guess": 15,
-   "pages": [
-    699,
-    705
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-029",
-   "book": "exodus",
-   "art": 29,
-   "chapter_guess": 15,
-   "pages": [
-    705,
-    710
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-030",
-   "book": "exodus",
-   "art": 30,
-   "chapter_guess": 15,
-   "pages": [
-    710,
-    711
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-031",
-   "book": "exodus",
-   "art": 31,
-   "chapter_guess": 15,
-   "pages": [
-    712,
-    716
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-032",
-   "book": "exodus",
-   "art": 32,
-   "chapter_guess": 16,
-   "pages": [
-    716,
-    725
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-033",
-   "book": "exodus",
-   "art": 33,
-   "chapter_guess": 16,
-   "pages": [
-    725,
-    728
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-034",
-   "book": "exodus",
-   "art": 34,
-   "chapter_guess": 17,
-   "pages": [
-    728,
-    732
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-035",
-   "book": "exodus",
-   "art": 35,
-   "chapter_guess": 17,
-   "pages": [
-    732,
-    734
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-036",
-   "book": "exodus",
-   "art": 36,
-   "chapter_guess": 18,
-   "pages": [
-    734,
-    739
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-037",
-   "book": "exodus",
-   "art": 37,
-   "chapter_guess": 18,
-   "pages": [
-    739,
-    741
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-038",
-   "book": "exodus",
-   "art": 38,
-   "chapter_guess": 19,
-   "pages": [
-    742,
-    748
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "exodus-039",
-   "book": "exodus",
-   "art": 39,
-   "chapter_guess": 19,
-   "pages": [
-    748,
-    753
-   ],
-   "status": "todo",
-   "source": "transcribed"
-  }
- ]
+  "volume": "t1",
+  "items": [
+    {
+      "id": "genesis-001",
+      "book": "genesis",
+      "art": 1,
+      "chapter_guess": null,
+      "pages": [
+        111,
+        113
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-002",
+      "book": "genesis",
+      "art": 2,
+      "chapter_guess": null,
+      "pages": [
+        113,
+        114
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "the end of this article (from 'quem et S. Bernardus vocat linguam Ecclesiæ' to 'sine derogatione gloriosi Hieronymi dico', PDF 114 right column) was transcribed after the heading of Art. III; moved back here"
+    },
+    {
+      "id": "genesis-003",
+      "book": "genesis",
+      "art": 3,
+      "chapter_guess": 1,
+      "pages": [
+        114,
+        119
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "'codicibus' (PDF 115) supplied from Jerome's prologue; margin note beside 'Ex Ægypto vocavi Filium meum' unreadable (tagged Osee 11:1); one word lost after 'quod sit unum' (kept as […])"
+    },
+    {
+      "id": "genesis-004",
+      "book": "genesis",
+      "art": 4,
+      "chapter_guess": 1,
+      "pages": [
+        119,
+        119
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T05:31:18Z",
+      "note": "Published as Genesis 1, Art. IV (p. 13, PDF 119; scheduled run, one worker with Art. V). A general article: no verse tags. Its second half ('de Deo ut creatore … in Deuteronomio', PDF 119 right column) had been cut into genesis-005.txt; moved back. Margin chapter notes Exod. xx, Lev. xiv, Num. xvi as reference-only (Ex 20:1, Lev 14:1, Num 16:1). Denis says nine Hagiographa but names eight (noted: Jerome's ninth is Daniel)."
+    },
+    {
+      "id": "genesis-005",
+      "book": "genesis",
+      "art": 5,
+      "chapter_guess": 1,
+      "pages": [
+        119,
+        123
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T05:31:18Z",
+      "note": "Published as Genesis 1, Art. V (pp. 13–17, PDF 119–123; scheduled run, one worker; its last sentences, 'quod per cœlum … infra tangetur', translated by the run). 'condita sunt ab eo Deo ipse solus adorandus' kept as printed (perhaps 'ideo'). Margin 'Gen. ii, 5' for a quotation starting at 2:4 (both marked, noted). Col 1:18 / 1:15 for Origen's principium/primogenitus; 2 Cor 4:4 reference-only. Margin 'Petrus Lombardus' given as a note."
+    },
+    {
+      "id": "genesis-006",
+      "book": "genesis",
+      "art": 6,
+      "chapter_guess": 1,
+      "pages": [
+        123,
+        126
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "the end of Art. V ('quod per cœlum intelligit naturam angelicam … et infra tangetur', PDF 123 right column) had been cut into this article's text; moved back to genesis-005.txt"
+    },
+    {
+      "id": "genesis-007",
+      "book": "genesis",
+      "art": 7,
+      "chapter_guess": 1,
+      "pages": [
+        127,
+        128
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-008",
+      "book": "genesis",
+      "art": 8,
+      "chapter_guess": 1,
+      "pages": [
+        128,
+        132
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "one word unreadable in the transcription (the Hebrew word Jerome gives for 'ferebatur', v. 2, PDF 130): kept as […]"
+    },
+    {
+      "id": "genesis-009",
+      "book": "genesis",
+      "art": 9,
+      "chapter_guess": 1,
+      "pages": [
+        132,
+        136
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-010",
+      "book": "genesis",
+      "art": 10,
+      "chapter_guess": 1,
+      "pages": [
+        136,
+        141
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T05:38:06Z",
+      "note": "Published as Genesis 1, Art. X (pp. 30–35, PDF 136–141; scheduled run, one worker). Its end ('Judæum Judæorum doctorem … in historiis tangit', PDF 141 right column) had been cut into genesis-011.txt; moved back. Ezech 46:15 reference-only (loose paraphrase); Ps 148:5 marked without a margin note (Denis's quotation runs on); Jas 4:14 marked without a margin note (word for word). Editors' footnote on 'trufatica' (falsa, Du Cange) given as a note. The paragraphs on why v. 8 lacks 'God saw that it was good' are tagged v. 8."
+    },
+    {
+      "id": "genesis-011",
+      "book": "genesis",
+      "art": 11,
+      "chapter_guess": 1,
+      "pages": [
+        141,
+        146
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Margin notes on lines 74 and 82 unreadable: Eccles 1:7 (Denis says 'Ecclesiastici') and John 6:1 supplied. Words lost in the v. 11–12 lemma ('Et […] ita', '[…] secundum speciem suam') and a line after 'pro ma-' (PDF 142?) shown as […]: check against the scan."
+    },
+    {
+      "id": "genesis-012",
+      "book": "genesis",
+      "art": 12,
+      "chapter_guess": 1,
+      "pages": [
+        146,
+        150
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Latin 'penes actus immutationem' read as 'aeris immutationem' (sense; cf. St Thomas); 'præludatur' kept with a note (read præcludatur)."
+    },
+    {
+      "id": "genesis-013",
+      "book": "genesis",
+      "art": 13,
+      "chapter_guess": 1,
+      "pages": [
+        150,
+        154
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T05:43:46Z",
+      "note": "Published as Genesis 1, Art. XIII (pp. 44–48, PDF 150–154; scheduled run, one worker). Its end (Albert, De coæquævis: 'Aer et aqua simul ornati sunt … Dionysius protestatur', PDF 154 right column) had been cut into genesis-014.txt; moved back. Margin gives Is 64:4 and 1 Cor 2:9 for 'Oculus non vidit': Is 64:4 marked (Denis's wording), 1 Cor 2:9 reference-only. Lyra's 'Producat terra herbam virentem' marked Gen 1:11 with a note (Vulgate 'Germinet'). 'Judæi inciderunt errores' kept as printed (an 'in' may be missing)."
+    },
+    {
+      "id": "genesis-014",
+      "book": "genesis",
+      "art": 14,
+      "chapter_guess": 1,
+      "pages": [
+        154,
+        162
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "the end of this article ('Deus in operibus suis … juxta expositionem præhabitam', PDF 162 right column) had been cut into Art. XV; moved back. One word lost in Damascene's quotation ('perterrens, et […] nos ad cognitionem', PDF 156); margin notes unreadable beside 'sunt genera. Nam quædam ex exhalationibus' (PDF 155) and beside 'Lætabitur Deus in operibus suis' (tagged Ps 103:31)"
+    },
+    {
+      "id": "genesis-015",
+      "book": "genesis",
+      "art": 15,
+      "chapter_guess": 1,
+      "pages": [
+        162,
+        166
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "the end of this article ('audis tunc omnia facta esse simul … excæcati sint tenebris', PDF 166 right column) had been cut into Art. XVI; moved back. Text lost after 'quæstione 74.' (PDF 163) and after 'per nomina rerum' (PDF 165); margin notes unreadable beside 'Omnes vos filii lucis' (tagged 1 Thess 5:5) and 'Istæ sunt generationes' (tagged Gen 2:4–5); the print's 'sol quinto die factus' and 'quarta die data est aquæ virtus' look like slips (noted in the English)"
+    },
+    {
+      "id": "genesis-016",
+      "book": "genesis",
+      "art": 16,
+      "chapter_guess": 1,
+      "pages": [
+        166,
+        169
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T05:47:06Z",
+      "note": "Published as Genesis 1, Art. XVI (pp. 60–63, PDF 166–169; scheduled run, one worker). Its end ('omnibus divitiis gloriantur … quasi in terra repentes', PDF 169 right column) had been cut into genesis-017.txt; moved back. An unreadable Isaias margin note beside 'Erit dies ex die' (not in Isaias): reference-only Is 66:23, the nearest verse, with a note; check the scan. Denis's 'Vidit Deus quod esset bonum' said of the second day marked 1:10 with a note. Luke 1:53, Prov 9:1 marked without margin notes. DR data slip: Rom 13:12 'The night is passed And the day…' (capital A)."
+    },
+    {
+      "id": "genesis-017",
+      "book": "genesis",
+      "art": 17,
+      "chapter_guess": 1,
+      "pages": [
+        169,
+        172
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Opening quotation tagged Rom 11:34 (Denis's words), margin gives Is. xl, 13: note added."
+    },
+    {
+      "id": "genesis-018",
+      "book": "genesis",
+      "art": 18,
+      "chapter_guess": 2,
+      "pages": [
+        172,
+        175
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "End of article ('quæ vere in Deo … productionis earum', PDF 175 right column) moved back from genesis-019.txt; 're- / quæ vere in Deo' read as 'requiescere in Deo'. Unreadable margin note by 'Nihil novum sub sole' taken as Eccles 1:10."
+    },
+    {
+      "id": "genesis-019",
+      "book": "genesis",
+      "art": 19,
+      "chapter_guess": 2,
+      "pages": [
+        175,
+        184
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "the end of this article ('per deserta Indiæ … diversi leguntur', PDF 184 right column) had been cut into Art. XX, and the end of Art. XVIII ('quæ vere in Deo … productionis earum', PDF 175) into this one; both moved. Margin Gen. x, 22 for Hevila does not fit (given as Gen 10:29, noted)"
+    },
+    {
+      "id": "genesis-020",
+      "book": "genesis",
+      "art": 20,
+      "chapter_guess": 2,
+      "pages": [
+        184,
+        188
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "words lost after 'tulit Dominus' (2:21, probably 'unam de costis ejus', PDF 187): kept as […]; margin Josue xv, 15 corrected to Jos 14:15 (noted)"
+    },
+    {
+      "id": "genesis-021",
+      "book": "genesis",
+      "art": 21,
+      "chapter_guess": 2,
+      "pages": [
+        189,
+        192
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Both Ecclesiasticus margin notes unreadable: Ecclus 15:14–15 and 17:1, 5, 6, 10, 11 supplied, with notes. 'judicem quoque futuro' read as 'judicium quoque futurum'."
+    },
+    {
+      "id": "genesis-022",
+      "book": "genesis",
+      "art": 22,
+      "chapter_guess": 2,
+      "pages": [
+        192,
+        197
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Printed 'prævenatur' read 'præveniatur', 'lætetur' read 'fatetur'."
+    },
+    {
+      "id": "genesis-023",
+      "book": "genesis",
+      "art": 23,
+      "chapter_guess": 3,
+      "pages": [
+        197,
+        202
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "the end of this article ('invideret eis quod regerent semetipsos … contra eum inducta sunt', PDF 202 right column) had been cut into Art. XXIV; moved back. PDF 199: text missing after 'In gestis quoque Alexandri habetur quod' (the margin itself notes a lacuna) and a broken word 'el[…]tur' (probably eloquitur); kept as […]. In the Scholastic History quotation 'Deus volens vos … assimilari' the sense seems to need nolens (noted, Latin unchanged)"
+    },
+    {
+      "id": "genesis-024",
+      "book": "genesis",
+      "art": 24,
+      "chapter_guess": 3,
+      "pages": [
+        202,
+        210
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Unreadable margin notes: Rom 5:14 ('ut testatur Apostolus') and 3 Kings 11:4 (Solomon's idols) supplied as reference-only markers, with notes."
+    },
+    {
+      "id": "genesis-025",
+      "book": "genesis",
+      "art": 25,
+      "chapter_guess": 3,
+      "pages": [
+        210,
+        215
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Margin '* herbam' beside 'herbas' (3:18) is a variant reading, given as a note."
+    },
+    {
+      "id": "genesis-026",
+      "book": "genesis",
+      "art": 26,
+      "chapter_guess": 3,
+      "pages": [
+        215,
+        219
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Unclear phrase 'derelinquantur a Deo de suis præsumptionibus' (3:21) translated with a note."
+    },
+    {
+      "id": "genesis-027",
+      "book": "genesis",
+      "art": 27,
+      "chapter_guess": 3,
+      "pages": [
+        219,
+        227
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published, but text is lost in the transcription on PDF 224: after 'mox transgressio facta' (question 6) and the answer at 'Respondetur communiter quod […]' (question 9). 'Deus nonnullis præcepit hoc' probably 'non illis' (note added)."
+    },
+    {
+      "id": "genesis-028",
+      "book": "genesis",
+      "art": 28,
+      "chapter_guess": 4,
+      "pages": [
+        227,
+        234
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Two words unreadable in the transcription (PDF 233: 'ejusdem sanguinis […] fuerunt', 'ultionem […] criminis'), kept as […]; sense clear. 'Jacob. v, i' read as Jas 5:4."
+    },
+    {
+      "id": "genesis-029",
+      "book": "genesis",
+      "art": 29,
+      "chapter_guess": 4,
+      "pages": [
+        234,
+        243
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Translated in two parts (split at 4:17). A Hebrew word Jerome gives ('In Hebræo […] dicitur', presumably Nod) is unread in the transcription. Job 13:24 margin: Denis's words are not the verse's; reference-only marker with a note."
+    },
+    {
+      "id": "genesis-030",
+      "book": "genesis",
+      "art": 30,
+      "chapter_guess": 4,
+      "pages": [
+        243,
+        247
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Three small gaps in the transcription, all inside lemmata (v. 5 twice, v. 16), left as […]. Unreadable margin notes taken as Acts 15:5 and Ps 58:12, with notes; Dan 9:27 tagged where the margin gives 9:26."
+    },
+    {
+      "id": "genesis-031",
+      "book": "genesis",
+      "art": 31,
+      "chapter_guess": 5,
+      "pages": [
+        247,
+        253
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Re-cut: end of article (PDF 253 right column) had been placed in genesis-032.txt. Three margin notes partly unread in the transcription (Ecclus 44:16, Ps 89:10, 2 Kings 19:32 supplied, with notes); margin 'I Cor. xv, 45' marked 1 Cor 15:48, where the words are."
+    },
+    {
+      "id": "genesis-032",
+      "book": "genesis",
+      "art": 32,
+      "chapter_guess": 6,
+      "pages": [
+        253,
+        259
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 6, Art. XXXII (pp. 147–153, PDF 253–259; scheduled run, translated by the run). Its end ('sic prævidere … cladis designat', PDF 259 right column) had been cut into genesis-033.txt; moved back. Opening lemma is Gen 5:31 (untagged paragraph). Small gaps in the transcription kept as […]: lemma of 6:4 ('[…]que filiæ gestarunt', Vulgate 'illæque genuerunt'), 'Nam et Prophe[…] quando […] aliquid contemplabantur … ut Origenes disserunt' (PDF 257), '[…]ste gigantes' at the top of PDF 258 right column. Both margin notes beside Ezechiel and Isaias unreadable: Ezech 2:1 tagged, Is 21:3 reference-only (Denis's 'Corrui quum viderem' is loose), with notes. Duplicated line at the Num/Deut/1 Par notes removed."
+    },
+    {
+      "id": "genesis-033",
+      "book": "genesis",
+      "art": 33,
+      "chapter_guess": 6,
+      "pages": [
+        259,
+        264
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-034",
+      "book": "genesis",
+      "art": 34,
+      "chapter_guess": 6,
+      "pages": [
+        264,
+        268
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-035",
+      "book": "genesis",
+      "art": 35,
+      "chapter_guess": 6,
+      "pages": [
+        268,
+        272
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "margin note unreadable in the transcription beside 'fructum centesimum, sexagesimum' (PDF 271): given as Matt 13:8, to be checked against the scan"
+    },
+    {
+      "id": "genesis-036",
+      "book": "genesis",
+      "art": 36,
+      "chapter_guess": 7,
+      "pages": [
+        272,
+        277
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "one word unreadable in the transcription at 7:12 ('impetuosissime ac […] cadens', PDF 275)"
+    },
+    {
+      "id": "genesis-037",
+      "book": "genesis",
+      "art": 37,
+      "chapter_guess": 7,
+      "pages": [
+        277,
+        279
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-038",
+      "book": "genesis",
+      "art": 38,
+      "chapter_guess": 8,
+      "pages": [
+        279,
+        284
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-039",
+      "book": "genesis",
+      "art": 39,
+      "chapter_guess": 8,
+      "pages": [
+        284,
+        288
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-040",
+      "book": "genesis",
+      "art": 40,
+      "chapter_guess": 9,
+      "pages": [
+        288,
+        295
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 9, Art. XL (pp. 182–189, PDF 288–295; scheduled run, two workers, split at 9:12). Small gaps in the transcription kept as […] ('metuunt homines, […] humanam', PDF 288; 'signum fœderis […] inter me', 9:12). Unreadable margin notes: Gen 14:14 (Abraham's servants) and, less certain, Gen 8:21 (beside 'assecuravit ipsum Noe') supplied with notes; 'cap. […], 13' given as Gen 42:13. Margin 'Ephes. xi, 5' read as Eph 6:5. Denis's 'Maledictus puer Chanaan' (9:25) noted."
+    },
+    {
+      "id": "genesis-041",
+      "book": "genesis",
+      "art": 41,
+      "chapter_guess": 9,
+      "pages": [
+        296,
+        299
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 9, Art. XLI (pp. 190–193, PDF 296–299; scheduled run, one worker). Its end ('apud eos, qui possunt prodesse … plurimæ auctoritates') had been cut into genesis-042.txt; moved back. Words lost in the 9:21–22 lemmata kept as […] (PDF 297?). Unreadable margin note beside 'Alios salvos fecit' tagged Matt 27:42 (also Mark 15:31); margin 'Ps. xlvi, 17' marked Ps 44:17, where the words are (noted)."
+    },
+    {
+      "id": "genesis-042",
+      "book": "genesis",
+      "art": 42,
+      "chapter_guess": 10,
+      "pages": [
+        299,
+        302
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 10, Art. XLII (pp. 193–196, PDF 299–302; scheduled run, one worker). Its end ('tium. Præterea, in Scholastica historia … quod alibi reprobavi', PDF 302 right column top) had been cut into genesis-043.txt; moved back. At 10:32 the transcription reads 'Ab his divisæ sunt penitus in terra' (Vulgate 'gentes'): kept, check the scan. Edition's variant notes (Ob hoc, Sinæum, usque Lesa, patre) given as bracketed notes."
+    },
+    {
+      "id": "genesis-043",
+      "book": "genesis",
+      "art": 43,
+      "chapter_guess": 11,
+      "pages": [
+        302,
+        308
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 11, Art. XLIII (pp. 196–202, PDF 302–308; scheduled run, one worker). Its end ('inter illos Enoch … cum conjuge sua in Haran', PDF 308 right column top) had been cut into genesis-044.txt; moved back. 'primis parentibus dinitum' kept as transcribed (read as 'inditum', noted). Jos 24:2 marked without a margin note (Denis names Josue)."
+    },
+    {
+      "id": "genesis-044",
+      "book": "genesis",
+      "art": 44,
+      "chapter_guess": 11,
+      "pages": [
+        308,
+        310
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 11, Art. XLIV (pp. 202–204, PDF 308–310; scheduled run, one worker). Its end ('cendo: Salutat vos Ecclesia … bonis ac justis', PDF 310 right column top) had been cut into genesis-045.txt; moved back. Margin Job xli, 25 marked Job 41:24, Osee x, 9 marked Osee 11:9, Is. xiv, 14 marked Is 14:13–14, where the words are (noted)."
+    },
+    {
+      "id": "genesis-045",
+      "book": "genesis",
+      "art": 45,
+      "chapter_guess": 12,
+      "pages": [
+        310,
+        318
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "margin notes unreadable in the transcription beside 'hæ in hac vita … de Hemor habetur' (PDF 313): 'Princeps Dei es apud nos' given as Gen 23:6; the second note not recovered"
+    },
+    {
+      "id": "genesis-046",
+      "book": "genesis",
+      "art": 46,
+      "chapter_guess": 12,
+      "pages": [
+        318,
+        321
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-047",
+      "book": "genesis",
+      "art": 47,
+      "chapter_guess": 13,
+      "pages": [
+        321,
+        323
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Denis's lemma at 13:14 reads 'Leva oculos tuos in directum' (the Clementine has no 'in directum' there; noted in a bracket)."
+    },
+    {
+      "id": "genesis-048",
+      "book": "genesis",
+      "art": 48,
+      "chapter_guess": 14,
+      "pages": [
+        324,
+        328
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Re-cut: end of the article moved back from genesis-049.txt. Printed 'alumnavit' at 14:14 kept (note suggests adunavit). Denis cites Thomas III q. 21; the passage is III q. 22 a. 5 (noted)."
+    },
+    {
+      "id": "genesis-049",
+      "book": "genesis",
+      "art": 49,
+      "chapter_guess": 14,
+      "pages": [
+        328,
+        329
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 14, Art. XLIX (pp. 222–223, PDF 328–329; scheduled run, one worker with Art. LI). Its end ('benedicitque Deo, et gratias agit ei … fides nostra', PDF 329 right column top) had been cut into genesis-050.txt; moved back."
+    },
+    {
+      "id": "genesis-050",
+      "book": "genesis",
+      "art": 50,
+      "chapter_guess": 15,
+      "pages": [
+        329,
+        337
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 15, Art. L (pp. 223–231, PDF 329–337; scheduled run, two workers, split at 15:9; the transcription heads it 'ARTICULUS I'). Unreadable margin 'Ps. […]' taken as Ps 17:31 (noted). 'magnus pa- / […] iste' (PDF 334) read as 'pavor iste'. Margin 'Jerem. 2' beside Caleb's age does not fit: Jos 14:7 given as reference-only, with a note. Douay-Rheims file slips seen: Gen 15:9 'three years. and a ram' (comma), Gen 15:18 'from the river to Egypt' (Challoner 'of Egypt')."
+    },
+    {
+      "id": "genesis-051",
+      "book": "genesis",
+      "art": 51,
+      "chapter_guess": 15,
+      "pages": [
+        337,
+        341
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 15, Art. LI (pp. 231–235, PDF 337–341; scheduled run, one worker with Art. XLIX). Its end ('assistebant, et pertinebant ad eum … usque ad fines terræ', PDF 341 right column top) had been cut into genesis-052.txt; moved back. Margin John 17:12 marked John 18:9 and Dan 9:26 marked 9:27, where the words are (noted). Douay-Rheims file slip seen: 1 John 5:4 'overcameth'."
+    },
+    {
+      "id": "genesis-052",
+      "book": "genesis",
+      "art": 52,
+      "chapter_guess": 16,
+      "pages": [
+        341,
+        347
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "margin note unreadable beside 'ante promiserit Abræ quod esset sobolem…' (PDF 341): given as Gen 15:4; at v. 13 the transcription garbles Lyra's quotation ('Videntis me'), 'Vidi posteriora' supplied from the lemma; the transcription also repeats some line-end syllables and one line (PDF 345–346), removed"
+    },
+    {
+      "id": "genesis-053",
+      "book": "genesis",
+      "art": 53,
+      "chapter_guess": 16,
+      "pages": [
+        347,
+        349
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published, but words are lost in the transcription on PDF 348 (16:6 passage): 'Cui re[…] Abram', 'Synagogam […] subjecto', 'ad […]atum', '[…] Sarai, fugam iniit'; and the last margin note 'I Pe[…]' (taken as 1 Pet 2:21, noted). Marked […]; please check the scan."
+    },
+    {
+      "id": "genesis-054",
+      "book": "genesis",
+      "art": 54,
+      "chapter_guess": 17,
+      "pages": [
+        349,
+        353
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published, but text is lost in the transcription (PDF 350–352): the end of the 17:5 lemma 'patrem multarum gen[…]', two margin notes beside 'ad Romanos et Galatas' (taken as Rom 4:11, Gal 3:7, noted), the end of the 17:7 lemma 'inter […]', and before 'ritum fecit' (17:14). Marked […]; please check the scan. Denis reads 'Ego Dominus omnipotens' (17:1) and 'ad Dominum' (17:18): noted."
+    },
+    {
+      "id": "genesis-055",
+      "book": "genesis",
+      "art": 55,
+      "chapter_guess": 17,
+      "pages": [
+        353,
+        356
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 17, Art. LV (pp. 247–250, PDF 353–356; scheduled run, one worker). Its end ('puer ille irritum fecit pactum Dei … tius locum habent', PDF 356 right column top) had been cut into genesis-056.txt; moved back. One word lost in the transcription ('in deserto […] diu manserunt'), kept as […]. Margin 'Act. xv' (chapter only) marked Acts 15:9."
+    },
+    {
+      "id": "genesis-056",
+      "book": "genesis",
+      "art": 56,
+      "chapter_guess": 17,
+      "pages": [
+        356,
+        359
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 17, Art. LVI (pp. 250–253, PDF 356–359; scheduled run, one worker). Printed 'quasi sermo quendam' read as 'quasi senio quodam' (check the scan); lemma 17:2 'Pactumque fœdus' kept (Vulgate 'Ponamque'). Margin Rom. xv, 19 marked Rom 6:13 and 6:19, where the words are (noted)."
+    },
+    {
+      "id": "genesis-057",
+      "book": "genesis",
+      "art": 57,
+      "chapter_guess": 18,
+      "pages": [
+        360,
+        369
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published, but words are lost in the transcription: the start of the 18:14 lemma ('[…] ad te'), 'prop[…]' (18:24, PDF ~367) and 'prosequendo meam […] petitionem' (18:27); unreadable margin notes beside the 18:1 lemma and at John 11:50 (tagged) and 1 Tim 5:8 (tagged). Marked […]; please check the scan. Margin Num. xvi, 26 taken as Num 26:11, Ezech. xxi, 8 as Ezech 21:4, Ps. i, 8 as Ps 50:8 (notes added). Re-cut: its end had been in genesis-058.txt."
+    },
+    {
+      "id": "genesis-058",
+      "book": "genesis",
+      "art": 58,
+      "chapter_guess": 18,
+      "pages": [
+        369,
+        373
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published, but text is lost in the transcription: the 18:1 lemma 'in convalle […] Mambre' and several margin notes (beside 1 Thess 5:8, Is 4:2, John 10:7, Wis 12:16 and one at the start of the questions, PDF 370–373); the passages were identified from the text (notes added). Marked […]; please check the scan. Re-cut: its heading was split and its end ('veni, et effudi … quod volo, facere?') was in genesis-059.txt."
+    },
+    {
+      "id": "genesis-059",
+      "book": "genesis",
+      "art": 59,
+      "chapter_guess": 19,
+      "pages": [
+        373,
+        381
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published as Genesis 19, Art. LIX (pp. 267–275, PDF 373–381; scheduled run, two workers, split at 19:18). Its end ('ex uno viro, unaque femina … Ammonitarum usque hodie', PDF 381 right column top) had been cut into genesis-060.txt; moved back. Words lost in the transcription, kept as […]: PDF 375 ('clauserunt […] ostium' 19:10, and the Greek word for blindness, evidently aorasia, 19:11), PDF 379 (19:21–22 lemmata; 'a sulfureo illo igne […]tione … ve[…]citer … infernl […]'), PDF 380 ('appare[…]'). Unreadable margin notes supplied: Jer 44:22, Is 15:5, Lam 4:6, 2 Pet 2:8 (noted)."
+    },
+    {
+      "id": "genesis-060",
+      "book": "genesis",
+      "art": 60,
+      "chapter_guess": 19,
+      "pages": [
+        381,
+        383
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published as Genesis 19, Art. LX (pp. 275–277, PDF 381–383; scheduled run, one worker). Its end ('urbibus, habere in se cives … esse præsumunt', PDF 383 right column top) had been cut into genesis-061.txt; moved back. One word lost at the opening ('edocemur, ut […] exemplo Lot'). Margin numerals unread for Is 3:9, John 8:44 (quoted) and Prov (Prov 2:14 given as reference-only), noted."
+    },
+    {
+      "id": "genesis-061",
+      "book": "genesis",
+      "art": 61,
+      "chapter_guess": 20,
+      "pages": [
+        383,
+        387
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published, but words are lost in the transcription in the 20:13 lemmata (PDF ~386, several words, marked […]) and at 'Sar[…] autem dixit' (20:16); please check the scan. The transcription's 'culpam' in the 20:18 lemma was read as 'vulvam' (the Vulgate's word): check. Margin Gen. xxi, 33 is loose (Gen 26:1 calls Abimelech king of the Palestines; noted). Re-cut: its end had been in genesis-062.txt."
+    },
+    {
+      "id": "genesis-062",
+      "book": "genesis",
+      "art": 62,
+      "chapter_guess": 21,
+      "pages": [
+        387,
+        391
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "One unreadable margin note beside the four kings Abraham defeated (PDF ~390): given as Gen 14:15 with a note. Margin Gen. xviii, 19 given as Gen 18:10 (noted). Denis has Abraham 'nonaginta' at his circumcision (noted)."
+    },
+    {
+      "id": "genesis-063",
+      "book": "genesis",
+      "art": 63,
+      "chapter_guess": 22,
+      "pages": [
+        392,
+        397
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Five margin notes unreadable in the transcription (PDF 393–397): identified from the text as 2 Par 3:1, Zach 2:4, John 21:5; two left as notes only (the upper room; 'ad Romanos', closest to Heb 11:19). Margin 'Ibid. x, 1' taken as Dan 10:1 (noted)."
+    },
+    {
+      "id": "genesis-064",
+      "book": "genesis",
+      "art": 64,
+      "chapter_guess": 22,
+      "pages": [
+        398,
+        399
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Re-cut: its end ('crucifigi pro nobis … in cordibus demoratur fidelium', PDF 399 right column top) was in genesis-065.txt; moved back and translated by the run. Margin notes for Jdt 8:22, 1 Mach 2:52, Wis 3:6 partly unreadable (noted)."
+    },
+    {
+      "id": "genesis-065",
+      "book": "genesis",
+      "art": 65,
+      "chapter_guess": 23,
+      "pages": [
+        399,
+        401
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Translated from the re-cut file: its end ('est translatus ad dominum Abrahæ … absconditur', PDF 401) had been in genesis-066.txt and was moved back (commit caa20cd). Denis's text of 23:12 adds 'coram Domino' (noted)."
+    },
+    {
+      "id": "genesis-066",
+      "book": "genesis",
+      "art": 66,
+      "chapter_guess": 24,
+      "pages": [
+        401,
+        408
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription (PDF 401–405): 24:2 'Pone manum […] femur meum'; 24:22 three words after 'Postquam autem' and 'armillas totidem in […]'; 24:47 'sua brachia […]'. Margin notes beside Gen 49:10 and 'Omnes animæ quæ egressæ sunt de femore Jacob' unreadable (tagged Ex 1:5; Denis's 'infra' may mean Gen 46:26). Suspect readings noted in the text: 'impotens' (24:11), 'memorare dolorem' (last sentence)."
+    },
+    {
+      "id": "genesis-067",
+      "book": "genesis",
+      "art": 67,
+      "chapter_guess": 24,
+      "pages": [
+        408,
+        411
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription at 24:64 ('atque per contempla[…]ionem deseruit', PDF 411 right column top). Its end had been in genesis-068.txt (re-cut, commit e3a2270). The printed lemma of 24:21 reads 'Illa autem contemplabatur eum' (Vulgate 'Ipse … eam'; noted)."
+    },
+    {
+      "id": "genesis-068",
+      "book": "genesis",
+      "art": 68,
+      "chapter_guess": 25,
+      "pages": [
+        411,
+        418
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; a word lost in the transcription in the first sentence ('describuntur novæ […] nuptiæ', PDF 411). Unreadable margin notes beside Augustine (twice), 'de uxore Levitæ' (given Judg 19:1, a guess), 'sanctus Job' (Job 1:1) and 'sagenæ' (Matt 13:47): check against the scan. Its end ('venantur ad mortem … rectitudini æquitatis') had been in genesis-069.txt (re-cut, commit a9b4902)."
+    },
+    {
+      "id": "genesis-069",
+      "book": "genesis",
+      "art": 69,
+      "chapter_guess": 26,
+      "pages": [
+        418,
+        423
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription at the top of PDF 422 (p. 316): the end of the lemma 26:25 'præcepitque servis suis ut fo[derent …]' and whatever gloss followed, before 'Jam enim fuerat animatus'. Margin notes unreadable: one beside 'Istud omnino concordat' (26:7; noted in the text), and the verse of 'II Reg. xv' beside 'amicus regis' (26:26; tagged 2 Kings 15:37). Denis's 'vicesimo capitulo' for Phicol is Gen 21:22 (noted)."
+    },
+    {
+      "id": "genesis-070",
+      "book": "genesis",
+      "art": 70,
+      "chapter_guess": 26,
+      "pages": [
+        423,
+        425
+      ],
+      "status": "done",
+      "source": "transcribed"
+    },
+    {
+      "id": "genesis-071",
+      "book": "genesis",
+      "art": 71,
+      "chapter_guess": 27,
+      "pages": [
+        425,
+        431
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription: the opening sentence 'benedixit J[…] filiis suis' (PDF 425); the lemma of 27:16 'pel[…] Jacob, […]' (end of PDF 426 / top of 427); 27:36 'supplantavit […] altera vice. Primogenita […]'; 27:39 'In pinguedine […]' (PDF 429). Margin notes partly unreadable: 'II Reg. […] 14' (tagged 2 Kings 8:14, as the same note earlier in the article), and 'Aug. in […] q. lxxx'. Translated from the re-cut file (end of the article moved back from genesis-072.txt). Art. LXX pages corrected to pp. 317–318."
+    },
+    {
+      "id": "genesis-072",
+      "book": "genesis",
+      "art": 72,
+      "chapter_guess": 27,
+      "pages": [
+        431,
+        434
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Its end ('A per Romanos deletis … sententialiter sunt inducta', PDF 434) had been in genesis-073.txt (re-cut, commit 8ad0120). Margin 'Jerem. […]' unreadable (Ephraim primogenitus meus = Jer 31:9); margin 'Is. xli, 11' tagged Is 45:25, whose words Denis quotes; marginal readings '* totus' and '* prætact' noted; Denis's 27:28 adds 'et olei' (noted)."
+    },
+    {
+      "id": "genesis-073",
+      "book": "genesis",
+      "art": 73,
+      "chapter_guess": 28,
+      "pages": [
+        434,
+        438
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Its end ('nosque pie hortantem … regni cœlestis', PDF 438) had been in genesis-074.txt (re-cut, commit dcf15ca). Margin 'Luc. xxi, 10-13' (the upper room) given as Luke 22:12; 'humanita- / II. Quidam' read as 'humanitati. Quidam' (check the scan); Denis's Hab 3:2 adds the Old Latin 'consideravi opera tua, et expavi'; 28:13 'docentem', 28:14 'ad orientem et occidentem' noted."
+    },
+    {
+      "id": "genesis-074",
+      "book": "genesis",
+      "art": 74,
+      "chapter_guess": 29,
+      "pages": [
+        438,
+        443
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription: 29:33 'audivit me Dominus habe[…] contemptui' (PDF 441), and at the start of the spiritual sense (PDF 441/442) 'profi[…]ens ad ea agenda quæ spiritualis pater suus et committit, venit in terram orientalem, id est, regionem cœlestem, quæ est terra viventium ingredi promeretur … Venit quoque in terram orientalem, id est, nomine et re ad militantem spectat Ecclesiam': a line or two seem to be missing (noted in the text). Margin notes unreadable beside 'ut ex filiabus Laban sumeret conjugem' (tagged Gen 28:2) and 'Apoc. […]' (tagged Apoc 3:7). 'solito manius' (29:11) read as 'solito maturius' (noted)."
+    },
+    {
+      "id": "genesis-075",
+      "book": "genesis",
+      "art": 75,
+      "chapter_guess": 30,
+      "pages": [
+        443,
+        453
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "already in the app from an earlier translation"
+    },
+    {
+      "id": "genesis-076",
+      "book": "genesis",
+      "art": 76,
+      "chapter_guess": 30,
+      "pages": [
+        453,
+        455
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "already in the app from an earlier translation"
+    },
+    {
+      "id": "genesis-077",
+      "book": "genesis",
+      "art": 77,
+      "chapter_guess": 31,
+      "pages": [
+        455,
+        460
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "already in the app from an earlier translation"
+    },
+    {
+      "id": "genesis-078",
+      "book": "genesis",
+      "art": 78,
+      "chapter_guess": 32,
+      "pages": [
+        460,
+        465
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription: 32:10 '(_[…] duabus turmis_ … regredior)' (Vulgate 'et nunc cum'), 32:31 'Ortus […] sol' (Vulgate 'Ortusque est ei statim sol'), and a word or two before 'eumque honorando' in the last sentence (PDF 465). Margin note beside 'Ideo loquitur Augustinus' unreadable; 'II. Reges. 14' tagged 2 Kings 8:14 (noted). Matt 13:58: Denis's words are Mark 6:5 + Matt 13:58 (both tagged, noted). The file also held the end of Art. LXXVII ('Omnipotentis conspexit … diu vixisse', PDF 460, after genesis-077.txt's '…qui visiones'): left out here; Art. LXXVII in the app (earlier sample translation) still stops at 'epulan[di] …' (31:54), so 31:54–55 and this closing passage on Laban are not yet translated. Its last paragraph ('Præterea de hoc sancti Jacob luctamine …', PDF 465) had been in genesis-079.txt; added."
+    },
+    {
+      "id": "genesis-079",
+      "book": "genesis",
+      "art": 79,
+      "chapter_guess": 32,
+      "pages": [
+        465,
+        467
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Its file began with the last paragraph of Art. LXXVIII ('Præterea de hoc sancti Jacob luctamine … ac fletum', PDF 465 right column, above the heading): moved back to Art. LXXVIII (Osee 12:3–4 tagged; its margin note is unreadable). Denis's Joel 2:11 reads 'castra Dei' (noted); Prov 12:21 adds 'nec perturbabit' (noted)."
+    },
+    {
+      "id": "genesis-080",
+      "book": "genesis",
+      "art": 80,
+      "chapter_guess": 33,
+      "pages": [
+        467,
+        469
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Its end ('…Hebræum æquivocum … desiderio amicitiæ atque concordiæ', PDF 469 right column top) had been in genesis-081.txt (re-cut, commit 54ca1c2). 33:11 'Vir a fratre' read as 'Vix a fratre'; Denis's Prov 21:1 has 'cor hominum' for 'cor regis' (noted)."
+    },
+    {
+      "id": "genesis-081",
+      "book": "genesis",
+      "art": 81,
+      "chapter_guess": 34,
+      "pages": [
+        469,
+        473
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Translated from the re-cut file (end of the article moved back from genesis-082.txt). 'per manum inquam' (PDF 473) read as 'per manum iniquam'. Denis's Judith 9:2–3 differs from the Clementine wording (noted)."
+    },
+    {
+      "id": "genesis-082",
+      "book": "genesis",
+      "art": 82,
+      "chapter_guess": 35,
+      "pages": [
+        473,
+        477
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Translated from the re-cut file (the end of Art. LXXXI and a repeated heading removed). The margin note beside 'ut primo Paralipomenon' (PDF 475) is unreadable in the transcription (tagged 1 Par 2:19, noted)."
+    },
+    {
+      "id": "genesis-083",
+      "book": "genesis",
+      "art": 83,
+      "chapter_guess": 35,
+      "pages": [
+        477,
+        479
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published from the re-cut file (end of the article moved back from genesis-084.txt). Words lost in the transcription: 35:2 'Abjicite deos […] et mundamini' (PDF 478); at the top of the right column of PDF 479 the transcription reads 'dormivit, amicorum, ad quam horrenda vitia', where 'amicorum' cannot be right (given as […], noted). Margin notes unreadable beside Col 3:5, Col 3:9 and 'Ephes. […], 24' (tagged Eph 4:24) and 'Zach. […]' (Zach 3:4). Read 'parem' as 'pacem', 'sincoræ' as 'sinceræ'."
+    },
+    {
+      "id": "genesis-084",
+      "book": "genesis",
+      "art": 84,
+      "chapter_guess": 36,
+      "pages": [
+        479,
+        482
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Translated from the re-cut file (end of the article moved back from genesis-085.txt; a repeated heading removed). Several margin notes unreadable in the transcription (tagged Gen 32:3, 4 Kings 8:20, Gen 22:21, 1 Par 1:51; each noted); 'Gen. xxxvi, 34' read as Gen 26:34 (noted). Denis's text has 'Balac' for Bela (36:32, noted)."
+    },
+    {
+      "id": "genesis-085",
+      "book": "genesis",
+      "art": 85,
+      "chapter_guess": 37,
+      "pages": [
+        482,
+        489
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription in Jerome on 'polymita' (37:3, PDF 483): '[…] mitos' and Aquila's rendering after 'interpretatus est […]' (probably Greek). Margin 'Jer. xli, 15' tagged Jer 40:15 (the words are there; noted). Gen 42:21 given by Denis to Ruben (noted). Prov 21:30 / Job 5:13 both given to Solomon by Denis (noted). Douay-Rheims slip in data/bible/drc/genesis.json, 37:4: 'hated hem' for 'hated him'."
+    },
+    {
+      "id": "genesis-086",
+      "book": "genesis",
+      "art": 86,
+      "chapter_guess": 37,
+      "pages": [
+        490,
+        492
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Two margin notes unreadable: beside 'tinxerunt tunicam … hædi' (37:31, nothing tagged) and beside 'Vultis super nos inducere sanguinem hominis hujus' (tagged Acts 5:28, noted). 'Tu es Filius meus dilectus, in quo mihi bene complacui' tagged Luke 3:22 + Matt 17:5 as the margin gives (noted)."
+    },
+    {
+      "id": "genesis-087",
+      "book": "genesis",
+      "art": 87,
+      "chapter_guess": 38,
+      "pages": [
+        492,
+        495
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published from the re-cut file (end of the article moved back from genesis-088.txt). Words lost in the transcription: 38:14 'eo quod crevisset Sela, videlicet tertius filius Judæ […] […] maritum' (PDF 493), and the end of the sentence 'sed nec David uxores suas ab Absalon cognitas […]' (PDF 494). Margin note beside 'de filiabus Lot' unreadable (tagged Gen 19:32). Denis's 38:12 reads 'mortua est Sue uxor Judæ' (Vulgate 'filia Sue', noted). Also in this commit: the Latin sides of eight quotation markers in Arts. LXIX, LXX, LXXI, LXXXI, LXXXII (this run's) now quote Denis's own wording."
+    },
+    {
+      "id": "genesis-088",
+      "book": "genesis",
+      "art": 88,
+      "chapter_guess": 39,
+      "pages": [
+        495,
+        498
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published from the re-cut file (end of the article moved back from genesis-089.txt). Words lost in the transcription: the start of the lemma 39:19 '[…] domino, et nimium credulus' (PDF 497). Margin note beside 'ipsa cooperata sunt ei in bonum' unreadable (tagged Rom 8:28, noted). Read 'et ille, apprehensa lacinia' (39:12) as 'et illa', 'serviv it' as 'servivit', 'concupiscentius' as 'concupiscentiis'."
+    },
+    {
+      "id": "genesis-089",
+      "book": "genesis",
+      "art": 89,
+      "chapter_guess": 39,
+      "pages": [
+        498,
+        500
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published from the re-cut file (end of the article moved back from genesis-090.txt; repeated heading removed there). Words lost in the transcription (PDF 499): 'beatissimi Joseph […] patriarchæ' and 'Deinceps ob […] suam inflexibilem æquitatem'. Margins checked: 'Psal. xc, 2' is Is 11:2, 'Jer. iii, 5' is Jer 51:5 (both noted)."
+    },
+    {
+      "id": "genesis-090",
+      "book": "genesis",
+      "art": 90,
+      "chapter_guess": 40,
+      "pages": [
+        500,
+        503
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; heading partly lost in the transcription ('ARTICU[…]', 'HIS[…] DUO EU[…]'), and words lost at 40:20 'natalitius Pharao[…] […] erat' (PDF 502). Margin 'Eccli. … xxix, 20' tagged Ecclus 29:19, where the Douay-Rheims file has those words (noted). Is 28:19 tagged on 'vexatio dat intellectum' (noted)."
+    },
+    {
+      "id": "genesis-091",
+      "book": "genesis",
+      "art": 91,
+      "chapter_guess": 41,
+      "pages": [
+        503,
+        508
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost at 41:42 'in ma[…]u ejus' (PDF 507). Margin notes partly lost: 'Ibid. […]' (Daniel; reference-only Dan 4:5, fairly but not fully sure, noted) and one unreadable beside 'Non observabitis somnia' (tagged Lev 19:26, noted). Margin 'Esth. viii, 8' tagged Esth 8:2 (the ring given to Mardochai; noted). The v. 47 lemma is printed garbled (kept, noted). Latin guesses: 'usque'→'usuque'."
+    },
+    {
+      "id": "genesis-092",
+      "book": "genesis",
+      "art": 92,
+      "chapter_guess": 41,
+      "pages": [
+        509,
+        510
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Translated from the re-cut file (end of the article moved back from genesis-093.txt). The margin note beside Eliseus' cry (4 Kings 2:12; 13:14) is unreadable in the transcription (noted)."
+    },
+    {
+      "id": "genesis-093",
+      "book": "genesis",
+      "art": 93,
+      "chapter_guess": 42,
+      "pages": [
+        510,
+        514
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:11:27Z",
+      "note": "Lost letters at v. 16 supplied as 'eri[tis]', 'dice[…]'; v. 38 'ad [ter]ram' supplied. Margin 'Gen. xxxvii, et seq.' given as Gen 37:5 (the dreams)."
+    },
+    {
+      "id": "genesis-094",
+      "book": "genesis",
+      "art": 94,
+      "chapter_guess": 43,
+      "pages": [
+        515,
+        518
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:12:12Z",
+      "note": "Translated from the re-cut file (end of the article moved back from genesis-095.txt). Supplied 'Schola[stic]am', 'm[ellis]', '[Desc]enderuntque'. A Greek word seems missing after 'a quo Græce' (resin passage): noted."
+    },
+    {
+      "id": "genesis-095",
+      "book": "genesis",
+      "art": 95,
+      "chapter_guess": 44,
+      "pages": [
+        518,
+        523
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription: the v. 10 lemma ('Fiat juxta […]', 'Apud quemcumque fuerit […]', PDF 520) and a word before 'tali' (PDF 521). Read 'peperit puritas conscientiæ' where the transcription has 'peperit pu- / Veritas conscientiæ' (PDF 522): check. Margin notes partly unreadable: beside Simeon and Levi (reference-only Gen 34:25), 'III Reg. […]' (3 Kings 17:6), 'Gen. […]' (Gen 37:8, noted). Acts 7:22: Denis has 'scientia' for 'sapientia' (noted)."
+    },
+    {
+      "id": "genesis-096",
+      "book": "genesis",
+      "art": 96,
+      "chapter_guess": 45,
+      "pages": [
+        523,
+        527
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription at 45:1 ('Multis […]', PDF 523), 45:10 (probably 'terra Gessen'), 45:13 ('Nuntia[…]'), Denis's derivation of 'stola' (45:22), and 45:28 ('[…] et ait: Sufficit mihi', '[…] mei', 'et […] ejus'; PDF 526–527). 'consolabunt eis' (PDF 523) does not construe: kept, with a note."
+    },
+    {
+      "id": "genesis-097",
+      "book": "genesis",
+      "art": 97,
+      "chapter_guess": 46,
+      "pages": [
+        527,
+        531
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:21:55Z",
+      "note": "Unreadable margin notes beside 1 Kings 3:10, Ps 84:9 and Acts 7:14 (identified from the words; noted). A word lost at 'per […] seu præoccupationem' (probably prolepsis; noted, not supplied)."
+    },
+    {
+      "id": "genesis-098",
+      "book": "genesis",
+      "art": 98,
+      "chapter_guess": 47,
+      "pages": [
+        532,
+        537
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:21:55Z",
+      "note": "Unreadable margin notes beside Gen 45:6 and John 1:14 (identified from the words; noted). One word lost ('non […]'). 'Lev. xi, passim' given as Lev 11:25. Douay-Rheims slip in data: Ps 38:13 'Be no silent' (should be 'Be not silent')."
+    },
+    {
+      "id": "genesis-099",
+      "book": "genesis",
+      "art": 99,
+      "chapter_guess": 48,
+      "pages": [
+        538,
+        543
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; words lost in the transcription at 48:22 (PDF 541): 'pro po[…] tuis', 'pro sepul[…] corporis tui', 'quia promi[…] me sepelire' (kept as […], with the evident sense in notes). Margin notes unreadable beside 48:16 (top of PDF 540) and beside 'Porro, supra legitur: Habitavit Jacob juxta oppidum' (tagged Gen 33:18–19, noted). Gen 35:5 tagged without a margin note (Denis quotes it word for word). Read 'qui erunt' (48:6) as 'tui erunt', 'sepeliri eam' (48:7) as 'sepelivi eam', 'Cui de duobus' as 'Cur de duobus', 'aliequi' as 'alioqui', 'impensti' as 'impendisti'. Kept as printed: 'neque consolando' (48:16, sense needs 'atque'), 'absque sorte de eam tribui Joseph' (probably 'dedi eam', noted). Denis's 48:15 reads 'Benedixitque Jacob Joseph' (Vulgate 'filiis Joseph', noted)."
+    },
+    {
+      "id": "genesis-001-2",
+      "book": "genesis",
+      "art": 100,
+      "chapter_guess": 49,
+      "pages": [
+        543,
+        554
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:30:12Z",
+      "note": "This is Art. C (the transcription read the heading as 'ARTICULUS I'). Several margin notes unreadable (beside Gen 34:25-26, 1 Kings 17, Luke 11:21/Matt 12:29, Is 53:12, Is 45:25, and around Silo/Saul/David: 1 Kings 4:4, 15:26, 16:13 are guesses); each has a bracketed note. Some doubtful readings kept and noted (posuerunt, e locetur, viam latam proditionis)."
+    },
+    {
+      "id": "genesis-002-2",
+      "book": "genesis",
+      "art": 101,
+      "chapter_guess": 49,
+      "pages": [
+        555,
+        565
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:30:12Z",
+      "note": "This is Art. CI. Unreadable margin notes beside Ps 118:100, Lyra's 'confortatæ sunt super benedictiones', Phil 3:5 and Gen 25:17 (identified from the words; noted)."
+    },
+    {
+      "id": "genesis-102",
+      "book": "genesis",
+      "art": 102,
+      "chapter_guess": 49,
+      "pages": [
+        565,
+        571
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "note": "Published; the end of the article (from 'Patris, juxta quod scriptum est: Salvavit sibi dextera ejus' to 'magni pendenda') was in genesis-103.txt and is included here. Unreadable margin notes identified from the words: Ps 44:4, John 20:17, Matt 11:7 and 7:24, Ps 97:1, Is 52:10 (noted). Read by sense (check): 49:13 'in montibus constantium demoratur infidelium' as 'in mentibus … fidelium'. Source notes added from the translator's knowledge (check): the 'fatuam legem' saying given to Averroes; 'æternitas in Patre…' as Hilary cited by Augustine."
+    },
+    {
+      "id": "genesis-103",
+      "book": "genesis",
+      "art": 103,
+      "chapter_guess": 50,
+      "pages": [
+        571,
+        581
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; the text that opens genesis-103.txt after the first sentence (Benjamin the ravening wolf, Bala and Zelpha) is the end of Art. CII and was left out here. Margin note unreadable beside 'non sit sicut ceteri qui spem non habent' (50:1, PDF 571; tagged 1 Thess 4:12, noted). Kept as printed with notes: 'fratres Jacob' (50:21; Joseph's brethren meant), 'servo Dei patri tuo' (50:17). Read 'inquit resistunt' as 'iniqui resistunt', 'arcam Attath' as 'aream Attath'. Margin Gen 47:29–30 given as reference-only, with a note."
+    },
+    {
+      "id": "exodus-001",
+      "book": "exodus",
+      "art": 1,
+      "chapter_guess": 1,
+      "pages": [
+        581,
+        587
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:41:48Z",
+      "note": "Translated from the re-cut file (end of the article moved back from exodus-002.txt). Margin notes with lost book or chapter beside Gen 46:26 and Gen 46:34 (identified; noted). Lost word supplied: 'Oderantque [filios] Israel'."
+    },
+    {
+      "id": "exodus-002",
+      "book": "exodus",
+      "art": 2,
+      "chapter_guess": 1,
+      "pages": [
+        587,
+        590
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:41:48Z",
+      "note": "Translated from the re-cut file (end moved back from exodus-003.txt). Unreadable margin notes beside 1 Pet 2:2 and Heb 12:1–2 (identified from the words; noted)."
+    },
+    {
+      "id": "exodus-003",
+      "book": "exodus",
+      "art": 3,
+      "chapter_guess": 2,
+      "pages": [
+        590,
+        597
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:42:32Z",
+      "note": "two margin notes unreadable (at the 2:11 lemma, given as Acts 7:24; and at Stephen's words, given as Acts 7:25): check against the scan; read 'Sed Scriptura loquitur' where the transcription has 'Sed Scri- / plura loquitur'"
+    },
+    {
+      "id": "exodus-004",
+      "book": "exodus",
+      "art": 4,
+      "chapter_guess": 2,
+      "pages": [
+        597,
+        599
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:42:32Z",
+      "note": "margin note 'I Cor. […]' (verse lost) given as 1 Cor 16:1: check against the scan"
+    },
+    {
+      "id": "exodus-005",
+      "book": "exodus",
+      "art": 5,
+      "chapter_guess": 3,
+      "pages": [
+        599,
+        607
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "note": "Published; text corrupt at a page break in the transcription: 'perfectio- / riis, per incredulitatem percussit mortaliter' (kept as 'perfectio[…]riis', noted). Unreadable margin notes, verses supplied with notes: Luke 3:22 (with Matt 3:17), John 17:1 (with John 12:28), Luke 22:10 (wording of Mark 14:13); 'Cf. Sap. III, […]' given as Wis 3:8 (reference-only). Margin 'I Reg. x, 1-7' given as 1 Kings 10:1. Kept as printed with notes: 'cognati' (3:1, Vulgate 'soceri'), 'necessabiliter' (probably 'incessabiliter'), 'subita certa differentia temporis' (read as 'sub certa'). Ex 12:33 tagged without a margin note. Douay-Rheims slip in data/bible/drc/exodus.json, 3:4: 'out of the midst of the bush. and said'."
+    },
+    {
+      "id": "exodus-006",
+      "book": "exodus",
+      "art": 6,
+      "chapter_guess": 3,
+      "pages": [
+        608,
+        610
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:53:43Z",
+      "note": "published; words lost in the transcription: one word after 'æternaliterque' (PDF 609) and about two words at the start of the 3:18 lemma ('[…] trium dierum', probably 'Ibimus viam', PDF 610); margin note beside the 3:1 lemma unreadable"
+    },
+    {
+      "id": "exodus-007",
+      "book": "exodus",
+      "art": 7,
+      "chapter_guess": 4,
+      "pages": [
+        610,
+        619
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:53:43Z",
+      "note": "published; words lost in the transcription: in the passage on Moses's ass at 4:20 ('…corporis Isaac, […] meruerunt…', ending 'asinum […]') and after 'in monte Sinai ;' at 4:27 (PDF 619); two margin notes unreadable (given as Ex 7:20/14:16 and Jer 31:9)"
+    },
+    {
+      "id": "exodus-008",
+      "book": "exodus",
+      "art": 8,
+      "chapter_guess": 4,
+      "pages": [
+        619,
+        621
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T10:53:43Z",
+      "note": "margin note 'Marc. […]' (numbers lost) given as Mark 14:50; margin 'Act. v, 32' given as Acts 10:42, whose words Denis quotes"
+    },
+    {
+      "id": "exodus-009",
+      "book": "exodus",
+      "art": 9,
+      "chapter_guess": 5,
+      "pages": [
+        621,
+        624
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:04:16Z",
+      "note": "read 'Quare misisti _nœ_?' as 'me?' and 'maniter … advenerum' as 'inaniter … advenerim' (PDF 624, top)"
+    },
+    {
+      "id": "exodus-010",
+      "book": "exodus",
+      "art": 10,
+      "chapter_guess": 5,
+      "pages": [
+        624,
+        625
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:04:16Z"
+    },
+    {
+      "id": "exodus-011",
+      "book": "exodus",
+      "art": 11,
+      "chapter_guess": 6,
+      "pages": [
+        626,
+        632
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:10:19Z",
+      "note": "margin numbers lost at several notes (given as Ex 3:14, Num 12:8, Gen 15:7, Jer 6:10, Acts 7:51): check against the scan"
+    },
+    {
+      "id": "exodus-012",
+      "book": "exodus",
+      "art": 12,
+      "chapter_guess": 7,
+      "pages": [
+        632,
+        641
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:11:16Z",
+      "note": "end of the article (vv. 24–25, re-cut from exodus-013.txt) added in a second commit; Ex 7:15 in data/bible/drc has a stray apostrophe ('on the ' bank'), copied into the quotation"
+    },
+    {
+      "id": "exodus-013",
+      "book": "exodus",
+      "art": 13,
+      "chapter_guess": 7,
+      "pages": [
+        641,
+        642
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:17:26Z"
+    },
+    {
+      "id": "exodus-014",
+      "book": "exodus",
+      "art": 14,
+      "chapter_guess": 8,
+      "pages": [
+        643,
+        649
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:19:52Z",
+      "note": "margin 'Exod. v. 2' (vessels borrowed) does not fit: given as Ex 11:2 with a note; two unreadable margin notes ([…]) taken as Ex 9:11 and the verse number of v. 22; possible gap at the page break after 'perforant pellem cui insederint'"
+    },
+    {
+      "id": "exodus-015",
+      "book": "exodus",
+      "art": 15,
+      "chapter_guess": 8,
+      "pages": [
+        649,
+        651
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:19:52Z",
+      "note": "one margin note unreadable ([…]); the words are adapted from Apoc 18:7, given as a reference with a note"
+    },
+    {
+      "id": "exodus-016",
+      "book": "exodus",
+      "art": 16,
+      "chapter_guess": 9,
+      "pages": [
+        651,
+        656
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:26:22Z",
+      "note": "Published as Exodus 9, Art. XVI (pp. 545–550). Its end ('populum, sicut præceperat Dominus per manum Moysis … per terram et aerem', PDF 656 right column top) had been cut into exodus-017.txt; moved back. Words lost in the transcription (PDF 656): the lemmata of 9:34–35 after 'Fulgura in pluviam fecit, id est terminavit' ('[…] hæc mala, […]'), and the margin note beside that verse ('[…] 7.', taken as Ps 134:7, noted). Margin 'Ps. lxxxvi, 10' given as Ps 76:10 (noted)."
+    },
+    {
+      "id": "exodus-017",
+      "book": "exodus",
+      "art": 17,
+      "chapter_guess": 9,
+      "pages": [
+        656,
+        658
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:26:22Z",
+      "note": "Published from the re-cut file (the displaced end of Art. XVI removed; its last sentence, Luke 12:47, added after the other run's re-cut de36c25). Margin note beside 'Scienti enim bonum facere…' lost; tagged Jas 4:17 (noted)."
+    },
+    {
+      "id": "exodus-018",
+      "book": "exodus",
+      "art": 18,
+      "chapter_guess": 10,
+      "pages": [
+        658,
+        662
+      ],
+      "status": "done",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:33:05Z",
+      "note": "end of the article (spiritual sense of the locusts and darkness, PDF 662 right column top) re-cut from exodus-019.txt; one margin note half unread ('[…] 31', taken as Ex 12:31); Douay-Rheims data slips: Ex 10:7 'Iet the men go', Ex 10:11 'so. but go'"
+    },
+    {
+      "id": "exodus-019",
+      "book": "exodus",
+      "art": 19,
+      "chapter_guess": 11,
+      "pages": [
+        662,
+        666
+      ],
+      "status": "needs-scan",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:33:05Z",
+      "note": "published; words lost in the transcription: the 11:4 lemma 'Media nocte ingre[…] Ægyptum' with an unreadable margin note beside it (PDF 662–663), and most of the 11:7 lemma in the spiritual part ('Et […] quanto […] ho', PDF 665–666); check against the scan"
+    },
+    {
+      "id": "exodus-020",
+      "book": "exodus",
+      "art": 20,
+      "chapter_guess": 12,
+      "pages": [
+        666,
+        677
+      ],
+      "status": "in-progress",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:36:32Z"
+    },
+    {
+      "id": "exodus-021",
+      "book": "exodus",
+      "art": 21,
+      "chapter_guess": 12,
+      "pages": [
+        677,
+        679
+      ],
+      "status": "in-progress",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:36:32Z"
+    },
+    {
+      "id": "exodus-022",
+      "book": "exodus",
+      "art": 22,
+      "chapter_guess": 12,
+      "pages": [
+        679,
+        683
+      ],
+      "status": "in-progress",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:41:06Z"
+    },
+    {
+      "id": "exodus-023",
+      "book": "exodus",
+      "art": 23,
+      "chapter_guess": 12,
+      "pages": [
+        684,
+        686
+      ],
+      "status": "in-progress",
+      "source": "transcribed",
+      "claimed": "2026-11-24T11:42:14Z"
+    },
+    {
+      "id": "exodus-024",
+      "book": "exodus",
+      "art": 24,
+      "chapter_guess": 13,
+      "pages": [
+        686,
+        690
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-025",
+      "book": "exodus",
+      "art": 25,
+      "chapter_guess": 13,
+      "pages": [
+        690,
+        691
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-026",
+      "book": "exodus",
+      "art": 26,
+      "chapter_guess": 14,
+      "pages": [
+        692,
+        697
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-027",
+      "book": "exodus",
+      "art": 27,
+      "chapter_guess": 14,
+      "pages": [
+        697,
+        699
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-028",
+      "book": "exodus",
+      "art": 28,
+      "chapter_guess": 15,
+      "pages": [
+        699,
+        705
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-029",
+      "book": "exodus",
+      "art": 29,
+      "chapter_guess": 15,
+      "pages": [
+        705,
+        710
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-030",
+      "book": "exodus",
+      "art": 30,
+      "chapter_guess": 15,
+      "pages": [
+        710,
+        711
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-031",
+      "book": "exodus",
+      "art": 31,
+      "chapter_guess": 15,
+      "pages": [
+        712,
+        716
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-032",
+      "book": "exodus",
+      "art": 32,
+      "chapter_guess": 16,
+      "pages": [
+        716,
+        725
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-033",
+      "book": "exodus",
+      "art": 33,
+      "chapter_guess": 16,
+      "pages": [
+        725,
+        728
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-034",
+      "book": "exodus",
+      "art": 34,
+      "chapter_guess": 17,
+      "pages": [
+        728,
+        732
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-035",
+      "book": "exodus",
+      "art": 35,
+      "chapter_guess": 17,
+      "pages": [
+        732,
+        734
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-036",
+      "book": "exodus",
+      "art": 36,
+      "chapter_guess": 18,
+      "pages": [
+        734,
+        739
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-037",
+      "book": "exodus",
+      "art": 37,
+      "chapter_guess": 18,
+      "pages": [
+        739,
+        741
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-038",
+      "book": "exodus",
+      "art": 38,
+      "chapter_guess": 19,
+      "pages": [
+        742,
+        748
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    },
+    {
+      "id": "exodus-039",
+      "book": "exodus",
+      "art": 39,
+      "chapter_guess": 19,
+      "pages": [
+        748,
+        753
+      ],
+      "status": "todo",
+      "source": "transcribed"
+    }
+  ]
 }
