@@ -1474,8 +1474,9 @@
     616,
     622
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:22:17Z"
   },
   {
    "id": "haggai-004",
@@ -1486,8 +1487,9 @@
     622,
     627
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:22:17Z"
   },
   {
    "id": "zechariah-001",
