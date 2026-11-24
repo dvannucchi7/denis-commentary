@@ -629,10 +629,11 @@
     553,
     557
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 41,
-   "claimed": "2026-11-24T22:35:10Z"
+   "claimed": "2026-11-24T22:35:10Z",
+   "note": "Translated by the run itself (pp. 545–549, PDF 553–557). Readings of damaged OCR lines: 'Immisit enim in rete' (18:8, OCR 'onését emen ip rete'); 'Expellet eum Deus de luce vitæ' (18:18, OCR 'FE rgoltet Cnm Deus deo Dec vile', noted in the text); 'et primos … invadet horror' (18:20). Heading completed from the line the OCR took for a running head. Margin references read from the text where the numerals were lost: Acts 17:18, Job 8:2, Ps 48:13, Num 16:7, 4 Kings 8:19, Ex 14:23, 2 Kings 17:14, Prov 1:31, Job 5:13, Prov 5:22, 1 Tim 6:9, Prov 1:17, 2 Tim 3:13, Ecclus 3:29, Soph 1:12, Ps 123:7, Prov 3:25, Judg 20:47, Matt 25:30, Is 14:15, 3 Kings 15:29, Ps 36:28, Is 14:20, 1 John 2:3–4."
   },
   {
    "id": "job-042",
