@@ -342,10 +342,11 @@
     429,
     433
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 22,
-   "claimed": "2026-11-24T21:12:11Z"
+   "claimed": "2026-11-24T21:12:11Z",
+   "note": "One worker. Damaged reading 'gratiarumque A lore' (v. 11) read as 'flore', with a note (could be 'calore'). Unread margin beside 'Quia Dominus amat judicium' marked Ps 36:28. Denis joins Is 65:24 and Is 58:9: two markers and a note."
   },
   {
    "id": "job-023",
