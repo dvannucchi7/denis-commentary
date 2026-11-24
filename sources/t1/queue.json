@@ -864,8 +864,9 @@
     408,
     411
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T09:23:42Z"
   },
   {
    "id": "genesis-068",
@@ -876,8 +877,9 @@
     411,
     418
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T09:23:42Z"
   },
   {
    "id": "genesis-069",
