@@ -917,9 +917,9 @@
     405,
     412
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:53:46Z"
+   "note": "Margin 'Jer. ii, 16' taken as Jer 51:16; 'Jer. xxviii, 7' does not fit (noted, probably Jer 38:7 ff.); 'plantus' at 5:16 read 'planctus'. Translator's notes name the Office hymns Denis quotes at 5:8 (Æterne rerum conditor; Rector potens; Rerum Deus tenax vigor) without margin references: worth a glance."
   },
   {
    "id": "amos-010",
@@ -930,9 +930,9 @@
     412,
     415
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-23T23:53:46Z"
+   "note": "End of the article (5:18 'velle dissolvi' to 5:21–23 'ex præinductis', PDF 415 right column) had been cut into amos-011.txt; moved back. Margin 'Ps. 11, 4' taken as Ps 2:4. 'quæ foris etc. sunt' (PDF 414?) seemed garbled: 'etc.' moved after the Matt 8:12 quotation; check against the scan. Denis reads 'convertit mane in tenebras' at 5:8 (noted)."
   },
   {
    "id": "amos-011",
