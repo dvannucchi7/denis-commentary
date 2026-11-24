@@ -1102,9 +1102,9 @@
     479,
     484
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:13:00Z"
+   "note": "Transcription has '[…]' in the v. 9 comment ('usque in […] finem mundi'); the sentence reads complete, kept as […]. Margin 'IV Reg. xvi, xxi' taken as 4 Kings 16:1, 21:1; the edition's footnote 'Lais' for the second Lachis noted (Judg 18:29). Unmargined quotations tagged: Jer 1:15 (with Jer 25:9 ref-only), Is 36:2, Is 36:1. data/bible/drc has 'Micah' in Mich 1:1 (Challoner: Micheas), likewise 'Hosea' in Osee 1:1, 'Isaiah' in Is 1:1."
   },
   {
    "id": "micah-002",
@@ -1115,9 +1115,9 @@
     484,
     488
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:13:00Z"
+   "note": "Prov 9:12 is quoted 'juxta LXX' (not in the Douay): reference-only with a note. Ecclus 24:11 'colla' has the footnote variant 'corda' (noted). 'Ibidem' beside III Joann. 4 taken as Lam 4:5. Unmargined quotations tagged: Job 4:7–9, Ps 63:3, 1 Cor 4:5."
   },
   {
    "id": "micah-003",
