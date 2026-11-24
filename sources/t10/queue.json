@@ -1446,8 +1446,9 @@
     611,
     613
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:14:00Z"
   },
   {
    "id": "haggai-002",
@@ -1458,8 +1459,9 @@
     613,
     616
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:14:00Z"
   },
   {
    "id": "haggai-003",
