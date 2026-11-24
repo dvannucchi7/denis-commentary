@@ -166,9 +166,10 @@
     150,
     154
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:43:46Z"
+   "claimed": "2026-11-24T05:43:46Z",
+   "note": "Published as Genesis 1, Art. XIII (pp. 44–48, PDF 150–154; scheduled run, one worker). Its end (Albert, De coæquævis: 'Aer et aqua simul ornati sunt … Dionysius protestatur', PDF 154 right column) had been cut into genesis-014.txt; moved back. Margin gives Is 64:4 and 1 Cor 2:9 for 'Oculus non vidit': Is 64:4 marked (Denis's wording), 1 Cor 2:9 reference-only. Lyra's 'Producat terra herbam virentem' marked Gen 1:11 with a note (Vulgate 'Germinet'). 'Judæi inciderunt errores' kept as printed (an 'in' may be missing)."
   },
   {
    "id": "genesis-014",
