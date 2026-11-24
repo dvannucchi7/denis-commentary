@@ -1419,8 +1419,9 @@
     608,
     610
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T10:53:43Z"
   },
   {
    "id": "exodus-007",
@@ -1431,8 +1432,9 @@
     610,
     619
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T10:53:43Z"
   },
   {
    "id": "exodus-008",
@@ -1443,8 +1445,9 @@
     619,
     621
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T10:53:43Z"
   },
   {
    "id": "exodus-009",
