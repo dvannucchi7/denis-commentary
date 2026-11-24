@@ -2365,13 +2365,149 @@
    "chapter_guess": 145,
    "pages": [
     661,
-    664
+    666
    ],
-   "status": "waiting",
+   "status": "todo",
    "source": "ocr",
    "order": 108181
+  },
+  {
+   "id": "psalms-079",
+   "book": "psalms",
+   "art": 79,
+   "chapter_guess": 145,
+   "pages": [
+    667,
+    672
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108182
+  },
+  {
+   "id": "psalms-080",
+   "book": "psalms",
+   "art": 80,
+   "chapter_guess": 145,
+   "pages": [
+    672,
+    676
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108183
+  },
+  {
+   "id": "psalms-081",
+   "book": "psalms",
+   "art": 81,
+   "chapter_guess": 145,
+   "pages": [
+    676,
+    680
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108184
+  },
+  {
+   "id": "psalms-082",
+   "book": "psalms",
+   "art": 82,
+   "chapter_guess": 145,
+   "pages": [
+    680,
+    688
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108185
+  },
+  {
+   "id": "psalms-083",
+   "book": "psalms",
+   "art": 83,
+   "chapter_guess": 145,
+   "pages": [
+    688,
+    690
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108186
+  },
+  {
+   "id": "psalms-084",
+   "book": "psalms",
+   "art": 84,
+   "chapter_guess": 145,
+   "pages": [
+    690,
+    691
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108187
+  },
+  {
+   "id": "psalms-085",
+   "book": "psalms",
+   "art": 85,
+   "chapter_guess": 145,
+   "pages": [
+    691,
+    696
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108188
+  },
+  {
+   "id": "psalms-086-part1",
+   "book": "psalms",
+   "art": 86,
+   "chapter_guess": 145,
+   "pages": [
+    696,
+    707
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "part": 1,
+   "parts": 3,
+   "order": 108189
+  },
+  {
+   "id": "psalms-086-part2",
+   "book": "psalms",
+   "art": 86,
+   "chapter_guess": 145,
+   "pages": [
+    708,
+    719
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "part": 2,
+   "parts": 3,
+   "order": 108190
+  },
+  {
+   "id": "psalms-086-part3",
+   "book": "psalms",
+   "art": 86,
+   "chapter_guess": 145,
+   "pages": [
+    720,
+    729
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "part": 3,
+   "parts": 3,
+   "order": 108191
   }
  ],
- "pages_cut": 664,
- "complete": false
+ "pages_cut": 729,
+ "complete": true
 }
