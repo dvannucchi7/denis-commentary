@@ -1102,8 +1102,9 @@
     479,
     484
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T00:26:00Z"
   },
   {
    "id": "micah-002",
@@ -1114,8 +1115,9 @@
     484,
     488
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T00:26:00Z"
   },
   {
    "id": "micah-003",
