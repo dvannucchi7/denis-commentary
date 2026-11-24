@@ -493,10 +493,11 @@
     507,
     512
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 32,
-   "claimed": "2026-11-24T21:55:54Z"
+   "claimed": "2026-11-24T21:55:54Z",
+   "note": "One worker. Drop-cap restored as 'Licet aliquoties'; 'scientiam vestram' (OCR scientias vestre). 3 Esdras 3:12 (super omnia vincit veritas) is not in the app: bracketed note, no marker. Margin numerals fixed: Prov 12:1, Ecclus 10:28, Prov 13:18, Rom 1:25, Is 28:15, 2 Cor 13:8, Ps 90:14, Jer 39:18, Ecclus 2:11, 1 Mach 2:61, Ps 25:1, Rom 8:35, Jas 3:2, Ps 104:3–4. Margin side-heading 'De animabus in purgatorio detentis' (PDF 511) given as a note. Printed 'in illis qui nobis objiciuntur' and 'te a me te desiderante' kept."
   },
   {
    "id": "job-033",
