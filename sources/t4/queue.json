@@ -254,10 +254,11 @@
     392,
     398
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 16,
-   "claimed": "2026-11-24T20:51:42Z"
+   "claimed": "2026-11-24T20:51:42Z",
+   "note": "Mystical exposition of ch. 5, by one worker. Garbled lemmata of v. 23 rebuilt from the sense ('Sed cum lapidibus regionum pactum tuum erit'; place of 'tibi' in 23b uncertain). Readings chosen: ridebis (OCR videbis, v. 22), de morte animi, grandi potentia, præinclyta, Judææ. Acts 4:14 verse number unreadable (note); Acts 17:11 note (Bereans, not Thessalonians). Many margin numerals unreadable and set from the text: check against the scan."
   },
   {
    "id": "job-017",
@@ -268,10 +269,11 @@
     398,
     403
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 17,
-   "claimed": "2026-11-24T20:51:44Z"
+   "claimed": "2026-11-24T20:51:44Z",
+   "note": "Literal exposition of ch. 6, by one worker. v. 23 lemma unreadable in the OCR, rebuilt from the Vulgate ('Vel, Liberate me de manu hostis, et de manu robustorum eruite me?'): check against the scan. Margin numerals corrected (notes): Prov 24:16, Ecclus 18:27, John 7:5, 2 Tim 2:14, Jas 3:2, Ps 87:8/17. v. 28 'implete*' with margin variant 'explete' (note). Tagged with no margin note: Job 3:3, Job 4:6, Prov 9:9, Prov 1:5."
   },
   {
    "id": "job-018",
