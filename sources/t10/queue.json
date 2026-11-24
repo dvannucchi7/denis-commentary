@@ -1715,8 +1715,9 @@
     686,
     688
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:02:29Z"
   },
   {
    "id": "zechariah-018",
@@ -1727,8 +1728,9 @@
     688,
     692
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:02:29Z"
   },
   {
    "id": "zechariah-019",
@@ -1739,8 +1741,9 @@
     692,
     701
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:02:29Z"
   },
   {
    "id": "malachi-001",
