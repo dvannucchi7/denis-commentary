@@ -524,10 +524,11 @@
     518,
     521
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 34,
-   "claimed": "2026-11-24T22:03:48Z"
+   "claimed": "2026-11-24T22:03:48Z",
+   "note": "One worker. The heading OCR reads only 'DE MORALITATE EJUSDEM'; title completed as 'capituli quartidecimi' (check against the scan). Readings: 'quandoque' for OCR 'quoniam' (Gregory's three senses of lignum), 'hominem', 'saxum', 'ferendæ'. Margin numerals corrected: 1 Cor 3:3, Cant 5:11, Ps 36:24, Matt 8:22, Apoc 16:15, Gal 6:3, Gen 3:9, Eph 5:14, Rom 13:11, Ecclus 3:29, Ps 85:13. 'Ideo non resurgunt impii' margin Ps. 9, 9 but the words are Ps 1:5 (note in text). David example: margin 'li t', reference-only 2 Kings 11:4 with a note. Douay-Rheims data slip: Job 14:7 'growth' for 'groweth'."
   },
   {
    "id": "job-035",
