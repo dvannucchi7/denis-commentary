@@ -1553,9 +1553,10 @@
     644,
     647
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:37:56Z"
+   "claimed": "2026-11-24T04:37:56Z",
+   "note": "Douay-Rheims data slip: Jer 28:9 reads \"whom the hath sent\" (\"Lord\" missing), so the marker shows it that way"
   },
   {
    "id": "zechariah-006",
@@ -1566,7 +1567,7 @@
     647,
     648
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-24T04:37:56Z"
   },
