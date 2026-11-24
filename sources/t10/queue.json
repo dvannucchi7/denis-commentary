@@ -985,9 +985,10 @@
     426,
     429
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "transcribed",
-   "note": "amos-014.txt: the end of Art. XIII (7:17 moral, 'minas remittit' to 'moriuntur.') had been cut into it after 8:3 and was moved to amos-013.txt. The text from '_Deus,_ id est, fragorem quemdam' (line after the second heading '[…]LUS XIV') continues 8:3 'dicit Dominus'."
+   "note": "amos-014.txt: the end of Art. XIII (7:17 moral, 'minas remittit' to 'moriuntur.') had been cut into it after 8:3 and was moved to amos-013.txt. The text from '_Deus,_ id est, fragorem quemdam' (line after the second heading '[…]LUS XIV') continues 8:3 'dicit Dominus'.",
+   "claimed": "2026-11-24T00:01:41Z"
   },
   {
    "id": "amos-015",
@@ -998,8 +999,9 @@
     429,
     439
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T00:01:41Z"
   },
   {
    "id": "obadiah-001",
