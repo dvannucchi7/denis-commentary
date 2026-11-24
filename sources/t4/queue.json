@@ -719,10 +719,11 @@
     582,
     589
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 47,
-   "claimed": "2026-11-24T22:50:36Z"
+   "claimed": "2026-11-24T22:50:36Z",
+   "note": "Many italic lemmata garbled in OCR, restored from the Vulgate; v. 34 gloss: 'bona' read as 'pœna' (noted in text)."
   },
   {
    "id": "job-048",
