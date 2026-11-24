@@ -1076,8 +1076,9 @@
     469,
     473
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T00:20:58Z"
   },
   {
    "id": "jonah-005",
@@ -1088,8 +1089,9 @@
     473,
     479
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T00:20:58Z"
   },
   {
    "id": "micah-001",
