@@ -734,10 +734,11 @@
     589,
     595
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 48,
-   "claimed": "2026-11-24T22:52:57Z"
+   "claimed": "2026-11-24T22:52:57Z",
+   "note": "Kept as printed with notes: 'vita tua' (v. 3), 'Aut putabas' (v. 11), 'devorabit' (v. 20). OCR readings chosen: illimitata, posset, Ille autem illustratur, sol sapientiæ, in munditia, a tabernaculo. DR slip: John 9:31 has a stray comma ('doth his, will')."
   },
   {
    "id": "job-049",
