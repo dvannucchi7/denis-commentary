@@ -928,10 +928,9 @@
     431,
     434
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:33:38Z",
-   "note": "Re-cut 24 Nov 09:34 UTC by the run doing genesis-071: 'namque quod intendit ordinare … Esau autem odio habui' (PDF 431 right column top, after the heading) is the end of Art. LXXI and is translated there; Art. LXXII runs 'JUXTA doctrinam … præfigurativa. Itaque per Isaac …'."
+   "note": "Its end ('A per Romanos deletis … sententialiter sunt inducta', PDF 434) had been in genesis-073.txt (re-cut, commit 8ad0120). Margin 'Jerem. […]' unreadable (Ephraim primogenitus meus = Jer 31:9); margin 'Is. xli, 11' tagged Is 45:25, whose words Denis quotes; marginal readings '* totus' and '* prætact' noted; Denis's 27:28 adds 'et olei' (noted)."
   },
   {
    "id": "genesis-073",
