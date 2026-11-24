@@ -1258,8 +1258,9 @@
     534,
     539
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:41:00Z"
   },
   {
    "id": "nahum-004",
@@ -1270,8 +1271,9 @@
     539,
     547
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:41:00Z"
   },
   {
    "id": "habakkuk-001",
