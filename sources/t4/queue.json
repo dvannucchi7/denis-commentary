@@ -208,10 +208,11 @@
     368,
     371
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 13,
-   "claimed": "2026-11-24T20:41:27Z"
+   "claimed": "2026-11-24T20:41:27Z",
+   "note": "Opening word read as 'Quantum capere queo' (OCR 'Qi'). Footnote variant 'tenebant' for printed 'timebant' followed in the English, with a note. Margin note beside 'Littera occidit' unreadable; tagged 2 Cor 3:6."
   },
   {
    "id": "job-014",
