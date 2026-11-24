@@ -1255,9 +1255,10 @@
     527,
     531
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:21:55Z"
+   "claimed": "2026-11-24T10:21:55Z",
+   "note": "Unreadable margin notes beside 1 Kings 3:10, Ps 84:9 and Acts 7:14 (identified from the words; noted). A word lost at 'per […] seu præoccupationem' (probably prolepsis; noted, not supplied)."
   },
   {
    "id": "genesis-098",
@@ -1268,9 +1269,10 @@
     532,
     537
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:21:55Z"
+   "claimed": "2026-11-24T10:21:55Z",
+   "note": "Unreadable margin notes beside Gen 45:6 and John 1:14 (identified from the words; noted). One word lost ('non […]'). 'Lev. xi, passim' given as Lev 11:25. Douay-Rheims slip in data: Ps 38:13 'Be no silent' (should be 'Be not silent')."
   },
   {
    "id": "genesis-099",
