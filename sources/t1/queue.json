@@ -1461,9 +1461,10 @@
     621,
     624
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T11:04:16Z"
+   "claimed": "2026-11-24T11:04:16Z",
+   "note": "read 'Quare misisti _nœ_?' as 'me?' and 'maniter … advenerum' as 'inaniter … advenerim' (PDF 624, top)"
   },
   {
    "id": "exodus-010",
@@ -1474,7 +1475,7 @@
     624,
     625
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-24T11:04:16Z"
   },
