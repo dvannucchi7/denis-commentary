@@ -1613,9 +1613,9 @@
     666,
     677
    ],
-   "status": "done",
+   "status": "needs-scan",
    "source": "transcribed",
-   "note": "Margin numerals corrected: Luc. ix, 2 → Luke 9:28; Is. xiii, 8 → Is 42:8; Gen. xvii, 17 → Gen 21:5 (bracketed notes). One word lost in the transcription at 'taliter consumi […] per ignem' (v. 10, PDF ~672): kept as […]."
+   "note": "Published, but one word is lost in the transcription: 'taliter consumi […] per ignem' (12:10, PDF ~672). Margin numerals corrected: Luc. ix, 2 → Luke 9:28; Is. xiii, 8 → Is 42:8; Gen. xvii, 17 → Gen 21:5 (bracketed notes)."
   },
   {
    "id": "exodus-021",
@@ -1845,9 +1845,9 @@
     742,
     748
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:51:52Z"
+   "note": "Published, but text is lost in the transcription on PDF 746 (19:16 passage, printed p. 640, left column): a line or more is missing after 'quod Magister in historiis scribit : uno' before 'præinducta Glossæ verba consonant' (marked […]); also 'omn[ia] narravit eis' (19:25, PDF 748 right column top). Re-cut: 'in Deo, qui omnia operatur … narravit eis.' (PDF 748 right column top) moved from Art. XXXIX to the end of Art. XXXVIII."
   },
   {
    "id": "exodus-039",
@@ -1858,9 +1858,9 @@
     748,
     753
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:51:52Z"
+   "note": "Indexes removed from the end of the cut text. Transcription 'claruit chorus Apostolorum' (19:17, PDF 750) read as 'eduxit'; please check against the scan. Lost margin numerals: Rom. xi → Rom 11:24; '[…] 11' → Eccles 12:11."
   }
  ]
 }
