@@ -163,10 +163,11 @@
     356,
     360
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 10,
-   "claimed": "2026-11-24T20:32:44Z"
+   "claimed": "2026-11-24T20:32:44Z",
+   "note": "Albert the Great's exposition of ch. 3. First word damaged ('[yere'), read as Disputatio (note). Readings kept as printed, with notes: 'recordatio mentis' (perhaps mortis), 'Quæ ædificant'. Albert's text has 'Et non sit in recordatione viventis' in v. 4 (not in the Vulgate: note) and 'condemnat' for 'consumit' in Job 9:22. Tagged with no margin note read: Ps 55:4, Ps 119:5, Mark 9:18. Jer 20:15/17 combined by Denis (note)."
   },
   {
    "id": "job-011",
