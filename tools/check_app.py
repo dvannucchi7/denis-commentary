@@ -29,7 +29,7 @@ def main(book, ch):
             chips = pg.query_selector_all("details.art .vchip")
             print("verse tags:", len(chips), "; untagged paragraphs:", sum(1 for a in data for x in a["paras"] if not x.get("v")))
             if chips:
-                pg.query_selector_all("details.art")[0].evaluate("d => d.open = true"); chips[0].click(); pg.wait_for_timeout(1500)
+                chips[0].evaluate("c => c.closest('details').open = true"); chips[0].click(); pg.wait_for_timeout(1500)
                 shown = pg.evaluate("[...document.querySelectorAll('.para')].filter(e => e.offsetParent).length")
                 print("focus from a verse tag:", "ok" if shown else "EMPTY", f"({shown} comments)"); pg.keyboard.press("Escape"); pg.wait_for_timeout(1200)
                 if not shown: bad.append("focus from tag")

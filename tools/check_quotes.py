@@ -43,6 +43,9 @@ def verses(book):
 def words(s):
     return re.sub(r"[^a-z ]", "", s.lower().replace("-", " ")).split()
 
+# a quotation ending in punctuation followed by more punctuation (same pattern as expand_quotes.tidy_punct)
+DOUBLE = re.compile(r"\[\[([^|\]]*)\|([^|\]]*)\|([^\]]*)\]\]([.,;:?!])")
+
 def check(book):
     data = json.load(open(os.path.join(COMM, book + ".json")))
     problems, n = [], 0
@@ -62,6 +65,10 @@ def check(book):
                         problems.append(f"{where} para {i+1}: \"verses\" {p['verses']} must be in order, without repeats, from v[0] to v[1]")
                 elif p.get("verses"):
                     problems.append(f"{where} para {i+1}: \"verses\" needs \"v\": [first, last] beside it")
+                for dm in DOUBLE.finditer(p.get("en", "")):
+                    if dm.group(2).rstrip()[-1:] in tuple(".,;:?!"):
+                        problems.append(f"{where} para {i+1}: doubled punctuation after [[{dm.group(1)}|…{dm.group(2)[-20:]}]]{dm.group(4)}"
+                                        " (tools/expand_quotes.py tidy_punct fixes it)")
                 for ref, dr, _vul in Q.findall(p.get("en", "")):
                     n += 1
                     m = re.match(r"^(.*?)\s*(\d+):(\d+)$", ref)

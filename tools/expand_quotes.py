@@ -197,7 +197,27 @@ def from_denis(side, latin, target_words):
                 best = (score, a0, b1)
     return cut(latin, pos, best[1], best[2]) if best else None
 
+DOUBLE = re.compile(r"\[\[([^|\]]*)\|([^|\]]*)\|([^\]]*)\]\]([.,;:?!])")
+
+def tidy_punct(en):
+    """No doubled punctuation where a quotation ends a clause (found 24 Nov: "in the desert??").
+    The Douay-Rheims wording of a marker often ends with the verse's own stop. If the English goes on with
+    punctuation of its own: a quotation ending in ? or ! keeps it and the following mark goes; one ending
+    in . , ; : loses that mark and the sentence's own punctuation stands."""
+    def fix(m):
+        ref, dr, la, nxt = m.groups()
+        core = dr.rstrip()
+        if not core or core[-1] not in ".,;:?!":
+            return m.group(0)
+        if core[-1] in "?!":
+            return f"[[{ref}|{dr}|{la}]]"
+        return f"[[{ref}|{core.rstrip('.,;: ')}|{la}]]{nxt}"
+    return DOUBLE.sub(fix, en)
+
 def expand(en, book, latin=""):
+    return tidy_punct(_expand(en, book, latin))
+
+def _expand(en, book, latin=""):
     def one(m):
         ref, dr, vul = m.group(1).strip(), m.group(2), m.group(3)
         r = re.match(r"^(.*?)\s*(\d+):(\d+)$", ref)

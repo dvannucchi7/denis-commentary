@@ -59,6 +59,9 @@ Articles are sorted by number in the app automatically, but keep them in order i
   after the clause it belongs to (no space). It shows as a small tappable reference, "(4 Kings 24:12)"; a
   reference to the chapter treated shows as "(v. 16)".
 - Lemmata (the bits of the chapter treated that Denis quotes before glossing them) get a marker.
+- No doubled punctuation after a marker (Dave, 24 Nov 2026): a quotation ending in ? or ! keeps it and the
+  sentence adds no mark after it; one ending in . , ; : drops that mark when the sentence goes on with its own.
+  `tools/expand_quotes.py` tidies this when markers are expanded, and `check_quotes.py` reports any left.
 - A quotation from anywhere else gets a marker where the printed margin gives a reference for it
   (Dave's rule; see `TRANSLATING.md` step 5), and also wherever Denis is obviously quoting Scripture
   though the margin gives no reference (Dave, 12 Nov 2026: these must be tagged too) (Denis names the source, or quotes word for word at length; `tools/recheck.py` lists these
