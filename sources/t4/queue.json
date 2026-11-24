@@ -299,10 +299,11 @@
     409,
     416
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 19,
-   "claimed": "2026-11-24T21:05:09Z"
+   "claimed": "2026-11-24T21:05:09Z",
+   "note": "By two workers (split at v. 12). Opening word garbled (OCR 'I\" ET'): read as 'Docet'. v. 2: Denis reads cervus for servus; note added. 3 Esdras quotations left unmarked with a note. Eccles 7:21 marked with 3 Kings 8:46 reference-only and a note. Douay-Rheims data slips seen: stray 'I' in 1 Par 29:15; Job 7:20 ends with '.' where '?' is needed."
   },
   {
    "id": "job-020",
