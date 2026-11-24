@@ -682,9 +682,9 @@
     347,
     349
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:52:00Z"
+   "note": "Published, but words are lost in the transcription on PDF 348 (16:6 passage): 'Cui re[…] Abram', 'Synagogam […] subjecto', 'ad […]atum', '[…] Sarai, fugam iniit'; and the last margin note 'I Pe[…]' (taken as 1 Pet 2:21, noted). Marked […]; please check the scan."
   },
   {
    "id": "genesis-054",
@@ -695,9 +695,9 @@
     349,
     353
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:52:00Z"
+   "note": "Published, but text is lost in the transcription (PDF 350–352): the end of the 17:5 lemma 'patrem multarum gen[…]', two margin notes beside 'ad Romanos et Galatas' (taken as Rom 4:11, Gal 3:7, noted), the end of the 17:7 lemma 'inter […]', and before 'ritum fecit' (17:14). Marked […]; please check the scan. Denis reads 'Ego Dominus omnipotens' (17:1) and 'ad Dominum' (17:18): noted."
   },
   {
    "id": "genesis-055",
