@@ -314,10 +314,11 @@
     417,
     422
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 20,
-   "claimed": "2026-11-24T21:11:10Z"
+   "claimed": "2026-11-24T21:11:10Z",
+   "note": "One worker. Readings by sense: 'hujus viæ' (v. 4), 'in malis culpæ meæ' (v. 11, word after culpæ unclear). Denis reads cervus for servus (7:2) with a note. Margin fixes: Is 28:15/28:19 ref-only with notes, 'Ibid. 33' = Eccles 2:23, 'Eccle. v, 9' = Eccles 5:2, dreams of Joseph = Gen 37:5, 9; second Soph clause marked Soph 1:9 with a note. Vv. 6–10 not treated. DR slip: 7:20 has '.' where '?' belongs."
   },
   {
    "id": "job-021",
@@ -328,10 +329,11 @@
     423,
     428
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 21,
-   "claimed": "2026-11-24T21:11:31Z"
+   "claimed": "2026-11-24T21:11:31Z",
+   "note": "One worker. v. 13 lemma badly garbled, reconstructed as 'Sic viæ … omnium qui obliviscuntur Deum' (check against scan). vv. 20–21: printed 'non desinit' kept with a note (sense needs 'non sinit'). Margin numerals fixed: Ps 43:23, Job 32:6, Eccles 8:13, Is 50:10; unclear 'Ibid. iii–vii' and 'Ibid. viii, 2–' given ref-only markers with notes. Variant-reading footnotes made bracketed notes. DR slip: John 9:31 'doth his, will'."
   },
   {
    "id": "job-022",
