@@ -1322,8 +1322,9 @@
     565,
     571
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T10:34:25Z"
   },
   {
    "id": "genesis-103",
@@ -1334,8 +1335,9 @@
     571,
     581
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T10:34:25Z"
   },
   {
    "id": "exodus-001",
