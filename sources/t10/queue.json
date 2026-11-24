@@ -1301,7 +1301,7 @@
    "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-24T03:45:00Z",
-   "note": "End of the article (1:17 'per quos alios capit' to the end) was in habakkuk-003.txt (PDF 554 right column) and was moved back. Same 1:3 doublet of vv. 13–14 as Art. I. Last page has no margin notes before the moved lines: quotations Denis names there (Matt 13:28, Ps 77:49, Job 1:7, Luke 11:21, 1 Pet 5:8, 2 Tim 2:26, Luke 8:12, 1 Tim 6:9) were tagged without a margin note."
+   "note": "End of the article (1:17 'per quos alios capit' to the end) was in habakkuk-003.txt (PDF 554 right column) and was moved back. Same 1:3 doublet of vv. 13–14 as Art. I. Last page has no margin notes before the moved lines: quotations Denis names there (Ps 77:49, Job 1:7, Luke 11:21, 1 Pet 5:8, 2 Tim 2:26, Luke 8:12, 1 Tim 6:9) were tagged without a margin note (Matt 13:28 has one)."
   },
   {
    "id": "habakkuk-003",
@@ -1364,8 +1364,9 @@
     574,
     581
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:53:00Z"
   },
   {
    "id": "zephaniah-001",
@@ -1376,8 +1377,9 @@
     583,
     587
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:53:00Z"
   },
   {
    "id": "zephaniah-002",
