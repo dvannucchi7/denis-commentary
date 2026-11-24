@@ -1006,9 +1006,9 @@
     460,
     465
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:41:30Z"
+   "note": "Published; words lost in the transcription: 32:10 '(_[…] duabus turmis_ … regredior)' (Vulgate 'et nunc cum'), 32:31 'Ortus […] sol' (Vulgate 'Ortusque est ei statim sol'), and a word or two before 'eumque honorando' in the last sentence (PDF 465). Margin note beside 'Ideo loquitur Augustinus' unreadable; 'II. Reges. 14' tagged 2 Kings 8:14 (noted). Matt 13:58: Denis's words are Mark 6:5 + Matt 13:58 (both tagged, noted). The file also held the end of Art. LXXVII ('Omnipotentis conspexit … diu vixisse', PDF 460, after genesis-077.txt's '…qui visiones'): left out here; Art. LXXVII in the app (earlier sample translation) still stops at 'epulan[di] …' (31:54), so 31:54–55 and this closing passage on Laban are not yet translated."
   },
   {
    "id": "genesis-079",
