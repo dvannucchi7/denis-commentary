@@ -542,8 +542,9 @@
     299,
     302
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T08:33:55Z"
   },
   {
    "id": "genesis-043",
@@ -554,8 +555,9 @@
     302,
     308
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T08:33:55Z"
   },
   {
    "id": "genesis-044",
@@ -566,8 +568,9 @@
     308,
     310
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T08:33:55Z"
   },
   {
    "id": "genesis-045",
