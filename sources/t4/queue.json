@@ -674,10 +674,11 @@
     565,
     573
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 44,
-   "claimed": "2026-11-24T22:41:22Z"
+   "claimed": "2026-11-24T22:41:22Z",
+   "note": "v. 6 lemma garbled in OCR (PDF 566): Latin restored from the Vulgate, confirmed by Denis's paraphrase; check against scan. One guessed reading in vv. 23-24 section: 'ope[ri]bus'."
   },
   {
    "id": "job-045",
