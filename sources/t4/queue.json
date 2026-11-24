@@ -434,10 +434,11 @@
     478,
     483
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 28,
-   "claimed": "2026-11-24T21:41:32Z"
+   "claimed": "2026-11-24T21:41:32Z",
+   "note": "Published with gaps; needs-scan for PDF 482 (about 2–3 lines lost in each column: v. 14 after 'in tabernaculo', v. 17 after 'quam dulcis est', with the margin note there, probably 1 Pet. ii, 3). One worker. Margin numerals corrected: Is 5:21, 1 Pet 2:3, Job 9:11, Matt 3:8 (ref only), Ps 4:9. Quotations tagged with no margin note read (many on damaged PDF 482): Prov 17:27, Ecclus 20:5, 20:8, Num 19:15 (ref only), Jas 1:26, Is 32:17, Jas 1:19, Prov 20:24, Ecclus 34:16, Wis 9:19, Ecclus 27:12, Ps 54:9, 1 Cor 10:13, Tob 3:22, Is 58:11, Wis 16:29, Wis 17:10, 2 Cor 7:1. Is 26:10 ref only (Denis quotes an older Latin form). Readings: 'ceteros deriseris, a nullo' (OCR garbled); 'dat testimonium condemnata' kept as printed."
   },
   {
    "id": "job-029",
