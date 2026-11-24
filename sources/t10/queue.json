@@ -1154,9 +1154,9 @@
     497,
     502
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:31:00Z"
+   "note": "Published as Micah 4, Art. V (pp. 487–494, PDF 497–504), in two parts by workers. The moral exposition of ch. 4 (PDF 502–504, 'Porro, moraliter' to 'cunctisque gentibus imperabunt') had been cut as micah-006 under a bare 'ARTICULUS' heading; it belongs to Art. V (running head of p. 493: 'ART. V') and was joined into micah-005.txt. Margin '⟦v. 6⟧' beside 'Tertio exponitur' (still on v. 1) ignored. Unbracketed margin 'II Thess. iii, 2' taken as 2 Thess 3:2. 4:4 Denis 'exterreat' (edition's note 'deterreat'). 'Ps. xcv, 7 juxta antiq. vers.' marked Ps 94:7 with a note (Roman Psalter wording). 'Is. ix, 6 juxta LXX' (magni consilii Angelus) reference-only with a note. Unmargined quotation tagged: Acts 5:29. '[…]minuti' (v. 13, moral) read as 'comminuti' (line break). Possible Douay-Rheims data slip: Rom 13:12 'is passed And the day'."
   },
   {
    "id": "micah-006",
@@ -1167,9 +1167,9 @@
     502,
     504
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:31:00Z"
+   "note": "Not a separate article: this file was the end of Art. V (moral exposition of ch. 4), cut under a bare 'ARTICULUS' heading. Joined into micah-005.txt and published with Micah 4, Art. V."
   },
   {
    "id": "micah-006-2",
@@ -1180,9 +1180,9 @@
     504,
     510
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:31:00Z"
+   "note": "Published as Micah 5, Art. VI (pp. 494–500, PDF 504–510). '[…]dotes' read as 'sacerdotes' (line break). Margin 'Osee iii, 5' beside 'Servient David regi suo': the words are Jer 30:9 (marked, with a note). 'Joann. xv, 24': Denis's 'gratis' is from John 15:25 (note). Unmargined quotations tagged: Matt 26:64, Matt 2:6. Variants noted: 'inimici nostri' (v. 1), 'oris sui' (v. 6), 'in lanceis suis' (footnote 'ejus'), 'peribunt' (v. 9: the print has an asterisk, but the transcription gives no footnote)."
   },
   {
    "id": "micah-007",
