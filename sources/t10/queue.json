@@ -1716,9 +1716,10 @@
     686,
     688
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:02:29Z"
+   "claimed": "2026-11-24T05:02:29Z",
+   "note": "Denis reads 'super domum Juda' at 12:10 where the verse has 'David' (kept, noted). Matt 24:9 margin: Denis's wording closer to Matt 10:22 / Luke 21:17 (noted)."
   },
   {
    "id": "zechariah-018",
@@ -1729,9 +1730,10 @@
     688,
     692
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:02:29Z"
+   "claimed": "2026-11-24T05:02:29Z",
+   "note": "Print 'in Domino*' with '* nomine' beside it at 13:3 (kept, noted). Transcription repeated a line of John 8:29 across a column break (used once). DR data: Ezech 34:23 'I WILL SET UP ONE SHEPHERD OVER THEM' is in capitals in data/bible/drc."
   },
   {
    "id": "zechariah-019",
@@ -1742,9 +1744,10 @@
     692,
     701
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:02:29Z"
+   "claimed": "2026-11-24T05:02:29Z",
+   "note": "Last article on Zacharias (ends 'Amen.' on PDF 697; PDF 698–700 are blank or title pages, the empty transcriptions dropped). Corrected margins: Is 49:10 (print xliv, 10), Heb 12:22 (vii, 22), Ps 127:3 (cxxxvii, 3), Ps 147:1 (cxlvii, 12), each noted."
   },
   {
    "id": "malachi-001",
