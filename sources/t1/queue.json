@@ -337,9 +337,9 @@
     215,
     219
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T06:09:00Z"
+   "note": "Unclear phrase 'derelinquantur a Deo de suis præsumptionibus' (3:21) translated with a note."
   },
   {
    "id": "genesis-027",
@@ -350,9 +350,9 @@
     219,
     227
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T06:09:00Z"
+   "note": "Published, but text is lost in the transcription on PDF 224: after 'mox transgressio facta' (question 6) and the answer at 'Respondetur communiter quod […]' (question 9). 'Deus nonnullis præcepit hoc' probably 'non illis' (note added)."
   },
   {
    "id": "genesis-028",
