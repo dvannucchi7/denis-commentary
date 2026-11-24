@@ -1500,8 +1500,9 @@
     627,
     633
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:26:07Z"
   },
   {
    "id": "zechariah-002",
@@ -1512,8 +1513,9 @@
     633,
     636
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:26:07Z"
   },
   {
    "id": "zechariah-003",
