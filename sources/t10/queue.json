@@ -1446,9 +1446,10 @@
     611,
     613
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:14:00Z"
+   "claimed": "2026-11-24T04:14:00Z",
+   "note": "End of the article (1:13–15, PDF 613 right column) was in haggai-002.txt and was moved back. data/bible/drc/haggai.json has only 14 verses in ch. 1 and numbers Vulgate 1:15 as 2:1 (so the whole of ch. 2 is one verse off from the Vulgate); the closing lemma is therefore marked Agg 2:1, with a note. The DR text also spells the prophet 'Haggai' (Challoner: Aggeus). Chapter-only margin notes (1 Esd iii, iv, vi; Jer xxxiii; Zach viii; Ezech xxxiv) given as reference-only markers to verse 1."
   },
   {
    "id": "haggai-002",
@@ -1459,9 +1460,10 @@
     613,
     616
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:14:00Z"
+   "claimed": "2026-11-24T04:14:00Z",
+   "note": "Denis takes the verses out of order (4, 7, 8, 9, then 6, 9, 10–14); vv. 3, 5 and 13 not treated."
   },
   {
    "id": "haggai-003",
