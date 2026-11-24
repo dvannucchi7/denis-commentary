@@ -708,9 +708,9 @@
     353,
     356
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:54:24Z"
+   "note": "Published as Genesis 17, Art. LV (pp. 247–250, PDF 353–356; scheduled run, one worker). Its end ('puer ille irritum fecit pactum Dei … tius locum habent', PDF 356 right column top) had been cut into genesis-056.txt; moved back. One word lost in the transcription ('in deserto […] diu manserunt'), kept as […]. Margin 'Act. xv' (chapter only) marked Acts 15:9."
   },
   {
    "id": "genesis-056",
@@ -721,9 +721,9 @@
     356,
     359
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:54:24Z"
+   "note": "Published as Genesis 17, Art. LVI (pp. 250–253, PDF 356–359; scheduled run, one worker). Printed 'quasi sermo quendam' read as 'quasi senio quodam' (check the scan); lemma 17:2 'Pactumque fœdus' kept (Vulgate 'Ponamque'). Margin Rom. xv, 19 marked Rom 6:13 and 6:19, where the words are (noted)."
   },
   {
    "id": "genesis-057",
