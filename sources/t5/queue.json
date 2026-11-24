@@ -1087,13 +1087,286 @@
    "chapter_guess": 10,
    "pages": [
     313,
-    316
+    317
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101083
+  },
+  {
+   "id": "i-maccabees-011",
+   "book": "i-maccabees",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    317,
+    321
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101084
+  },
+  {
+   "id": "i-maccabees-012",
+   "book": "i-maccabees",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    322,
+    324
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101085
+  },
+  {
+   "id": "i-maccabees-013",
+   "book": "i-maccabees",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    325,
+    328
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101086
+  },
+  {
+   "id": "i-maccabees-014",
+   "book": "i-maccabees",
+   "art": 14,
+   "chapter_guess": 14,
+   "pages": [
+    328,
+    331
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101087
+  },
+  {
+   "id": "i-maccabees-015",
+   "book": "i-maccabees",
+   "art": 15,
+   "chapter_guess": 15,
+   "pages": [
+    331,
+    332
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101088
+  },
+  {
+   "id": "i-maccabees-016",
+   "book": "i-maccabees",
+   "art": 16,
+   "chapter_guess": 16,
+   "pages": [
+    332,
+    339
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101089
+  },
+  {
+   "id": "i-maccabees-001-2",
+   "book": "i-maccabees",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    339,
+    346
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101090
+  },
+  {
+   "id": "i-maccabees-002-2",
+   "book": "i-maccabees",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    346,
+    351
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101091
+  },
+  {
+   "id": "i-maccabees-003-2",
+   "book": "i-maccabees",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    351,
+    354
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101092
+  },
+  {
+   "id": "i-maccabees-004-2",
+   "book": "i-maccabees",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    354,
+    358
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101093
+  },
+  {
+   "id": "i-maccabees-005-2",
+   "book": "i-maccabees",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    358,
+    360
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101094
+  },
+  {
+   "id": "i-maccabees-006-2",
+   "book": "i-maccabees",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    361,
+    364
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101095
+  },
+  {
+   "id": "i-maccabees-007-2",
+   "book": "i-maccabees",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    364,
+    369
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101096
+  },
+  {
+   "id": "i-maccabees-008-2",
+   "book": "i-maccabees",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    369,
+    371
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101097
+  },
+  {
+   "id": "i-maccabees-009-2",
+   "book": "i-maccabees",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    371,
+    373
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101098
+  },
+  {
+   "id": "i-maccabees-010-2",
+   "book": "i-maccabees",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    374,
+    375
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101099
+  },
+  {
+   "id": "i-maccabees-011-2",
+   "book": "i-maccabees",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    375,
+    377
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101100
+  },
+  {
+   "id": "i-maccabees-012-2",
+   "book": "i-maccabees",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    378,
+    380
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101101
+  },
+  {
+   "id": "i-maccabees-013-2",
+   "book": "i-maccabees",
+   "art": 13,
+   "chapter_guess": null,
+   "pages": [
+    381,
+    383
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101102
+  },
+  {
+   "id": "i-maccabees-014-2",
+   "book": "i-maccabees",
+   "art": 14,
+   "chapter_guess": 14,
+   "pages": [
+    383,
+    385
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101103
+  },
+  {
+   "id": "i-maccabees-015-2",
+   "book": "i-maccabees",
+   "art": 15,
+   "chapter_guess": 15,
+   "pages": [
+    386,
+    388
    ],
    "status": "waiting",
    "source": "ocr",
-   "order": 101083
+   "order": 101104
   }
  ],
- "pages_cut": 316,
+ "pages_cut": 388,
  "complete": false
 }
