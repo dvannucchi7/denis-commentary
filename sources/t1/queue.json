@@ -1690,9 +1690,9 @@
     692,
     697
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:25:27Z"
+   "note": "the end of the article (5 lines, PDF 697 right column top, Josephus on the Pamphylian sea) re-cut from exodus-027.txt; margin 'Ibid. xxxiii, 31' taken as Ex 23:31 and margin 'v. 14' beside 13:18 noted in the text"
   },
   {
    "id": "exodus-027",
@@ -1703,9 +1703,8 @@
     697,
     699
    ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-24T13:25:27Z"
+   "status": "done",
+   "source": "transcribed"
   },
   {
    "id": "exodus-028",
