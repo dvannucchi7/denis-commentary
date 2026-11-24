@@ -1032,9 +1032,9 @@
     467,
     469
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:42:35Z"
+   "note": "Its end ('…Hebræum æquivocum … desiderio amicitiæ atque concordiæ', PDF 469 right column top) had been in genesis-081.txt (re-cut, commit 54ca1c2). 33:11 'Vir a fratre' read as 'Vix a fratre'; Denis's Prov 21:1 has 'cor hominum' for 'cor regis' (noted)."
   },
   {
    "id": "genesis-081",
