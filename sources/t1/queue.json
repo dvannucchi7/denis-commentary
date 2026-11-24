@@ -1845,8 +1845,9 @@
     742,
     748
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T13:51:52Z"
   },
   {
    "id": "exodus-039",
@@ -1857,8 +1858,9 @@
     748,
     753
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T13:51:52Z"
   }
  ]
 }
