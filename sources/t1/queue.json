@@ -128,9 +128,10 @@
     136,
     141
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:38:06Z"
+   "claimed": "2026-11-24T05:38:06Z",
+   "note": "Published as Genesis 1, Art. X (pp. 30–35, PDF 136–141; scheduled run, one worker). Its end ('Judæum Judæorum doctorem … in historiis tangit', PDF 141 right column) had been cut into genesis-011.txt; moved back. Ezech 46:15 reference-only (loose paraphrase); Ps 148:5 marked without a margin note (Denis's quotation runs on); Jas 4:14 marked without a margin note (word for word). Editors' footnote on 'trufatica' (falsa, Du Cange) given as a note. The paragraphs on why v. 8 lacks 'God saw that it was good' are tagged v. 8."
   },
   {
    "id": "genesis-011",
