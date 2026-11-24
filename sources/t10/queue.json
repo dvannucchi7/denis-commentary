@@ -1284,9 +1284,10 @@
     547,
     551
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:45:00Z"
+   "claimed": "2026-11-24T03:45:00Z",
+   "note": "Denis's text of 1:3 carries a doublet from vv. 13–14 ('Quare respicis contemptores … reptilia non habentia ducem'); that paragraph is tagged vv. 13–14, with a note."
   },
   {
    "id": "habakkuk-002",
@@ -1297,9 +1298,10 @@
     551,
     554
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:45:00Z"
+   "claimed": "2026-11-24T03:45:00Z",
+   "note": "End of the article (1:17 'per quos alios capit' to the end) was in habakkuk-003.txt (PDF 554 right column) and was moved back. Same 1:3 doublet of vv. 13–14 as Art. I. Last page has no margin notes before the moved lines: quotations Denis names there (Matt 13:28, Ps 77:49, Job 1:7, Luke 11:21, 1 Pet 5:8, 2 Tim 2:26, Luke 8:12, 1 Tim 6:9) were tagged without a margin note."
   },
   {
    "id": "habakkuk-003",
