@@ -206,9 +206,10 @@
     166,
     169
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:47:06Z"
+   "claimed": "2026-11-24T05:47:06Z",
+   "note": "Published as Genesis 1, Art. XVI (pp. 60–63, PDF 166–169; scheduled run, one worker). Its end ('omnibus divitiis gloriantur … quasi in terra repentes', PDF 169 right column) had been cut into genesis-017.txt; moved back. An unreadable Isaias margin note beside 'Erit dies ex die' (not in Isaias): reference-only Is 66:23, the nearest verse, with a note; check the scan. Denis's 'Vidit Deus quod esset bonum' said of the second day marked 1:10 with a note. Luke 1:53, Prov 9:1 marked without margin notes. DR data slip: Rom 13:12 'The night is passed And the day…' (capital A)."
   },
   {
    "id": "genesis-017",
