@@ -224,10 +224,11 @@
     371,
     382
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 14,
-   "claimed": "2026-11-24T20:43:29Z"
+   "claimed": "2026-11-24T20:43:29Z",
+   "note": "Literal exposition of ch. 4, by two workers (split at v. 13). Garbled lemma of v. 19 restored from the Vulgate ('Quanto magis hi qui habitant domos luteas'); 'Victor noster' read as Fictor (Is 64:8); 'profecnnt ultionem' read as proferunt (uncertain). Kept as printed with notes: 'femori canis' in Ecclus 19:12 (Vulgate carnis), 'Martialis' (probably Macrobius). Many margin notes unreadable and identified from the text (Jer 38:6/37:15, Judg 6:22, Judg 13:16, Ezech 1:24, Ezech 28:14-17, Is 14:12): check against the scan. Tagged as obvious with no margin note: Ecclus 27:6, Ecclus 2:5, Bar 3:28."
   },
   {
    "id": "job-015",
