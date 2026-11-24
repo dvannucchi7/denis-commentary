@@ -1405,9 +1405,10 @@
     592,
     596
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:05:00Z"
+   "claimed": "2026-11-24T04:05:00Z",
+   "note": "End of the article (2:15 'mirabiliter factum … perducta sit', PDF 596 right column) was in zephaniah-004.txt and was moved back. Edition footnote 'alias aptior' against 'magistralior' kept in the Latin and explained in a note. Margin notes citing whole chapters (1 Esd i, ii, vii; Is xv, xvi; Jer xlviii, xlix; 4 Kings xv–xix) given as reference-only markers to verse 1."
   },
   {
    "id": "zephaniah-004",
@@ -1418,9 +1419,10 @@
     596,
     599
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:05:00Z"
+   "claimed": "2026-11-24T04:05:00Z",
+   "note": "Heading damaged in the transcription ('ARTICU[…] / ELUCIDATIO TROPOLOGICA […]'); title supplied as 'Elucidatio tropologica ejusdem capituli secundi' from the running head ('EJUSDEM CAPITULI SECUNDI'), worth checking against the scan. Margin Eccli. i, 27 for 'Duas gentes odivit' read as Ecclus 50:27 (note in text). The opening of Art. V (PDF 599 left column), which had been cut into this file, was moved to zephaniah-005.txt."
   },
   {
    "id": "zephaniah-005",
