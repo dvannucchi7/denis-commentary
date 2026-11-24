@@ -1579,8 +1579,9 @@
     648,
     651
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:41:50Z"
   },
   {
    "id": "zechariah-008",
@@ -1591,8 +1592,9 @@
     651,
     656
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:41:50Z"
   },
   {
    "id": "zechariah-009",
@@ -1603,8 +1605,9 @@
     656,
     659
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:41:50Z"
   },
   {
    "id": "zechariah-010",
