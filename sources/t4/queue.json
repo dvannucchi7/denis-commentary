@@ -163,9 +163,10 @@
     356,
     360
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 10
+   "order": 10,
+   "claimed": "2026-11-24T20:32:44Z"
   },
   {
    "id": "job-011",
