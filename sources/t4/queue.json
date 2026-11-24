@@ -464,10 +464,11 @@
     491,
     497
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 30,
-   "claimed": "2026-11-24T21:45:23Z"
+   "claimed": "2026-11-24T21:45:23Z",
+   "note": "One worker. Readings by sense: 'renes eorum' (OCR reges), 'novit' (movit), 'Qui immutat', 'quæ ignoramus'; 'desinit' kept with a note (sense wants sinit). 12:3 'nec inferior vestri sum' is not in the Douay-Rheims: unmarked, with a note. Margin numerals fixed: Ps 142:6, Is 42:3, Is 55:4, 1 Thess 2:16, Is 3:9, 1 Tim 5:17, Eccles 8:11, Ps 33:9, Mich 3:11, 3 John 1:4, 2 Kings 7:23, Matt 27:51, 3 Kings 8:58 (unreadable, noted); Gen 43:3 for margin Gen. xliv (also 44:23). Two margin notes unreadable, left as notes: beside 'Qui fecerit hoc vel hoc, moriatur' (Exodus?) and 'Xx Mai' beside 'confessionem præcepit'. DR slip: Is 12:3 'Thou shall draw'."
   },
   {
    "id": "job-031",
