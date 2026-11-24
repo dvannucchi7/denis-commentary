@@ -1741,9 +1741,9 @@
     710,
     711
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:33:17Z"
+   "note": "margin numerals partly unread on four Psalm notes (taken as Ps 63:3, 55:13, 17:30, 145:2, words fit exactly); margin 'Eccli. xiv, 8' taken as Ecclus 51:8 and 'Ps. lxviii, 18' as Ps 58:18, noted in the text"
   },
   {
    "id": "exodus-031",
@@ -1754,9 +1754,9 @@
     712,
     716
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:33:17Z"
+   "note": "published; a word or two lost in the transcription in the mystical paragraph on Marath ('pro amaritudine animi sui. […] namque est sitiens … quam', PDF 714–715); the end of the article (18 lines, PDF 716 right column top) re-cut from exodus-032.txt; margin 'Num. xxvi, 14' taken as Num 27:14 and 'Tob. xii, 12' as Tob 12:13, noted in the text; check against the scan"
   },
   {
    "id": "exodus-032",
