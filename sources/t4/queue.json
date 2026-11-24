@@ -387,10 +387,11 @@
     454,
     461
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 25,
-   "claimed": "2026-11-24T21:26:36Z"
+   "claimed": "2026-11-24T21:26:36Z",
+   "note": "Published (two workers, split at v. 13), but text is lost in the OCR on PDF 458: a band of about two lines at the foot of the page, i.e. the v. 13 lemma 'Licet hæc celes in […]' with the start of its gloss, and a line or two of Gregory's lioness story ('in qua pecus ponitur: […] foveam projicit'). Marked […]; please check the scan. v. 18 lemma garbled, read from the Vulgate. Margin numerals fixed: Gen 2:7, Jer 23:23–24, Job 31:18, Job 6:4, 3:11, 3:16 (tool read 'Jos'), Wis 6:9, Apoc 18:7, Ex 10:21–22. 'Tertio Regum Salomon': quoted as Eccles 7:21, ref-only 3 Kings 8:46 (note). Projicite eum: Matt 22:13, ref-only 25:30. DR slip: Rom 13:1 lacks 'are, are' ('and those that are, are ordained of God')."
   },
   {
    "id": "job-026",
