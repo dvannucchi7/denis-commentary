@@ -72,12 +72,13 @@
     318,
     326
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "part": 2,
    "parts": 2,
    "order": 4,
-   "claimed": "2026-11-24T20:03:30Z"
+   "claimed": "2026-11-24T20:03:30Z",
+   "note": "vv. 7-22, by two workers; Art. IV now complete. To check against the scan: 'Sit nomen Domini nominatum benedictum' (v. 21, kept as printed); the margin beside the Chaldeans (Jer/Joel/Hab, verse numbers guessed: Jer 6:23, Joel 2:3, Hab 1:6); the Exodus hardening references; 'Ps. xc' (taken as Ps 90:11); '* volitionem', the edition's correction in a Gregory quotation (English follows it)."
   },
   {
    "id": "job-005",
