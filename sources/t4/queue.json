@@ -89,10 +89,11 @@
     326,
     333
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 5,
-   "claimed": "2026-11-24T20:11:02Z"
+   "claimed": "2026-11-24T20:11:02Z",
+   "note": "By two workers. Margin numerals corrected by the text in many places (e.g. Rom 13:12, Is 42:1, Zach 3:8, 1 Thess 5:8, Mark 16:15, Is 53:10). Garbled OCR of the v. 4 lemma 'Et mittentes vocabant tres sorores suas' restored. Plato (Timaeus) quotation 'Ergone ... magnifice invitatus sum hodie' is a doubtful reading (note left). An illegible margin note near Acts 2:44 may be Acts 4:32 (note left). Quotations tagged without a margin note read: Jer 31:22, Acts 2:22/24, Ps 75:2, Is 49:18, Ps 108:4, John 17:20-21, John 6:37/44, Ps 134:6."
   },
   {
    "id": "job-006",
