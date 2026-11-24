@@ -1814,8 +1814,9 @@
     714,
     719
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:21:43Z"
   },
   {
    "id": "malachi-006",
@@ -1826,8 +1827,9 @@
     719,
     721
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:21:43Z"
   },
   {
    "id": "malachi-007",
@@ -1838,8 +1840,9 @@
     721,
     726
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:21:43Z"
   }
  ]
 }
