@@ -1784,9 +1784,10 @@
     708,
     712
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:13:05Z"
+   "claimed": "2026-11-24T05:13:05Z",
+   "note": "Latin slips corrected (noluveritis, fiebant→flebant, conquereantes); 'dispergentur' at v. 12 kept as printed (perhaps for 'disperdentur'). Matt 5:32 / 19:9 margin note had no brackets in the transcription. DR data slip: Mal 2:16 'iniquity shalt cover his garment' (for 'shall')."
   },
   {
    "id": "malachi-004",
@@ -1797,9 +1798,10 @@
     712,
     714
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:13:05Z"
+   "claimed": "2026-11-24T05:13:05Z",
+   "note": "'donorum gratiæ gratum faciendis' kept as printed (perhaps 'facientis'), noted. Apoc 3:17, Lev 10:9–11 and Luke 12:48 tagged with no margin note (Denis names the source)."
   },
   {
    "id": "malachi-005",
