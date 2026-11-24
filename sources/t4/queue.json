@@ -40,10 +40,11 @@
     306,
     308
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 2,
-   "claimed": "2026-11-24T19:50:10Z"
+   "claimed": "2026-11-24T19:50:10Z",
+   "note": "Introduction (Gregory's preliminaries), filed under ch. 1. Doubtful OCR in Gregory's line on Atlas ('gigantec sis pieetur sudore', read as 'giganteis putetur sudore'). Jacob's margin reference badly printed (Gen 31:40 chosen, with a note); Josue's taken as Ecclus 46:1."
   },
   {
    "id": "job-004-part1",
