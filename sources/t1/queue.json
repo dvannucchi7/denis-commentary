@@ -311,9 +311,9 @@
     202,
     210
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T06:02:00Z"
+   "note": "Unreadable margin notes: Rom 5:14 ('ut testatur Apostolus') and 3 Kings 11:4 (Solomon's idols) supplied as reference-only markers, with notes."
   },
   {
    "id": "genesis-025",
@@ -324,9 +324,9 @@
     210,
     215
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T06:02:00Z"
+   "note": "Margin '* herbam' beside 'herbas' (3:18) is a variant reading, given as a note."
   },
   {
    "id": "genesis-026",
