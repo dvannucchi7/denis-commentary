@@ -840,7 +840,8 @@
    ],
    "status": "in-progress",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:11:42Z"
+   "claimed": "2026-11-24T09:11:42Z",
+   "note": "genesis-065.txt was re-cut at 09:17 UTC (commit 1c3b46c): its lines 10–41 ('crucifigi pro nobis. Veruntamen … in cordibus demoratur fidelium') were the end of Art. LXIV and are now published there. If this article was translated from the older file, leave those lines out."
   },
   {
    "id": "genesis-066",
