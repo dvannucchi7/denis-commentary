@@ -1193,8 +1193,9 @@
     510,
     514
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:35:00Z"
   },
   {
    "id": "micah-008",
@@ -1205,8 +1206,10 @@
     514,
     516
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:35:00Z",
+   "note": "Re-cut (03:11 run): the end of Art. VII (PDF 514 right column, 'ea, id est habitatores Samariæ … consecuta est pœna') moved from micah-008.txt to micah-007.txt; the end of Art. VIII (PDF 516 right column, 'seminabis opera bona … si motus fuero', which had been cut as a separate 'micah-009') moved into micah-008.txt."
   },
   {
    "id": "micah-009",
@@ -1215,22 +1218,11 @@
    "chapter_guess": 7,
    "pages": [
     516,
-    516
+    526
    ],
-   "status": "todo",
-   "source": "transcribed"
-  },
-  {
-   "id": "micah-010",
-   "book": "micah",
-   "art": 10,
-   "chapter_guess": 7,
-   "pages": [
-    516,
-    527
-   ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "needs-scan",
+   "source": "transcribed",
+   "note": "Re-cut (03:11 run): the old micah-009 was not an article but the end of Art. VIII (now in micah-008.txt); Art. IX (ch. 7, the last article on Micheas; running heads PDF 516-525 'ART. IX') was in micah-010.txt, now micah-009.txt (micah-010 removed: there is no Art. X). Needs scan of PDF 526 (printed p. 516): its transcription is the model's refusal ('I can't see any page images'), so the end of Art. IX is lost: the mystical exposition from v. 12 ('…et ad montem de monte… Et terra') through v. 20. PDF 525's running head is garbled but its text reads. The rest (PDF 516-525) reads clean and can be translated once p. 526 is supplied (or published with the gap marked)."
   },
   {
    "id": "nahum-001",
