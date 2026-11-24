@@ -733,9 +733,10 @@
     589,
     595
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 48
+   "order": 48,
+   "claimed": "2026-11-24T22:52:57Z"
   },
   {
    "id": "job-049",
