@@ -1793,9 +1793,9 @@
     728,
     732
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:49:27Z"
+   "note": "the end of the article (16 lines, PDF 732 right column top) re-cut from exodus-035.txt; five unread margin notes taken as Judg 7:25, 1 Par 2:19, 1 Kings 15:3, Esth 3:1, 1 Kings 30:1; margin 'Gen. xix, 24' taken as Gen 49:24 (noted in the text)"
   },
   {
    "id": "exodus-035",
@@ -1806,9 +1806,9 @@
     732,
     734
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:49:27Z"
+   "note": "the end of the article (20 lines, PDF 734 right column top) re-cut from exodus-036.txt; margin 'Judith xi, 23' taken as Jdt 8:23–25 (noted in the text)"
   },
   {
    "id": "exodus-036",
