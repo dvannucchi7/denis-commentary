@@ -569,10 +569,11 @@
     533,
     538
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 37,
-   "claimed": "2026-11-24T22:19:44Z"
+   "claimed": "2026-11-24T22:19:44Z",
+   "note": "Published as Job 16, Art. XXXVII (pp. 525–530, PDF 533–538; translated by the run itself). Text lost in the OCR on PDF 535 right column: after 'ad gravissimam calamitatem dejectus: pro-' (16:13) a line or more is missing before 'ut superius recitatur' (kept as 'pro[…]'; the margin there cites Job 1:14–19 and 2:7–8). Heading completed from the line the OCR took for a running head: 'Expositio litteralis capituli sextidecimi: Respondens autem Job, dixit.' Readings: 'talia et ea vitia' (OCR 'à vitia', column edge cut), 'quæ cæditur' (OCR 'qua editur'). Misread margins identified from the text: Prov 15:4, Ps 72:22, Job 7:12, Job 7:14, 1 Pet 5:8, Job 41:24, Jon 3:6–8, Lam 2:10–11, 1 Kings 30:4, Phil 1:8, Ps 88:38, Ps 122:1, Job 7:7–8. 'Job xv, 2' beside 'usque ad mortem mala instare' taken as Job 15:21 (noted). Please check the scan."
   },
   {
    "id": "job-038",
