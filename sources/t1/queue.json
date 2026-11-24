@@ -219,8 +219,9 @@
     169,
     172
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:52:00Z"
   },
   {
    "id": "genesis-018",
@@ -231,8 +232,9 @@
     172,
     175
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:52:00Z"
   },
   {
    "id": "genesis-019",
