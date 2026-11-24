@@ -509,10 +509,11 @@
     512,
     517
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 33,
-   "claimed": "2026-11-24T22:02:21Z"
+   "claimed": "2026-11-24T22:02:21Z",
+   "note": "One worker. In Denis's text the chapter starts at 'Breves dies' (v. 5): vv. 1–4 were treated with ch. 13. Margin fixes: Gen 37:35 and 4 Kings 22:20 (tool read 'Lam'), Ps 67:19, Is 63:16, Ps 6:3, Jer 28:16; unreadable notes worked out from the text: Acts 17:26, Matt 24:35, Ps 101:26–27, Apoc 21:1, John 5:28; 'Cor hominis immutat faciem' tagged Ecclus 13:31 + Prov 12:25 with a note. 'conversationem' (twice, sense conservationem) kept with a note. DR slips: Job 14:7 'it growth green', Jer 28:15 'Jeremiah'."
   },
   {
    "id": "job-034",
