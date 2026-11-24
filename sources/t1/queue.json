@@ -1611,8 +1611,9 @@
     666,
     677
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T11:36:32Z"
   },
   {
    "id": "exodus-021",
@@ -1623,8 +1624,9 @@
     677,
     679
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T11:36:32Z"
   },
   {
    "id": "exodus-022",
