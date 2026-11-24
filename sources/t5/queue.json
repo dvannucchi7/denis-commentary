@@ -2211,7 +2211,7 @@
     594,
     596
    ],
-   "status": "waiting",
+   "status": "todo",
    "source": "ocr",
    "order": 108169
   },
@@ -2222,13 +2222,156 @@
    "chapter_guess": 145,
    "pages": [
     596,
-    596
+    602
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108170
+  },
+  {
+   "id": "psalms-068",
+   "book": "psalms",
+   "art": 68,
+   "chapter_guess": 145,
+   "pages": [
+    602,
+    606
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108171
+  },
+  {
+   "id": "psalms-069",
+   "book": "psalms",
+   "art": 69,
+   "chapter_guess": 145,
+   "pages": [
+    606,
+    610
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108172
+  },
+  {
+   "id": "psalms-070",
+   "book": "psalms",
+   "art": 70,
+   "chapter_guess": 145,
+   "pages": [
+    610,
+    615
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108173
+  },
+  {
+   "id": "psalms-071",
+   "book": "psalms",
+   "art": 71,
+   "chapter_guess": 145,
+   "pages": [
+    615,
+    621
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108174
+  },
+  {
+   "id": "psalms-072",
+   "book": "psalms",
+   "art": 72,
+   "chapter_guess": 145,
+   "pages": [
+    621,
+    628
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108175
+  },
+  {
+   "id": "psalms-073",
+   "book": "psalms",
+   "art": 73,
+   "chapter_guess": 145,
+   "pages": [
+    628,
+    633
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108176
+  },
+  {
+   "id": "psalms-074",
+   "book": "psalms",
+   "art": 74,
+   "chapter_guess": 145,
+   "pages": [
+    633,
+    638
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108177
+  },
+  {
+   "id": "psalms-075",
+   "book": "psalms",
+   "art": 75,
+   "chapter_guess": 145,
+   "pages": [
+    638,
+    646
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108178
+  },
+  {
+   "id": "psalms-076",
+   "book": "psalms",
+   "art": 76,
+   "chapter_guess": 145,
+   "pages": [
+    646,
+    653
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108179
+  },
+  {
+   "id": "psalms-077",
+   "book": "psalms",
+   "art": 77,
+   "chapter_guess": 145,
+   "pages": [
+    653,
+    661
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108180
+  },
+  {
+   "id": "psalms-078",
+   "book": "psalms",
+   "art": 78,
+   "chapter_guess": 145,
+   "pages": [
+    661,
+    664
    ],
    "status": "waiting",
    "source": "ocr",
-   "order": 108170
+   "order": 108181
   }
  ],
- "pages_cut": 596,
+ "pages_cut": 664,
  "complete": false
 }
