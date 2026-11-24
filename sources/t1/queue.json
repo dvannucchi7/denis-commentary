@@ -76,9 +76,9 @@
     123,
     126
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:35:07Z"
+   "note": "the end of Art. V ('quod per cœlum intelligit naturam angelicam … et infra tangetur', PDF 123 right column) had been cut into this article's text; moved back to genesis-005.txt"
   },
   {
    "id": "genesis-007",
@@ -89,9 +89,8 @@
     127,
     128
    ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-24T05:35:07Z"
+   "status": "done",
+   "source": "transcribed"
   },
   {
    "id": "genesis-008",
@@ -102,9 +101,9 @@
     128,
     132
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:35:07Z"
+   "note": "one word unreadable in the transcription (the Hebrew word Jerome gives for 'ferebatur', v. 2, PDF 130): kept as […]"
   },
   {
    "id": "genesis-009",
@@ -115,9 +114,8 @@
     132,
     136
    ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-24T05:35:07Z"
+   "status": "done",
+   "source": "transcribed"
   },
   {
    "id": "genesis-010",
