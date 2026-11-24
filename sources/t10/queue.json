@@ -971,9 +971,9 @@
     421,
     426
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "amos-013.txt starts 'locustæ, id est …' straight after the heading: the lemma's opening words (7:1 'et ecce fictor') seem to be lost or in the heading; the first 23 lines formerly there belonged to Art. XII and were moved to amos-012.txt.",
+   "note": "Published (23:26 run, one worker). Opening words of the 7:1 lemma after the heading (probably 'et ecce fictor') lost in the transcription: marked […] (check the scan, PDF 421). Its end (moral paragraph, 'minas remittit' to 'moriuntur') had been cut into amos-014.txt; moved back. Variants noted: tonsorem (Vulg. tonsionem), dextera (7:7), mihi (7:16), Bethel (7:17); John 1:21 'Non sum'. Range/chapter margins given as first and last verse (4 Kings 18:1/19:1, 24:1/25:1, 17:3/17:6, 25:22/25:26, Jer 40:5/40:7).",
    "claimed": "2026-11-23T23:59:57Z"
   },
   {
