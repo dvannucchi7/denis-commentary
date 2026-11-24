@@ -103,10 +103,11 @@
     333,
     339
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 6,
-   "claimed": "2026-11-24T20:13:01Z"
+   "claimed": "2026-11-24T20:13:01Z",
+   "note": "Readings to check against the scan: stray 'lim' after 'Et ibant filii ejus' dropped; 'derelinqui', 'occidit', 'clementiae', 'confidentiae cibos' read for garbled OCR."
   },
   {
    "id": "job-007",
