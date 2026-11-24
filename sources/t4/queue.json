@@ -418,10 +418,11 @@
     472,
     478
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 27,
-   "claimed": "2026-11-24T21:37:48Z"
+   "claimed": "2026-11-24T21:37:48Z",
+   "note": "One worker. Many garbled margin notes identified from the Latin (e.g. tool's 'Is 4:4' = Soph 3:15, 'John 2:13' = Prov 4:18). 'theorica virtus' read as 'theologica'. Variant-reading margin notes (* esset; ab eo) given as bracketed notes. 11:16 lemma reads 'non recordaberis' (note). Job 9:12 marked without a margin note (word for word)."
   },
   {
    "id": "job-028",
