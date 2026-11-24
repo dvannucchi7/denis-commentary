@@ -630,9 +630,9 @@
     328,
     329
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:43:05Z"
+   "note": "Published as Genesis 14, Art. XLIX (pp. 222–223, PDF 328–329; scheduled run, one worker with Art. LI). Its end ('benedicitque Deo, et gratias agit ei … fides nostra', PDF 329 right column top) had been cut into genesis-050.txt; moved back."
   },
   {
    "id": "genesis-050",
@@ -643,9 +643,9 @@
     329,
     337
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:43:05Z"
+   "note": "Published as Genesis 15, Art. L (pp. 223–231, PDF 329–337; scheduled run, two workers, split at 15:9; the transcription heads it 'ARTICULUS I'). Unreadable margin 'Ps. […]' taken as Ps 17:31 (noted). 'magnus pa- / […] iste' (PDF 334) read as 'pavor iste'. Margin 'Jerem. 2' beside Caleb's age does not fit: Jos 14:7 given as reference-only, with a note. Douay-Rheims file slips seen: Gen 15:9 'three years. and a ram' (comma), Gen 15:18 'from the river to Egypt' (Challoner 'of Egypt')."
   },
   {
    "id": "genesis-051",
@@ -656,9 +656,9 @@
     337,
     341
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:43:05Z"
+   "note": "Published as Genesis 15, Art. LI (pp. 231–235, PDF 337–341; scheduled run, one worker with Art. XLIX). Its end ('assistebant, et pertinebant ad eum … usque ad fines terræ', PDF 341 right column top) had been cut into genesis-052.txt; moved back. Margin John 17:12 marked John 18:9 and Dan 9:26 marked 9:27, where the words are (noted). Douay-Rheims file slip seen: 1 John 5:4 'overcameth'."
   },
   {
    "id": "genesis-052",
