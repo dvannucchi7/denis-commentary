@@ -708,8 +708,9 @@
     353,
     356
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T08:54:24Z"
   },
   {
    "id": "genesis-056",
@@ -720,8 +721,9 @@
     356,
     359
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T08:54:24Z"
   },
   {
    "id": "genesis-057",
