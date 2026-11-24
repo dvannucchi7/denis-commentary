@@ -540,9 +540,9 @@
     299,
     302
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:33:55Z"
+   "note": "Published as Genesis 10, Art. XLII (pp. 193–196, PDF 299–302; scheduled run, one worker). Its end ('tium. Præterea, in Scholastica historia … quod alibi reprobavi', PDF 302 right column top) had been cut into genesis-043.txt; moved back. At 10:32 the transcription reads 'Ab his divisæ sunt penitus in terra' (Vulgate 'gentes'): kept, check the scan. Edition's variant notes (Ob hoc, Sinæum, usque Lesa, patre) given as bracketed notes."
   },
   {
    "id": "genesis-043",
@@ -553,9 +553,9 @@
     302,
     308
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:33:55Z"
+   "note": "Published as Genesis 11, Art. XLIII (pp. 196–202, PDF 302–308; scheduled run, one worker). Its end ('inter illos Enoch … cum conjuge sua in Haran', PDF 308 right column top) had been cut into genesis-044.txt; moved back. 'primis parentibus dinitum' kept as transcribed (read as 'inditum', noted). Jos 24:2 marked without a margin note (Denis names Josue)."
   },
   {
    "id": "genesis-044",
@@ -566,9 +566,9 @@
     308,
     310
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:33:55Z"
+   "note": "Published as Genesis 11, Art. XLIV (pp. 202–204, PDF 308–310; scheduled run, one worker). Its end ('cendo: Salutat vos Ecclesia … bonis ac justis', PDF 310 right column top) had been cut into genesis-045.txt; moved back. Margin Job xli, 25 marked Job 41:24, Osee x, 9 marked Osee 11:9, Is. xiv, 14 marked Is 14:13–14, where the words are (noted)."
   },
   {
    "id": "genesis-045",
