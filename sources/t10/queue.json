@@ -1660,9 +1660,10 @@
     672,
     676
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:52:35Z"
+   "claimed": "2026-11-24T04:52:35Z",
+   "note": "Margin ranges given as single reference-only markers (Matt 26:69, Acts 4:8, 1 Mach 5:1), noted. 'Longo siquidem tempore oppresserunt Macedones' is ambiguous (who oppressed whom); note gives both readings."
   },
   {
    "id": "zechariah-014",
@@ -1673,9 +1674,10 @@
     676,
     678
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:52:35Z"
+   "claimed": "2026-11-24T04:52:35Z",
+   "note": "Margin 'Ps. lxxvii, 7' does not fit 'uniusque moris habitent simul in domo'; marked Ps 67:7 with a note."
   },
   {
    "id": "zechariah-015",
@@ -1686,9 +1688,10 @@
     678,
     683
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:52:35Z"
+   "claimed": "2026-11-24T04:52:35Z",
+   "note": "Margin 'Jer. xi, 2, 3' does not fit; marked Jer 40:2–3 with a note. DR data slip: in data/bible/drc 2 Thess 2:10 holds Vulgate vv. 10–11 (so 'Therefore God shall send them…' is under 2:10 and 2:11 holds Vulgate v. 12); the markers follow the DR file. Transcription repeated a line at Is 1:2 (dropped); 'unde et de fluvio illo tremebant' (v. 3) obscure, noted."
   },
   {
    "id": "zechariah-016",
