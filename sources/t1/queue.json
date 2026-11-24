@@ -1665,9 +1665,9 @@
     686,
     690
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:17:09Z"
+   "note": "published; words lost in the transcription in the 13:13 lemma and its gloss ('Omne autem primogenitum hominis de filiis […] id est, primogenita in […]tet filios Hebræorum', PDF 688–689), and two margin notes half unread ('Exod. x[…] 15', taken as Ex 12:15; 'Judic. […] 2, 4', taken as Judg 3:4 and 3:2); the end of the article (8 lines, PDF 690 right column top) was re-cut from exodus-025.txt; check against the scan"
   },
   {
    "id": "exodus-025",
@@ -1678,9 +1678,8 @@
     690,
     691
    ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-24T13:18:08Z"
+   "status": "done",
+   "source": "transcribed"
   },
   {
    "id": "exodus-026",
