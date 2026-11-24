@@ -667,7 +667,7 @@
     601,
     608
    ],
-   "status": "waiting",
+   "status": "todo",
    "source": "ocr",
    "order": 50
   },
@@ -678,13 +678,143 @@
    "chapter_guess": 25,
    "pages": [
     608,
-    609
+    610
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 51
+  },
+  {
+   "id": "job-052",
+   "book": "job",
+   "art": 52,
+   "chapter_guess": 26,
+   "pages": [
+    610,
+    616
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 52
+  },
+  {
+   "id": "job-053",
+   "book": "job",
+   "art": 53,
+   "chapter_guess": 27,
+   "pages": [
+    616,
+    621
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 53
+  },
+  {
+   "id": "job-054",
+   "book": "job",
+   "art": 54,
+   "chapter_guess": 28,
+   "pages": [
+    621,
+    630
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 54
+  },
+  {
+   "id": "job-055",
+   "book": "job",
+   "art": 55,
+   "chapter_guess": 28,
+   "pages": [
+    630,
+    637
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 55
+  },
+  {
+   "id": "job-056",
+   "book": "job",
+   "art": 56,
+   "chapter_guess": 29,
+   "pages": [
+    637,
+    641
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 56
+  },
+  {
+   "id": "job-057",
+   "book": "job",
+   "art": 57,
+   "chapter_guess": 29,
+   "pages": [
+    641,
+    646
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 57
+  },
+  {
+   "id": "job-058",
+   "book": "job",
+   "art": 58,
+   "chapter_guess": 30,
+   "pages": [
+    646,
+    650
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 58
+  },
+  {
+   "id": "job-059",
+   "book": "job",
+   "art": 59,
+   "chapter_guess": 31,
+   "pages": [
+    650,
+    661
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 59
+  },
+  {
+   "id": "job-060",
+   "book": "job",
+   "art": 60,
+   "chapter_guess": 32,
+   "pages": [
+    661,
+    665
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 60
+  },
+  {
+   "id": "job-061",
+   "book": "job",
+   "art": 61,
+   "chapter_guess": 33,
+   "pages": [
+    665,
+    667
    ],
    "status": "waiting",
    "source": "ocr",
-   "order": 51
+   "order": 61
   }
  ],
- "pages_cut": 326,
+ "pages_cut": 384,
  "complete": false
 }
