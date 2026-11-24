@@ -1814,9 +1814,10 @@
     714,
     719
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:21:43Z"
+   "claimed": "2026-11-24T05:21:43Z",
+   "note": "Published as Malachias 3, Art. V (pp. 704–709, PDF 714–719; scheduled run, one worker). Margin '⟦4⟧' beside the v. 1 lemma misread (tagged v. 1). Margin 'Matt. xxiv, 9' for 'Eritis odio omnibus hominibus propter me': Matt 10:22 marked, noted. Is 9:6 'Angelus magni consilii' (LXX) reference-only, noted. Margin 'Cf. in Habac. I, 3. 16' (Denis's own commentary on Habacuc 1) given as reference-only Hab 1:3 with a note: uncertain. Edition footnotes (3:4 'anni'; 3:8 variant of 'affliget', unclear in the transcription) kept as notes. Denis's readings 'mater' (3:17), 'humiliant' (3:5), 'horreum meum' (3:10) noted. DR data slip: Matt 11:10 reads 'before my face' (Challoner: 'before thy face')."
   },
   {
    "id": "malachi-006",
@@ -1827,9 +1828,10 @@
     719,
     721
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:21:43Z"
+   "claimed": "2026-11-24T05:21:43Z",
+   "note": "Published as Malachias 4, Art. VI (pp. 709–711, PDF 719–721; scheduled run, one worker). Needs scan of PDF 719–720: the transcription has '[…]' in 'de futuro […] generali judicio' (v. 1; probably 'et') and a line seems lost at the column break in 'electis placido ac se- / remunerator' (v. 2): both kept as […] with notes. 'Eliam propheta' corrected to 'prophetam'. 4:2 Denis reads 'in pennis vestris' (noted). Job 22:19, Is 66:24, Matt 17:11, Mark 9:11 marked where Denis names the book; Ecclus 48:10 'domus Jacob' for 'tribus' noted."
   },
   {
    "id": "malachi-007",
@@ -1840,9 +1842,10 @@
     721,
     726
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:21:43Z"
+   "claimed": "2026-11-24T05:21:43Z",
+   "note": "Published as Malachias 3–4, Art. VII (pp. 711–713, PDF 721–723; scheduled run, one worker): shown under ch. 3 (to 3:17) and ch. 4 (from the margin's '(cap. iv.)', 4:2), with a note on each. Last page of commentary is PDF 723 ('Amen.'); PDF 724 and 726 were not transcribed (refusal text), 725 is the INDICES heading: the article looks complete, but check PDF 724 against the scan in case it holds text. Margin 'Luke viii, 14' does not fit 'semen, quod est verbum Dei': reference-only Luke 8:12 with a note. 1 Tim 2:4 margin note (beside the last sentence) marked."
   }
  ]
 }
