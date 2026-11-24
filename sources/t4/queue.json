@@ -282,9 +282,10 @@
     404,
     409
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 18
+   "order": 18,
+   "claimed": "2026-11-24T20:55:44Z"
   },
   {
    "id": "job-019",
