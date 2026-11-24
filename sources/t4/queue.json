@@ -359,10 +359,11 @@
     433,
     446
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 23,
-   "claimed": "2026-11-24T21:22:21Z"
+   "claimed": "2026-11-24T21:22:21Z",
+   "note": "Two workers (split at v. 14). The last 10 lines of the article (PDF 446, right column top, 'Ob hæc timentes tremere solent … dissolutionem infrenem') were cut into job-024.txt; moved back here. Lemmata 9:18, 9:19 (two) restored from garbled OCR. Ecclus 18:27 marked where the margin gives Ecclus 16:21 (note). Three unread margin notes left as bracketed notes. Denis credits Virgil's Georgics to Lucan (note). DR slip: Wis 5:10 '. nor the path'."
   },
   {
    "id": "job-024",
@@ -373,10 +374,11 @@
     446,
     453
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 24,
-   "claimed": "2026-11-24T21:22:25Z"
+   "claimed": "2026-11-24T21:22:25Z",
+   "note": "Two workers (split at v. 13). Margins of PDF 446 not read (p446.json empty); notes taken from the OCR text. Lost text marked […]: four lines on PDF 448 (vv. 7–9) and one word 'audire […] meruit' (probably vocem): check against the scan. Lemmata 9:32 and 9:34 restored from garbled OCR. v. 23 'non desinat' kept with a note (sense needs 'sinat'). 'Peccavi super numerum arenæ maris' (Prayer of Manasses) unmarked with a note."
   },
   {
    "id": "job-025",
