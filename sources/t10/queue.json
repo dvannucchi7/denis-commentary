@@ -1580,9 +1580,9 @@
     648,
     651
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:41:50Z"
+   "note": "Print has 'in aliis earum' at 5:9 (Vulgate 'alis'), kept with a note; Denis's Job 31:28 wording differs from the Vulgate (noted)."
   },
   {
    "id": "zechariah-008",
@@ -1593,9 +1593,9 @@
     651,
     656
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:41:50Z"
+   "note": "Transcription had '[…]' after 'ad Hebræos dicitur :' before Heb 12:14; the sentence reads on without a gap, so it was dropped (check against the scan). Margin 'I Petr. v, 25' taken as 1 Pet 2:25, 'Ps. cxlvii, 15' as Ps 147:4 (noted). DR data slip: Zach 6:6 'to the land the south' (missing 'of')."
   },
   {
    "id": "zechariah-009",
@@ -1606,9 +1606,9 @@
     656,
     659
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:41:50Z"
+   "note": "Is 6:10 / Matt 13:15: Denis's wording is Matthew's, marked Matt 13:15 (noted). DR data slips: Zach 7:1 and 7:8 read 'Zechariah'; 7:12 reads 'from Lord of hosts'."
   },
   {
    "id": "zechariah-010",
