@@ -1527,9 +1527,9 @@
     636,
     640
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:32:54Z"
+   "note": "Published as Zacharias 2, Art. III (pp. 626–630, PDF 636–640; scheduled run, one worker). Re-cut first: the end of Art. II (1:21 'terrere atque dejicere cornua … intelligi possunt', PDF 636 right column, above a duplicated heading) had been cut into zechariah-003.txt; moved to zechariah-002.txt. Margin 'Deut. xxxii, 27' = Deut 33:27; 'Ezech. xi et seq.' taken as Ezech 40:5 ff. (reference-only); both noted. Septuagint reading at v. 6 ('et ex quatuor ventis colligam vos') left unmarked with a note; v. 8 Denis reads 'oculi ejus' (footnote 'mei'), noted. Wis 18:14–15 in its liturgical form (noted)."
   },
   {
    "id": "zechariah-004",
@@ -1540,9 +1540,9 @@
     640,
     644
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:32:54Z"
+   "note": "Published as Zacharias 3, Art. IV (pp. 630–634, PDF 640–644; scheduled run, one worker). Re-cut first: the end of the article (moral reading of 3:3–8, 'ministerio angelorum … efficiunt gratiosam', PDF 644 right column) had been cut into zechariah-005.txt; moved back. Margin '1 Reg. ii, 20' does not fit (reference-only 1 Kings 2:29, noted); 'Is. ix, 6 juxta LXX' reference-only with a note; Matt 4:10 + 4:7 joined (noted). Prov 24:16 tagged without margin note. DR data slip: John 14:30 'the prince of this world: cometh:' (stray colon)."
   },
   {
    "id": "zechariah-005",
