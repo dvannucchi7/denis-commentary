@@ -37,7 +37,7 @@
    ],
    "status": "done",
    "source": "transcribed",
-   "note": "'codicibus' (PDF 115?) supplied from Jerome's prologue; margin note beside 'Ex Ægypto vocavi Filium meum' unreadable (tagged Osee 11:1); one word lost after 'quod sit unum' (kept as […])"
+   "note": "'codicibus' (PDF 115) supplied from Jerome's prologue; margin note beside 'Ex Ægypto vocavi Filium meum' unreadable (tagged Osee 11:1); one word lost after 'quod sit unum' (kept as […])"
   },
   {
    "id": "genesis-004",
@@ -74,8 +74,9 @@
     123,
     126
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:35:07Z"
   },
   {
    "id": "genesis-007",
@@ -86,8 +87,9 @@
     127,
     128
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:35:07Z"
   },
   {
    "id": "genesis-008",
@@ -98,8 +100,9 @@
     128,
     132
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:35:07Z"
   },
   {
    "id": "genesis-009",
@@ -110,8 +113,9 @@
     132,
     136
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:35:07Z"
   },
   {
    "id": "genesis-010",
