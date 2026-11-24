@@ -838,10 +838,9 @@
     399,
     401
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:11:42Z",
-   "note": "genesis-065.txt was re-cut at 09:17 UTC (commit 1c3b46c): its lines 10–41 ('crucifigi pro nobis. Veruntamen … in cordibus demoratur fidelium') were the end of Art. LXIV and are now published there. If this article was translated from the older file, leave those lines out."
+   "note": "Translated from the re-cut file: its end ('est translatus ad dominum Abrahæ … absconditur', PDF 401) had been in genesis-066.txt and was moved back (commit caa20cd). Denis's text of 23:12 adds 'coram Domino' (noted)."
   },
   {
    "id": "genesis-066",
@@ -852,9 +851,9 @@
     401,
     408
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:11:49Z"
+   "note": "Published; words lost in the transcription (PDF 401–405): 24:2 'Pone manum […] femur meum'; 24:22 three words after 'Postquam autem' and 'armillas totidem in […]'; 24:47 'sua brachia […]'. Margin notes beside Gen 49:10 and 'Omnes animæ quæ egressæ sunt de femore Jacob' unreadable (tagged Ex 1:5; Denis's 'infra' may mean Gen 46:26). Suspect readings noted in the text: 'impotens' (24:11), 'memorare dolorem' (last sentence)."
   },
   {
    "id": "genesis-067",
