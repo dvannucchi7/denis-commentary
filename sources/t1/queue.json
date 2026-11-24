@@ -1406,9 +1406,9 @@
     599,
     607
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:53:21Z"
+   "note": "Published; text corrupt at a page break in the transcription: 'perfectio- / riis, per incredulitatem percussit mortaliter' (kept as 'perfectio[…]riis', noted). Unreadable margin notes, verses supplied with notes: Luke 3:22 (with Matt 3:17), John 17:1 (with John 12:28), Luke 22:10 (wording of Mark 14:13); 'Cf. Sap. III, […]' given as Wis 3:8 (reference-only). Margin 'I Reg. x, 1-7' given as 1 Kings 10:1. Kept as printed with notes: 'cognati' (3:1, Vulgate 'soceri'), 'necessabiliter' (probably 'incessabiliter'), 'subita certa differentia temporis' (read as 'sub certa'). Ex 12:33 tagged without a margin note. Douay-Rheims slip in data/bible/drc/exodus.json, 3:4: 'out of the midst of the bush. and said'."
   },
   {
    "id": "exodus-006",
