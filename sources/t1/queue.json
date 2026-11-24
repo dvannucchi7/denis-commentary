@@ -1613,9 +1613,9 @@
     666,
     677
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:42:30Z"
+   "note": "Margin numerals corrected: Luc. ix, 2 → Luke 9:28; Is. xiii, 8 → Is 42:8; Gen. xvii, 17 → Gen 21:5 (bracketed notes). One word lost in the transcription at 'taliter consumi […] per ignem' (v. 10, PDF ~672): kept as […]."
   },
   {
    "id": "exodus-021",
@@ -1626,9 +1626,9 @@
     677,
     679
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:42:30Z"
+   "note": "Transcription 'Magi namque debuerunt' read as 'defecerunt' (Ex 8:18; unreadable margin note there). Repeated lines in the transcription dropped."
   },
   {
    "id": "exodus-022",
