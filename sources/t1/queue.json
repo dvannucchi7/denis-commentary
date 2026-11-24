@@ -1149,9 +1149,9 @@
     498,
     500
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:00:28Z"
+   "note": "Published from the re-cut file (end of the article moved back from genesis-090.txt; repeated heading removed there). Words lost in the transcription (PDF 499): 'beatissimi Joseph […] patriarchæ' and 'Deinceps ob […] suam inflexibilem æquitatem'. Margins checked: 'Psal. xc, 2' is Is 11:2, 'Jer. iii, 5' is Jer 51:5 (both noted)."
   },
   {
    "id": "genesis-090",
