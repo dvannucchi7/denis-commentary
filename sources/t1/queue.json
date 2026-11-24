@@ -376,9 +376,9 @@
     234,
     243
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T06:16:00Z"
+   "note": "Translated in two parts (split at 4:17). A Hebrew word Jerome gives ('In Hebræo […] dicitur', presumably Nod) is unread in the transcription. Job 13:24 margin: Denis's words are not the verse's; reference-only marker with a note."
   },
   {
    "id": "genesis-030",
@@ -389,9 +389,9 @@
     243,
     247
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T06:16:00Z"
+   "note": "Three small gaps in the transcription, all inside lemmata (v. 5 twice, v. 16), left as […]. Unreadable margin notes taken as Acts 15:5 and Ps 58:12, with notes; Dan 9:27 tagged where the margin gives 9:26."
   },
   {
    "id": "genesis-031",
