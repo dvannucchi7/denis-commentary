@@ -1784,8 +1784,9 @@
     708,
     712
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:13:05Z"
   },
   {
    "id": "malachi-004",
@@ -1796,8 +1797,9 @@
     712,
     714
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:13:05Z"
   },
   {
    "id": "malachi-005",
