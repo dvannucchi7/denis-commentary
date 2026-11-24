@@ -1758,9 +1758,10 @@
     701,
     706
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:12:21Z"
+   "claimed": "2026-11-24T05:12:21Z",
+   "note": "Published as Malachias 1, Art. I (pp. 691–696, PDF 701–706; scheduled run, one worker). Margin 'Is. xliii, 8' = Is 42:8 (noted). 'Maledictus enim qui facit opus Dei negligenter' marked Jer 48:10 with no margin note (Denis's negligenter for fraudulenter, noted). v. 1 'onus verbi Domini, sanctum, et dici jussum est': 'sanctum' perhaps a slip for factum (noted). 'Ad vos, o sacerdotes' ends v. 6 in the Vulgate, starts v. 7 in the DR file: tagged 1:7 with a note. Chapter/range margins given as first verse (Gen 27:1, 25:29; Is 34:1; Jer 49:7; 1 Esd 3:1, 9:1; 2 Esd 13:1)."
   },
   {
    "id": "malachi-002",
@@ -1771,9 +1772,10 @@
     706,
     708
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:12:21Z"
+   "claimed": "2026-11-24T05:12:21Z",
+   "note": "Published as Malachias 1, Art. II (pp. 696–698, PDF 706–708; scheduled run, one worker). Heading printed/transcribed 'ARTICULUS I' (PDF 706); its end ('substantiam pauperis … obtuli.') had been cut into malachi-003.txt and was moved back. Is 9:6 'magni consilii Angelus' (Septuagint) reference-only with a note; Prov 19:25 Denis's 'Impio flagellato, sapiens sapientior erit' partly marked, noted; Eph 2:4 only its own words marked; Eccles 5:3 'Si quid voluisti' kept as printed (probably vovisti)."
   },
   {
    "id": "malachi-003",
