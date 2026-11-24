@@ -220,9 +220,9 @@
     169,
     172
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:52:00Z"
+   "note": "Opening quotation tagged Rom 11:34 (Denis's words), margin gives Is. xl, 13: note added."
   },
   {
    "id": "genesis-018",
@@ -233,9 +233,9 @@
     172,
     175
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:52:00Z"
+   "note": "End of article ('quæ vere in Deo … productionis earum', PDF 175 right column) moved back from genesis-019.txt; 're- / quæ vere in Deo' read as 'requiescere in Deo'. Unreadable margin note by 'Nihil novum sub sole' taken as Eccles 1:10."
   },
   {
    "id": "genesis-019",
