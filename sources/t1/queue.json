@@ -246,9 +246,9 @@
     175,
     184
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:52:56Z"
+   "note": "the end of this article ('per deserta Indiæ … diversi leguntur', PDF 184 right column) had been cut into Art. XX, and the end of Art. XVIII ('quæ vere in Deo … productionis earum', PDF 175) into this one; both moved. Margin Gen. x, 22 for Hevila does not fit (given as Gen 10:29, noted)"
   },
   {
    "id": "genesis-020",
@@ -259,9 +259,9 @@
     184,
     188
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:52:56Z"
+   "note": "words lost after 'tulit Dominus' (2:21, probably 'unam de costis ejus', PDF 187): kept as […]; margin Josue xv, 15 corrected to Jos 14:15 (noted)"
   },
   {
    "id": "genesis-021",
