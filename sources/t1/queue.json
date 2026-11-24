@@ -1290,28 +1290,30 @@
   {
    "id": "genesis-001-2",
    "book": "genesis",
-   "art": 1,
+   "art": 100,
    "chapter_guess": 49,
    "pages": [
     543,
     554
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:30:12Z"
+   "claimed": "2026-11-24T10:30:12Z",
+   "note": "This is Art. C (the transcription read the heading as 'ARTICULUS I'). Several margin notes unreadable (beside Gen 34:25-26, 1 Kings 17, Luke 11:21/Matt 12:29, Is 53:12, Is 45:25, and around Silo/Saul/David: 1 Kings 4:4, 15:26, 16:13 are guesses); each has a bracketed note. Some doubtful readings kept and noted (posuerunt, e locetur, viam latam proditionis)."
   },
   {
    "id": "genesis-002-2",
    "book": "genesis",
-   "art": 2,
+   "art": 101,
    "chapter_guess": 49,
    "pages": [
     555,
     565
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:30:12Z"
+   "claimed": "2026-11-24T10:30:12Z",
+   "note": "This is Art. CI. Unreadable margin notes beside Ps 118:100, Lyra's 'confortatæ sunt super benedictiones', Phil 3:5 and Gen 25:17 (identified from the words; noted)."
   },
   {
    "id": "genesis-102",
