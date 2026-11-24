@@ -479,10 +479,11 @@
     497,
     507
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 31,
-   "claimed": "2026-11-24T21:51:34Z"
+   "claimed": "2026-11-24T21:51:34Z",
+   "note": "Two workers (split at 13:23). The article runs on into Job 14:1–4 (Denis's next chapter starts at 14:5), so it is stored under ch. 13 and ch. 14 with a note on each. Margin numerals misread and corrected: Gen 18:27 (read as Bar 3:4), 1 Cor 15:15, Prov 1:6, Gen 3:10, Job 42:8, Job 9:20–21, Is 50:8, Wis 2:5 (printed Sap. v, 5), Job 7:20, 2 Kings 9:8. 1 Cor 15:9 for Paul's sin is likely, not certain (note in text); margin '93. 21' unidentified. Tagged with no margin note read: Ecclus 10:13, Is 14:11, Jer 29:23, Ps 9:9. Readings chosen: incitabatur, augebatur, correptiones meas, ex caritate; garbled line in v. 9 restored by the sense; 'sacculo' for 'sæculo'. Douay-Rheims data slips noticed: Ps 7:10 ends with a stray 'Just'; 1 Par 29:15 has a stray 'I'; Job 12:3 lacks 'neither am I inferior to you'; Jon 1:3 spells 'Jonah'."
   },
   {
    "id": "job-032",
