@@ -134,10 +134,11 @@
     345,
     348
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 8,
-   "claimed": "2026-11-24T20:26:05Z"
+   "claimed": "2026-11-24T20:26:05Z",
+   "note": "Art. VIII (mystical sense of ch. 2). Margin note for the temptation in the desert misread ('Iusta. i'): Matt 4:1 assumed, with a note. Gregory's reading of Wis 12:15 (condemnas) differs from the Vulgate: note. 'manumque juvat exedentis' kept as printed (perhaps cædentis): note. Denis joins Rom 8:17 and 2 Tim 2:12 (si compatimur, et conregnabimus): tagged 2 Tim 2:12 with a note. Matt 11:27 / Matt 26:55 kept per margin (also in Luke 10:22, Mark 14:48)."
   },
   {
    "id": "job-009",
