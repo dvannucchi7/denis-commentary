@@ -63,6 +63,7 @@ def main(vol, force=False):
         q, report = transcribe.cmd_cut(vol, True, src=tmp, label="ocr")
     qp = os.path.join(ROOT, "sources", vol, "queue.json"); q = json.load(open(qp))
     for k, it in enumerate(q["items"]): it["order"] = order(vol, it["book"], k)
+    q["complete"] = not missing          # cut from every planned page (else cut again when the rest is OCR'd)
     json.dump(q, open(qp, "w"), ensure_ascii=False, indent=1)
     print(f"{vol}: {len(q['items'])} items queued")
 
