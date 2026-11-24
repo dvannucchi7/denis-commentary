@@ -1162,9 +1162,9 @@
     500,
     503
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:02:34Z"
+   "note": "Published; heading partly lost in the transcription ('ARTICU[…]', 'HIS[…] DUO EU[…]'), and words lost at 40:20 'natalitius Pharao[…] […] erat' (PDF 502). Margin 'Eccli. … xxix, 20' tagged Ecclus 29:19, where the Douay-Rheims file has those words (noted). Is 28:19 tagged on 'vexatio dat intellectum' (noted)."
   },
   {
    "id": "genesis-091",
@@ -1175,9 +1175,9 @@
     503,
     508
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:02:34Z"
+   "note": "Published; words lost at 41:42 'in ma[…]u ejus' (PDF 507). Margin notes partly lost: 'Ibid. […]' (Daniel; reference-only Dan 4:5, fairly but not fully sure, noted) and one unreadable beside 'Non observabitis somnia' (tagged Lev 19:26, noted). Margin 'Esth. viii, 8' tagged Esth 8:2 (the ring given to Mardochai; noted). The v. 47 lemma is printed garbled (kept, noted). Latin guesses: 'usque'→'usuque'."
   },
   {
    "id": "genesis-092",
