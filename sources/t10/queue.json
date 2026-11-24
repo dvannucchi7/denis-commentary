@@ -1474,9 +1474,9 @@
     616,
     622
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:22:17Z"
+   "note": "Published with its end lost (scheduled run, one worker; Agg 2:2–24, pp. 606–611, PDF 616–621). Needs scan of PDF 621 (p. 611): the transcription of that page has only part of the left column ('In die illa … Denique' beside a cut-off margin note 'Is. x…') and no right column, so the end of the v. 24 comment is lost (marked […], with an article note). Margin 'Habac. iii, 35, 36, 38' is Baruch 3:35–38 (noted); Lev 5:2 noted (Num 19:11 fits better); 1 Esd 4:17–24 marked at 4:17, 4:24; 1 Par 22:5 + 2 Par 2:9 blended (noted). DR data slip: data/bible/drc/haggai.json reads 'Haggai' (Challoner 'Aggeus') in 2:2, 2:11, 2:14, 2:15, 2:21."
   },
   {
    "id": "haggai-004",
@@ -1487,9 +1487,9 @@
     622,
     627
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:22:17Z"
+   "note": "Published with its end lost (scheduled run, one worker; Agg 2:2–24, pp. 612–614, PDF 622–624). Needs scan of PDF 624 (p. 614): not transcribed (refusal message), and the right column of PDF 623 is full, so the rest of the v. 24 comment after Ex 33:19 is lost (marked […], with an article note). The transcription of PDF 622 repeated the heading and one line (dropped) and listed the right column's margin notes apart from the text (placed by sense). Margin 'Exod. xxiii, 19' = Ex 33:19; 'Ps. cxlvii, 14' (Hebrew) = Ps 147:3, reference-only (both noted). PDF 625 is the Zacharias half-title, 626 untranscribed (probably blank)."
   },
   {
    "id": "zechariah-001",
