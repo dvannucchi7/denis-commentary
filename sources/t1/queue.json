@@ -734,9 +734,9 @@
     360,
     369
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:58:00Z"
+   "note": "Published, but words are lost in the transcription: the start of the 18:14 lemma ('[…] ad te'), 'prop[…]' (18:24, PDF ~367) and 'prosequendo meam […] petitionem' (18:27); unreadable margin notes beside the 18:1 lemma and at John 11:50 (tagged) and 1 Tim 5:8 (tagged). Marked […]; please check the scan. Margin Num. xvi, 26 taken as Num 26:11, Ezech. xxi, 8 as Ezech 21:4, Ps. i, 8 as Ps 50:8 (notes added). Re-cut: its end had been in genesis-058.txt."
   },
   {
    "id": "genesis-058",
@@ -747,9 +747,9 @@
     369,
     373
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:58:00Z"
+   "note": "Published, but text is lost in the transcription: the 18:1 lemma 'in convalle […] Mambre' and several margin notes (beside 1 Thess 5:8, Is 4:2, John 10:7, Wis 12:16 and one at the start of the questions, PDF 370–373); the passages were identified from the text (notes added). Marked […]; please check the scan. Re-cut: its heading was split and its end ('veni, et effudi … quod volo, facere?') was in genesis-059.txt."
   },
   {
    "id": "genesis-059",
