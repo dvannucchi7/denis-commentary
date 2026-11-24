@@ -598,10 +598,11 @@
     543,
     547
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 39,
-   "claimed": "2026-11-24T22:27:18Z"
+   "claimed": "2026-11-24T22:27:18Z",
+   "note": "Translated by the run itself (pp. 535–539, PDF 543–547). Heading completed from the line the OCR took for a running head: 'Expositio litteralis capituli septimidecimi: Spiritus meus attenuabitur.' Margin references read from the text where the numerals were lost: Ps 26:1, Rom 8:31, Is 6:10, Is 27:11, Prov 1:28–29, 1 Cor 14:38, Matt 15:14, Job 6:4, Job 16:8, 1 Mach 2:24, Job 7:3–4, Gen 37:35, Job 14:4, Wis 7:2, Ecclus 10:13, Luke 8:14 (with Matt 13:22). Denis's threat 'per Jeremiam' given as reference-only Jer 24:9 / 29:18 (noted)."
   },
   {
    "id": "job-040",
