@@ -239,10 +239,11 @@
     382,
     392
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 15,
-   "claimed": "2026-11-24T20:46:33Z"
+   "claimed": "2026-11-24T20:46:33Z",
+   "note": "By two workers (split at v. 10). Unread margin notes identified from the Latin (Jas 1:20, Eccles 7:10, Wis 12:18, Matt 11:29, Prov 18:14, 27:4, 22:24-25, Ps 71:18, 85:8). Achitophel margin partly illegible: 2 Kings 17:14, 17:23 and 15:31 used, with a note. Tagged without margin note: Wis 1:8, Ps 146:8, Ecclus 51:3, Prov 1:31, Job 3:3. Readings: 'caristiae' for OCR 'caristis'."
   },
   {
    "id": "job-016",
