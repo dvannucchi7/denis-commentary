@@ -644,10 +644,11 @@
     557,
     559
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 42,
-   "claimed": "2026-11-24T22:37:59Z"
+   "claimed": "2026-11-24T22:37:59Z",
+   "note": "Unconfirmed: Is 5:21 (margin note unclear, 'bOA v2'); Matt 12:43-45 / Luke 11:24, 26 both given by the margin, quoted as Luke."
   },
   {
    "id": "job-043",
