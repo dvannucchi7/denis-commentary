@@ -1715,9 +1715,9 @@
     699,
     705
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:29:15Z"
+   "note": "Published as Exodus 15, Art. XXVIII (pp. 593–599). Its end ('[…] Illud clarum est … atque ejectis', PDF 705 right column top) had been cut into exodus-029.txt; moved back. Text lost in the transcription: the end of the left column and the whole right column of PDF 703 (p. 597), i.e. the comment on vv. 12–13 and the start of v. 14 (one […] with a note), and a line or two at the top of PDF 705 right column; 'Latin' there read as 'Enim' (noted). Margin notes partly unreadable: 'III. Reg. […]' beside Elias (tagged 3 Kings 17:21), '[…] 30' beside Job (Job 38:30), two beside 'Creatore jubente', 'III Reg. xiii, […]' beside Nathan (tagged 3 Kings 8:19, with 2 Kings 7 / 1 Par 17 noted). Please check the scan."
   },
   {
    "id": "exodus-029",
@@ -1728,9 +1728,9 @@
     705,
     710
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T13:29:15Z"
+   "note": "Published as Exodus 15, Art. XXIX (pp. 599–604). Its end (v. 19, 'Ingressus est enim eques … fluctibus mergitur vitiorum', PDF 710 right column top) had been cut into exodus-030.txt; moved back. Unreadable margin notes, verses found from the words (noted): Dan 7:13–14, Ps 68:25, John 8:44. A word missing from the text ('itinere') was supplied from a margin asterisk note: check."
   },
   {
    "id": "exodus-030",
