@@ -404,10 +404,11 @@
     462,
     472
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 26,
-   "claimed": "2026-11-24T21:36:05Z"
+   "claimed": "2026-11-24T21:36:05Z",
+   "note": "Two workers, split at v. 17. Lines restored by sense: v. 3 lemma (garbled, from the Vulgate), v. 8 'et igni alligas ad tempus quoddam' (garbled; note), v. 21 'post fletum'. Printed readings kept with notes: 'desinis inquinari' (sense wants sinis), 1 Pet 2:2 'infantes rationabiles', Lam 3:28 'levabit se super se'. Second reading in the person of a soul in purgatory tagged by verse. Margin numerals fixed: Ps 79:6, 1 Cor 2:12, Ps 118:70, Tit 3:5, Eph 2:8–9, 1 Cor 4:7, 3 Kings 22:27, Ps 101:10–11, Ps 33:20, Ps 72:22, Is 43:10 (also 43:12; noted), Ps 43:25; Matt 8:12 for weeping and gnashing, ref-only 22:13, 25:30 (margin numerals partly unreadable)."
   },
   {
    "id": "job-027",
