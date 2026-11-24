@@ -985,10 +985,9 @@
     426,
     429
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "note": "amos-014.txt: the end of Art. XIII (7:17 moral, 'minas remittit' to 'moriuntur.') had been cut into it after 8:3 and was moved to amos-013.txt. The text from '_Deus,_ id est, fragorem quemdam' (line after the second heading '[…]LUS XIV') continues 8:3 'dicit Dominus'.",
-   "claimed": "2026-11-24T00:01:41Z"
+   "note": "End of the article (8:11–13 moral reading, 'Christiani optant' to 'non refici', PDF 429) had been cut into amos-015.txt; moved back. First text line had been taken into the heading ('Rursus ostendit…'): restored as the first paragraph. Denis reads 'messis' for 'mensis' at 8:5 and 'lapide adamantino' at Jer 17:1 (noted)."
   },
   {
    "id": "amos-015",
@@ -1012,9 +1011,9 @@
     441,
     448
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T00:02:27Z"
+   "note": "Margin 'IV Reg. xxii, 22, 23' taken as 4 Kings 23:22 (noted). Douay-Rheims data slips seen: Abd 1:1 reads 'Obadiah' (Challoner: 'Abdias'); Amos 1:11 lacks 'and hath cast off all pity' (both noted in the article)."
   },
   {
    "id": "obadiah-002",
