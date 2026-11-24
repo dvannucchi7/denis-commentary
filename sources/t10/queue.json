@@ -1405,8 +1405,9 @@
     592,
     596
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:05:00Z"
   },
   {
    "id": "zephaniah-004",
@@ -1417,8 +1418,9 @@
     596,
     599
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T04:05:00Z"
   },
   {
    "id": "zephaniah-005",
