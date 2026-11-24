@@ -272,9 +272,9 @@
     189,
     192
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:55:00Z"
+   "note": "Both Ecclesiasticus margin notes unreadable: Ecclus 15:14–15 and 17:1, 5, 6, 10, 11 supplied, with notes. 'judicem quoque futuro' read as 'judicium quoque futurum'."
   },
   {
    "id": "genesis-022",
@@ -285,9 +285,9 @@
     192,
     197
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:55:00Z"
+   "note": "Printed 'prævenatur' read 'præveniatur', 'lætetur' read 'fatetur'."
   },
   {
    "id": "genesis-023",
