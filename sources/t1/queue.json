@@ -604,9 +604,9 @@
     321,
     323
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:43:00Z"
+   "note": "Denis's lemma at 13:14 reads 'Leva oculos tuos in directum' (the Clementine has no 'in directum' there; noted in a bracket)."
   },
   {
    "id": "genesis-048",
@@ -617,9 +617,9 @@
     324,
     328
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:43:00Z"
+   "note": "Re-cut: end of the article moved back from genesis-049.txt. Printed 'alumnavit' at 14:14 kept (note suggests adunavit). Denis cites Thomas III q. 21; the passage is III q. 22 a. 5 (noted)."
   },
   {
    "id": "genesis-049",
