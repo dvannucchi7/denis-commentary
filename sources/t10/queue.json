@@ -1284,8 +1284,9 @@
     547,
     551
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:45:00Z"
   },
   {
    "id": "habakkuk-002",
@@ -1296,8 +1297,9 @@
     551,
     554
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:45:00Z"
   },
   {
    "id": "habakkuk-003",
