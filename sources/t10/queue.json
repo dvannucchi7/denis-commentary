@@ -1154,8 +1154,9 @@
     497,
     502
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:31:00Z"
   },
   {
    "id": "micah-006",
@@ -1166,8 +1167,9 @@
     502,
     504
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:31:00Z"
   },
   {
    "id": "micah-006-2",
@@ -1178,8 +1180,9 @@
     504,
     510
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T03:31:00Z"
   },
   {
    "id": "micah-007",
