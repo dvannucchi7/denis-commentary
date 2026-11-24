@@ -194,10 +194,11 @@
     364,
     367
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 12,
-   "claimed": "2026-11-24T20:39:52Z"
+   "claimed": "2026-11-24T20:39:52Z",
+   "note": "One worker. Garbled v. 18 lemma restored as 'non audierunt vocem exactoris'; 'rationale' read as 'naturale'. 'Non sit in recordatione hominum' (on v. 4) is in Thomas's text, not the Vulgate: no marker, note left. Margin numerals corrected: Gen 40:20, Rom 12:14, John 3:20, Jer 10:23, Is 57:20. Tagged without margin note: Matt 26:24, Is 14:4."
   },
   {
    "id": "job-013",
