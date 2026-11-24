@@ -794,10 +794,11 @@
     610,
     616
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 52,
-   "claimed": "2026-11-24T23:13:50Z"
+   "claimed": "2026-11-24T23:13:50Z",
+   "note": "No margin notes were read for PDF 614 right column; quotations there tagged from Denis's naming of sources (Gal 2:9, Apoc 3:12, Ps 32:7, Is 57:20, Is 14:14, Ps 88:11, Is 51:9): check against scan."
   },
   {
    "id": "job-053",
