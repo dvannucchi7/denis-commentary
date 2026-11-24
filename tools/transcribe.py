@@ -273,7 +273,7 @@ def cmd_cut(vol, write=True, src=None, label="transcribed"):
             old = {i["id"]: i for i in json.load(open(qp))["items"]}
             for it in q["items"]:
                 o = old.get(it["id"])
-                if o and o.get("status") != "todo":
+                if o and o.get("status") not in ("todo", "waiting"):
                     for k in ("status", "claimed", "note"):
                         if k in o: it[k] = o[k]
         json.dump(q, open(qp, "w"), ensure_ascii=False, indent=1)

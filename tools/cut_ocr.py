@@ -39,30 +39,52 @@ def order(vol, book, k):
 def view(vol, out):
     d = os.path.join(ROOT, "sources", vol, "pages")
     for f in sorted((f for f in os.listdir(d) if re.fullmatch(r"p\d+\.txt", f)), key=lambda f: int(f[1:-4])):
-        p = int(f[1:-4]); lines = []
+        p = int(f[1:-4]); lines = []; block = None; seen = 0
         for l in open(os.path.join(d, f)).read().splitlines():
-            if l.startswith("====="): lines.append("=== " + l.strip("= ") + " ==="); continue
-            m = HEADING.match(l)
+            if l.startswith("====="):
+                block = l.strip("= "); lines.append("=== " + block + " ==="); continue
+            if l.strip(): seen += 1
+            m = HEADING.match(l.lstrip(" :;.,'\"|-—"))
             if m:
                 n = m.group(1).replace("1", "I").replace("l", "I")
                 lines.append(f"### ARTICULUS {n}"); continue
             letters = [c for c in l if c.isalpha()]
-            if SECTION.match(l) and letters and sum(c.isupper() for c in letters) / len(letters) > .7:
-                lines.append("### " + l.strip()); continue
+            caps = letters and sum(c.isupper() for c in letters) / len(letters) > .7
+            if block == "HEADING" and caps:
+                lines.append("### " + l.strip()); continue                 # a title across both columns
+            if SECTION.match(l) and caps:
+                if re.match(r"\s*(ENARRATIO|COMMENTARI)", l) and seen <= 3:
+                    continue                                               # the running head, read with the column
+                if re.match(r"\s*(EXPOSITIO|EXPLANATIO|ELUCIDATIO|DECLARATIO|PRO[OŒ]E?MIUM|PROLOGUS|PR[ÆA]FATIO)", l):
+                    lines.append("### " + l.strip()); continue
             lines.append(l)
         head = map_volume.head(PDF.format(vol), p).strip()
         open(os.path.join(out, f), "w").write("HEAD: " + head + "\n" + "\n".join(lines) + "\n")
 
 def main(vol, force=False):
+    """force: cut from the pages OCR'd so far (Dave, 24 Nov: start translating while the OCR goes on). The
+    article that runs up to the edge of the OCR'd pages may be incomplete: it is set "waiting" (not claimable)
+    and becomes "todo" when the volume is cut again with more pages."""
     plan = [l.split() for l in open("/home/claude/ocr/plan.txt") if l.strip()]
-    missing = [(v, p) for v, a, b in plan if v == vol for p in range(int(a), int(b) + 1)
-               if not os.path.exists(os.path.join(ROOT, "sources", vol, "pages", f"p{p}.txt"))]
+    have = lambda p: os.path.exists(os.path.join(ROOT, "sources", vol, "pages", f"p{p}.txt"))
+    missing = [(v, p) for v, a, b in plan if v == vol for p in range(int(a), int(b) + 1) if not have(p)]
     if missing and not force: sys.exit(f"{vol}: {len(missing)} planned pages not OCR'd yet (first: PDF {missing[0][1]})")
+    edges = []                           # last OCR'd page of each planned range that is not finished yet
+    for v, a, b in plan:
+        a, b = int(a), int(b)
+        if v != vol or all(have(p) for p in range(a, b + 1)): continue
+        p = a - 1
+        while p + 1 <= b and have(p + 1): p += 1
+        if p >= a: edges.append(p)
     with tempfile.TemporaryDirectory() as tmp:
         view(vol, tmp)
         q, report = transcribe.cmd_cut(vol, True, src=tmp, label="ocr")
     qp = os.path.join(ROOT, "sources", vol, "queue.json"); q = json.load(open(qp))
-    for k, it in enumerate(q["items"]): it["order"] = order(vol, it["book"], k)
+    for k, it in enumerate(q["items"]):
+        it["order"] = order(vol, it["book"], k)
+        if it["status"] == "todo" and any(it["pages"][1] >= e - 1 and it["pages"][0] <= e for e in edges):
+            it["status"] = "waiting"
+    q["pages_cut"] = sum(1 for f in os.listdir(os.path.join(ROOT, "sources", vol, "pages")) if re.fullmatch(r"p\d+\.txt", f))
     q["complete"] = not missing          # cut from every planned page (else cut again when the rest is OCR'd)
     json.dump(q, open(qp, "w"), ensure_ascii=False, indent=1)
     print(f"{vol}: {len(q['items'])} items queued")
