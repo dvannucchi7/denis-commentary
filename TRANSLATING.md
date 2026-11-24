@@ -25,7 +25,11 @@ the procedure.
    article" below), then `sources/t11/queue.json`, then `sources/t12/queue.json`, then (Dave's order)
    `sources/t13/queue.json` (Epistles), `sources/t6/queue.json` (Psalms), `sources/t7/queue.json`
    (Proverbs–Wisdom), `sources/t10/queue.json` (Daniel, minor prophets), `sources/t1/queue.json`
-   (Genesis–Exodus 19), whichever exist. Items with status `"batch"` belong to the API batch run: leave
+   (Genesis–Exodus 19), then the volumes OCR'd in Nov 2026 (t4, t5, t8, t9, t2, t3, t14) in the order of
+   their items' `"order"` numbers (Dave, 24 Nov 2026: Job, then Machabees and the rest of t5, Isaias and
+   Ecclesiasticus, Jeremias and the rest of t9, Exodus–Deuteronomy, Joshua–3 Kings, 4 Kings and
+   Paralipomenon, Apocalypse and the rest of t14). `python3 tools/queue.py next` applies all of this and
+   prints the next item. Items with status `"batch"` belong to the API batch run: leave
    them alone (when the API credit runs out they are set back to `"todo"`). Take the first item
    whose status is `"todo"`, or `"in-progress"` with a `claimed` time more than 2 hours old (an
    abandoned run). Skip `"needs-margins"` items until their margins have been read (see step 5). **Claim it before starting:** set `"status": "in-progress"` and
@@ -64,7 +68,7 @@ the procedure.
    or a general question (never "v. 1" by default).
 5. **References come from the margins only (Dave's rule).** The printed edition gives the source of
    each quotation in the margin; that is the only place a run takes references from.
-   - *(OCR'd volumes t11, t12 only; transcribed volumes have the notes inline as `⟦…⟧`.)*
+   - *(OCR'd volumes only: t11, t12 and items with `"source": "ocr"`; transcribed volumes have the notes inline as `⟦…⟧`.)*
      `python3 tools/margins.py <vol> <id> <chapter>` lists the margin references of the article's
      pages, in reading order, each beside the Latin line it belongs to. Ignore notes on the first and
      last pages that belong to the neighbouring articles. Bare verse numbers in the margin show where
@@ -99,7 +103,7 @@ the procedure.
    - Lemmata (Denis quoting the chapter he is treating) are still marked as before, as `C:V`. Find
      them by reading the article alongside the chapter (`python3 tools/verses.py --chapter …`) and the
      margin's verse numbers, not by matching the article against the Vulgate.
-   - *(OCR'd volumes t11, t12 only.)* **If the margins of the article's pages have not been read yet** (`margins.py` prints "margins
+   - *(OCR'd volumes only: t11, t12 and items with `"source": "ocr"`.)* **If the margins of the article's pages have not been read yet** (`margins.py` prints "margins
      of PDF … not read yet"), do not translate it: set its status to `"needs-margins"` with a note
      giving the PDF pages, push, and take the next item. Reading margins needs the scan PDF, which
      runs do not have. They are read whenever pages are scanned (`tools/ocr_columns.py` does it in the

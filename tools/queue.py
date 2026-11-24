@@ -8,7 +8,7 @@
 import json, os, sys, subprocess, time
 ROOT = os.getcwd() if os.path.isdir(os.path.join(os.getcwd(), "data")) else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORDER = [("retag", "sources/retag.json"), ("t11r", "sources/t11/recheck.json")] + \
-        [(v, f"sources/{v}/queue.json") for v in ("t11", "t12", "t13", "t6", "t7", "t10", "t1")]
+        [(v, f"sources/{v}/queue.json") for v in ("t11", "t12", "t13", "t6", "t7", "t10", "t1", "t4", "t5", "t8", "t9", "t2", "t3", "t14")]
 
 def path(vol): return os.path.join(ROOT, dict(ORDER).get(vol, f"sources/{vol}/queue.json"))
 def load(vol):
@@ -34,12 +34,19 @@ def setstatus(vol, iid, status, note=None, claim=False):
 
 def main(a):
     if a[0] == "next":
+        # items with "order" (Dave's order across volumes, set by tools/cut_ocr.py) go by that number; the rest by
+        # queue file, then position, after the re-tag and re-check queues
         git("pull", "-q", "--rebase", "origin", "main")
-        for vol, p in ORDER:
+        best = None
+        for rank, (vol, p) in enumerate(ORDER):
             if not os.path.exists(os.path.join(ROOT, p)): continue
-            for i in items(json.load(open(os.path.join(ROOT, p)))):
-                if claimable(i): return print(vol, i["id"], json.dumps({k: i[k] for k in i if k not in ("status",)}, ensure_ascii=False))
-        return print("none")
+            for k, i in enumerate(items(json.load(open(os.path.join(ROOT, p))))):
+                if not claimable(i): continue
+                key = (0, 0, rank, k) if vol in ("retag", "t11r") else ((1, i["order"], 0, 0) if "order" in i else (2, 0, rank, k))
+                if best is None or key < best[0]: best = (key, vol, i)
+        if not best: return print("none")
+        _, vol, i = best
+        return print(vol, i["id"], json.dumps({k: i[k] for k in i if k not in ("status",)}, ensure_ascii=False))
     if a[0] == "claim":
         vol, iid = a[1], a[2]
         git("pull", "-q", "--rebase", "origin", "main")

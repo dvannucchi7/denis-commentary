@@ -117,8 +117,18 @@ tags or quotation markers changes here, change it there too.
 
 ## Getting the Latin text
 
-*Runs may skip this section unless their item is from t. XI or t. XII (OCR'd volumes): the newer volumes'
-Latin and margin notes come ready in `sources/<vol>/articles/` (see `TRANSLATING.md` step 2).*
+*Runs may skip this section unless their item is from an OCR'd volume (t. XI, t. XII, or an item with
+`"source": "ocr"`): the API-transcribed volumes' Latin and margin notes come ready in `sources/<vol>/articles/`
+(see `TRANSLATING.md` step 2).*
+
+**Volumes OCR'd locally (Dave, 24 Nov 2026: free OCR rather than the API):** t. II (Exodus 20–Deuteronomy),
+t. III (Joshua, Judges, Ruth, 1–3 Kings), t. IV (4 Kings, Paralipomenon, Job 1–37), t. V (Job 38–42, Tobias,
+Judith, Esther, Esdras, Machabees, Psalms 1–43), t. VIII (Ecclesiasticus, Isaias), t. IX (Jeremias,
+Lamentations, Baruch, Ezechiel), t. XIV (epistles of John, Acts, Apocalypse). Pages by `tools/ocr_columns.py`
+into `sources/<vol>/pages/` with margins in `sources/<vol>/margins/` (driver: `/home/claude/ocr/run.sh` in
+the workspace that holds the scans); articles cut and queued by `tools/cut_ocr.py <vol>` (items
+`"source": "ocr"`, with `"order"`: Dave's order of translation, which `tools/queue.py next` follows).
+Translate them like t. XI and t. XII: the Latin needs cleaning, the references come from the margins.
 
 Scans (Dave supplies the PDFs; the workspace cannot download from archive.org or Google Books).
 Scan pages with `python3 tools/ocr_columns.py <pdf> <first> <last> sources/<vol>/pages`, which reads the

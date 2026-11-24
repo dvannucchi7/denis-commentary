@@ -161,14 +161,14 @@ END = re.compile(r"INDEX|LOCA S\. ?SCRIPTUR|TABULA|ELENCHUS|CATALOGUS", re.I)
 
 PART_MAX = 12      # pages; about 70k output tokens of Latin and English
 
-def cmd_cut(vol, write=True):
+def cmd_cut(vol, write=True, src=None, label="transcribed"):
     """Cut articles. Starts: ARTICULUS headings (numbered or not), or an EXPOSITIO CAPITULI/PSALMI line that has no
     ARTICULUS heading just before it. A repeated heading of the current article is a continuation. Book prefaces and
     prologues close the article before them. Books: a new book starts where the numbering goes back to I; its name is
     the commonest book in its running heads. Chapter or psalm: from the EXPOSITIO line, else the running heads."""
     import map_volume
     from collections import Counter
-    d = os.path.join(ROOT, "sources", vol, "transcribed")
+    d = src or os.path.join(ROOT, "sources", vol, "transcribed")
     pages = sorted(int(f[1:-4]) for f in os.listdir(d) if f.startswith("p"))
     arts, cur, recent, after_front = [], None, [], False
     for p in pages:
@@ -261,14 +261,22 @@ def cmd_cut(vol, write=True):
                 if write: open(os.path.join(ROOT, "sources", vol, "articles", pid + ".txt"), "w").write("\n".join(lines))
                 heads = Counter(r[1] for r in a["heads"] if r and r[0] == name and r[1])
                 item = {"id": pid, "book": name, "art": a["art"], "chapter_guess": a["chap"],
-                        "pages": [lo, hi], "status": "todo", "source": "transcribed"}
+                        "pages": [lo, hi], "status": "todo", "source": label}
                 if n > 1: item.update(part=j + 1, parts=n)
                 q["items"].append(item)
-    bad = bad_pages(vol)
+    bad = bad_pages(vol) if label == "transcribed" else []
     if bad: report.append(f"pages still unreadable: {bad}")
     print("\n".join(report))
     if write:
-        json.dump(q, open(os.path.join(ROOT, "sources", vol, "queue.json"), "w"), ensure_ascii=False, indent=1)
+        qp = os.path.join(ROOT, "sources", vol, "queue.json")
+        if os.path.exists(qp):          # cut again (more pages ready): keep what runs have already done or claimed
+            old = {i["id"]: i for i in json.load(open(qp))["items"]}
+            for it in q["items"]:
+                o = old.get(it["id"])
+                if o and o.get("status") != "todo":
+                    for k in ("status", "claimed", "note"):
+                        if k in o: it[k] = o[k]
+        json.dump(q, open(qp, "w"), ensure_ascii=False, indent=1)
         open(os.path.join(ROOT, "sources", vol, "cut_report.txt"), "w").write("\n".join(report) + "\n")
     return q, report
 

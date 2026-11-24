@@ -23,7 +23,7 @@ BOOKS = [
     (r"DANIEL", "daniel"), (r"OSEE", "hosea"), (r"JOEL", "joel"), (r"\bAMOS", "amos"), (r"ABDI", "obadiah"),
     (r"JON[AÆ]", "jonah"), (r"MICH[AÆ]", "micah"), (r"NAHUM", "nahum"), (r"HABAC", "habakkuk"), (r"SOPHONI", "zephaniah"),
     (r"AGG[AÆ]", "haggai"), (r"ZACHARI", "zechariah"), (r"MALACHI", "malachi"), (r"MACHAB", "maccabees"),
-    (r"MATTH", "matthew"), (r"MARC", "mark"), (r"LUC[AÆ]", "luke"), (r"JOANN.*APOCAL|APOCALYP", "revelation-of-john"),
+    (r"EPISTOL\S*.{0,25}JOANN", "johnep"), (r"MATTH", "matthew"), (r"MARC", "mark"), (r"LUC[AÆ]", "luke"), (r"JOANN.*APOCAL|APOCALYP", "revelation-of-john"),
     (r"ACTUUM|ACTUS", "acts"), (r"ROMAN", "romans"), (r"CORINTH", "corinthians"), (r"GALAT", "galatians"),
     (r"EPHES", "ephesians"), (r"PHILIPP", "philippians"), (r"COLOSS", "colossians"), (r"THESSALON", "thessalonians"),
     (r"TIMOTH", "timothy"), (r"\bTITUM", "titus"), (r"PHILEMON", "philemon"), (r"HEBR[AÆ]", "hebrews"),
@@ -32,7 +32,8 @@ BOOKS = [
 NUMBERED = {"kings": ["i-samuel", "ii-samuel", "i-kings", "ii-kings"], "chronicles": ["i-chronicles", "ii-chronicles"],
             "ezra": ["ezra", "nehemiah"], "maccabees": ["i-maccabees", "ii-maccabees"],
             "corinthians": ["i-corinthians", "ii-corinthians"], "thessalonians": ["i-thessalonians", "ii-thessalonians"],
-            "timothy": ["i-timothy", "ii-timothy"], "peter": ["i-peter", "ii-peter"]}
+            "timothy": ["i-timothy", "ii-timothy"], "peter": ["i-peter", "ii-peter"],
+            "johnep": ["i-john", "ii-john", "iii-john"]}
 R = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
 def roman(s):
     s = s.upper().replace("L", "L").replace("1", "I").replace("|", "I")
@@ -58,8 +59,11 @@ def parse(h):
         m = re.search(r"\b(II|I|2|1|11|IL|LI)\s*\.?\s*(?:[BR]\.\s*)?(?:PAULI|PETRI|REG|PARALIP|MACHAB|ESDR)", h) or \
             re.search(r"EPISTOL\S*\s+(II|I)\b", h) or re.search(r"\b(IV|III|II|I)\s+(?:LIB|REG)", h)
         k = {"I": 0, "1": 0, "II": 1, "2": 1, "IL": 1, "LI": 1, "11": 1, "III": 2, "IV": 3}.get(m.group(1), 0) if m else 0
+        w = re.search(r"\b(PRIM|SECUND|TERTI|QUART)\w*\s+(?:LIB|REG|PARAL|MACH|ESDR|EPIST)", h) or \
+            re.search(r"(?:LIB\w*|EPISTOL\w*)\s+(PRIM|SECUND|TERTI|QUART)", h)
+        if w: k = {"PRIM": 0, "SECUND": 1, "TERTI": 2, "QUART": 3}[w.group(1)]   # words win over numerals
         book = NUMBERED[book][min(k, len(NUMBERED[book]) - 1)]
-    art = re.search(r"A[RH]T\.?\s*([IVXLC1l|]+)\b", h.replace("ARTICULUS", ""))
+    art = re.search(r"\bA[RH]T\.?\s*([IVXLC1l|]+)\b", h.replace("ARTICULUS", ""))
     cap = re.search(r"(?:CAP\.?|PSALM\w*)\s*([IVXLC1l|]+)\b", h)
     return book, roman(cap.group(1)) if cap else None, roman(art.group(1)) if art else None
 
