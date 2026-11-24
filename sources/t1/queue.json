@@ -812,9 +812,9 @@
     392,
     397
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:12:00Z"
+   "note": "Five margin notes unreadable in the transcription (PDF 393–397): identified from the text as 2 Par 3:1, Zach 2:4, John 21:5; two left as notes only (the upper room; 'ad Romanos', closest to Heb 11:19). Margin 'Ibid. x, 1' taken as Dan 10:1 (noted)."
   },
   {
    "id": "genesis-064",
@@ -825,9 +825,9 @@
     398,
     399
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:12:00Z"
+   "note": "Re-cut: its end ('crucifigi pro nobis … in cordibus demoratur fidelium', PDF 399 right column top) was in genesis-065.txt; moved back and translated by the run. Margin notes for Jdt 8:22, 1 Mach 2:52, Wis 3:6 partly unreadable (noted)."
   },
   {
    "id": "genesis-065",
