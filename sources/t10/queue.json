@@ -1258,9 +1258,9 @@
     534,
     539
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:41:00Z"
+   "note": "Published as Nahum 2, Art. III (pp. 524–529, PDF 534–539). Its end (2:12 'tamen nondum perfecte impletæ' to 2:13 'Cetera patent', PDF 539 right column) had been cut into nahum-004.txt; moved back. Transcription has '[…]' at v. 1 ('terram tuam et […] bona terræ devastet'); the sentence reads complete, kept as […] (worth a glance at the scan). Side-notes with readings kept as notes: v. 13 'summum' (*fumum), moral v. 1 'custodit' (alias custodiat). 'Josue xv–xix passim' as reference-only Jos 15:1 with a note; Heb 10:30 quoted with Deut 32:35 reference-only. Latin conjectures: 'succendam' (print 'succedam', moral v. 13), 'prætactum' (for 'præstactum', moral v. 10)."
   },
   {
    "id": "nahum-004",
@@ -1271,9 +1271,9 @@
     539,
     547
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T03:41:00Z"
+   "note": "Published as Nahum 3, Art. IV (pp. 529–534, PDF 539–544). The Habakkuk title page (PDF 545) and PDF 546 (untranscribed: the model's refusal; probably a blank or title verso, Habakkuk Art. I starts complete on PDF 547) had been appended to nahum-004.txt; dropped. Moral v. 2: print 'Væ flagelli' for 'Vox flagelli' (noted). v. 11 'tractarunt Alexandriæ cives' kept as printed (noted). Unmargined quotations tagged: Ps 82:14, Rom 9:5 (closing doxology). 'Abel esse renuit, quem Cain malitia non exercet' noted as a saying of St Gregory (attribution not checked against a source)."
   },
   {
    "id": "habakkuk-001",
