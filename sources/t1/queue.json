@@ -1716,8 +1716,9 @@
     699,
     705
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T13:29:15Z"
   },
   {
    "id": "exodus-029",
@@ -1728,8 +1729,9 @@
     705,
     710
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T13:29:15Z"
   },
   {
    "id": "exodus-030",
