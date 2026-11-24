@@ -689,10 +689,11 @@
     573,
     578
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 45,
-   "claimed": "2026-11-24T22:43:27Z"
+   "claimed": "2026-11-24T22:43:27Z",
+   "note": "v. 16: Denis reads 'surget' (DR 'shall suck'), noted. Margin notes guessed from the text: Ps 148:3, Matt 22:13 (or 25:30), Ps 20:10, Dan 2:40, Wis 5:18, Ps 72:5."
   },
   {
    "id": "job-046",
