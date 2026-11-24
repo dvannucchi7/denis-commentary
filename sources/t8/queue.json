@@ -8,13 +8,173 @@
    "chapter_guess": 1,
    "pages": [
     17,
-    19
+    28
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 201000
+  },
+  {
+   "id": "sirach-002",
+   "book": "sirach",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    28,
+    33
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 201001
+  },
+  {
+   "id": "sirach-003-part1",
+   "book": "sirach",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    34,
+    41
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "part": 1,
+   "parts": 2,
+   "order": 201002
+  },
+  {
+   "id": "sirach-003-part2",
+   "book": "sirach",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    42,
+    48
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "part": 2,
+   "parts": 2,
+   "order": 201003
+  },
+  {
+   "id": "sirach-004",
+   "book": "sirach",
+   "art": 4,
+   "chapter_guess": 5,
+   "pages": [
+    48,
+    51
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 201004
+  },
+  {
+   "id": "sirach-005",
+   "book": "sirach",
+   "art": 5,
+   "chapter_guess": 6,
+   "pages": [
+    52,
+    58
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 201005
+  },
+  {
+   "id": "sirach-007",
+   "book": "sirach",
+   "art": 7,
+   "chapter_guess": 8,
+   "pages": [
+    59,
+    66
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 201006
+  },
+  {
+   "id": "sirach-008",
+   "book": "sirach",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    66,
+    69
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 201007
+  },
+  {
+   "id": "sirach-009",
+   "book": "sirach",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    69,
+    73
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 201008
+  },
+  {
+   "id": "sirach-010",
+   "book": "sirach",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    73,
+    80
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 201009
+  },
+  {
+   "id": "sirach-011",
+   "book": "sirach",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    81,
+    87
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 201010
+  },
+  {
+   "id": "sirach-012",
+   "book": "sirach",
+   "art": 12,
+   "chapter_guess": 12,
+   "pages": [
+    87,
+    90
    ],
    "status": "waiting",
    "source": "ocr",
-   "order": 201000
+   "order": 201011
+  },
+  {
+   "id": "sirach-013",
+   "book": "sirach",
+   "art": 13,
+   "chapter_guess": 13,
+   "pages": [
+    90,
+    91
+   ],
+   "status": "waiting",
+   "source": "ocr",
+   "order": 201012
   }
  ],
- "pages_cut": 19,
+ "pages_cut": 91,
  "complete": false
 }
