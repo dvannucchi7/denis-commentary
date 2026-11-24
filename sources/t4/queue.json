@@ -702,10 +702,11 @@
     578,
     581
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 46,
-   "claimed": "2026-11-24T22:43:45Z"
+   "claimed": "2026-11-24T22:43:45Z",
+   "note": "Translated by the run itself (pp. 570–573, PDF 578–581). Denis reads 'Caput aspidum surget' (20:16; Vulgate 'suget') and 'nudavit pauperis domum' (20:19): noted. The margin's 'I Tim. iii, 13' (OCR 'n, 13') taken as 2 Tim 3:13, where the words are. Margin references read from the text where lost: Luke 9:26 / Jude 14, Ps 9:24, Prov 28:4, Jer 23:9, Ecclus 17:12, Hab 2:6, Ecclus 31:5."
   },
   {
    "id": "job-047",
