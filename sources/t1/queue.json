@@ -1585,9 +1585,10 @@
     658,
     662
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T11:33:05Z"
+   "claimed": "2026-11-24T11:33:05Z",
+   "note": "end of the article (spiritual sense of the locusts and darkness, PDF 662 right column top) re-cut from exodus-019.txt; one margin note half unread ('[…] 31', taken as Ex 12:31); Douay-Rheims data slips: Ex 10:7 'Iet the men go', Ex 10:11 'so. but go'"
   },
   {
    "id": "exodus-019",
@@ -1598,9 +1599,10 @@
     662,
     666
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T11:33:05Z"
+   "claimed": "2026-11-24T11:33:05Z",
+   "note": "published; words lost in the transcription: the 11:4 lemma 'Media nocte ingre[…] Ægyptum' with an unreadable margin note beside it (PDF 662–663), and most of the 11:7 lemma in the spiritual part ('Et […] quanto […] ho', PDF 665–666); check against the scan"
   },
   {
    "id": "exodus-020",
