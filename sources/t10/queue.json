@@ -1500,7 +1500,7 @@
     627,
     633
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
    "claimed": "2026-11-24T04:26:07Z"
   },
@@ -1513,9 +1513,10 @@
     633,
     636
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T04:26:07Z"
+   "claimed": "2026-11-24T04:26:07Z",
+   "note": "margin Ps. lxxxvi, 4 does not fit (probably Ps 76:4, quoted just below): bracketed note, no marker"
   },
   {
    "id": "zechariah-003",
