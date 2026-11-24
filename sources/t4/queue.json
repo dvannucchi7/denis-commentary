@@ -179,10 +179,11 @@
     360,
     363
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 11,
-   "claimed": "2026-11-24T20:38:52Z"
+   "claimed": "2026-11-24T20:38:52Z",
+   "note": "Denis's objections to Albert on ch. 3. Margin beside 'nec ab ea cecidisse' read 'Job iii, 26': Job 1:22 assumed (note). Matt 5:11-12 mixed with Luke 6:22-23 ('Beati eritis ... Gaudete in illa hora'): markers for both. OCR 'ædio' read as tædio, 'ila' as illa. Tagged with margin note unread: Mark 9:18, 3 Kings 19:4, Job 42:10."
   },
   {
    "id": "job-012",
