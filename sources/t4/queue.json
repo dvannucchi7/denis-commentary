@@ -554,10 +554,11 @@
     528,
     532
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 36,
-   "claimed": "2026-11-24T22:11:31Z"
+   "claimed": "2026-11-24T22:11:31Z",
+   "note": "Published as Job 15, Art. XXXVI (pp. 520–524, PDF 528–532; translated by the run itself). Lines lost in the OCR (garbled strips), kept as […]: PDF 531 left column top, after 'penitus abomina-' (15:16, about two lines, and one more before 'consistit'); PDF 531 right column top, 'In opina[…] […] approbemus' (15:18, about two lines); PDF 532 left column, after 'Nec mittet in terram radicem' (15:29, about two lines); PDF 532 right column, after 'ut urantur et sentiant' (Jdt 16:21, then the start of the Ecclus 10:10 sentence). 'famemus' (15:18) kept as printed. Misread margins identified from the text: Prov 15:1, Is 42:4, 1 Tim 5:1, Is 59:12, Prov 10:14, Eccles 3:7, Ecclus 20:7, Ecclus 3:29, Rom 13:2, Prov 28:12, Ezech 32:18, Ecclus 7:19, Jdt 16:20, Eph 5:5 / Col 3:5, Ex 23:8. Please check the scan."
   },
   {
    "id": "job-037",
