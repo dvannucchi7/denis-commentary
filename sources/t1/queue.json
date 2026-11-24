@@ -941,9 +941,9 @@
     434,
     438
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:37:18Z"
+   "note": "Its end ('nosque pie hortantem … regni cœlestis', PDF 438) had been in genesis-074.txt (re-cut, commit dcf15ca). Margin 'Luc. xxi, 10-13' (the upper room) given as Luke 22:12; 'humanita- / II. Quidam' read as 'humanitati. Quidam' (check the scan); Denis's Hab 3:2 adds the Old Latin 'consideravi opera tua, et expavi'; 28:13 'docentem', 28:14 'ad orientem et occidentem' noted."
   },
   {
    "id": "genesis-074",
