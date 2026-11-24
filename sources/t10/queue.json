@@ -1076,9 +1076,9 @@
     469,
     473
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T00:20:58Z"
+   "note": "No text lost. Loose citations noted in the text: Is 28:19, Tob 14:13; Eccles 9:1 and Prov 26:11 as reference-only markers."
   },
   {
    "id": "jonah-005",
@@ -1089,9 +1089,9 @@
     473,
     479
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T00:20:58Z"
+   "note": "Ends on PDF 475 ('benedictus. Amen.'); PDF 476 and 478 were not transcribed (refusal messages) and 477 is the Michæas half-title: dropped from the article file. Douay-Rheims data slip at Jonas 4:11: 'that know how to distinguish' should be 'that know not how to distinguish' (noted in the text)."
   },
   {
    "id": "micah-001",
