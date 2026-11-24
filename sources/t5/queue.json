@@ -1702,13 +1702,260 @@
    "chapter_guess": 95,
    "pages": [
     461,
-    464
+    465
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108130
+  },
+  {
+   "id": "psalms-027",
+   "book": "psalms",
+   "art": 27,
+   "chapter_guess": 145,
+   "pages": [
+    465,
+    467
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108131
+  },
+  {
+   "id": "psalms-028",
+   "book": "psalms",
+   "art": 28,
+   "chapter_guess": 145,
+   "pages": [
+    467,
+    476
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108132
+  },
+  {
+   "id": "psalms-029",
+   "book": "psalms",
+   "art": 29,
+   "chapter_guess": 145,
+   "pages": [
+    476,
+    477
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108133
+  },
+  {
+   "id": "psalms-030",
+   "book": "psalms",
+   "art": 30,
+   "chapter_guess": 145,
+   "pages": [
+    477,
+    480
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108134
+  },
+  {
+   "id": "psalms-031",
+   "book": "psalms",
+   "art": 31,
+   "chapter_guess": 145,
+   "pages": [
+    480,
+    481
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108135
+  },
+  {
+   "id": "psalms-032",
+   "book": "psalms",
+   "art": 32,
+   "chapter_guess": 145,
+   "pages": [
+    481,
+    484
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108136
+  },
+  {
+   "id": "psalms-033",
+   "book": "psalms",
+   "art": 33,
+   "chapter_guess": 145,
+   "pages": [
+    484,
+    485
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108137
+  },
+  {
+   "id": "psalms-034",
+   "book": "psalms",
+   "art": 34,
+   "chapter_guess": 145,
+   "pages": [
+    485,
+    486
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108138
+  },
+  {
+   "id": "psalms-035",
+   "book": "psalms",
+   "art": 35,
+   "chapter_guess": 145,
+   "pages": [
+    487,
+    489
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108139
+  },
+  {
+   "id": "psalms-036",
+   "book": "psalms",
+   "art": 36,
+   "chapter_guess": 145,
+   "pages": [
+    489,
+    492
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108140
+  },
+  {
+   "id": "psalms-037",
+   "book": "psalms",
+   "art": 37,
+   "chapter_guess": 145,
+   "pages": [
+    492,
+    494
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108141
+  },
+  {
+   "id": "psalms-038",
+   "book": "psalms",
+   "art": 38,
+   "chapter_guess": 145,
+   "pages": [
+    495,
+    498
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108142
+  },
+  {
+   "id": "psalms-039",
+   "book": "psalms",
+   "art": 39,
+   "chapter_guess": 145,
+   "pages": [
+    498,
+    501
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108143
+  },
+  {
+   "id": "psalms-040",
+   "book": "psalms",
+   "art": 40,
+   "chapter_guess": 145,
+   "pages": [
+    501,
+    504
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108144
+  },
+  {
+   "id": "psalms-041",
+   "book": "psalms",
+   "art": 41,
+   "chapter_guess": 145,
+   "pages": [
+    504,
+    508
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108145
+  },
+  {
+   "id": "psalms-042",
+   "book": "psalms",
+   "art": 42,
+   "chapter_guess": 145,
+   "pages": [
+    508,
+    514
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108146
+  },
+  {
+   "id": "psalms-043",
+   "book": "psalms",
+   "art": 43,
+   "chapter_guess": 145,
+   "pages": [
+    514,
+    519
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108147
+  },
+  {
+   "id": "psalms-044",
+   "book": "psalms",
+   "art": 44,
+   "chapter_guess": 145,
+   "pages": [
+    520,
+    526
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 108148
+  },
+  {
+   "id": "psalms-045",
+   "book": "psalms",
+   "art": 45,
+   "chapter_guess": 145,
+   "pages": [
+    526,
+    530
    ],
    "status": "waiting",
    "source": "ocr",
-   "order": 108130
+   "order": 108149
   }
  ],
- "pages_cut": 464,
+ "pages_cut": 530,
  "complete": false
 }
