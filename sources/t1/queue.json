@@ -1557,9 +1557,10 @@
     651,
     656
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T11:26:22Z"
+   "claimed": "2026-11-24T11:26:22Z",
+   "note": "Published as Exodus 9, Art. XVI (pp. 545–550). Its end ('populum, sicut præceperat Dominus per manum Moysis … per terram et aerem', PDF 656 right column top) had been cut into exodus-017.txt; moved back. Words lost in the transcription (PDF 656): the lemmata of 9:34–35 after 'Fulgura in pluviam fecit, id est terminavit' ('[…] hæc mala, […]'), and the margin note beside that verse ('[…] 7.', taken as Ps 134:7, noted). Margin 'Ps. lxxxvi, 10' given as Ps 76:10 (noted)."
   },
   {
    "id": "exodus-017",
@@ -1570,9 +1571,10 @@
     656,
     658
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T11:26:22Z"
+   "claimed": "2026-11-24T11:26:22Z",
+   "note": "Published from the re-cut file (the displaced end of Art. XVI removed). Margin note beside 'Scienti enim bonum facere…' lost; tagged Jas 4:17 (noted)."
   },
   {
    "id": "exodus-018",
