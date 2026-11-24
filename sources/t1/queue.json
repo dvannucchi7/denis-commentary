@@ -579,9 +579,9 @@
     310,
     318
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:36:57Z"
+   "note": "margin notes unreadable in the transcription beside 'hæ in hac vita … de Hemor habetur' (PDF 313): 'Princeps Dei es apud nos' given as Gen 23:6; the second note not recovered"
   },
   {
    "id": "genesis-046",
@@ -592,9 +592,8 @@
     318,
     321
    ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-24T08:36:57Z"
+   "status": "done",
+   "source": "transcribed"
   },
   {
    "id": "genesis-047",
