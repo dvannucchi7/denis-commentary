@@ -119,10 +119,11 @@
     339,
     345
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "claimed": "2026-11-24T20:20:49Z",
-   "order": 7
+   "order": 7,
+   "note": "One worker. OCR gap after Mal 3:15 ('Iove Doo, et marere') read as the lemma 'Benedic Deo, et morere'. Kept printed 'a me tangi desine' (perhaps 'sine': note left). Margin misreadings resolved by the text: Mal 3:6 (read as 1 Mach), Jos 12:24, 3 Kings 21:13, 2 Kings 16:9, John 12:40, 2 Cor 4:4. In Gregory's passage on John the Baptist the margin notes were not read: Luke 1:15, John 3:29, Matt 11:11, Matt 11:9 chosen from the words (John 3:29 and Matt 11:9 are guesses). DR slip noticed: Job 2:13 'seven day and seven nights'."
   },
   {
    "id": "job-008",
