@@ -1097,9 +1097,9 @@
     482,
     489
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:53:18Z"
+   "note": "Published; words lost in the transcription in Jerome on 'polymita' (37:3, PDF 483): '[…] mitos' and Aquila's rendering after 'interpretatus est […]' (probably Greek). Margin 'Jer. xli, 15' tagged Jer 40:15 (the words are there; noted). Gen 42:21 given by Denis to Ruben (noted). Prov 21:30 / Job 5:13 both given to Solomon by Denis (noted). Douay-Rheims slip in data/bible/drc/genesis.json, 37:4: 'hated hem' for 'hated him'."
   },
   {
    "id": "genesis-086",
