@@ -1502,9 +1502,10 @@
     632,
     641
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T11:11:16Z"
+   "claimed": "2026-11-24T11:11:16Z",
+   "note": "article ends 'comparati Moysi et Aaron' with no full stop (PDF 641), taken as complete; Ex 7:15 in data/bible/drc has a stray apostrophe ('on the ' bank'), copied into the quotation"
   },
   {
    "id": "exodus-013",
