@@ -10,10 +10,11 @@
     301,
     304
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 0,
-   "claimed": "2026-11-24T19:41:54Z"
+   "claimed": "2026-11-24T19:41:54Z",
+   "note": "First Job article (introduction, filed under ch. 1). One margin note beside the 'people of God' passage (printed 'Num. xxvi'?) could not be identified: bracketed note left. Work title taken from running head: 'Enarratio in librum Job'."
   },
   {
    "id": "job-002",
