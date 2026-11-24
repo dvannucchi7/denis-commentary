@@ -48,9 +48,10 @@
     119,
     119
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:31:18Z"
+   "claimed": "2026-11-24T05:31:18Z",
+   "note": "Published as Genesis 1, Art. IV (p. 13, PDF 119; scheduled run, one worker with Art. V). A general article: no verse tags. Its second half ('de Deo ut creatore … in Deuteronomio', PDF 119 right column) had been cut into genesis-005.txt; moved back. Margin chapter notes Exod. xx, Lev. xiv, Num. xvi as reference-only (Ex 20:1, Lev 14:1, Num 16:1). Denis says nine Hagiographa but names eight (noted: Jerome's ninth is Daniel)."
   },
   {
    "id": "genesis-005",
@@ -61,9 +62,10 @@
     119,
     123
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:31:18Z"
+   "claimed": "2026-11-24T05:31:18Z",
+   "note": "Published as Genesis 1, Art. V (pp. 13–17, PDF 119–123; scheduled run, one worker; its last sentences, 'quod per cœlum … infra tangetur', translated by the run). 'condita sunt ab eo Deo ipse solus adorandus' kept as printed (perhaps 'ideo'). Margin 'Gen. ii, 5' for a quotation starting at 2:4 (both marked, noted). Col 1:18 / 1:15 for Origen's principium/primogenitus; 2 Cor 4:4 reference-only. Margin 'Petrus Lombardus' given as a note."
   },
   {
    "id": "genesis-006",
