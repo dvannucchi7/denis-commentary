@@ -584,10 +584,11 @@
     538,
     543
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 38,
-   "claimed": "2026-11-24T22:26:36Z"
+   "claimed": "2026-11-24T22:26:36Z",
+   "note": "Unconfirmed (no margin note read): Matt 27:46 (Denis's words are also Mark 15:34), 1 John 5:10, Matt 11:27, 1 Cor 2:10-11, Matt 7:21, Matt 26:35, 26:56; margin notes beside v. 13a illegible. DR slip: Mark 14:65 lacks 'of' ('the palms their hands')."
   },
   {
    "id": "job-039",
