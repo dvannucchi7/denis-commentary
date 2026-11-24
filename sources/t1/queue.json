@@ -1123,9 +1123,9 @@
     492,
     495
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T09:55:11Z"
+   "note": "Published from the re-cut file (end of the article moved back from genesis-088.txt). Words lost in the transcription: 38:14 'eo quod crevisset Sela, videlicet tertius filius Judæ […] […] maritum' (PDF 493), and the end of the sentence 'sed nec David uxores suas ab Absalon cognitas […]' (PDF 494). Margin note beside 'de filiabus Lot' unreadable (tagged Gen 19:32). Denis's 38:12 reads 'mortua est Sue uxor Judæ' (Vulgate 'filia Sue', noted). Also in this commit: the Latin sides of eight quotation markers in Arts. LXIX, LXX, LXXI, LXXXI, LXXXII (this run's) now quote Denis's own wording."
   },
   {
    "id": "genesis-088",
