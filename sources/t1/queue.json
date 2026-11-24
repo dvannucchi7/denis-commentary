@@ -516,9 +516,9 @@
     288,
     295
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:26:05Z"
+   "note": "Published as Genesis 9, Art. XL (pp. 182–189, PDF 288–295; scheduled run, two workers, split at 9:12). Small gaps in the transcription kept as […] ('metuunt homines, […] humanam', PDF 288; 'signum fœderis […] inter me', 9:12). Unreadable margin notes: Gen 14:14 (Abraham's servants) and, less certain, Gen 8:21 (beside 'assecuravit ipsum Noe') supplied with notes; 'cap. […], 13' given as Gen 42:13. Margin 'Ephes. xi, 5' read as Eph 6:5. Denis's 'Maledictus puer Chanaan' (9:25) noted."
   },
   {
    "id": "genesis-041",
@@ -529,9 +529,9 @@
     296,
     299
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:26:05Z"
+   "note": "Published as Genesis 9, Art. XLI (pp. 190–193, PDF 296–299; scheduled run, one worker). Its end ('apud eos, qui possunt prodesse … plurimæ auctoritates') had been cut into genesis-042.txt; moved back. Words lost in the 9:21–22 lemmata kept as […] (PDF 297?). Unreadable margin note beside 'Alios salvos fecit' tagged Matt 27:42 (also Mark 15:31); margin 'Ps. xlvi, 17' marked Ps 44:17, where the words are (noted)."
   },
   {
    "id": "genesis-042",
