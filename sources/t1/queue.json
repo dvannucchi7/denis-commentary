@@ -10,9 +10,8 @@
     111,
     113
    ],
-   "status": "in-progress",
-   "source": "transcribed",
-   "claimed": "2026-11-24T05:25:58Z"
+   "status": "done",
+   "source": "transcribed"
   },
   {
    "id": "genesis-002",
@@ -23,9 +22,9 @@
     113,
     114
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:25:58Z"
+   "note": "the end of this article (from 'quem et S. Bernardus vocat linguam Ecclesiæ' to 'sine derogatione gloriosi Hieronymi dico', PDF 114 right column) was transcribed after the heading of Art. III; moved back here"
   },
   {
    "id": "genesis-003",
@@ -36,9 +35,9 @@
     114,
     119
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T05:25:58Z"
+   "note": "'codicibus' (PDF 115?) supplied from Jerome's prologue; margin note beside 'Ex Ægypto vocavi Filium meum' unreadable (tagged Osee 11:1); one word lost after 'quod sit unum' (kept as […])"
   },
   {
    "id": "genesis-004",
