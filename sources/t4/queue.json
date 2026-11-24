@@ -374,11 +374,11 @@
     446,
     453
    ],
-   "status": "done",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 24,
    "claimed": "2026-11-24T21:22:25Z",
-   "note": "Two workers (split at v. 13). Margins of PDF 446 not read (p446.json empty); notes taken from the OCR text. Lost text marked […]: four lines on PDF 448 (vv. 7–9) and one word 'audire […] meruit' (probably vocem): check against the scan. Lemmata 9:32 and 9:34 restored from garbled OCR. v. 23 'non desinat' kept with a note (sense needs 'sinat'). 'Peccavi super numerum arenæ maris' (Prayer of Manasses) unmarked with a note."
+   "note": "Published with gaps; needs-scan for PDF 448 (four lines lost, vv. 7–9) and PDF 452 (one word, \"audire […] meruit\"). Two workers (split at v. 13). Margins of PDF 446 not read (p446.json empty); notes taken from the OCR text. Lost text marked […]: four lines on PDF 448 (vv. 7–9) and one word 'audire […] meruit' (probably vocem): check against the scan. Lemmata 9:32 and 9:34 restored from garbled OCR. v. 23 'non desinat' kept with a note (sense needs 'sinat'). 'Peccavi super numerum arenæ maris' (Prayer of Manasses) unmarked with a note."
   },
   {
    "id": "job-025",
