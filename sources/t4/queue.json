@@ -764,10 +764,11 @@
     601,
     608
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 50,
-   "claimed": "2026-11-24T23:08:12Z"
+   "claimed": "2026-11-24T23:08:12Z",
+   "note": "Some italic lemmata garbled in OCR, restored from the Vulgate."
   },
   {
    "id": "job-051",
