@@ -88,9 +88,10 @@
     326,
     333
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 5
+   "order": 5,
+   "claimed": "2026-11-24T20:11:02Z"
   },
   {
    "id": "job-006",
