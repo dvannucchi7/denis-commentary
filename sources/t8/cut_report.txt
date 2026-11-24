@@ -1,1 +1,1 @@
-sirach: 12 articles, PDF 17-91, chapters 1-13 of 51; CHECK: no article starts in chapter(s) [4, 7] (fine if an article covers two chapters)
+sirach: 23 articles, PDF 17-163, chapters 1-24 of 51; CHECK: no article starts in chapter(s) [4, 7, 15, 16, 18] (fine if an article covers two chapters)
