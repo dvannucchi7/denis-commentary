@@ -1378,9 +1378,10 @@
     590,
     597
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:42:32Z"
+   "claimed": "2026-11-24T10:42:32Z",
+   "note": "two margin notes unreadable (at the 2:11 lemma, given as Acts 7:24; and at Stephen's words, given as Acts 7:25): check against the scan; read 'Sed Scriptura loquitur' where the transcription has 'Sed Scri- / plura loquitur'"
   },
   {
    "id": "exodus-004",
@@ -1391,9 +1392,10 @@
     597,
     599
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T10:42:32Z"
+   "claimed": "2026-11-24T10:42:32Z",
+   "note": "margin note 'I Cor. […]' (verse lost) given as 1 Cor 16:1: check against the scan"
   },
   {
    "id": "exodus-005",
