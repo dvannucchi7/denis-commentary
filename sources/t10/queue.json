@@ -1024,9 +1024,9 @@
     448,
     454
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T00:10:09Z"
+   "note": "Article ends on PDF 453 ('benedictus. Amen.'); PDF 454 was not transcribed (refusal message in the file, dropped) but follows the end of the Abdias commentary. Margin 'Ps. li, 8' at v. 9 does not fit (reference-only Ps 51:9, noted)."
   },
   {
    "id": "jonah-001",
@@ -1037,9 +1037,9 @@
     459,
     464
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "transcribed",
-   "claimed": "2026-11-24T00:10:09Z"
+   "note": "Published with a gap marked […] (and an article note): the transcription of PDF 460 (p. 450), right column, breaks off after 'multæ revelationes in monte' (v. 3, Jonas's flight); the text resumes 'bens ut iret ad Pharaonem' on the next page. Re-transcribe PDF 460 and fill the gap. Douay-Rheims data has 'Jonah' for Challoner's 'Jonas'."
   },
   {
    "id": "jonah-002",
