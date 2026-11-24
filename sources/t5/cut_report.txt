@@ -1,0 +1,6 @@
+job: 5 articles, PDF 11-55, chapters 38-90 of 42; CHECK: no article starts in chapter(s) [40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89] (fine if an article covers two chapters)
+None: 19 articles, PDF 55-90, chapters None-None; CHECK: book not identified
+tobit: 14 articles, PDF 95-141, chapters 1-14 of 14; CHECK: no article starts in chapter(s) [7, 9] (fine if an article covers two chapters)
+judith: 16 articles, PDF 141-179, chapters 7-90 of 16; CHECK: no article starts in chapter(s) [8, 9, 12, 13, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89] (fine if an article covers two chapters)
+esther: 16 articles, PDF 183-214, chapters 1-16 of 16; CHECK: no article starts in chapter(s) [4, 9] (fine if an article covers two chapters)
+ezra: 10 articles, PDF 219-244, chapters 1-10 of 10

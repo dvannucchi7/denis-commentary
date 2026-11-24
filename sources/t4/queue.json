@@ -12,9 +12,9 @@
    ],
    "status": "done",
    "source": "ocr",
-   "order": 0,
    "claimed": "2026-11-24T19:41:54Z",
-   "note": "First Job article (introduction, filed under ch. 1). One margin note beside the 'people of God' passage (printed 'Num. xxvi'?) could not be identified: bracketed note left. Work title taken from running head: 'Enarratio in librum Job'."
+   "note": "First Job article (introduction, filed under ch. 1). One margin note beside the 'people of God' passage (printed 'Num. xxvi'?) could not be identified: bracketed note left. Work title taken from running head: 'Enarratio in librum Job'.",
+   "order": 0
   },
   {
    "id": "job-002",
@@ -27,9 +27,9 @@
    ],
    "status": "done",
    "source": "ocr",
-   "order": 1,
    "claimed": "2026-11-24T19:47:42Z",
-   "note": "Introduction, filed under ch. 1. No margin note read for the obvious quotations Ezech 14:13-16 and Jas 5:10-11 (tagged anyway). A margin note 'Job xxiii' at the article's last line fits nothing: bracketed note."
+   "note": "Introduction, filed under ch. 1. No margin note read for the obvious quotations Ezech 14:13-16 and Jas 5:10-11 (tagged anyway). A margin note 'Job xxiii' at the article's last line fits nothing: bracketed note.",
+   "order": 1
   },
   {
    "id": "job-003",
@@ -42,9 +42,9 @@
    ],
    "status": "done",
    "source": "ocr",
-   "order": 2,
    "claimed": "2026-11-24T19:50:10Z",
-   "note": "Introduction (Gregory's preliminaries), filed under ch. 1. Doubtful OCR in Gregory's line on Atlas ('gigantec sis pieetur sudore', read as 'giganteis putetur sudore'). Jacob's margin reference badly printed (Gen 31:40 chosen, with a note); Josue's taken as Ecclus 46:1."
+   "note": "Introduction (Gregory's preliminaries), filed under ch. 1. Doubtful OCR in Gregory's line on Atlas ('gigantec sis pieetur sudore', read as 'giganteis putetur sudore'). Jacob's margin reference badly printed (Gen 31:40 chosen, with a note); Josue's taken as Ecclus 46:1.",
+   "order": 2
   },
   {
    "id": "job-004-part1",
@@ -59,9 +59,9 @@
    "source": "ocr",
    "part": 1,
    "parts": 2,
-   "order": 3,
    "claimed": "2026-11-24T19:53:07Z",
-   "note": "vv. 1-7, by two workers. The half sentence 'In justis vero perambulat Deus,' that runs on into part 2 was moved to the top of sources/t4/articles/job-004-part2.txt. Quotation from the Prayer of Manasses ('Peccavi super numerum arenae maris', cited by Denis as 2 Paralipomenon) left without a marker: not in the app's Douay-Rheims. Readings chosen: 'patriae' for printed 'patris'; 'Basil ... Deus inclusit' kept as printed (perhaps 'indulsit')."
+   "note": "vv. 1-7, by two workers. The half sentence 'In justis vero perambulat Deus,' that runs on into part 2 was moved to the top of sources/t4/articles/job-004-part2.txt. Quotation from the Prayer of Manasses ('Peccavi super numerum arenae maris', cited by Denis as 2 Paralipomenon) left without a marker: not in the app's Douay-Rheims. Readings chosen: 'patriae' for printed 'patris'; 'Basil ... Deus inclusit' kept as printed (perhaps 'indulsit').",
+   "order": 3
   },
   {
    "id": "job-004-part2",
@@ -76,9 +76,9 @@
    "source": "ocr",
    "part": 2,
    "parts": 2,
-   "order": 4,
    "claimed": "2026-11-24T20:03:30Z",
-   "note": "vv. 7-22, by two workers; Art. IV now complete. To check against the scan: 'Sit nomen Domini nominatum benedictum' (v. 21, kept as printed); the margin beside the Chaldeans (Jer/Joel/Hab, verse numbers guessed: Jer 6:23, Joel 2:3, Hab 1:6); the Exodus hardening references; 'Ps. xc' (taken as Ps 90:11); '* volitionem', the edition's correction in a Gregory quotation (English follows it)."
+   "note": "vv. 7-22, by two workers; Art. IV now complete. To check against the scan: 'Sit nomen Domini nominatum benedictum' (v. 21, kept as printed); the margin beside the Chaldeans (Jer/Joel/Hab, verse numbers guessed: Jer 6:23, Joel 2:3, Hab 1:6); the Exodus hardening references; 'Ps. xc' (taken as Ps 90:11); '* volitionem', the edition's correction in a Gregory quotation (English follows it).",
+   "order": 4
   },
   {
    "id": "job-005",
@@ -91,9 +91,9 @@
    ],
    "status": "done",
    "source": "ocr",
-   "order": 5,
    "claimed": "2026-11-24T20:11:02Z",
-   "note": "By two workers. Margin numerals corrected by the text in many places (e.g. Rom 13:12, Is 42:1, Zach 3:8, 1 Thess 5:8, Mark 16:15, Is 53:10). Garbled OCR of the v. 4 lemma 'Et mittentes vocabant tres sorores suas' restored. Plato (Timaeus) quotation 'Ergone ... magnifice invitatus sum hodie' is a doubtful reading (note left). An illegible margin note near Acts 2:44 may be Acts 4:32 (note left). Quotations tagged without a margin note read: Jer 31:22, Acts 2:22/24, Ps 75:2, Is 49:18, Ps 108:4, John 17:20-21, John 6:37/44, Ps 134:6."
+   "note": "By two workers. Margin numerals corrected by the text in many places (e.g. Rom 13:12, Is 42:1, Zach 3:8, 1 Thess 5:8, Mark 16:15, Is 53:10). Garbled OCR of the v. 4 lemma 'Et mittentes vocabant tres sorores suas' restored. Plato (Timaeus) quotation 'Ergone ... magnifice invitatus sum hodie' is a doubtful reading (note left). An illegible margin note near Acts 2:44 may be Acts 4:32 (note left). Quotations tagged without a margin note read: Jer 31:22, Acts 2:22/24, Ps 75:2, Is 49:18, Ps 108:4, John 17:20-21, John 6:37/44, Ps 134:6.",
+   "order": 5
   },
   {
    "id": "job-006",
@@ -106,9 +106,9 @@
    ],
    "status": "done",
    "source": "ocr",
-   "order": 6,
    "claimed": "2026-11-24T20:13:01Z",
-   "note": "Readings to check against the scan: stray 'lim' after 'Et ibant filii ejus' dropped; 'derelinqui', 'occidit', 'clementiae', 'confidentiae cibos' read for garbled OCR."
+   "note": "Readings to check against the scan: stray 'lim' after 'Et ibant filii ejus' dropped; 'derelinqui', 'occidit', 'clementiae', 'confidentiae cibos' read for garbled OCR.",
+   "order": 6
   },
   {
    "id": "job-007",
@@ -121,8 +121,8 @@
    ],
    "status": "in-progress",
    "source": "ocr",
-   "order": 7,
-   "claimed": "2026-11-24T20:20:49Z"
+   "claimed": "2026-11-24T20:20:49Z",
+   "order": 7
   },
   {
    "id": "job-008",
@@ -820,13 +820,82 @@
    "chapter_guess": 33,
    "pages": [
     665,
-    667
+    672
    ],
-   "status": "waiting",
+   "status": "todo",
    "source": "ocr",
    "order": 61
+  },
+  {
+   "id": "job-062",
+   "book": "job",
+   "art": 62,
+   "chapter_guess": 34,
+   "pages": [
+    673,
+    682
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 62
+  },
+  {
+   "id": "job-063",
+   "book": "job",
+   "art": 63,
+   "chapter_guess": 35,
+   "pages": [
+    682,
+    687
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 63
+  },
+  {
+   "id": "job-064",
+   "book": "job",
+   "art": 64,
+   "chapter_guess": 36,
+   "pages": [
+    687,
+    694
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 64
+  },
+  {
+   "id": "job-065-part1",
+   "book": "job",
+   "art": 65,
+   "chapter_guess": 37,
+   "pages": [
+    694,
+    702
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "part": 1,
+   "parts": 2,
+   "order": 65
+  },
+  {
+   "id": "job-065-part2",
+   "book": "job",
+   "art": 65,
+   "chapter_guess": 37,
+   "pages": [
+    703,
+    711
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "part": 2,
+   "parts": 2,
+   "order": 66
   }
  ],
- "pages_cut": 384,
+ "pages_cut": 428,
  "complete": false
 }
