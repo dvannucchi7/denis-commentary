@@ -284,10 +284,11 @@
     404,
     409
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 18,
-   "claimed": "2026-11-24T20:55:44Z"
+   "claimed": "2026-11-24T20:55:44Z",
+   "note": "One worker. Lemma 6:4 restored from badly garbled OCR ('Quarum indignatio ebibit spiritum meum'). Kept as printed: 'ex timore filialiter timent' (perhaps 'ex amore'). 'Sapiens non murmurabit correptus' marked Ecclus 10:28 with a note (margin unread)."
   },
   {
    "id": "job-019",
