@@ -779,10 +779,11 @@
     608,
     610
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 51,
-   "claimed": "2026-11-24T23:11:06Z"
+   "claimed": "2026-11-24T23:11:06Z",
+   "note": "No margin note read for Ps 102:20-21, Is 40:26, Heb 12:22 (word-for-word, tagged; check against scan). Daniel margin partly unread, given as Dan 10:13 with a note."
   },
   {
    "id": "job-052",
