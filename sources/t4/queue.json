@@ -823,10 +823,11 @@
     621,
     630
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 54,
-   "claimed": "2026-11-24T23:41:46Z"
+   "claimed": "2026-11-24T23:41:46Z",
+   "note": "Published, but OCR lines are lost on PDF 628: two lines at the start of v. 19 (the lemma 'Non adæquabitur ei topazius de Æthiopia' probably stood there) and two after 'Hoc dicitur contra' (v. 21, on the birds); marked […]. v. 15 lemma partly garbled ('ut pro argento' a guess). Unconfirmed margin notes (no note read): Bar 3:15, 3:29–32, Gal 2:20, Col 3:3, Wis 5:6, Ecclus 1:20, Prov 3:13–14, 1 Cor 2:6, 2:14, Is 28:9, Eccles 2:3. Also: data/bible/drc Job 28:4 reads 'the food of the needy man' where Challoner has 'foot' (Vulgate pes)."
   },
   {
    "id": "job-055",
