@@ -1753,10 +1753,24 @@
    "chapter_guess": 1,
    "pages": [
     701,
+    706
+   ],
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:12:21Z"
+  },
+  {
+   "id": "malachi-002",
+   "book": "malachi",
+   "art": 2,
+   "chapter_guess": 1,
+   "pages": [
+    706,
     708
    ],
-   "status": "todo",
-   "source": "transcribed"
+   "status": "in-progress",
+   "source": "transcribed",
+   "claimed": "2026-11-24T05:12:21Z"
   },
   {
    "id": "malachi-003",
