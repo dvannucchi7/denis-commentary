@@ -788,13 +788,312 @@
    "chapter_guess": 10,
    "pages": [
     239,
-    244
+    245
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106060
+  },
+  {
+   "id": "ezra-001-2",
+   "book": "ezra",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    245,
+    247
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106061
+  },
+  {
+   "id": "ezra-002-2",
+   "book": "ezra",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    247,
+    249
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106062
+  },
+  {
+   "id": "ezra-003-2",
+   "book": "ezra",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    249,
+    251
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106063
+  },
+  {
+   "id": "ezra-004-2",
+   "book": "ezra",
+   "art": 4,
+   "chapter_guess": null,
+   "pages": [
+    251,
+    253
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106064
+  },
+  {
+   "id": "ezra-005-2",
+   "book": "ezra",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    253,
+    255
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106065
+  },
+  {
+   "id": "ezra-006-2",
+   "book": "ezra",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    255,
+    257
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106066
+  },
+  {
+   "id": "ezra-007-2",
+   "book": "ezra",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    257,
+    258
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106067
+  },
+  {
+   "id": "ezra-008-2",
+   "book": "ezra",
+   "art": 8,
+   "chapter_guess": 8,
+   "pages": [
+    258,
+    260
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106068
+  },
+  {
+   "id": "ezra-009-2",
+   "book": "ezra",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    260,
+    264
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106069
+  },
+  {
+   "id": "ezra-010-2",
+   "book": "ezra",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    265,
+    266
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106070
+  },
+  {
+   "id": "ezra-011",
+   "book": "ezra",
+   "art": 11,
+   "chapter_guess": 11,
+   "pages": [
+    266,
+    267
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106071
+  },
+  {
+   "id": "ezra-012",
+   "book": "ezra",
+   "art": 12,
+   "chapter_guess": 140,
+   "pages": [
+    267,
+    269
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106072
+  },
+  {
+   "id": "ezra-013",
+   "book": "ezra",
+   "art": 13,
+   "chapter_guess": 140,
+   "pages": [
+    270,
+    272
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 106073
+  },
+  {
+   "id": "i-maccabees-001",
+   "book": "i-maccabees",
+   "art": 1,
+   "chapter_guess": 1,
+   "pages": [
+    277,
+    284
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101074
+  },
+  {
+   "id": "i-maccabees-002",
+   "book": "i-maccabees",
+   "art": 2,
+   "chapter_guess": 2,
+   "pages": [
+    284,
+    290
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101075
+  },
+  {
+   "id": "i-maccabees-003",
+   "book": "i-maccabees",
+   "art": 3,
+   "chapter_guess": 3,
+   "pages": [
+    290,
+    294
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101076
+  },
+  {
+   "id": "i-maccabees-004",
+   "book": "i-maccabees",
+   "art": 4,
+   "chapter_guess": 4,
+   "pages": [
+    295,
+    299
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101077
+  },
+  {
+   "id": "i-maccabees-005",
+   "book": "i-maccabees",
+   "art": 5,
+   "chapter_guess": 5,
+   "pages": [
+    299,
+    301
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101078
+  },
+  {
+   "id": "i-maccabees-006",
+   "book": "i-maccabees",
+   "art": 6,
+   "chapter_guess": 6,
+   "pages": [
+    302,
+    305
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101079
+  },
+  {
+   "id": "i-maccabees-007",
+   "book": "i-maccabees",
+   "art": 7,
+   "chapter_guess": 7,
+   "pages": [
+    305,
+    307
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101080
+  },
+  {
+   "id": "i-maccabees-008",
+   "book": "i-maccabees",
+   "art": 8,
+   "chapter_guess": 9,
+   "pages": [
+    307,
+    310
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101081
+  },
+  {
+   "id": "i-maccabees-009",
+   "book": "i-maccabees",
+   "art": 9,
+   "chapter_guess": 9,
+   "pages": [
+    310,
+    313
+   ],
+   "status": "todo",
+   "source": "ocr",
+   "order": 101082
+  },
+  {
+   "id": "i-maccabees-010",
+   "book": "i-maccabees",
+   "art": 10,
+   "chapter_guess": 10,
+   "pages": [
+    313,
+    316
    ],
    "status": "waiting",
    "source": "ocr",
-   "order": 106060
+   "order": 101083
   }
  ],
- "pages_cut": 244,
+ "pages_cut": 316,
  "complete": false
 }
