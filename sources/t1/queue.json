@@ -456,7 +456,7 @@
    ],
    "status": "done",
    "source": "transcribed",
-   "note": "margin note unreadable in the transcription beside 'fructum centesimum, sexagesimum' (PDF 270?): given as Matt 13:8, to be checked against the scan"
+   "note": "margin note unreadable in the transcription beside 'fructum centesimum, sexagesimum' (PDF 271): given as Matt 13:8, to be checked against the scan"
   },
   {
    "id": "genesis-036",
@@ -467,9 +467,9 @@
     272,
     277
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "transcribed",
-   "claimed": "2026-11-24T08:12:11Z"
+   "note": "one word unreadable in the transcription at 7:12 ('impetuosissime ac […] cadens', PDF 275)"
   },
   {
    "id": "genesis-037",
