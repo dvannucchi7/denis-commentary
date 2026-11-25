@@ -25,10 +25,11 @@
     22,
     28
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 100001,
-   "claimed": "2026-11-25T00:55:59Z"
+   "claimed": "2026-11-25T00:55:59Z",
+   "note": "Words lost in the OCR: the article's first word (PDF 22) and the gloss on 'Cum tempus fuerit' (v. 18), marked […]. Printed pages given as pp. 12–18 on the guess that PDF 11 = p. 1 of t. V; please check."
   },
   {
    "id": "job-068",
