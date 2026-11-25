@@ -190,10 +190,11 @@
     119,
     121
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103012,
-   "claimed": "2026-11-25T03:30:04Z"
+   "claimed": "2026-11-25T03:30:04Z",
+   "note": "Printed pp. 109-111 assumed (PDF = p. + 10). Margin numerals misread, resolved by sense: Tob 6:8 (printed 'Tob. vi, 8', ref-only), Tob 6:19 (printed 'Ibid. ?-22', read as vi, 19-22, ref-only with note), Gen 2:7 (printed 'Gen. ii, 7', read by the tool as vi, 7), Ps 68:35 (printed lxviii, 35), Matt 18:19-20, Ps 17:4, Dan 3:57, Gen 2:18, Tob 7:13-14. Two notes beside v. 2 ('Tob. x' / unread) left untagged. Margin variants '* illud' (8:3) and '* quoque' (8:10) not noted. Latin restored: 'ad eam, id est ad cubiculum' (garbled), 'effectum pietatis tuae' (OCR 'buie'), 'Evam' (printed 'Eva'). Check against scan."
   },
   {
    "id": "tobit-009",
