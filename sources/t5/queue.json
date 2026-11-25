@@ -1737,10 +1737,11 @@
     422,
     423
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108115,
-   "claimed": "2026-11-25T06:36:47Z"
+   "claimed": "2026-11-25T06:36:47Z",
+   "note": "Printed pp. 412-413 (PDF 422-423). Translated without workers. Margin numerals resolved by sense: Rom 15:4 ('Flori. xv'), Rom 14:15 ('Hom. xi, 15', reference-only), Is 1:16 ('Zsat'), Rom 8:28 ('Flo, viii, 28'); Wis 9:13 + 9:17 joined by Denis (noted). Last paragraph tagged vv. 4-5: it applies 'rise again in judgment' and 'council of the just' (v. 5) morally without quoting them."
   },
   {
    "id": "psalms-011",
