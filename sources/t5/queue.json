@@ -982,10 +982,11 @@
     277,
     284
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101074,
-   "claimed": "2026-11-25T01:21:42Z"
+   "claimed": "2026-11-25T01:21:42Z",
+   "note": "Printed pages assumed PDF−10 (pp. 267–274), not seen on the scan. 1:23 lemma rebuilt from garbled OCR ('et universa vasa ejus'); hard-to-read margins resolved as Ezech 16/23, Ex 25:23/29/30/31/37, 2 Mach 4:7/4:24, 2 Mach 5:24–25, Judg 2:14 ('passim'): check against scan."
   },
   {
    "id": "i-maccabees-002",
