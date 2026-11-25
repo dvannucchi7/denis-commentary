@@ -265,10 +265,11 @@
     130,
     134
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103017,
-   "claimed": "2026-11-25T03:40:02Z"
+   "claimed": "2026-11-25T03:40:02Z",
+   "note": "Margin numerals misread; corrected by sense (with notes): Dan 7:14, Ps 83:3, Agg 2:10, Wis 16:13 (ref-only, printed 'xxi, 13'); Luke 16:22 for Lazarus (Denis may mean John 11); guesses for unreadable notes: Zach 1:1, Acts 3:11 and 5:12, Acts 2:41, Tob 1:2 (printed 'i, 3'). Denis's wording differs at 2 Mach 6:26 (evadere potero) and Acts 2:5 (no 'Judæi': split into two markers). Check against scan."
   },
   {
    "id": "tobit-014",
