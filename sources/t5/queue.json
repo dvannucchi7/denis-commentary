@@ -1886,10 +1886,11 @@
     446,
     448
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108125,
-   "claimed": "2026-11-25T06:46:17Z"
+   "claimed": "2026-11-25T06:46:17Z",
+   "note": "Published (Psalm 5, exposition of the psalm of Christ, with Denis's prayer; printed pp. 436-438 assumed, PDF = p. + 10). Translated without workers. Quoted: John 1:16, 17:9, 15, 11, Luke 22:32, John 17:20-21, 23, Luke 23:34, 46, John 19:28, Matt 4:9-10 (Denis 'Vade retro'; Deut 6:13 ref-only), Matt 6:33, Matt 21:13, Agg 2:8, Is 11:3, Rom 8:34, Ecclus 18:23. Ref-only: Matt 3:17, 17:5, Acts 10:42, Matt 25:32, 46, Wis 14:9, Matt 25:41. Margin read as 'Ps. xx, 4' beside 'misericordia tua praeventus sum' (Ps 20:4?) left without a marker: check."
   },
   {
    "id": "psalms-022",
