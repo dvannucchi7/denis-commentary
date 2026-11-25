@@ -622,10 +622,11 @@
     198,
     199
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105041,
-   "claimed": "2026-11-25T05:19:26Z"
+   "claimed": "2026-11-25T05:19:26Z",
+   "note": "Printed pp. 188-189 (PDF 198-199). Translated without workers. Latin restored from garbled OCR in 7:6 ('vultum regis ac reginae ferre non sustinens'; an extra unreadable word stands in the OCR), 7:7 ('Rex autem surrexit, et intravit in hortum'), 7:9 ('Dixitque unus de eunuchis: En lignum'; 'infra septa domus ejus', last word unsure): check against scan. Margin readings resolved by sense: Gen 2:24, Esth 2:7, Esth 3:8 (margin 'iii, 8-13'), Esth 6:8 (margin 'Esther vi' only), Ex 1:11, 1 Pet 5:5 (ref-only); Prov 27:4, 21:1, 26:27, Ecclus 27:30-31, Ps 9:16 (quoted); 'hilaritas regis... nuntius mortis' given as Prov 19:12 + 16:14 (ref-only, notes partly illegible)."
   },
   {
    "id": "esther-008",
