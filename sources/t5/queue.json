@@ -592,10 +592,11 @@
     194,
     196
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105039,
-   "claimed": "2026-11-25T05:15:28Z"
+   "claimed": "2026-11-25T05:15:28Z",
+   "note": "Printed pp. 184-186 (PDF 194-196). Translated without workers. In 5:2 the OCR reads 'gratis ac nitentibus oculis pallens'; taken as 'pollens' (endowed): check against scan. Margin numerals resolved by sense: Esth 15:4, 15:9, 15:8, 15:10, 10:4, 13:12-14 (quoted); Ecclus 18:27 for 'Sapiens in omnibus metuit' (margin read 'Ibid. xvii, 31', noted); Eccles 7:10; Prov 12:16; ref-only Esth 15:11 (margin 'xv, 13 et seq.'?), Ps 7:16, Ecclus 11:27, Esth 3:2, Deut 25:17 and 25:19, 1 Kings 15:1 (chapter only), Judg 16:30 (read 'xv, 30'), Esth 10:3 (read 'x, 5'). Apostolic notes on obeying masters only partly legible, given as 1 Pet 2:18, Eph 6:5, Tit 2:9, 1 Pet 2:14 (ref-only): check against scan. Question paragraphs on Mardochai's refusal tagged v. 9."
   },
   {
    "id": "esther-006",
