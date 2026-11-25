@@ -576,9 +576,10 @@
     193,
     194
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 105038
+   "order": 105038,
+   "claimed": "2026-11-25T05:14:07Z"
   },
   {
    "id": "esther-005",
