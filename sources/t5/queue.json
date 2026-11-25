@@ -1011,9 +1011,10 @@
     290,
     294
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 101076
+   "order": 101076,
+   "claimed": "2026-11-25T01:35:35Z"
   },
   {
    "id": "i-maccabees-004",
