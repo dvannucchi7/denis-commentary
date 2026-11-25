@@ -985,11 +985,12 @@
     694,
     702
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
    "part": 1,
    "parts": 2,
-   "order": 65
+   "order": 65,
+   "claimed": "2026-11-25T00:45:20Z"
   },
   {
    "id": "job-065-part2",
