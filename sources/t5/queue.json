@@ -756,10 +756,11 @@
     212,
     214
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105050,
-   "claimed": "2026-11-25T05:33:42Z"
+   "claimed": "2026-11-25T05:33:42Z",
+   "note": "Printed pp. 202-204 (PDF 212-214). Last article of Esther; translated without workers. Lemma 16:1 read 'Rex maximus Artaxerxes' (as in the printed heading; Vulgate 'magnus'). 16:6 kept as OCR'd 'aures interiores principum simplices' ('interiores' not in the Vulgate): check against scan. Margin variant '* cuniculis' for Denis's 'funiculis' (16:5) noted; an asterisk note beside Jerome's 'funibus' is unreadable and left out. Margin numerals resolved by sense: Prov 14:15, Job 15:21, Ecclus 19:4 (quoted); ref-only Esth 10:4, Esth 13:1 (three times: 'Esther xiii', 'Ibidem', and the note beside 'Hoc supra expositum est'), 4 Kings 15:10/14/25/30, Rom 12:17, 1 Mach 7:25 (margin '1 Mach. vii'), Esth 3:1."
   },
   {
    "id": "ezra-001",
