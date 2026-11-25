@@ -55,10 +55,11 @@
     39,
     47
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 100003,
-   "claimed": "2026-11-25T01:09:37Z"
+   "claimed": "2026-11-25T01:09:37Z",
+   "note": "Garbled lemmata (vv. 1-4, 6-7, 9, 21, 24) rebuilt from the Vulgate. Unreadable margin notes beside the Pharisees and Sadducees (vv. 6-8): Acts 23:7 and Matt 16:1 are guesses. Printed pp. 29-37 assumed (PDF = p. + 10)."
   },
   {
    "id": "job-070",
