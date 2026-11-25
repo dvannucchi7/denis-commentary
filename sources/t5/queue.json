@@ -128,9 +128,10 @@
     109,
     111
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 103008
+   "order": 103008,
+   "claimed": "2026-11-25T03:15:19Z"
   },
   {
    "id": "tobit-005",
