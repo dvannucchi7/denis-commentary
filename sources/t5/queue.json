@@ -1222,10 +1222,11 @@
     339,
     346
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101090,
-   "claimed": "2026-11-25T02:15:15Z"
+   "claimed": "2026-11-25T02:15:15Z",
+   "note": "Printed pp. 329-336 assumed (PDF = p. + 10). PDF 339 margins not read (the reader caught text-line ends): Genesis quotations (Gen 12:2, 12:7, 26:3-4, 28:13-14) tagged from Denis's naming of Genesis. Margin numerals much misread; resolved by sense (with notes): Jos 24:14, 3 Kings 15:11/15:24/22:51, 4 Kings 18:3 (printed xvi, 3), 1 Mach 10:50, 1 Mach 1:33/1:39, 2 Mach 4:7, 1 Mach 4:36, 4:59, 1 Esd 4:24, Ex 29:7/21, 1 Mach 3:31, 2 Esd 2:5; an Esdras note unreadable. Garbled Greek (Scenopegia) restored as σκῆνος/πῆξις; readings chosen for OCR damage: 'ad divinum cultum electa', 'prima secundæ', 'diem ignis', 'tribuebat illis', 'caput filii sui'. Denis reads 'dies multi' at 1:20. Check against scan."
   },
   {
    "id": "i-maccabees-002-2",
