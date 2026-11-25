@@ -2097,10 +2097,11 @@
     487,
     489
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108139,
-   "claimed": "2026-11-25T07:08:19Z"
+   "claimed": "2026-11-25T07:08:19Z",
+   "note": "Printed pp. 477-479 (PDF 487-489, p. + 10 assumed). Translated without workers. Margin numerals resolved by sense: Jer 5:11-12 ('Jer. v, 11, 12'), Hab 2:4 (ref-only), Matt 22:15 ('Matth. xxii'), Matt 27:20, Is 42:19 (Denis joins two questions, noted), John 11:47-48, Luke 8:2 (ref-only), Rom 11:26 (ref-only). 'Insanit; quid eum auditis' is John 10:20 but Denis sets it at the dispute on avarice (Luke 16:14): noted; the unread margin note there may be Luc. xvi, 14."
   },
   {
    "id": "psalms-036",
