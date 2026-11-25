@@ -696,10 +696,11 @@
     205,
     206
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105046,
-   "claimed": "2026-11-25T05:28:28Z"
+   "claimed": "2026-11-25T05:28:28Z",
+   "note": "Printed pp. 195-196 (PDF 205-206). Short article, translated without workers. Margin numerals resolved by sense, all ref-only: Esth 2:21, 2:22 ('Ibidem'), 3:1 ('Esther iii, 1'), 3:5 ('Ibid. 5, 6'); the two notes beside 'scripsit in commentariis' and 'in expositione superiorum' are barely legible, given as Esth 2:23 and 6:3 with a bracketed note: check against scan."
   },
   {
    "id": "esther-013",

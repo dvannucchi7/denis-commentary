@@ -1023,6 +1023,48 @@
      }
     ]
    }
+  ],
+  "12": [
+   {
+    "num": "XII",
+    "title": "Elucidatio capituli duodecimi: Morabatur autem eo tempore in aula regis",
+    "title_en": "Explanation of the twelfth chapter: And he abode at that time in the king's court",
+    "pages": "pp. 195–196",
+    "paras": [
+     {
+      "t": "Consequenter in hoc duodecimo capitulo recitatur, qualiter Mardochæus significavit Assuero insidias eunuchorum, prout supra est conscriptum.",
+      "en": "Next, in this twelfth chapter, it is related how Mardochai made known to Assuerus the plot of the eunuchs, as was written above[[Esth 2:21||]]."
+     },
+     {
+      "v": [
+       1,
+       2
+      ],
+      "t": "Morabatur autem Mardochæus eo tempore in aula regis, cum eunuchis regis qui janitores erant palatii, et in primo palatii limine præsidebant. Quumque intellexisset cogitationes eorum per signa et facta quædam exteriora, vel per verba alterius linguæ, quam illi putabant Mardochæum non intelligere, sicut supra patuit: ubi ex Josepho allegatum est, quod servus unius eunuchorum illorum, natione Judæus, revelavit id Mardochæo: cui ille non credens, caute personaliter consideravit et observavit conatus eorum. Secundum quod subditur: et curas diligentius pervidisset, didicit quod conarentur in regem Artaxerxem, id est Assuerum, manus mittere violentas ad occidendum. Et nuntiavit super eo regi, id est de hac re significavit Assuero veritatem per Esther reginam.",
+      "en": "[[12:1|And he abode at that time in the king's court|Morabatur autem Mardochæus eo tempore in aula regis]] with [[12:1|the king's eunuchs, who were porters of the palace|eunuchis regis qui janitores erant palatii]], and had charge of the first threshold of the palace. [[12:2|And when he understood their designs|Quumque intellexisset cogitationes eorum]] by certain outward signs and deeds, or by words in another tongue which they thought Mardochai did not understand, as appeared above[[Esth 2:22||]]: where it was alleged from Josephus that a servant of one of those eunuchs, a Jew by nation, revealed it to Mardochai, who, not believing him, warily considered and watched their attempts in person. According to which it is added: [[12:2|and had diligently searched into their projects|et curas diligentius pervidisset]], [[12:2|he learned that they went about|didicit quod conarentur]] [[12:2|to lay violent hands on king Artaxerxes|in regem Artaxerxem manus mittere]] (Artaxerxes, that is, Assuerus), to kill him. [[12:2|and he told the king thereof|Et nuntiavit super eo regi]], that is, he made known the truth of this matter to Assuerus through queen Esther."
+     },
+     {
+      "v": [
+       4,
+       5
+      ],
+      "verses": [
+       4,
+       5
+      ],
+      "t": "Rex autem quod gestum erat, scripsit in commentariis, id est, scribi fecit in libris memorialibus, in quibus continebantur res dignæ memoria; datis ei, scilicet Mardochæo, pro delatione, id est accusatione eunuchorum, muneribus: quod qualiter intelligendum sit, in expositione superiorum est expressum.",
+      "en": "[[12:4|But the king made a record of what was done|Rex autem quod gestum erat, scripsit in commentariis]], that is, had it written in the books of record, in which things worthy of memory were contained[[Esth 2:23||]]; [[12:5|and gave him presents for the information|datis ei pro delatione muneribus]], *him*, that is, Mardochai; *for the information*, that is, for the accusation of the eunuchs: how this is to be understood was set out in the exposition of the earlier chapters[[Esth 6:3||]] [the margin notes here are barely legible; the passages are probably Esther 2:23 and 6:3]."
+     },
+     {
+      "v": [
+       6,
+       6
+      ],
+      "t": "Aman vero gloriosissimus, id est honoratissimus et famosissimus, erat coram rege Assuero, qui fecit eum talem ac tantum, videlicet summum post se: et voluit nocere Mardochæo et populo ejus, procurando eorum occisionem, pro duobus eunuchis. Supra dictum est, quod voluit eos occidere, quoniam Mardochæus non flectebat genua coram ipso Aman. Hic vero innuitur alia causa: quia videlicet Aman ægre tulit, quod Mardochæus accusavit eunuchos regi, et occasio fuit interfectionis illorum, qui erant amici Aman, atque (ut aliqui opinantur) cupiebant promotionem ipsius Aman in regem.",
+      "en": "[[12:6|But Aman|Aman vero]] [[12:6|was in great honour with the king|gloriosissimus coram rege]] [*gloriosissimus*, \"most glorious\"], that is, most honoured and most renowned, before king Assuerus, who made him such and so great, namely the highest after himself[[Esth 3:1||]]: [[12:6|and sought to hurt Mardochai and his people|et voluit nocere Mardochæo et populo ejus]], by procuring their slaughter, [[12:6|because of the two eunuchs|pro duobus eunuchis]]. It was said above that he wished to kill them because Mardochai would not bend his knees before Aman[[Esth 3:5||]]. But here another cause is hinted at: namely that Aman took it ill that Mardochai had accused the eunuchs to the king and been the occasion of their being put to death; for they were friends of Aman and (as some think) desired the promotion of Aman himself to the kingship."
+     }
+    ]
+   }
   ]
  }
 }
