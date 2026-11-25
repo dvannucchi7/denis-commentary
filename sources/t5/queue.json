@@ -1632,10 +1632,11 @@
     406,
     408
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108108,
-   "claimed": "2026-11-25T06:27:56Z"
+   "claimed": "2026-11-25T06:27:56Z",
+   "note": "Published at Psalm 1 (Art. III, introductory: whether David was the greatest of the prophets); no verse of Ps 1 treated, so no tags. Printed pp. 396-398 assumed (PDF = p. + 10). Translated without workers. Margin numerals resolved by sense: Dan 2:31, 5:5; Gen 41:2, 5; Dan 10:1; Gen 6:14 (ark; margin 'Gen. vi'?), Ezech 4:3, Gen 22:18 (Denis 'tribus' for 'gentes': noted), Ex 3:2, Gen 1:1, Luke 1:43, Jos 10:13, 2 Cor 12:2, 4, Num 12:8, Ex 33:11, Deut 34:10-11. Balaam margin hard to read (given as Num 24:17 with a note)."
   },
   {
    "id": "psalms-004",
