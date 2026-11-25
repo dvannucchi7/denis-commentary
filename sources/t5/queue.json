@@ -637,10 +637,11 @@
     200,
     201
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105042,
-   "claimed": "2026-11-25T05:22:05Z"
+   "claimed": "2026-11-25T05:22:05Z",
+   "note": "Printed pp. 190-191 (PDF 200-201). Translated without workers. Latin restored from garbled OCR in 8:1 ('Die illo dedit rex Assuerus Esther reginae domum Aman'), 8:10 ('et missae per veredarios'), 8:16 ('Judaeis autem nova lux oriri visa est'), 8:17 ('Judaici nominis terror'): check against scan. Margin 'Esther xvi' (twice) given as ref-only Esth 16:1 (the letter, chapter only); Esth 3:13 ref-only; Prov 29:2 quoted. Margin variant '* laetata' for 'gavisa est' noted."
   },
   {
    "id": "esther-009",
