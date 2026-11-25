@@ -40,10 +40,11 @@
     29,
     39
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 100002,
-   "claimed": "2026-11-25T01:00:16Z"
+   "claimed": "2026-11-25T01:00:16Z",
+   "note": "Garbled lemmata of vv. 1-2 and 6 rebuilt from the Vulgate. Many margin notes unread or misread and worked out from the text (guesses: Dan 4:9, Matt 27:22, Is 14:4 for 'I$. x. d'). Printed pp. 19-29 assumed (PDF = p. + 10)."
   },
   {
    "id": "job-069",
