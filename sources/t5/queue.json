@@ -1902,10 +1902,11 @@
     448,
     452
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108126,
-   "claimed": "2026-11-25T06:47:33Z"
+   "claimed": "2026-11-25T06:47:33Z",
+   "note": "Printed pp. 438-442 (PDF 448-452). Translated without workers. Margin numerals resolved by sense: Nah 1:9 (reference-only, Denis's saying differs from the Vulgate, noted), 1 Pet 4:8, 2 Cor 3:5, Job 9:3, Is 64:6, Ezech 36:32 + 36:22, Col 3:9-10 joined with Eph 4:24 and 2 Cor 4:16 (noted), Rom 13:12, Ecclus 5:8, 5:6, 5:9 (noted). Margin note 'Expositio litteralis alia de David' beside the paragraph 'Postremo certum est' (a side heading, not translated). Untagged: the paragraphs on the penitential psalms and the prayer, which echo vv. 2, 5, 7 in Denis's own words."
   },
   {
    "id": "psalms-023",
