@@ -385,10 +385,11 @@
     153,
     154
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104025,
-   "claimed": "2026-11-25T03:53:35Z"
+   "claimed": "2026-11-25T03:53:35Z",
+   "note": "Printed pp. 143-144 assumed (PDF = p. + 10). Margin refs: Jdt 2:7 (printed 'Judith ii, 7'), Jdt 3:8 (printed 'Ibid. iii, 8'), 2 Kings 24:14, Is 48:11, Ezech 36:32; Denis's 'sed propter nomen sanctum meum' tagged Ezech 36:22 (not in the margin). Denis's lemmata at 7:19-20 skip 'cum patribus nostris' and 'miserere nostri, aut' (note in text). At 7:6 the OCR has '... ' after 'fons' (a word may be lost; read 'reperit quod fons influebat in aquaeductum'). Check against scan."
   },
   {
    "id": "judith-008",
