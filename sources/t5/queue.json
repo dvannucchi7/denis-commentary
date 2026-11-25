@@ -1237,10 +1237,11 @@
     346,
     351
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101091,
-   "claimed": "2026-11-25T02:25:34Z"
+   "claimed": "2026-11-25T02:25:34Z",
+   "note": "Printed pp. 336-341 assumed (PDF = p. + 10). Margin numerals misread, resolved by sense (with notes): 3 Kings 8:65 (printed viii, 62), 1 Mach 4:56 (printed i, 50), 1 Mach 4:1, Ex 30:3 (printed xix, 3), 3 Kings 8:22; partly unread: Jer 37:15/38:28, 2 Mach 1:19, Lev 26:41, Deut 30:1, 1 Esd 6:16. Margin variants noted: Sina/Sion, purgatione/purificatione, didicerat/deciderant. OCR readings chosen: 'datam ... formam', 'intellectum colligere', 'novissimæ'. Check against scan."
   },
   {
    "id": "i-maccabees-003-2",
