@@ -1416,10 +1416,11 @@
     383,
     385
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101103,
-   "claimed": "2026-11-25T02:55:53Z"
+   "claimed": "2026-11-25T02:55:53Z",
+   "note": "Printed pp. 373-375 assumed (PDF = p. + 10). OCR damaged at the lemma of 14:31-33 ('dixit sacerdotibus: Nisi mihi Judam vinctum tradideritis'): given as in the Vulgate, with a note. Denis reads 'promulgatam' (14:9; margin pervulgatam) and 'audaciam' (14:18; margin virtutem). Margin numerals misread, resolved by sense: 1 Mach 6:16, 7:1, 7:5, 1:43, 7:14, 7:8, 7:25-26, 7:30, 7:31, 7:43, 2 Mach 11:21, Judg 16:30, Rom 3:8. Check against scan."
   },
   {
    "id": "i-maccabees-015-2-part1",
