@@ -1602,10 +1602,11 @@
     403,
     405
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108106,
-   "claimed": "2026-11-25T06:24:58Z"
+   "claimed": "2026-11-25T06:24:58Z",
+   "note": "Published at Psalm 1 (Art. I, before the Psalm's own exposition): the first introductory article, on prophecy; it treats no verse, so no paragraph is tagged. Printed pp. 393-395 assumed (PDF = p. + 10; check, the Psalter may be paginated afresh). Translated without workers. Margin numerals resolved by sense: 1 Kings 9:9, 19; Ecclus 48:13-14, 49:18; Is 6:1, 3; Is 58:7; Judg 11:29, 14:6, 15:14; 3 Kings 4:29, 33; Job 33:15-16; Gen 41:26; Zach 1:1 (chapter only); 3 Kings 22:19 (Denis reads 'solium excelsum' as in Is 6:1: noted). One Daniel margin note (beside the angels) unreadable: noted, no marker. Thomas II-II q. 174 from the margin given as notes."
   },
   {
    "id": "psalms-002",
