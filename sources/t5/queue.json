@@ -1795,9 +1795,10 @@
     431,
     433
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108119
+   "order": 108119,
+   "claimed": "2026-11-25T06:41:16Z"
   },
   {
    "id": "psalms-016",
