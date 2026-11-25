@@ -891,10 +891,11 @@
     237,
     238
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106059,
-   "claimed": "2026-11-25T05:45:55Z"
+   "claimed": "2026-11-25T05:45:55Z",
+   "note": "Printed pp. 227-228 assumed (PDF = p. + 10). Lemmata garbled in the OCR read with the Vulgate: 9:2 'fuit in transgressione hac prima' (note in text), 9:3 'scidi pallium meum et tunicam', 9:15 'Non enim stari potest'. Margin numerals resolved by sense: Zach 3:1 (margin 'Zach. ii'), Deut 7:3, Mal 2:11, Dan 9:5, Is 53:4, 2 Pet 2:19, Lev 18:25, 4 Kings 21:16, Num 25:17, 31:15, 31:17, Job 9:20, 9:3."
   },
   {
    "id": "ezra-010",
