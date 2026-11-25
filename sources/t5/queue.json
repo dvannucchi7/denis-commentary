@@ -1857,10 +1857,11 @@
     440,
     442
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108123,
-   "claimed": "2026-11-25T06:44:49Z"
+   "claimed": "2026-11-25T06:44:49Z",
+   "note": "Printed pp. 430-432 (PDF 440-442). Translated without workers. OCR-garbled lemmata of 4:6 ('Sacrificate sacrificium justitiae'), 4:8 and 4:9 rebuilt from the Vulgate; one word lost at 4:6 ('ad [...] Ecclesiam', probably 'suam'). Margin numerals mostly unread, resolved by sense (reference-only unless quoted): Rom 8:18, 1 Kings 19:1 and 21:1 (Saul; chapters only), 1 Kings 17:34, 2 Kings 24:17, 1 Par 21:16, 2 Kings 15:25-26, Heb 5:7, Mark 16:17, John 15:24, John 5:36 + 10:25 (noted), Heb 10:4, 10:1, Is 66:3, Matt 16:21, 20:19, Mark 9:30. Check against scan."
   },
   {
    "id": "psalms-020",
