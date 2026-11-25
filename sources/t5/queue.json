@@ -910,7 +910,7 @@
   },
   {
    "id": "ezra-001-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 1,
    "chapter_guess": 1,
    "pages": [
@@ -923,7 +923,7 @@
   },
   {
    "id": "ezra-002-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 2,
    "chapter_guess": 2,
    "pages": [
@@ -936,7 +936,7 @@
   },
   {
    "id": "ezra-003-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 3,
    "chapter_guess": 3,
    "pages": [
@@ -949,7 +949,7 @@
   },
   {
    "id": "ezra-004-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 4,
    "chapter_guess": null,
    "pages": [
@@ -962,7 +962,7 @@
   },
   {
    "id": "ezra-005-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 5,
    "chapter_guess": 5,
    "pages": [
@@ -975,7 +975,7 @@
   },
   {
    "id": "ezra-006-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 6,
    "chapter_guess": 6,
    "pages": [
@@ -988,7 +988,7 @@
   },
   {
    "id": "ezra-007-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 7,
    "chapter_guess": 7,
    "pages": [
@@ -1001,7 +1001,7 @@
   },
   {
    "id": "ezra-008-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 8,
    "chapter_guess": 8,
    "pages": [
@@ -1014,7 +1014,7 @@
   },
   {
    "id": "ezra-009-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 9,
    "chapter_guess": 9,
    "pages": [
@@ -1027,7 +1027,7 @@
   },
   {
    "id": "ezra-010-2",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 10,
    "chapter_guess": 10,
    "pages": [
@@ -1040,7 +1040,7 @@
   },
   {
    "id": "ezra-011",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 11,
    "chapter_guess": 11,
    "pages": [
@@ -1053,9 +1053,9 @@
   },
   {
    "id": "ezra-012",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 12,
-   "chapter_guess": 140,
+   "chapter_guess": 12,
    "pages": [
     267,
     269
@@ -1066,9 +1066,9 @@
   },
   {
    "id": "ezra-013",
-   "book": "ezra",
+   "book": "nehemiah",
    "art": 13,
-   "chapter_guess": 140,
+   "chapter_guess": 13,
    "pages": [
     270,
     272
