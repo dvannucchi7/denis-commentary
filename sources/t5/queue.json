@@ -1088,10 +1088,11 @@
     267,
     269
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106072,
-   "claimed": "2026-11-25T06:15:10Z"
+   "claimed": "2026-11-25T06:15:10Z",
+   "note": "Printed pp. 257-259 (PDF 267-269). Translated without workers. Margin numerals mostly misread; resolved by sense (all ref-only unless quoted): 1 Par 6:15, 1 Esd 2:2, 1 Par 24:1, Jdt 4:5, 7 (Eliachim), 3:1 (Eliasib; flock gate), 2 Mach 1:23 quoted, 2 Mach 1:24, 2 Par 29:34, Num 19:1, 1 Par 16:4, 42, Ecclus 34:4 and Heb 7:7 quoted, 1 Par 16:1. Uncertain, with notes: 1 Esd 6:12 (margin 'I Esdr. vi', verse unclear), 1 Par 6:1 (margin 'I Par. ?, et seq.'), 1 Par 23:5 (third margin ref hard to read). Edition footnotes give Vulgate readings laudantium (v. 39) and actionis (v. 43) for Denis's psallentium, actiones."
   },
   {
    "id": "ezra-013",
