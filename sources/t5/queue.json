@@ -324,10 +324,11 @@
     145,
     146
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104021,
-   "claimed": "2026-11-25T03:45:47Z"
+   "claimed": "2026-11-25T03:45:47Z",
+   "note": "Printed pp. 135-136 assumed (PDF = p. + 10). Readings to check against scan: 'obtinuit civitatem munitam' (margin '* omnem'), 'Neque prosperitas stulti illius perdidit eum' (sense needs Itaque/Atque; the unread margin note beside it may be Prov. i, 32), 'Et Scythopoli' (OCR 'E! Sepfto-oli', uncertain). Margin references resolved by sense: 1 Par 19:1 (chapter only), Dan 4:19 (unreadable, ref-only), 1 Esd 1:2, John 12:19, Acts 12:23, 1 Kings 10:26 (printed 'I Reg. x, 26'), Num 22:5, Jas 4:13."
   },
   {
    "id": "judith-004",
