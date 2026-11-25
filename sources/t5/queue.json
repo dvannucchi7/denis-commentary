@@ -1356,10 +1356,11 @@
     374,
     375
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101099,
-   "claimed": "2026-11-25T02:46:47Z"
+   "claimed": "2026-11-25T02:46:47Z",
+   "note": "Printed pp. 364-365 assumed (PDF = p. + 10). Margin numerals misread, resolved by sense: 1 Mach 4:36, 2 Kings 24:14, Judg 10:15, 1 Mach 6:14, 6:17, Ps 5:7, Wis 14:9, Deut 28 / Lev 26:7, 1 Mach 5:6. The note beside 'alio Ptolemaeo' is unclear (tagged 2 Mach 8:8 with a note). OCR 'Ma et David' read 'Ita et David'. Check against scan."
   },
   {
    "id": "i-maccabees-011-2",
