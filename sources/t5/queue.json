@@ -10,10 +10,11 @@
     11,
     21
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 100000,
-   "claimed": "2026-11-25T00:50:31Z"
+   "claimed": "2026-11-25T00:50:31Z",
+   "note": "Garbled lemmata rebuilt from the Vulgate (vv. 7, 21, 28-29). Most PDF 11 margin notes unread: Ex 19:16, John 12:29, Dan 3:57 are guesses; 'nu du' taken as Job 2:10 (uncertain); Ex 9:23 and Gen 8:7 reference-only with unread verse numbers. Printed pp. 1-11 assumed from PDF 11 = p. 1. The commentary file's source line names t. IV only; Job 38-42 are in t. V."
   },
   {
    "id": "job-067",
