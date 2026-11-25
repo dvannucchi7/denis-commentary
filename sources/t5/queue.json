@@ -1781,10 +1781,11 @@
     429,
     430
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108118,
-   "claimed": "2026-11-25T06:39:27Z"
+   "claimed": "2026-11-25T06:39:27Z",
+   "note": "Published (Psalm 2, tropological exposition; printed pp. 419-420 assumed, PDF = p. + 10). Translated without workers. Margin numerals resolved by sense: Matt 25:40, Acts 9:4, Tit 1:16 and Matt 19:29 ref-only, John 5:22 (Denis 'Pater omne judicium'), Matt 25:41 (Denis 'Ite' for 'Discedite'), 1 Cor 3:17, Ecclus 15:14 (Denis 'creavit' for 'ab initio constituit'), Rom 8:16, 28, 2 Cor 6:10, Matt 6:33, Heb 12:2, Luke 9:23, Matt 25:29 with 13:12 ref-only, 1 Cor 4:7 ref-only."
   },
   {
    "id": "psalms-014",
