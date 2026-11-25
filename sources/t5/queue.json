@@ -876,10 +876,11 @@
     235,
     237
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106058,
-   "claimed": "2026-11-25T05:45:17Z"
+   "claimed": "2026-11-25T05:45:17Z",
+   "note": "Printed pp. 225-227 (PDF 235-237). Translated without workers. Lemmata of 8:32-33 garbled in the OCR ('ép Jeriseleim, ef ontusimus (bi tribus d'ieis, Dio anten queeta appeusean est'), read as 'in Jerusalem, et mansimus ibi tribus diebus. Die autem quarta appensum est' from the Vulgate. Margin 'Num. n? ... et seq.; iv' (Levites serve the priests) taken as ref-only Num 3:6 and Num 4:1: check verses against scan. 'Itaque is' read 'Itaque misi'; 'Eliathan' read 'Elnathan'; 'Chaspiae' kept as printed."
   },
   {
    "id": "ezra-009",
