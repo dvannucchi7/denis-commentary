@@ -562,10 +562,11 @@
     191,
     192
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105037,
-   "claimed": "2026-11-25T05:11:26Z"
+   "claimed": "2026-11-25T05:11:26Z",
+   "note": "Printed pp. 181-182 (PDF 191-192). Short article, translated without workers. Latin of 3:1 ('et posuit solium ejus super omnes principes') and 3:8 ('Dixitque Aman regi: Est populus per omnes regni tui provincias dispersus'; 'talentorum appendam arcariis gazae tuae') restored from badly garbled OCR, by the Vulgate wording: check against scan. Margin numerals resolved by sense: 1 Kings 15:33 (printed 'I Reg. xx'), Esth 13:1 (letter 13:1-7; read as 'Esther xi'), Esth 16:10 ('Esther xvi, 10'). Unreadable notes given as: Gen 41:40 (Pharao and Joseph), Jdt 3:13 (Nabuchodonosor as god), Ex 17:13 + 1 Kings 15:8 (Amalec slain)."
   },
   {
    "id": "esther-004",
