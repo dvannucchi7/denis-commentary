@@ -1387,10 +1387,11 @@
     378,
     380
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101101,
-   "claimed": "2026-11-25T02:52:29Z"
+   "claimed": "2026-11-25T02:52:29Z",
+   "note": "Printed pp. 368-370 assumed (PDF = p. + 10). OCR damaged at 12:15-16 ('Qui sine arietibus ... irruit ferociter muris, et innumerabiles caedes fecit') and the opening of 12:17 ('Et venerunt'?): given as in the Vulgate, with a note. Denis reads 'Demophon Superbus' (margin: super hos). Margin numerals misread, resolved by sense: 2 Mach 10:37, 4 Kings 18:35, Is 36:20, 3 Kings 21:13, Job 1:11, 2:9, 34:13, Jos 6:20, 1 Mach 5:43, 5:46, Judg 7:22, Lev 23:15, Num 19:11, Deut 7:25-26, Job 19:25, 2 Tim 4:8. Check against scan."
   },
   {
    "id": "i-maccabees-013-2",
