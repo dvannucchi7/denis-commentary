@@ -981,10 +981,11 @@
     253,
     255
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106065,
-   "claimed": "2026-11-25T05:55:40Z"
+   "claimed": "2026-11-25T05:55:40Z",
+   "note": "Printed pp. 243-245 (PDF 253-255). Translated without workers. OCR badly garbled in places, restored from the Vulgate and the sense: 5:1 lemma ('Ef fitetis est ebaanar popsde e wrorum'), 5:2 lemma ('Fit stet et filie nostram uulhp sun'), 5:18 'Insuper et annonas ducatus mei non quaesivi. Valde enim' ('Zz:szpei 08 uenis ducatus ivi non quesier, Tul de enim'), 'querulose' for 'que vulose', 'ambulatis' for 'azibuiatis': check against scan. Denis reads 'accipiatis' at 5:7 (footnote 'exigatis') and 'ememus' at 5:8: noted. Margin refs resolved by sense (ref-only): Ex 22:25, Lev 25:36-37, 25:39, Gen 47:16-17, 1 Esd 1:2, 7:12, Jer 34:9, Luke 6:38, 1 Tim 5:20; Deut 23:19 quoted (margin read 'Deut. xvi, 1')."
   },
   {
    "id": "ezra-006-2",
