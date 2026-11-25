@@ -1448,11 +1448,12 @@
     395,
     403
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
    "part": 2,
    "parts": 2,
-   "order": 101105
+   "order": 101105,
+   "claimed": "2026-11-25T02:59:40Z"
   },
   {
    "id": "psalms-001",
