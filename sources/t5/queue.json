@@ -951,10 +951,11 @@
     249,
     251
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106063,
-   "claimed": "2026-11-25T05:52:06Z"
+   "claimed": "2026-11-25T05:52:06Z",
+   "note": "Printed pp. 239-241 assumed (PDF = p. + 10). 3:3 read as 'texuerunt, id est construxerunt; vel, texerunt, id est operuerunt' (OCR 'tezuerunt ... fecerunt'; note in text); 'greges' for OCR 'reges'. Denis has 'in hortum regis' where the Douay-Rheims has 'unto the king's guard' (note in text). Margin numerals resolved by sense: John 5:2, 2 Kings 5:7/9, 2 Esd 8:1, Is 8:6, 2 Esd 12:36, 3 Kings 2:10, Is 11:2, Gal 5:24, Ps 72:5-6."
   },
   {
    "id": "ezra-004-2",
