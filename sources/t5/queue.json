@@ -726,10 +726,11 @@
     208,
     210
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105048,
-   "claimed": "2026-11-25T05:29:47Z"
+   "claimed": "2026-11-25T05:29:47Z",
+   "note": "Printed pp. 198-200 (PDF 208-210). Translated without workers. Latin restored from garbled OCR in 14:6-7 ('Et idcirco tradidisti nos in manus inimicorum nostrorum. Coluimus enim deos eorum', typed from the Vulgate), 14:8 ('quod durissima nos opprimunt servitute'; OCR 'diutissime'), 14:12 ('Rex Judaeorum, qui tibi fideliter confitentur'; OCR 'Fez Judzeorum'; the Vulgate has 'rex deorum': noted in the text): check against scan. Margin numerals resolved by sense: Ps 73:12, Ps 22:1, Deut 7:6, 10:15, Jos 24:2, Deut 30:4, Jer 31:35-36, Gal 6:3, Ps 53:7, Ecclus 27:30, Ps 90:15, Ps 138:22, Ex 3:15, John 3:8, Ps 1:4, 2 Cor 10:17 (quoted); 1 Esd 9:6 quoted with margin unread; ref-only 1 Esd 9:3, Deut 4:20/14:2/26:18/32:9, 4 Kings 17:7 and Judg 2:11 (notes partly illegible), Rom 13:1, Jdt 3:13, Esth 3:8, Rom 1:32, Deut 7:3, Esth 5:4/5:8, Esth 2:6, Acts 10:36, 1 Cor 1:31."
   },
   {
    "id": "esther-015",
