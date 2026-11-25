@@ -1012,10 +1012,11 @@
     290,
     294
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101076,
-   "claimed": "2026-11-25T01:35:35Z"
+   "claimed": "2026-11-25T01:35:35Z",
+   "note": "Printed pages assumed PDF−10 (pp. 280–284). Article ends with the 3:60 lemma; the page's last line ends with a comma, so a short final gloss may be lost at the foot of PDF 294: check the scan. Many margin numerals corrected by sense (Dan 6:10, 1 Kings 17:51, Judg 11:29/14:6/14:19/15:14, Ex 21:5–6, 22:28, 3 Kings 8:44 for 'III Reg. viii')."
   },
   {
    "id": "i-maccabees-004",
