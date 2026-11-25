@@ -1282,10 +1282,11 @@
     358,
     360
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101094,
-   "claimed": "2026-11-25T02:38:28Z"
+   "claimed": "2026-11-25T02:38:28Z",
+   "note": "Printed pp. 348-350 assumed (PDF = p. + 10). Margin of PDF 359 R mostly unreadable: guessed (with notes) 2 Mach 3:2, 1 Esd 1:7, 6:5, 7:15, 2 Mach 3:25, Agg 2:10; other notes resolved by sense: 1 Mach 1:17 (printed i, ..30), 1 Mach 12:21 (printed xii, 31), 2 Mach 10:1 (printed x, 15), 1 Mach 4:36, 2 Esd 12:11 (Jaddus = Jeddoa); Josephus De bello Jud. reference illegible. Denis reads oppositus (5:24), ad spectaculum (5:26), foeni (5:27): noted. Check against scan."
   },
   {
    "id": "i-maccabees-006-2",
