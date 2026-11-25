@@ -898,10 +898,11 @@
     650,
     661
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 59,
-   "claimed": "2026-11-25T00:21:32Z"
+   "claimed": "2026-11-25T00:21:32Z",
+   "note": "Garbled OCR read by sense in places (e.g. 'primum in libidine est', 'Foris non mansit peregrinus'). 'Time Deum, praeter eum vero ne timueris alienum': margin 4 Kings 17:35-36, words nearer Prov 7:1, which is cut short in both drc and vulgate data. Douay-Rheims data slips: Job 31:30 'I have not been given my mouth' (Challoner: 'I have not given'), Job 31:39 'son of the tillers' (Challoner: 'soul'), Ecclus 4:3 'gibe' for 'give'."
   },
   {
    "id": "job-060",
