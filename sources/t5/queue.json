@@ -2082,10 +2082,11 @@
     485,
     486
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108138,
-   "claimed": "2026-11-25T07:06:34Z"
+   "claimed": "2026-11-25T07:06:34Z",
+   "note": "Printed pp. 475-476 (PDF 485-486, p. + 10 assumed). Translated without workers. Phil 1:23, Rom 7:24 (unread margin 'Rom. vii, 24'), Prov 24:16, Rom 7:23, 1 Pet 2:11 ('II Petr.' misread), Rom 8:8. Prayer untagged."
   },
   {
    "id": "psalms-035",
