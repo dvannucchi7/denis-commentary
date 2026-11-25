@@ -145,10 +145,11 @@
     112,
     114
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103009,
-   "claimed": "2026-11-25T03:23:57Z"
+   "claimed": "2026-11-25T03:23:57Z",
+   "note": "Margin numerals misread; refs by sense, to check against scan: Matt 28:2 (printed 'xxii'), Mark 16:5 and Luke 24:4 (only first verse of each marked), Job 38:7, Apoc 19:10, Phil 4:4, Num 26:1 (chapter only), Gen 46:23, 1 Cor 3:9, 2 Par 24:20 (printed 'I Par'), Gen 19:1, Tob 4:2 (ref-only for 'et seq.'). Ex 23:23 kept as margin gives, though Denis's words are Ex 32:34 (noted). Lemma at v. 16 garbled in OCR, read as 'de qua domo, id est familia, aut tribu es tu'."
   },
   {
    "id": "tobit-006",
@@ -159,10 +160,11 @@
     114,
     118
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103010,
-   "claimed": "2026-11-25T03:23:59Z"
+   "claimed": "2026-11-25T03:23:59Z",
+   "note": "PDF 117 right column is cut off at the edge in the OCR: line ends rebuilt from fragments ('quem famulati sunt angeli' from '-milati', 'contoralem accedunt', 'Isidorus'); its real margin notes are unreadable (Heb 13:4, John 1:51 tagged because Denis names the source). Corrected refs: Tob 8:3 (printed 'vi, 3'), Eccles 1:15, 1 Cor 7:5, Tob 8:2, Ps 67:24; unreadable notes given as Tob 14:5, Gen 22:18; 1 Cor 15:39 ref-only. Note 'Ihn 5' at v. 22 unidentified (bracketed note). Check against scan."
   },
   {
    "id": "tobit-007",
