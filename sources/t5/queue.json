@@ -1826,10 +1826,11 @@
     435,
     437
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 108121,
-   "claimed": "2026-11-25T06:42:10Z"
+   "claimed": "2026-11-25T06:42:10Z",
+   "note": "Published, but a line is lost in the OCR at the foot of PDF 437 (the start of the second reading of 3:8, before 'Domine Jesu Christe') and the end of the James quotation (Jas 5:13), marked […]; please check the scan. Printed pp. 425-427. Translated without workers. Margin numerals resolved by sense: 1 Thess 5:17, Ps 118:28, Prov 29:25 (margin xxi, 25, noted), Jas 5:13."
   },
   {
    "id": "psalms-018",
