@@ -443,10 +443,11 @@
     166,
     168
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104029,
-   "claimed": "2026-11-25T04:46:14Z"
+   "claimed": "2026-11-25T04:46:14Z",
+   "note": "Printed pp. 156-158 assumed (PDF = p. + 10). Margin numerals much misread, resolved by sense (ref-only unless noted): Jos 8:1 (printed 'Josue vii'?), Judg 9:1 and 20:1 ('Judic. ix, xx'?), Gen 42:15 (quoted; printed 'Gen. xlii?, 15'), Jer 27:6 (quoted), Acts 26:25 (quoted), Jdt 5:5 ('Judith v, 5-25'), Jdt 6:7 (margin unreadable), Ps 108:24, 1 Kings 20:3 (quoted), Lev 7:26 ('Lev. vii, 26, 27'?), Num 4:15 (printed 'Num. iv, 15'?), 1 Kings 21:6 (margin 'I Reg. xxi'?). Denis reads 'tradantur' (11:12) and 'peccatum eorum' (11:15) with marginal variants 'dabuntur', 'suum' (notes in text). Latin read 'Et dicit Judith' (11:4) and 'indicatum' (OCR '?udicatum', 11:6). Check against scan."
   },
   {
    "id": "judith-012",
