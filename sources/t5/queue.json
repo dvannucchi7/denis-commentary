@@ -1101,10 +1101,11 @@
     310,
     313
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101082,
-   "claimed": "2026-11-25T01:49:43Z"
+   "claimed": "2026-11-25T01:49:43Z",
+   "note": "Printed pp. 300-303 assumed (PDF = p. + 10). Margin by Esdras/Aggeus mostly unread: given as 1 Esd 5:1, 6:14, Agg 1:14, Zach 4:9 (noted in the text). Readings: defluxit (OCR 'defoit') at 9:7; commendaret (9:35) and militiae (9:61) explained in notes. Check against scan."
   },
   {
    "id": "i-maccabees-010",
