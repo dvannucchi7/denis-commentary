@@ -711,10 +711,11 @@
     206,
     207
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105047,
-   "claimed": "2026-11-25T05:29:36Z"
+   "claimed": "2026-11-25T05:29:36Z",
+   "note": "First line of PDF 207 L is garbled in the OCR; read as 'Jussimus ut deleantur; quatenus nefarii' from the verse: check against the scan. Several margin notes unreadable (Is 33:22, Jer 10:6-7, Job 36:13, Prov 3:34, Job 41:1-2, Ps 9:16?, Deut 14:2?, Ex 12:51?) were identified from the text."
   },
   {
    "id": "esther-014",
