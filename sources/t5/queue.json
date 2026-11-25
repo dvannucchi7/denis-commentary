@@ -1177,10 +1177,11 @@
     328,
     331
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101087,
-   "claimed": "2026-11-25T02:07:35Z"
+   "claimed": "2026-11-25T02:07:35Z",
+   "note": "Printed pp. 318-321 assumed (PDF = p. + 10). Denis's text has the singular 'Spartianorum princeps' (footnote 'principes'), noted. Margin notes mostly resolved by sense (1 Mach 12:2, 12:16-17, 2:1, 13:36, 13:49-50, Acts 9:15). Check against scan."
   },
   {
    "id": "i-maccabees-015",
