@@ -2172,10 +2172,11 @@
     501,
     504
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108144,
-   "claimed": "2026-11-25T07:17:51Z"
+   "claimed": "2026-11-25T07:17:51Z",
+   "note": "Printed pp. 491-494 (PDF 501-504, p. + 10 assumed). Translated without workers. Margin readings resolved by sense: Phil 2:8, Matt 15:8 + Is 29:13 (ref-only), John 3:21, Ecclus 27:6, Job 23:10, Is 53:9 (unread note), Matt 12:24 (ref-only), John 5:23, Matt 26:65-66, John 9:24, Luke 4:29 (ref-only), John 18:12, Matt 26:50 (ref-only), Jer 12:7-8, Luke 22:43, John 19:11, Luke 22:53, Luke 22:37 ('Ibid. 37'), 1 Thess 2:16 (unread 'I Thess. ii'), Matt 27:25, John 19:28."
   },
   {
    "id": "psalms-041",
