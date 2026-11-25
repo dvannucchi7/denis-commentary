@@ -868,10 +868,11 @@
     641,
     646
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 57,
-   "claimed": "2026-11-25T00:11:05Z"
+   "claimed": "2026-11-25T00:11:05Z",
+   "note": "Lemma lines at v. 7 ('de qua' supplied) and v. 11 rebuilt from garbled OCR; unclear margin note beside the Maximus sentence (Ps 115:6 tagged as obvious). Douay-Rheims data slip: Heb 10:25 'one anther'."
   },
   {
    "id": "job-058",
