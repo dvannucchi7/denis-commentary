@@ -100,10 +100,11 @@
     99,
     103
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103006,
-   "claimed": "2026-11-25T03:11:17Z"
+   "claimed": "2026-11-25T03:11:17Z",
+   "note": "Margin numerals much misread; refs reconstructed by sense, to check against scan: Job 1:12 and 2:6 (printed 'Job i, 12, ii, 6'?), Gen 22:1, Ps 33:20, Job 2:11, Gen 23:5-6, Jos 12:24 (two unreadable notes), Tob 11:13, Lev 26:3 (least sure, printed 'l^:d xxv'), 4 Kings 14:1/15:1 for 'IV Reg. xiv, xv'. Esther margin 'ix, 1' quoted words are Esth 9:17. Margin '* Deum' read as a variant to 'timentes Domini' (noted)."
   },
   {
    "id": "tobit-003",
@@ -114,10 +115,11 @@
     103,
     108
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103007,
-   "claimed": "2026-11-25T03:11:41Z"
+   "claimed": "2026-11-25T03:11:41Z",
+   "note": "Many margin numerals misread; refs identified by sense, to check against scan: Dan 3:30 (ref-only, uncertain), Deut 1:12 (ref-only beside Num 11:14-15), Tob 2:15, Is 53:4, Tob 1:21, Jer 29:18-19, 4 Kings 20:3, 2 Kings 6:5 + 1 Par 13:8, Ps 18:13, 2 Tim 2:5, Nah 1:9, Jdt 8:5, Num 36:8, Prov 20:3, Prov 14:17/29; corrected against tool: Ps 144:17, Ecclus 32:21, Ps 57:11, Job 5:18, Mich 7:9, Wis 5:17. Latin kept as printed: 'desinis impunitam' (perhaps 'dimittis'), 'erigo'."
   },
   {
    "id": "tobit-004",
