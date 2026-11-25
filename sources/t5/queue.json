@@ -1677,10 +1677,11 @@
     412,
     413
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108111,
-   "claimed": "2026-11-25T06:31:18Z"
+   "claimed": "2026-11-25T06:31:18Z",
+   "note": "Published at Psalm 1 (Art. VI, introductory: the power of the psalms and the manner of praying and singing); no verse of Ps 1 treated, so no tags. Printed pp. 402-403 assumed (PDF = p. + 10). Translated without workers. Quoted: Ps 18:15, 3 Kings 17:1 (with 18:15 ref-only; margin 'III Reg. xvii, 1; xviii, 15'), Jer 48:10 (Denis 'negligenter' for 'fraudulenter': noted), John 4:24 (margin 'Joan. iv, 24' misread), Ps 83:4. Ecclus 18:23 ref-only (Basil's 'ante orationem animam praeparare'). Bernard's sermon number unreadable in the margin; Augustine identified as Confessions X, 33 in a note."
   },
   {
    "id": "psalms-007",
