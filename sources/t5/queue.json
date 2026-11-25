@@ -1930,9 +1930,10 @@
     454,
     458
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108128
+   "order": 108128,
+   "claimed": "2026-11-25T06:49:43Z"
   },
   {
    "id": "psalms-025",
