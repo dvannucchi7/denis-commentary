@@ -1797,10 +1797,11 @@
     431,
     433
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108119,
-   "claimed": "2026-11-25T06:41:16Z"
+   "claimed": "2026-11-25T06:41:16Z",
+   "note": "Item held two articles: the Art. XV heading is garbled in the OCR ('AMTPCUDUS Xv'), so cut_ocr.py made no psalms-015 item. Published both: Psalm 2 Art. XIV (anagogical, pp. 421-422, PDF = p. + 10 assumed) and Psalm 3 Art. XV (literal, pp. 422-423). Margin numerals resolved by sense: Ps 57:11 ('Ps.ivn, 41'), Heb 1:14 (unread 'fHle^- 1,114'), 2 Kings 15 ('il Reo. x- xv', ref-only, noted). Unreadable margin note beside Urias given as 2 Kings 11:4 (ref-only, noted). Prayer untagged, as in Art. XI."
   },
   {
    "id": "psalms-016",
