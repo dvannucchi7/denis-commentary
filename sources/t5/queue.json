@@ -1117,10 +1117,11 @@
     313,
     317
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101083,
-   "claimed": "2026-11-25T01:54:17Z"
+   "claimed": "2026-11-25T01:54:17Z",
+   "note": "Printed pp. 303-307 assumed (PDF = p. + 10). Readings to check against scan: 'Tit. i, 9' taken as Tit 1:5 (noted); 'I Mach. i, 14' given as 1 Mach 1:11 (noted); 1 Kings 17:45-47 tagged at 17:45 only; a garbled phrase in 10:35 ('ees,') left out."
   },
   {
    "id": "i-maccabees-011",
