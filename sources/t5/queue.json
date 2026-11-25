@@ -2112,10 +2112,11 @@
     489,
     492
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108140,
-   "claimed": "2026-11-25T07:10:52Z"
+   "claimed": "2026-11-25T07:10:52Z",
+   "note": "Printed pp. 479-482 (PDF 489-492, p. + 10 assumed). Translated without workers. Margin numerals resolved by sense: Tit 1:16 ('T.1.1. 10'), Jer 32:18-19, Ex 33:5, Osee 4:1-2, Prov 8:31, Is 65:14 + 65:16, Mal 4:2-3 ('Malach. iv, 2, 3'), Jer 48:10 ('Jer. xlviii, 10'; Denis reads negligenter, noted). Unread 'Cf. Ps. x, 7' given as Ps 9:28 (ref-only, noted). Closing exhortation tagged v. 2 (it quotes that verse); prayer untagged."
   },
   {
    "id": "psalms-037",
