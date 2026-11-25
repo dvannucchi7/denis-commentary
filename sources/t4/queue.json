@@ -987,12 +987,13 @@
     694,
     702
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "part": 1,
    "parts": 2,
    "order": 65,
-   "claimed": "2026-11-25T00:45:20Z"
+   "claimed": "2026-11-25T00:45:20Z",
+   "note": "Published (both parts merged as one article, LXV). Words lost in the OCR at the foot of PDF 700 (vv. 11–13): 'plane[…]', 'temporibus […]', 'per con[…]vati', marked […]; please check the scan. Denis begins ch. 37 at Job 36:32–33 ('In manibus abscondit lucem'): those ten opening paragraphs are marked Job 36:32–33 and have no verse tag."
   },
   {
    "id": "job-065-part2",
@@ -1003,12 +1004,13 @@
     703,
     711
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "part": 2,
    "parts": 2,
    "order": 66,
-   "claimed": "2026-11-25T00:45:27Z"
+   "claimed": "2026-11-25T00:45:27Z",
+   "note": "Merged with part 1 into Art. LXV (see part 1's note). The rest of this item's pages is the volume's scripture index, not commentary."
   }
  ],
  "pages_cut": 428,
