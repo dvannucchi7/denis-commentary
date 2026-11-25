@@ -400,10 +400,11 @@
     155,
     158
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104026,
-   "claimed": "2026-11-25T05:54:48Z"
+   "claimed": "2026-11-25T05:54:48Z",
+   "note": "Taken over from an abandoned claim (03:54). Printed pp. 145-148 (running head p. 148 on PDF 158). Garbled lemmata read with the Vulgate: 8:1 'hæc verba', 8:19 'Pro quo scelere ... inimicis suis' (notes in text), 8:20 'Exspectemus', 8:21 'Et nunc, fratres, quoniam vos', 8:27 'flagella Domini ...'. 8:11 gloss 'Merito essetis nimis prudentes ad hoc' kept as the OCR reads (note in text). Denis reads 'in spiritu contrito' at 8:16, margin variant 'constituti' (note). PDF 158 margin notes (John 3:1, 1 Cor 9:27, Job 13:15, Dan 3:39, 1 Cor 10:10) were printed inline in the OCR. Check against scan."
   },
   {
    "id": "judith-009",
