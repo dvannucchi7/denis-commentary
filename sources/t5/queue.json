@@ -830,10 +830,11 @@
     230,
     231
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106055,
-   "claimed": "2026-11-25T05:41:33Z"
+   "claimed": "2026-11-25T05:41:33Z",
+   "note": "Printed pp. 220-221 (PDF 230-231). Translated without workers. Margin book names misread by the reader, resolved by sense, ref-only: 4 Kings 17:33, 17:41 (printed 'IV Reg. xvii, 33. 41'; Samaritans worship God with their own gods), 1 Esd 4:21, 4:24 (printed 'I Esdr. iv, 21-24'; Cambyses' prohibition). 'Stharbusanai' as printed."
   },
   {
    "id": "ezra-006",
