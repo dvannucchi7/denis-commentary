@@ -1692,10 +1692,11 @@
     414,
     414
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108112,
-   "claimed": "2026-11-25T06:31:49Z"
+   "claimed": "2026-11-25T06:31:49Z",
+   "note": "Printed p. 404 (PDF 414). Denis's preface to his exposition (intention and method), placed under Psalm 1 untagged like Arts. I-VI. Translated without workers. The edition's footnote on verse numbers (Cologne edition vs Vulgate) left out of the text. Ecclus 24:31 from margin 'Eccli. xxiv'."
   },
   {
    "id": "psalms-008",
