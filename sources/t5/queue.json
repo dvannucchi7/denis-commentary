@@ -2006,9 +2006,10 @@
     476,
     477
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108133
+   "order": 108133,
+   "claimed": "2026-11-25T06:57:22Z"
   },
   {
    "id": "psalms-030",
