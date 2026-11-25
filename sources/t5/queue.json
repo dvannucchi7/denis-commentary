@@ -1296,10 +1296,11 @@
     361,
     364
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101095,
-   "claimed": "2026-11-25T02:38:44Z"
+   "claimed": "2026-11-25T02:38:44Z",
+   "note": "Printed pp. 351-354 assumed (PDF = p. + 10). OCR damaged at the lemmata of 6:8 ('Decretum autem exiit in proximas gentilium civitates') and 6:10 ('natos suos circumcidisse: quas'): given as in the Vulgate, with notes in the text. Margin numerals much misread, resolved by sense (Ex 23:19, 34:26, Deut 14:21, Prov 3:11-12, 1 Mach 1:44, 2:33, 2 Mach 4:46, Is 65:20). One margin note at 6:6 ('I Mach. ii, 1 ...'?) unclear: tagged 1 Mach 2:1 reference-only with a note. Read 'patienter' (6:20) for OCR 'potenter'. Check against scan."
   },
   {
    "id": "i-maccabees-007-2",
