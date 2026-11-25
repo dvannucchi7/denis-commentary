@@ -85,10 +85,11 @@
     95,
     99
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103005,
-   "claimed": "2026-11-25T03:04:15Z"
+   "claimed": "2026-11-25T03:04:15Z",
+   "note": "First article of Tobias: new commentary file tobit.json (work title 'Enarratio in librum Tobiae' taken from the running head). Printed pp. 85-89 assumed (PDF = p. + 10). The Tobias PROOEMIUM (PDF 93-94) is not in the queue. Margin numerals much misread, resolved by sense (with notes): Gen 30:5, Jos 19:32, Num 7:12 (printed viii, 13), 4 Kings 17:2, Ps 33:20, Num 36:7, Lev 27:30, Deut 12:6, 14:22, Num 18:24, Num 1:3 and Ex 30:14 (printed xii, 37), Lev 11:1, Ezech 1:1, Job 23:15, Prov 22:11, Jer 39:11, 4 Kings 19:35/37, Is 37:36/38. Readings chosen: 'cessit' (for 'crevit in usum pauperum'), 'hic solus'; kept 'princeps militiae ... dedisse', 'et omnes ederent'. The Douay-Rheims at 1:1 has 'on the right hand' where the Vulgate has 'in sinistro' (note in text). Check against scan."
   },
   {
    "id": "tobit-002",
