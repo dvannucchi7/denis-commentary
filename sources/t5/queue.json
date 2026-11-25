@@ -2067,10 +2067,11 @@
     484,
     485
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108137,
-   "claimed": "2026-11-25T07:05:28Z"
+   "claimed": "2026-11-25T07:05:28Z",
+   "note": "Printed pp. 474-475 (PDF 484-485). Translated without workers. Title and heading lost in the OCR; title given as in the Vulgate (noted); 'Praevalui adversus eum' (12:5) badly damaged, given as in the Vulgate (noted). Margin numerals resolved by sense: Cant 1:1, Is 64:1, Hab 1:2, Prov 13:12, Mark 3:27 (reference-only), John 1:9, Acts 13:38, 1 Cor 13:12 (margin 'lC. xiii'); 1 John 3:2 reference-only (no margin note read). Psalm 12 complete in this article if no further article follows (next item is Art. XXXIV)."
   },
   {
    "id": "psalms-034",
