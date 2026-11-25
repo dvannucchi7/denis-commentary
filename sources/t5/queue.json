@@ -2126,9 +2126,10 @@
     492,
     494
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108141
+   "order": 108141,
+   "claimed": "2026-11-25T07:11:57Z"
   },
   {
    "id": "psalms-038",
