@@ -1267,10 +1267,11 @@
     354,
     358
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101093,
-   "claimed": "2026-11-25T02:31:49Z"
+   "claimed": "2026-11-25T02:31:49Z",
+   "note": "Printed pp. 344-348 assumed (PDF = p. + 10). Margin numerals much misread, resolved by sense: Ps 118:21, Job 24:12, 1 Mach 1:22 (i, 22 et seq.), 2 Mach 3:4, 2 Thess 1:9, Is 57:1, Hab 1:13, 1:4 (unread notes). Lemma 4:31 'Festinanter itaque rex venit sedare illos' garbled in OCR, given as in the Vulgate (note in text). Readings chosen: 'effundit se' (after 4:13), 'deduxit' (4:46), 'respicimus'. Denis reads 'Antiochi regis concubinae' (4:30) and 'ad sententiam' (4:46). Check against scan."
   },
   {
    "id": "i-maccabees-005-2",
