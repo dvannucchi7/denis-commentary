@@ -874,9 +874,10 @@
     235,
     237
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 106058
+   "order": 106058,
+   "claimed": "2026-11-25T05:45:17Z"
   },
   {
    "id": "ezra-009",
