@@ -1432,12 +1432,13 @@
     386,
     394
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "part": 1,
    "parts": 2,
    "order": 101104,
-   "claimed": "2026-11-25T02:59:22Z"
+   "claimed": "2026-11-25T02:59:22Z",
+   "note": "Whole article published as one (2 Mach 15, Art. XV): the article ends on PDF 388 (printed pp. 376-378 assumed); the rest of this item's pages and all of part 2 (PDF 389-403) are the title page and dedicatory letter of the Psalms commentary (Theodoricus Loer to Erard de la Marck, 1531), not part of this article. Opening word 'Qualiter' restored from garbled 'Qus.'. Margin references half read, resolved by sense (with notes): 1 Mach 7:39, 2 Mach 3:1 (iii or iv, 4 et seq.), 1 Mach 7:43, 7:47. OCR readings chosen: 'ornatus ... ornate' (printed reads 'armatus ... armate'), 'uti delectabile', 'Hic ergo erit liber hic consummatus'. Denis reads 'fiducia' (15:7) and 'admonebant' (15:25). Check against scan."
   },
   {
    "id": "i-maccabees-015-2-part2",
@@ -1448,12 +1449,13 @@
     395,
     403
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "part": 2,
    "parts": 2,
    "order": 101105,
-   "claimed": "2026-11-25T02:59:40Z"
+   "claimed": "2026-11-25T02:59:40Z",
+   "note": "No text of 2 Mach 15 here: PDF 395-403 are the dedicatory letter of the Psalms commentary (front matter of the Psalter volume), so nothing to translate; Art. XV was published whole from part 1. Dave may want the Psalter front matter (and psalms-001 to -006, which start on PDF 403) looked at before the Psalms items are taken."
   },
   {
    "id": "psalms-001",
