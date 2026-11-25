@@ -741,10 +741,11 @@
     211,
     212
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105049,
-   "claimed": "2026-11-25T05:33:10Z"
+   "claimed": "2026-11-25T05:33:10Z",
+   "note": "Denis reads the parenthesis of 15:1 as 'haud dubium quin Esther' (Esther the one commanded); noted in the text."
   },
   {
    "id": "esther-016",
