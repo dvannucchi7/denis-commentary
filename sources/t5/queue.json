@@ -1071,10 +1071,11 @@
     305,
     307
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101080,
-   "claimed": "2026-11-25T01:45:57Z"
+   "claimed": "2026-11-25T01:45:57Z",
+   "note": "Printed pp. 295-297 assumed (PDF = p. + 10). Margins much misread; resolved as 2 Mach 14:18-25, 1 Pet 5:5, Jas 4:6, 4 Kings 18:17, 19; 19:10, 35, 2 Par 32:9-21, 2 Mach 15:30, 33 ('Ibid. 23' taken as 15:33, noted). Check against scan."
   },
   {
    "id": "i-maccabees-008",
