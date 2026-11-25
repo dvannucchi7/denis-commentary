@@ -1736,9 +1736,10 @@
     422,
     423
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108115
+   "order": 108115,
+   "claimed": "2026-11-25T06:36:47Z"
   },
   {
    "id": "psalms-011",
