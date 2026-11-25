@@ -1647,10 +1647,11 @@
     408,
     410
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108109,
-   "claimed": "2026-11-25T06:29:02Z"
+   "claimed": "2026-11-25T06:29:02Z",
+   "note": "Printed pp. 398-400 (PDF 408-410). Prooemium article, under Psalm 1, untagged. Translated without workers. Margin numerals resolved by sense: Ps 148:5 ('cx1vii'), Ps 77:34, Matt 25:42, 2 Cor 3:6, Ps 35:9, Is 14:4 and 14:12 (all half read or unread); Ex 16:14 for the manna (verse unreadable, noted); Ezech 28:12 for margin 'xxvii, 12 et seq.' (noted); Gen 11:6 reference-only (Denis joins 11:1 and 11:6, noted). Kept OCR 'observari volebant' (perhaps 'valebant')."
   },
   {
    "id": "psalms-005",
