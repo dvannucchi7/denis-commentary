@@ -233,10 +233,11 @@
     125,
     126
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103015,
-   "claimed": "2026-11-25T03:33:59Z"
+   "claimed": "2026-11-25T03:33:59Z",
+   "note": "Printed pp. 115-116 assumed (PDF = p. + 10). Denis (as OCR'd) has 'decima die' for the Vulgate's 'undecimo die' (note in text; check against scan). Margin numerals misread, resolved by sense: Gen 11:31 (printed 'Gen. xi, 31', ref-only), Rom 16:16 with 1 Cor 16:20 and 1 Thess 5:26 ref-only (margin largely unreadable, note in text), Job 5:18, John 9:32 (printed ix, 33), 1 Kings 2:7, Acts 7:4, Heb 12:11. Paragraph on 11:18 also tagged v. 3 (why Raphael proposed going ahead); mystical paragraph tagged vv. 8, 13. Check against scan."
   },
   {
    "id": "tobit-012",
