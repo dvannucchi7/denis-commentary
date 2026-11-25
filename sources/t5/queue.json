@@ -2051,10 +2051,11 @@
     481,
     484
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108136,
-   "claimed": "2026-11-25T07:03:03Z"
+   "claimed": "2026-11-25T07:03:03Z",
+   "note": "Printed pp. 471-474 (PDF 481-484). Translated without workers. Margin numerals resolved by sense: Wis 4:11, Phil 2:21, 3 Kings 19:10 and 19:4 (margin 'III Reg. xix, 10, 14; Ibid. 4'), Ecclus 37:23-24, Ecclus 5:17 (margin 'Eccli. v, 17'), Job 36:13, Ezech 29:3, Luke 2:30, Luke 21:33 (reference-only), Matt 7:14, Prov 10:19. Denis reads 'cum proximo' (11:3) and 'probatum terra' (11:7), noted."
   },
   {
    "id": "psalms-033",
