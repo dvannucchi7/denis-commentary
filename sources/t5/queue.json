@@ -997,10 +997,11 @@
     255,
     257
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106066,
-   "claimed": "2026-11-25T05:59:32Z"
+   "claimed": "2026-11-25T05:59:32Z",
+   "note": "Printed pp. 245-247 assumed (PDF = p. + 10). Denis reads 'in vitulis' (margin 'viculis') and 'in campo uno' (margin 'Ono') at 6:2 (notes in text). Garbled lemma words read with the Vulgate: 6:2 'miserunt ad me', 'Ipsi autem cogitabant ut facerent mihi malum'; 'Semaiae Judaei' read for OCR 'Semaie Wudei' (check). Margin refs resolved by sense: Jer 34:18, 3 Kings 14:6, 2 Esd 4:3 (margin '?, 3'), Ps 33:20, Jer 17:7."
   },
   {
    "id": "ezra-007-2",
