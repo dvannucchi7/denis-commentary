@@ -2157,10 +2157,11 @@
     498,
     501
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108143,
-   "claimed": "2026-11-25T07:15:58Z"
+   "claimed": "2026-11-25T07:15:58Z",
+   "note": "Printed pp. 488-491 (PDF 498-501, p. + 10 assumed). Translated without workers. Margin readings resolved by sense: 2 Cor 5:6, Zach 1:3, Ps 72:26, Rom 8:36 (unread 'Rom. viii'), Ps 65:12 ('Ps. lxv'), Ps 147:9, Rom 7:23, Jas 4:1, Ecclus 44:14, Ps 64:5, Phil 3:8, 3 Kings 17:1 + 4 Kings 3:14 (ref-only), 1 Cor 10:13. Margin variant 'ferventer' for 'frequenter' noted. Closing paragraph and prayer untagged."
   },
   {
    "id": "psalms-040",
