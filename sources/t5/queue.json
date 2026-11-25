@@ -1072,10 +1072,11 @@
     266,
     267
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106071,
-   "claimed": "2026-11-25T06:13:49Z"
+   "claimed": "2026-11-25T06:13:49Z",
+   "note": "Printed pp. 256-257 (PDF 266-267). Translated without workers. Ref-only markers: 1 Par 16:5, 7 (Asaph), Jos 21:1 (margin 'Josue xxi', chapter only). Lists of names (vv. 4-19) and cities (vv. 25-35) Denis passes over as needing no explanation; tagged with the paragraph that says so."
   },
   {
    "id": "ezra-012",
