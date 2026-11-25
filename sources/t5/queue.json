@@ -1602,9 +1602,10 @@
     403,
     405
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108106
+   "order": 108106,
+   "claimed": "2026-11-25T06:24:58Z"
   },
   {
    "id": "psalms-002",
