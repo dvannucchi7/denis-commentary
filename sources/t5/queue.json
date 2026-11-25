@@ -250,10 +250,11 @@
     127,
     130
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103016,
-   "claimed": "2026-11-25T03:37:18Z"
+   "claimed": "2026-11-25T03:37:18Z",
+   "note": "Printed pp. 117-120 assumed (PDF = p. + 10). Margin numerals much misread, resolved by sense: Tob 4:15 (printed iv, 15), v. 3 of this chapter (printed 'Ibid. xii, 3'), Tob 6:4, Tob 11:13 (printed xi, 13-15), 4 Kings 5:14 (printed 'IV Reg. v, 10-14'), 2 Esd 1:5 (printed 'II Esdr. i, 5'), 2 Cor 12:4, 1 Cor 3:1, 1 Cor 2:14, Prov 25:2, Ps 9:2, Mark 9:28 with Matt 17:20, Prov 15:27, Ecclus 29:15 and 3:33 (ref-only: Denis's wording differs, note), Matt 5:7, Ps 10:6, Prov 1:22, Tob 1:20, 2:3, 2:9 (ref-only), Ps 33:20, Dan 7:10, Apoc 1:4, Job 25:3, Apoc 5:11, Dan 10:8-9, 1 Pet 1:12, Ps 35:9, Is 66:12. Latin restored where garbled: 12:6 'Et coram omnibus viventibus, vobis praesentibus' (OCR damaged), 12:17 'Pax vobis; nolite timere', 'effectum'. Check against scan."
   },
   {
    "id": "tobit-013",
