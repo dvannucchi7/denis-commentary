@@ -1976,10 +1976,11 @@
     465,
     467
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108131,
-   "claimed": "2026-11-25T06:54:15Z"
+   "claimed": "2026-11-25T06:54:15Z",
+   "note": "Printed pp. 455-457 (PDF 465-467, p. + 10 assumed). Translated without workers. 1 John 3:2 (as he is), Matt 2:16 (Innocents, ref-only; margin 'Matth. ii'), Eph 6:12 (ref-only), Matt 22:30 (margin partly unread). Prayer untagged."
   },
   {
    "id": "psalms-028",
