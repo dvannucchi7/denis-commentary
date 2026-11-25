@@ -936,10 +936,11 @@
     247,
     249
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106062,
-   "claimed": "2026-11-25T05:50:35Z"
+   "claimed": "2026-11-25T05:50:35Z",
+   "note": "Printed pp. 237-239 (PDF 247-249). Translated without workers. First word 'TUNG' (drop capital) read as 'Nunc': check. Denis reads 'servis tuis' at 2:5 (edition footnote 'alias servus tuus') and 'frontem Draconis' at 2:13 (footnote 'fontem'); both noted in the text, 2:5 left unmarked as a lemma because his reading differs. Margin refs, ref-only: 2 Esd 1:1, Ex 12:2 (margin 'Exod. xii'), 1 Esd 7:14 ('I Esdr. vii'), Esth 1:13-14, 2 Esd 13:6 ('II Esdr. xiii'); quoted Ecclus 19:26-27, Prov 27:19. Moral paragraph tagged vv. 12-18."
   },
   {
    "id": "ezra-003-2",
