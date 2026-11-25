@@ -957,10 +957,11 @@
     682,
     687
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 63,
-   "claimed": "2026-11-25T00:41:04Z"
+   "claimed": "2026-11-25T00:41:04Z",
+   "note": "Unread margin notes at Pharao/Dathan (v. 15): Ex 14:28 and Num 16:32 are guesses. Margin 'Eccle. iii, 11' given as Eccles 3:14 (the words quoted). Denis reads 'sapientiam' for 'veritatem' at Ecclus 24:47."
   },
   {
    "id": "job-064",
