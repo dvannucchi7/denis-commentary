@@ -1146,10 +1146,11 @@
     322,
     324
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101085,
-   "claimed": "2026-11-25T02:00:03Z"
+   "claimed": "2026-11-25T02:00:03Z",
+   "note": "Printed pp. 312-314 assumed (PDF = p. + 10). Denis's text reads Dario/pugnabat (12:7) and Onias as the Spartan king (12:20), with the edition's footnote variants regnabat/Arius: explained in notes. 'triginta septem millia' (OCR) kept at 12:49 with a note. Check against scan."
   },
   {
    "id": "i-maccabees-013",
