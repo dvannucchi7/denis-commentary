@@ -844,10 +844,11 @@
     231,
     233
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106056,
-   "claimed": "2026-11-25T05:42:03Z"
+   "claimed": "2026-11-25T05:42:03Z",
+   "note": "Printed pp. 221-223 (PDF 231-233). Translated without workers. Latin restored from garbled OCR in 6:11 ('A me ergo Dario rege positum est decretum') and 6:15 ('Usque ad diem tertium'): check against scan. Margin numerals resolved by sense: Matt 21:2 quoted (with Mark 11:2 ref-only, margin 'Marc. xi'); 2 Par 3:4 quoted; ref-only Jdt 1:1, 3 Kings 6:2 (twice), 4 Kings 17:33, Esth 16:16 (Assuerus's last letter; margin unclear), Agg 1:1, Zach 1:1, 4:9, 1 Esd 1:3, 2 Esd 2:8."
   },
   {
    "id": "ezra-007",
