@@ -1767,10 +1767,11 @@
     425,
     428
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108117,
-   "claimed": "2026-11-25T06:38:27Z"
+   "claimed": "2026-11-25T06:38:27Z",
+   "note": "Printed pp. 415-418 (PDF 425-428). Translated without workers. Margin numerals often misread, resolved by sense: Acts 4:25, Heb 1:5 (noted), John 12:31, Ps 44:3, John 11:47 (noted), 1 Cor 2:8 and Wis 2:21 (margin v for ii, noted), Ps 7:17, Matt 25:41 (Denis 'Ite'), Matt 3:17, 17:5, Ps 146:5, John 17:1 (verse unread, noted), Rom 10:18, Ecclus 1:27. Paragraph on the psalm's subject (Lyra, Rabbi Salomon) tagged v. 7, since it argues from that verse; the title paragraphs are untagged."
   },
   {
    "id": "psalms-013",
