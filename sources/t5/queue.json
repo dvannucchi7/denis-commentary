@@ -1087,10 +1087,11 @@
     307,
     310
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101081,
-   "claimed": "2026-11-25T01:49:33Z"
+   "claimed": "2026-11-25T01:49:33Z",
+   "note": "Printed pp. 297-300 assumed (PDF = p. + 10). Chapter is 8 (chapter_guess 9 was off). To check against the scan: margin 'Prov. xi, 14' but Denis's words are Prov 24:6 (noted); '2 Par xx, 7' taken as 2 Par 25:7-8; Ps 48:13/21 (48:21 used). OCR readings chosen: 'pii' (8:1), 'Persen Cetheorum', 'uxores' (8:10)."
   },
   {
    "id": "i-maccabees-009",
