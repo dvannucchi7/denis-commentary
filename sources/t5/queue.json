@@ -518,10 +518,11 @@
     174,
     179
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104034,
-   "claimed": "2026-11-25T05:00:29Z"
+   "claimed": "2026-11-25T05:00:29Z",
+   "note": "Last article of Judith. Printed pp. 164-169 assumed (PDF = p. + 10). OCR garbled at 16:5 ('in multitudine fortitudinis suae: cujus'), 16:7 ('Dominus autem omnipotens', OCR 'Deus item'), 16:21 ('Dabit enim ignem et vermes in carnes eorum', 'Ut urantur et sentiant usque'), read with the Vulgate (notes in text). Denis reads 'Exsultate' (16:2) and 'confudit' (16:7, glossed 'confusibiliter'). Greek restored as tetragrammaton / arreton (OCR garbled). Margin numerals often misread, resolved by sense: Ps 150:5 (ref-only), Gal 5:24 (ref-only), 4 Kings 6:16, Jer 49:19 (printed 'xlix, 19'), 2 Kings 2:14, 16, Jdt 10:17 (ref-only), Mark 14:36 with Rom 8:15 and Gal 4:6 (ref-only), Ps 103:32 (margin unread), Dan 12:3 (ref-only), Soph 1:9, 12, Is 66:24 (margin unread), Num 31:19 and 19:9 (ref-only, partly unreadable), Ecclus 33:31 (Denis closer to Ecclus 7:23; note). Jdt 15:10 tagged at the end (no margin note). Check against scan."
   },
   {
    "id": "esther-001",
