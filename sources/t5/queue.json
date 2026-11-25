@@ -533,9 +533,10 @@
     183,
     187
    ],
-   "status": "todo",
+   "status": "done",
    "source": "ocr",
-   "order": 105035
+   "order": 105035,
+   "note": "First article of Esther: new commentary file esther.json (work title 'Enarratio in librum Esther' assumed, like Judith). Printed pp. 173-177 (PDF = p. + 10; p. 175 confirmed by running head). Mostly a chronological discussion (Lyra, Paul of Burgos, Comestor, Josephus), tagged v. 1. Readings to check: 1:2 'Susa civitas regni Persarum, regni ejus exordium fuit' (OCR 'reg: ejus'), 'Joannes de Tempore'. Margin numerals misread, resolved by sense: Esth 2:6 (ref-only; margin 'Esther ii'?), Esth 2:5-7 (quoted), 4 Kings 24:14 (ref-only, 'IV Reg. xxiv'), Ps 103:15 and Ecclus 40:20 (ref-only), Prov 19:12, 20:2, 16:14, Eph 5:23 with 1 Cor 11:3 (ref-only), Gen 3:16, 1 Pet 3:1, 3:6, Gen 18:12 (ref-only; margin 'Gen. xvi, 12'). The note 'Esther viii(?) et seq.' on Mardochai's later deeds is given as a note only. Check against scan."
   },
   {
    "id": "esther-002",
