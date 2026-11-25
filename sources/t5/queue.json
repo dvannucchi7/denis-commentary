@@ -1206,10 +1206,11 @@
     332,
     339
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101089,
-   "claimed": "2026-11-25T02:11:35Z"
+   "claimed": "2026-11-25T02:11:35Z",
+   "note": "Printed pp. 322-323 assumed (PDF = p. + 10); article is on PDF 332-333 only (the rest of the range is the II Mach. prologue). 'II Par. xvi' taken as 2 Par 19:5 (noted); footnote 'Dagon' for Achon noted."
   },
   {
    "id": "i-maccabees-001-2",
