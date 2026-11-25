@@ -711,9 +711,10 @@
     206,
     207
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 105047
+   "order": 105047,
+   "claimed": "2026-11-25T05:29:36Z"
   },
   {
    "id": "esther-014",
