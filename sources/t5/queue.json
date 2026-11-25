@@ -2172,9 +2172,10 @@
     501,
     504
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108144
+   "order": 108144,
+   "claimed": "2026-11-25T07:17:51Z"
   },
   {
    "id": "psalms-041",
