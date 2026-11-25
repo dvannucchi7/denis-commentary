@@ -2036,10 +2036,11 @@
     480,
     481
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108135,
-   "claimed": "2026-11-25T07:01:31Z"
+   "claimed": "2026-11-25T07:01:31Z",
+   "note": "Printed pp. 470-471 (PDF 480-481). Translated without workers. References: Ps 70:5, Mark 2:16 (Denis's order differs, noted), Matt 22:16, John 2:19, 2:21, 2 Cor 8:9. Margin 'Unio facta est in persona' is a side note, given in brackets. Ps 10 now has Arts. XXVIII (if published by another run), XXIX, XXX, XXXI."
   },
   {
    "id": "psalms-032",
