@@ -1617,10 +1617,11 @@
     405,
     406
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108107,
-   "claimed": "2026-11-25T06:26:16Z"
+   "claimed": "2026-11-25T06:26:16Z",
+   "note": "Printed pp. 395-396 (PDF 405-406). Prooemium article, under Psalm 1, untagged. Translated without workers. Margin numerals resolved by sense: Jon 3:4 ('Jong imn, 4'), Is 38:1 for the unread 'ir xxxvi, l' (with a note; also 4 Kings 20:1), Rom 8:29 ('Atom. vini, 39'). psalms.json's source line names t. VI only; these prooemium articles are in t. V."
   },
   {
    "id": "psalms-003",
