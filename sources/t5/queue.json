@@ -1916,10 +1916,11 @@
     452,
     454
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108127,
-   "claimed": "2026-11-25T06:48:35Z"
+   "claimed": "2026-11-25T06:48:35Z",
+   "note": "Published (Psalm 7, literal exposition; printed pp. 442-444 assumed, PDF = p. + 10). Translated without workers. Denis's title has 'In finem' before 'psalmus David' (not in the Vulgate): noted. Margin numerals mostly misread; all references here are reference-only, resolved by sense: 2 Kings 15:34 (Chusi), 2 Kings 18:5, 1 Kings 24:7, 26:9, Ex 20:12, Rom 2:6, 2:5, 2:11, Matt 25:31, 2 Kings 15:10, 18:9, 14, Phil 2:9. Check against the scan."
   },
   {
    "id": "psalms-024",
