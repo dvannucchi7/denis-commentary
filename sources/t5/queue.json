@@ -2127,10 +2127,11 @@
     492,
     494
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 108141,
-   "claimed": "2026-11-25T07:11:57Z"
+   "claimed": "2026-11-25T07:11:57Z",
+   "note": "Published, but about two lines are illegible in the OCR on PDF 493 in each column at quarter D: after 'nec fecit pro' (v. 3, left column) and after 'non dedit ad usuram,' (v. 5, right column); marked […]. Title's second line 'Domine, quis habitabit, etc.' taken from the right half of the heading."
   },
   {
    "id": "psalms-038",
