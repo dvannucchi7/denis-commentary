@@ -771,10 +771,11 @@
     219,
     222
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106051,
-   "claimed": "2026-11-25T05:35:43Z"
+   "claimed": "2026-11-25T05:35:43Z",
+   "note": "Printed pp. 209-212 assumed (PDF = p. + 10). The lemma of 1:5b ('Et omnis cujus suscitavit Deus spiritum ... quod est in Jerusalem') is garbled in the OCR and was restored from the Vulgate; 'massaritio' read for OCR 'massarialo'. Margin numerals much misread, resolved by sense: 2 Par 36:22-23, 4 Kings 25:11/21, Jer 29:10, Zach 1:12, Is 45:1/13, 1 Esd 4:13 (damaged), 2 Par 6:6, 3 Kings 12:21, 2 Par 11:1/13, 2 Par 36:7/10/18, 4 Kings 24:13, 25:13, Dan 5:2-3, Ex 25:29 (margin xxv), Ezech 23:4, John 5:26 (margin 'v, passim'). Check against scan."
   },
   {
    "id": "ezra-002",
