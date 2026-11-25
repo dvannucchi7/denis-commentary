@@ -473,10 +473,11 @@
     170,
     172
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104031,
-   "claimed": "2026-11-25T04:52:08Z"
+   "claimed": "2026-11-25T04:52:08Z",
+   "note": "Printed pp. 160-162 assumed (PDF = p. + 10). OCR badly garbled in places; lemma words read with the Vulgate (notes in text) at 13:1 ('festinaverunt servi ejus ad hospitia'), 13:15-16 ('ad eam omnes, a minimo usque ad maximum', 'eam jam non esse', 'Et accendentes luminaria, congyraverunt'), 13:22 ('Universi autem adorantes'), 13:30 ('vero quam resumpto spiritu recreatus est'). Margin notes faint and much misread: the prophet chapters at 13:7 (seems Is. xlix, Jer. xix, Ezech. xxviii, xxxvi and others; given as Jer 19:1, Is 49:1, Ezech 36:1 ref-only, note), Jdt 10:19 and 14:14 (notes printed inline in the OCR), Ecclus 44:20 (margin unclear), and at the end of the article Is 10:33, Dan 4:34, Luke 14:11 (ref-only; also 'Ps. xxi?, 38' and 'Ezech. xvi', in a note). Check against scan."
   },
   {
    "id": "judith-014",
