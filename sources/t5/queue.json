@@ -503,10 +503,11 @@
     173,
     174
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104033,
-   "claimed": "2026-11-25T04:58:19Z"
+   "claimed": "2026-11-25T04:58:19Z",
+   "note": "Printed pp. 163-164 assumed (PDF = p. + 10). OCR garbled at 15:2 ('evadere festinabant Hebraeos, quos armatos super se venire'), 15:8 ('omnia quae erant illorum') and 15:11 ('et post virum tuum alterum nescieris'), read with the Vulgate (notes in text); 'metu' for OCR 'ietu' (15:1). At 15:3 the print has the lemma in brackets, '[fugientes secuti sunt...]' (kept; note). Denis reads 'audierant', 'populi tui' with marginal variants 'audiebant', 'nostri'; 'abstulerunt' at 15:8 (Vulgate 'attulerunt secum'). Margin refs (ref-only): 1 Mach 12:50, Jdt 4:5 (printed 'Judith i[v]'?). Check against scan."
   },
   {
    "id": "judith-016",
