@@ -128,10 +128,11 @@
     109,
     111
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103008,
-   "claimed": "2026-11-25T03:15:19Z"
+   "claimed": "2026-11-25T03:15:19Z",
+   "note": "Printed pp. 99-101 assumed (PDF = p. + 10). Last lines garbled: after 'ea abhorrendo' a few words are lost ([...] before 'duas quasi integrales partes justitiae'). Restored from the Vulgate where the OCR was garbled: 4:1 'putaret orationem suam exaudiri a Deo, ut mori', 4:5 'compleverit tempus vitae suae, sepelias eam circa me', 4:19 'Consilium semper a sapiente perquire'. Margin numerals misread, resolved by sense (with notes): Tob 3:24 (unclear), Tob 1:17, Is 14:12 (printed xiv, 4), Matt 5:27, Ps 40:2, Luke 16:9, Is 58:7, and unread notes matched by the Latin (Gen 49:1, 1 Par 28:1, John 13:1, Ps 18:15, 24:15, Eph 4:27, Ecclus 35:2, 21:2, Job 31:17, Ecclus 32:24, Ps 33:2, Prov 16:9, Jer 10:23, Ps 33:10, 36:27). Check against scan."
   },
   {
    "id": "tobit-005",
