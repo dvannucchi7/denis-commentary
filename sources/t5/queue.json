@@ -2006,10 +2006,11 @@
     476,
     477
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108133,
-   "claimed": "2026-11-25T06:57:22Z"
+   "claimed": "2026-11-25T06:57:22Z",
+   "note": "Printed pp. 466-467 (PDF 476-477). Article is on Psalm 10 (chapter_guess 145 was wrong). Translated without workers. Margin numerals resolved by sense: Ex 20:1 (chapter only), Rom 10:3, Rom 1:17, 2 Cor 3:6; 'I! Cor, S1' beside 'templum Dei vocatur' taken as 2 Cor 6:16 (reference-only, noted; perhaps 1 Cor 3:16-17)."
   },
   {
    "id": "psalms-030",
