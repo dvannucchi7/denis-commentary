@@ -458,10 +458,11 @@
     168,
     170
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104030,
-   "claimed": "2026-11-25T04:49:38Z"
+   "claimed": "2026-11-25T04:49:38Z",
+   "note": "Printed pp. 158-160 assumed (PDF = p. + 10). No margin references on its pages. OCR badly garbled at the top of PDF 169 (12:8): read 'Et ut ascendebat de fonte, orabat Dominum Deum Israel, ut dirigeret viam suam ad liberationem populi sui. Et introiens, munda' with the Vulgate ('viam suam' uncertain; note in text). Other readings: 'Foedum est' (OCR 'Fadwm', 12:11), 'induc' (OCR 'indue', 12:10), 'usque secretum cubiculi' (no 'ad' in OCR). Check against scan."
   },
   {
    "id": "judith-013",
