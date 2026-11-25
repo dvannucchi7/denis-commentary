@@ -1842,10 +1842,11 @@
     437,
     440
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108122,
-   "claimed": "2026-11-25T06:43:41Z"
+   "claimed": "2026-11-25T06:43:41Z",
+   "note": "Published (Psalm 4; printed pp. 427-430 assumed, PDF = p. + 10). Translated without workers. Denis's title reads 'In finem, psalmus cantici David' (Vulgate 'in carminibus'): noted. Margin numerals resolved by sense: Apoc 1:8 with 22:13 ref-only, 2 Cor 6:11, Prov 28:14, 1 Pet 4:10, 1 Cor 15:49 ref-only, Mark 1:24, Luke 2:9 ref-only, Mark 1:13 with Matt 4:11 ref-only, Luke 23:45 ref-only, 2 Cor 3:5 ref-only, Rom 10:3, Mal 3:13-14, Eccles 3:21, Luke 10:42 ref-only, Osee 10:2, Jude 1:19, Zach 9:17, Ps 22:5, Jas 1:17, 1 Cor 2:9. Unreadable margin beside 'Miserere mei' (v. 2) and beside 'resuscitationem, ascensionem' left without markers."
   },
   {
    "id": "psalms-019",
