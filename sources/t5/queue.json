@@ -652,10 +652,11 @@
     201,
     202
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105043,
-   "claimed": "2026-11-25T05:24:14Z"
+   "claimed": "2026-11-25T05:24:14Z",
+   "note": "Printed pp. 191-192 (PDF 201-202). Translated without workers. Latin restored from garbled OCR in 9:6 ('Ita ut in Susis'), 9:10 ('Quos quum occidissent, praedas de eorum substantiis tangere noluerunt'), 9:31 ('jejunia'): check against scan. Margin: Esth 3:7 ref-only; Josephus reference (Ant. Jud. xi, 6) has no marker; margin variant '* interficerent' for 'occiderint' noted. Josephus's name for the feast given as printed, 'conversatores'."
   },
   {
    "id": "esther-010",
