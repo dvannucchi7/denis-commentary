@@ -1132,10 +1132,11 @@
     317,
     321
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101084,
-   "claimed": "2026-11-25T01:57:09Z"
+   "claimed": "2026-11-25T01:57:09Z",
+   "note": "Printed pp. 307-311 assumed (PDF = p. + 10). To check against the scan: unreadable margin note 'LI i' beside 'ab insulis gentium ... a Creta' (1 Mach 10:67 used, noted); readings kept as printed, possibly misread: 'copiosum, seu arenam' (11:1), 'tres toparchias, id est principatus urbes' (11:28), 'concessit rex' (11:29); footnote '*alias prius' at 11:39."
   },
   {
    "id": "i-maccabees-012",
