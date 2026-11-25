@@ -809,10 +809,11 @@
     616,
     621
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 53,
-   "claimed": "2026-11-25T01:17:39Z"
+   "claimed": "2026-11-25T01:17:39Z",
+   "note": "Published, but words are lost in the OCR on PDF 618: a line in the gloss on v. 9, two lines after Ps 103:34 (v. 10), and the end of Prov 1:28 with the start of the v. 11 lemma, marked […]; please check the scan. Ecclus 41:17-18 used where the margin gives Ecclus. xx, 32-33 (Denis's wording is 41:17-18). Unread margin note beside 'fugiens fugiet' (v. 22) left without a marker."
   },
   {
    "id": "job-054",
