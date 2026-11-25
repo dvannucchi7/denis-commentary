@@ -1962,10 +1962,11 @@
     461,
     465
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108130,
-   "claimed": "2026-11-25T06:53:34Z"
+   "claimed": "2026-11-25T06:53:34Z",
+   "note": "Printed pp. 451-455 (PDF 461-465). Translated without workers. OCR-garbled lemmata of 8:4-5 ('lunam et stellas', 'quoniam visitas eum') rebuilt from the Vulgate. Margin numerals resolved by sense: 1 Tim 6:16, Matt 24:14, Acts 10:42, 1 Cor 14:20, 1 Cor 1:17 (reference-only), Ps 46:10, Prov 3:19, Heb 2:5, 2:9, Phil 2:8-10, John 1:16, John 21:17, Phil 3:20, Rom 8:36, 1 Tim 1:15, Bar 3:35-38, Job 22:12, 14. 'Nam per pecora accipi possunt optimi Christiani' kept as printed with a note (perhaps 'oves'). Margin 'Expositio moralis' is a side heading."
   },
   {
    "id": "psalms-027",
