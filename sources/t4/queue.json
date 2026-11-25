@@ -927,10 +927,11 @@
     665,
     672
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 61,
-   "claimed": "2026-11-25T00:34:34Z"
+   "claimed": "2026-11-25T00:34:34Z",
+   "note": "Garbled lemmata of vv. 8, 9, 12, 24 rebuilt from the Vulgate. Unreadable margin notes beside 33:2 and beside Balaam (Num 22:5 given), and at v. 26 (only 'Joel iii' readable). v. 23: Denis reads 'unum de similibus his'. Gregory quotation at v. 12 ends 'sed calentes' as printed: worth checking."
   },
   {
    "id": "job-062",
