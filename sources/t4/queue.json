@@ -838,10 +838,11 @@
     630,
     637
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 55,
-   "claimed": "2026-11-24T23:51:01Z"
+   "claimed": "2026-11-24T23:51:01Z",
+   "note": "Margin numerals often misread; corrected readings include Matt 23:32, Is 30:18, Acts 13:46/51, Ps 79:6, Is 1:21, Matt 7:13-14, Is 46:11, Wis 9:10, John 14:10-11, 14:23, John 3:34. At 'Christus dicitur leo' the second margin note is unread: Apoc 5:5 is a guess (noted). Denis's gloss on 28:4 turns on 'pes' (foot): data/bible/drc Job 28:4 has the slip 'food of the needy man' for Challoner's 'foot'."
   },
   {
    "id": "job-056",
