@@ -816,10 +816,11 @@
     226,
     229
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106054,
-   "claimed": "2026-11-25T05:40:16Z"
+   "claimed": "2026-11-25T05:40:16Z",
+   "note": "Printed pp. 216-219 assumed (PDF = p. + 10). Several lemmata are garbled in the OCR (italics) and were read with the Vulgate's help: 4:1, 4:2, 4:5, 4:6, 4:11, 4:24; the end of 4:21 ('ut urbs illa non aedificetur') is supplied from the Vulgate (note in text). Margin notes at 4:19-20 (David, Josaphat, Ezechias, Joakim, Sedecias; David and Solomon's dominion) largely illegible: references given from the events named (note in text). Also Esth 16:1 (margin 'Ibid. xvi'), Jdt 1:5 (numerals unclear), 1 Esd 3:12 (illegible margin, allusion). Check against scan."
   },
   {
    "id": "ezra-005",
