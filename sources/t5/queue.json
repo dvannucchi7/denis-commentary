@@ -359,7 +359,7 @@
    "source": "ocr",
    "order": 104023,
    "claimed": "2026-11-25T03:49:07Z",
-   "note": "Published with two small gaps: PDF 148 left column, the first word of the article ('[...]tiv... Holofernis in filios Israel vitiosa'); PDF 149 right column, 'et ibi priusquam [...] terram istam montanam' (verb lost). Printed pp. 138-141 assumed (PDF = p. + 10). Margin numerals resolved by sense: Jdt 3:8 (printed 'Judith iii'?), Gen 11:27, Gen 11:26 (printed 'Ibid. 36'?), Gen 11:31, Jos 24:2, Acts 7:4, Gen 12:1, Gen 12:10 (printed '16'), Gen 46:6 (margin unreadable), Num 1:2 and 26:2 (margin 'Num. i ... xxvi'?), Ex 12:29, 12:33, 14:22, 14:23, 14:28, 15:22 (printed 'xv, 23'?), Acts 7:1 (margin 'Act. vii', chapter only), Jer 2:6, Ex 15:23, Ex 16:35 (margin read 'Job xv'), Judg 2:11 (printed 'ii, 11-23'), Wis 14:9, Wis 6:1, Prov 20:18 (Denis 'consiliis' for 'gubernaculis'), Job 22:14, Jdt 2:3, 6:2, 3:13, Luke 8:13, Acts 18:25-26. OCR 'multitudis', etc. Denis reads 'occurrerunt' for 'occupaverunt' (5:14) and 'fideliter in Ecclesia' (Acts 18:26 has 'fiducialiter in synagoga')."
+   "note": "Published with two small gaps: PDF 148 left column, the first word of the article ('[...]tiv... Holofernis in filios Israel vitiosa'); PDF 149 right column, 'et ibi priusquam [...] terram istam montanam' (verb lost). Printed pp. 138-141 assumed (PDF = p. + 10). Margin numerals resolved by sense: Jdt 3:8 (printed 'Judith iii'?), Gen 11:27, Gen 11:26 (printed 'Ibid. 36'?), Gen 11:31, Jos 24:2, Acts 7:4, Gen 12:1, Gen 12:10 (printed '16'), Gen 46:6 (margin unreadable), Num 1:2 and 26:2 (margin 'Num. i ... xxvi'?), Ex 12:29, 12:33, 14:22, 14:23, 14:28, 15:22 (printed 'xv, 23'?), Acts 7:1 (margin 'Act. vii', chapter only), Jer 2:6, Ex 15:23, Ex 16:35 (margin read 'Job xv'), Judg 2:11 (printed 'ii, 11-23'), Wis 14:9, Wis 6:1, Prov 20:18 (Denis 'consiliis' for 'gubernaculis'), Job 22:14, Jdt 2:3, 6:2, 3:13, Luke 8:13, Acts 18:25-26. Denis reads 'occurrerunt' for 'occupaverunt' (5:14) and 'fideliter in Ecclesia' (Acts 18:26 has 'fiducialiter in synagoga')."
   },
   {
    "id": "judith-006",
@@ -399,9 +399,10 @@
     155,
     158
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 104026
+   "order": 104026,
+   "claimed": "2026-11-25T03:54:20Z"
   },
   {
    "id": "judith-009",
