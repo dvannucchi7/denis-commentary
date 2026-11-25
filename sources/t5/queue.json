@@ -547,10 +547,11 @@
     188,
     191
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105036,
-   "claimed": "2026-11-25T05:10:53Z"
+   "claimed": "2026-11-25T05:10:53Z",
+   "note": "Printed pp. 178-181 assumed (PDF = p. + 10). OCR garbled at 2:9 ('Et traderet ei partes suas', 'et tam ipsam quam ejus pedissequas ornaret') and 2:19 ('Mardochaeus manebat'), read with the Vulgate (notes in text); 'Susagari' kept as OCR'd (Vulgate Susagazi); Denis reads 'oleo myrtino' (2:12; note). Margin numerals misread, resolved by sense (ref-only unless noted): Prov 20:28 (quoted), Esth 1:10 (printed 'Esther i, 10'), 1 Kings 9:1, Gen 30:4 and 35:22, Jdt 12:11 (quoted), 3 Kings 15:27, 16:9, 4 Kings 15:10 (note lists the rest), Deut 7:3, Judg 14:4 (quoted; margin 'Judic. xiv'), 3 Kings 3:1. The closing questions on the marriage are tagged v. 17. Check against scan."
   },
   {
    "id": "esther-003",
