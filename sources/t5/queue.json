@@ -279,10 +279,11 @@
     134,
     141
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103018,
-   "claimed": "2026-11-25T03:41:21Z"
+   "claimed": "2026-11-25T03:41:21Z",
+   "note": "Printed pp. 124-126 assumed (PDF = p. + 10). Article text on PDF 134-136; PDF 137-141 are the Judith title and prooemium (margins of PDF 138, 140 not read, not needed). Margin numerals resolved by sense: Job 42:10 (printed 'Job xlii, 10-16'?, ref-only), Jon 3:4 and Nah 1:1 (ref-only; margin read 'Num 1'), 1 Kings 2:26 (printed read as '1, 30'). Jer 18:7-8 tagged without a margin note read (Denis names Jeremias). OCR 'theologiem et living' read as 'theologicæ et divinæ' (check against scan). Denis reads 'fratres vestri' (14:6) where the Vulgate has 'nostri' (note in text)."
   },
   {
    "id": "judith-001",
