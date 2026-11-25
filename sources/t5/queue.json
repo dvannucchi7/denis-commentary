@@ -1312,10 +1312,11 @@
     364,
     369
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101096,
-   "claimed": "2026-11-25T02:41:54Z"
+   "claimed": "2026-11-25T02:41:54Z",
+   "note": "Printed pp. 354-359 assumed (PDF = p. + 10). Margin numerals misread, resolved by sense (with notes): 1 Cor 15:51, John 5:29 (unread), Job 19:25-26, Bar 3:35/3:37 (printed 35, 3), Rom 11:36, Is 40:14 (printed x1, 15), 1 Mach 7:4, 11:17, 13:31, 2 Mach 9:5. Printed footnotes 'alias edere' (v. 1) and 'Quem' (v. 30) given as notes. OCR readings chosen: v. 6 'aspiciet veritatem vitae atque justitiae', v. 21 'masculinum animum inserens', v. 26 'suasuram', v. 39 'Tunc rex accensus ira, in hunc crudelius desaevit'. Denis reads 'Deum salvatorem meum' (Job 19:26), 'Alexander filius filii ejus'. Check against scan."
   },
   {
    "id": "i-maccabees-008-2",
