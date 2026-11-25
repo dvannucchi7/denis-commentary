@@ -1661,10 +1661,11 @@
     410,
     412
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108110,
-   "claimed": "2026-11-25T06:29:47Z"
+   "claimed": "2026-11-25T06:29:47Z",
+   "note": "Published at Psalm 1 (Art. V, introductory: the title, author and translations of the Psalter); no verse of Ps 1 treated, so no tags. Printed pp. 400-402 assumed (PDF = p. + 10). Translated without workers. Quoted: Ps 2:7, 21:7, 68:6, 39:8, Acts 1:20 (margin 'Act. i, 20'), Nah 1:1 (no margin, Denis names Nahum). Margin 'Rom. xiii' beside 'quae a Deo sunt, ordinata sunt' given reference-only (Rom 13:1)."
   },
   {
    "id": "psalms-006",
