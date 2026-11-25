@@ -1251,10 +1251,11 @@
     351,
     354
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101092,
-   "claimed": "2026-11-25T02:25:57Z"
+   "claimed": "2026-11-25T02:25:57Z",
+   "note": "Printed pp. 341-344 assumed (PDF = p. + 10). Margin numerals misread, resolved by sense: Is 57:20 (read as 2 Esd), 4 Kings 2:11 (read as Prov 3:11), Ex 22:7-13 (unread), Prov 17:22. Esdras/Nehemias notes for the kings' gifts partly unreadable: tagged 1 Esd 6:8, 7:15, 2 Esd 2:8 as reference-only with a note. OCR readings chosen: 'ita ut' (3:3, garbled), 'repedabat' (3:35), 'qui videret summi sacerdotis'. Denis reads 'dispositionem et pietatem' (3:1) and 'suae virtutis' (3:24)."
   },
   {
    "id": "i-maccabees-004-2",
