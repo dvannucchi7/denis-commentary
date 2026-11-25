@@ -1707,10 +1707,11 @@
     415,
     419
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108113,
-   "claimed": "2026-11-25T06:32:52Z"
+   "claimed": "2026-11-25T06:32:52Z",
+   "note": "Published (Psalm 1, literal exposition; printed pp. 405-409 assumed, PDF = p. + 10). Translated without workers. PDF 416 is damaged: the gutter cut fell inside the left column, so the end of each left-column line was printed at the start of the right-column lines; the left column was rebuilt by joining them. A few letters lost at the join were supplied by sense (check against the scan, PDF 416 left column): 'In spe vero est aliquis', 'viatoribus competit', 'exsistere virum, feminis', 'Nonne hoc modo', 'Virgo mater', 'nunquam exaltata est', 'Judith, quae crudelissimum'. The garbled lemmata 'Et in via peccatorum non stetit', 'Et in cathedra pestilentiae non sedit', 'Sed in lege Domini voluntas ejus' (PDF 416) restored from the Psalm. Margin numerals resolved by sense: Matt 7:19 (with Matt 3:10 ref-only), Prov 2:14, 14:12 (Denis 'bona' for 'recta': noted), 4:19, 3:17, 31:10, 17; Gen 3:15; Jos 1:7 and Jdt 13:10 ref-only; Rom 12:1 ref-only; Ps 83:8, 36:24; Luke 7:47 ref-only (Denis inverts it); Mark 11:13-14; Matt 3:8 ref-only. Esther margin unreadable: no marker."
   },
   {
    "id": "psalms-009",
