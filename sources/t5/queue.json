@@ -1371,10 +1371,11 @@
     375,
     377
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 101100,
-   "claimed": "2026-11-25T02:50:01Z"
+   "claimed": "2026-11-25T02:50:01Z",
+   "note": "NEEDS SCAN: PDF 377, the lemma of 11:24 is garbled in the OCR ('a Polus Judas velle tenere sui Lusti-filins, dd. est legem eis a Deo suo prieft: Nam, ec propferee...'): published with [...] for the lost words. Also unclear there: the etymology of senatus ('a senex et natus'?). Printed pp. 365-367 assumed (PDF = p. + 10). Margin numerals misread, resolved by sense: Prov 17:17 (allusion), 1 Mach 4:28, 4:35, Wis 5:4, Gal 3:1, 1 Mach 6:16, 2 Kings 20:9, 2 Mach 4:23, 13:3, 1 Mach 8:17."
   },
   {
    "id": "i-maccabees-012-2",
