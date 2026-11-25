@@ -340,10 +340,11 @@
     146,
     148
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104022,
-   "claimed": "2026-11-25T03:48:10Z"
+   "claimed": "2026-11-25T03:48:10Z",
+   "note": "Printed pp. 136-138 assumed (PDF = p. + 10). OCR garbled in places; lemma words restored from the Vulgate at 4:3 ('Et miserunt in omnem Samariam'), 4:10 ('et uxores eorum in divisionem', note in text), 4:11 ('sacerdos Domini magnus'). Margin numerals misread, resolved by sense (all ref-only): v. 11 (printed 'vers. 11'), Agg 1:1 and 1 Esd 4:24 (partly unreadable, note), Zach 6:13, 1 Esd 4:23, 1 Esd 4:1, 2 Par 20:13, Ex 17:11. The two paragraphs on the historical difficulties are tagged vv. 2, 3, 5 (temple, Samaria, Eliachim). Check against scan."
   },
   {
    "id": "judith-005",
