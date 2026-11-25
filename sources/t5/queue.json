@@ -1043,10 +1043,11 @@
     260,
     264
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106069,
-   "claimed": "2026-11-25T06:08:15Z"
+   "claimed": "2026-11-25T06:08:15Z",
+   "note": "Printed pp. 250-254 (PDF 260-264). Translated by one worker; checked. Restored from the Vulgate where OCR was damaged: 9:2 'Et steterunt, et confitebantur peccata sua et iniquitates patrum suorum', 9:3 'quater in die', 9:6 'maria et omnia quae in eis sunt; et tu vivificas omnia haec', 9:18 'vitulum conflatilem', 'qui te eduxit de Aegypto', 9:20 'spiritum tuum bonum', 9:37 'propter peccata nostra'. Denis's readings noted: 9:5 'Domino viventi', 9:20 'duceret' (edition footnote only partly legible), 9:36 'et tributarii'. Margin guesses: Ex 14:19 (margin 'nenet'), Judg 3:15 and 6:7 (margin illegible), 2 Par 33:11 for printed 'I Par. xxxi, 11'. Untagged: 'nec vindicas bis in idipsum' (Nah 1:9?, no margin note)."
   },
   {
    "id": "ezra-010-2",
