@@ -294,10 +294,11 @@
     141,
     143
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104019,
-   "claimed": "2026-11-25T03:42:04Z"
+   "claimed": "2026-11-25T03:42:04Z",
+   "note": "First article of Judith: new commentary file judith.json (work title 'Enarratio in librum Judith' taken from the running head 'IN LIBRUM JUDITH'; no Judith prooemium seen before PDF 141). Printed pp. 131-133 assumed (PDF = p. + 10). The OCR of 1:11-12 is badly garbled: the lemma words there are restored from the Vulgate (note in text); Denis's gloss 'per propriam potestatem ... dignissima' read through the damage. The Douay-Rheims at 1:2 has the walls 'seventy cubits broad, and thirty cubits high', the reverse of the Vulgate and Denis (note in text). Margin numerals much misread, resolved by sense: Dan 4:27, Gen 10:10, Ezech 29:3, Jos 11:4, Judg 1:19, 4:3 (ref-only), 1 Esd 4:6, 4:7 (ref-only), Is 10:5 (ref-only), Is 7:8, 1 Esd 1:2, 1 Esd 4:21 (margin iv, 6-22) and 4:14 (ref-only), Matt 12:26 (unreadable, ref-only). Latin read: 'filio Astyagis' (OCR 'filie'); kept 'rege Persarum' for Astyages (note). Check against scan."
   },
   {
    "id": "judith-002",
