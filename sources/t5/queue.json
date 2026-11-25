@@ -1752,10 +1752,11 @@
     423,
     424
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108116,
-   "claimed": "2026-11-25T06:38:05Z"
+   "claimed": "2026-11-25T06:38:05Z",
+   "note": "Published (Psalm 1, anagogical exposition, with Denis's closing prayer; printed pp. 413-414 assumed, PDF = p. + 10). Translated without workers. Quoted: Acts 1:10, Luke 10:18, Is 14:12 (margin unread, Denis names Isaias); Ps 35:9 ref-only. The prayer and the closing exhortation are untagged."
   },
   {
    "id": "psalms-012",
