@@ -1402,10 +1402,11 @@
     381,
     383
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101102,
-   "claimed": "2026-11-25T02:53:14Z"
+   "claimed": "2026-11-25T02:53:14Z",
+   "note": "Printed pp. 371-373 assumed (PDF = p. + 10). Margin numerals mostly unread, resolved by sense (with notes): 1 Mach 6:28, 6:30, 6:18 (vi, unread verse), 2 Mach 11:13, Jos 17:16 and Judg 1:19 (half read), 2 Mach 4:23 (iv, 23-29), 1 Mach 1:12 (i, 12-14), 1 Mach 6:43, 6:55. Printed footnote 'quatuor' for 'quatuordecim' (v. 15) given as a note. OCR readings chosen: 'accesserunt Antiochum' (no 'ad'), 'ne miscearis' (Prov 20:19), 'Gerrenos', 'accepit praesidium seu fidem'. Denis reads 'antequam rex intraret Judaeam' (13:13), 'impingebatur, minuebatur' (13:19). Check against scan."
   },
   {
    "id": "i-maccabees-014-2",
