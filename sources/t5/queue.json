@@ -205,10 +205,11 @@
     122,
     123
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103013,
-   "claimed": "2026-11-25T03:33:08Z"
+   "claimed": "2026-11-25T03:33:08Z",
+   "note": "Chapter 9 (queue guessed 10). Margin 'Exod. xiii, 3' does not fit the seventh-year law: tagged Ex 21:2 with a note. 'textus correctus ... in civitate Medorum' (Tob 3:7) given as ref-only with a note. Check against scan."
   },
   {
    "id": "tobit-010",
@@ -219,10 +220,11 @@
     123,
     125
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103014,
-   "claimed": "2026-11-25T03:33:18Z"
+   "claimed": "2026-11-25T03:33:18Z",
+   "note": "Margin numerals corrected by sense (with notes): Prov 10:1 (printed 'x, t'), Tob 5:21 (printed 'v, 31'), Gen 18:12 (printed 'xviii, 19'), Luke 4:23 (printed '19, 23'), Ecclus 30:4-6, Eph 5:23; 'Tob. v, 23' note placed after the staff clause. v. 5 garbled OCR read as 'Omnia, jam prælibata, simul in te uno' ('prælibata' a guess). Check against scan."
   },
   {
    "id": "tobit-011",
