@@ -1027,10 +1027,11 @@
     295,
     299
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101077,
-   "claimed": "2026-11-25T01:38:44Z"
+   "claimed": "2026-11-25T01:38:44Z",
+   "note": "Printed pp. 285-289 assumed (PDF = p. + 10). Margin numerals much misread; to check against the scan: first note '1 Mach iii ... et seq.' only partly legible (1 Mach 3:38 used); 2 Mach 8:9 (Gorgias, printed 'I Mach. viii, 9'); Deut 25:2 (margin 25:3); 1 Esd 6:16 (margin 6:18); Ecclus 35:21 loosely quoted. Denis's readings quaerebant (4:5), illi (4:45), munivit Bethsuram (4:61) noted."
   },
   {
    "id": "i-maccabees-005",
