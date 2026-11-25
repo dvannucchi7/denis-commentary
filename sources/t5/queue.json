@@ -2141,10 +2141,11 @@
     495,
     498
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108142,
-   "claimed": "2026-11-25T07:13:17Z"
+   "claimed": "2026-11-25T07:13:17Z",
+   "note": "Printed pp. 485-488 (PDF 495-498, p. + 10 assumed). Translated without workers. Margin numerals resolved by sense: John 19:19 ('Joann. xix'), John 17:5, Phil 3:20, Luke 22:32, John 17:24 + 12:26 (Denis joins them), Heb 5:7, Luke 19:10, Ezech 18:21-22 (ref-only; liturgical form, noted), Ps 76:11, Rom 9:25 + Osee 2:24 (noted), Is 55:5, Is 65:15, Num 18:20, Deut 10:9, 18:2, Jos 13:33 (ref-only), John 6:44, 6:37, Eph 1:4, 1:6, Acts 13:48, Matt 22:14, Luke 12:32, John 10:15 (ref-only), Luke 10:21, Eph 4:10 (ref-only), Phil 2:10, 1 Cor 2:9 + Is 64:4, Acts 2:25 (ref-only). Closing paragraph (Peter in Acts) untagged."
   },
   {
    "id": "psalms-039",
