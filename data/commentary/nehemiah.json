@@ -657,6 +657,64 @@
      }
     ]
    }
+  ],
+  "10": [
+   {
+    "num": "X",
+    "title": "Declaratio capituli decimi: Signatores autem fuerunt Nehemias Athersatha filius Hachelai, etc.",
+    "title_en": "Declaration of the tenth chapter: And the subscribers were Nehemias, Athersatha the son of Hachelai, etc.",
+    "pages": "pp. 255–256",
+    "paras": [
+     {
+      "v": [
+       1,
+       27
+      ],
+      "t": "Signatores autem, id est sigillatores litteræ nostræ pactionis, de qua in fine præcedentis habetur capituli, fuerunt: Nehemias, qui alio nomine dictus est Athersatha: qui fuit sacerdos, sicut et ceteri in textu consequenter expressi, qui secum sigillaverunt. Deinde nominantur in littera Levitæ et capitanei signatores.",
+      "en": "[[10:1|And the subscribers|Signatores autem]], that is, the sealers of the writing of our covenant, of which we read at the end of the preceding chapter[[9:38||]], [[10:1|were Nehemiah|fuerunt: Nehemias]], who by another name was called [[10:1|Athersatha|Athersatha]]: who was a priest, as were the others named next in the text, who sealed with him. Then the Levites and the chief men who signed are named in the text."
+     },
+     {
+      "v": [
+       29,
+       31
+      ],
+      "t": "Ut ambularent, id est conversarentur, in lege Domini. Et explicantur quædam in singulari, quæ promiserunt servare, quum subditur: et ut non daremus filias nostras in uxores populo terræ, id est Samaritanis, ceterisve gentilibus. Secundum fuit, quod non emerent aliquid a gentibus, venalia sua portantibus in die sabbati, neque in alia die sanctificata, id est solenni. Et hoc est quod dicitur: Populi quoque terræ qui important venalia, non accipiemus ab eis sabbato, etc. Cur ergo Christiani suas mercationes non relinquunt diebus dominicis et festivis? Dimittemus annum septimum, id est, agros nostros non seminabimus saltem ad proprium usum tantum septimo anno, juxta illud Levitici: Sex annis seres agrum tuum, et sex annis putabis vineam tuam, et colliges fructus ejus. Septimo anno sabbatum erit terræ requietionis Domini: agrum non seres, et vineam non putabis.",
+      "en": "[[10:29|That they would walk|Ut ambularent]], that is, live, [[10:29|in the law of God|in lege Domini]]. And certain things which they promised to keep are set out one by one, when it is added: [[10:30|And that we would not give our daughters|et ut non daremus filias nostras]] as wives [[10:30|to the people of the land|populo terræ]], that is, to the Samaritans or the other Gentiles. The second was that they would buy nothing from the Gentiles who brought their wares for sale on the sabbath day, nor on any other sanctified, that is, solemn, day. And this is what is said: [[10:31|the people of the land bring in things to sell|Populi quoque terræ qui important venalia]], [[10:31|that we would not buy them on the sabbath|non accipiemus ab eis sabbato]], etc. Why then do Christians not leave off their trading on Sundays and feast days? [[10:31|And that we would leave the seventh year|Dimittemus annum septimum]], that is, we will not sow our fields, at least for our own use only, in the seventh year, according to that saying of Leviticus: [[Lev 25:3|Six years thou shalt sow thy field and six years thou shalt prune thy vineyard, and shalt gather the fruits thereof|sex annis putabis vineam tuam, et colliges fructus ejus]]. [[Lev 25:4|in the seventh year there shall be a sabbath to the land, of the resting of the Lord. Thou shalt not sow thy field, nor prune thy vineyard|Septimo anno sabbatum erit terræ requietionis Domini: agrum non seres, et vineam non putabis]]."
+     },
+     {
+      "v": [
+       32,
+       32
+      ],
+      "t": "Et statuemus super nos præcepta, hoc est, observantiis præceptorum subjiciemus corda nostra, et demus tertiam partem sicli per annum, id est, quolibet anno quivis qui habet, offerat tertiam partem sicli: quæ pecunia colligebatur die sequente ultimam diem festi Tabernaculorum, sicut istud expositum est supra.",
+      "en": "[[10:32|And we made ordinances for ourselves|Et statuemus super nos præcepta]], that is, we will subject our hearts to the observance of the commandments, [[10:32|to give the third part of a sicle every year|et demus tertiam partem sicli per annum]], that is, every year whoever has the means is to offer the third part of a sicle: which money was collected on the day following the last day of the feast of Tabernacles[[8:18||]], as was explained above."
+     },
+     {
+      "v": [
+       34,
+       34
+      ],
+      "t": "Sortes ergo misimus super oblationem lignorum inter sacerdotes et Levitas et populum, ut inferrent in domum Dei nostri; id est, per sortium eventum quæsivimus determinationem et certificationem, quis, quando et qualiter deberet adducere ligna, quibus nutriendus fuit ignis in altari holocaustorum jugiter ardens: quæ ligna apponere igni, ad sacerdotes spectabat, juxta illud: Ignis in altari semper ardebit, quem nutriet sacerdos, subjiciens ligna mane per singulos dies. Levitæ vero sacerdotibus subserviebant. Adducere autem ligna ad hoc, fuit Nathinæorum officium, ut legitur in Josue libro; sed solutio pretii pro hujusmodi lignis, pertinebat ad populum.",
+      "en": "[[10:34|And we cast lots among the priests, and the Levites, and the people for the offering of wood, that it might be brought into the house of our God|Sortes ergo misimus super oblationem lignorum inter sacerdotes et Levitas et populum, ut inferrent in domum Dei nostri]]; that is, by the outcome of lots we sought a settled and certain decision as to who should bring the wood, and when and how, with which the fire burning continually on the altar of holocausts was to be fed: and it fell to the priests to put this wood on the fire, according to that saying: [[Lev 6:12|the fire on the altar shall always burn, and the priest shall feed it, putting wood on it every day in the morning|Ignis in altari semper ardebit, quem nutriet sacerdos, subjiciens ligna mane per singulos dies]]. The Levites, for their part, served the priests. But bringing the wood for this was the office of the Nathinites, as we read in the book of Josue[[Jos 9:21||]][[Jos 9:27||]] [the margin's verse numbers are hard to read; Josue 9 tells how the Gabaonites were made hewers of wood for the altar]; while paying the price of such wood belonged to the people."
+     },
+     {
+      "v": [
+       35,
+       37
+      ],
+      "t": "Et ut afferremus primogenita terræ nostræ, id est, primos seu primitivos fructus agrorum nostrorum adduceremus ad offerendum hos Domino: quemadmodum in Levitico et Deuteronomio legitur; et primitiva fructus omnis ligni, id est primos arborum fructus qui erant Domino offerendi, et primitiva filiorum nostrorum. Primogeniti enim omnium tribuum Israel, dempta tribu Levi, offerebantur Deo in templo, et statim redimebantur pretio. Nempe ex tempore quo Dominus percussit omne primogenitum in terra Ægypti, sanctificavit sibi seu offerri deputavit omne primogenitum filiorum Israel, tam in hominibus quam in jumentis, prout in Exodo legitur. Et pecorum nostrorum. Primogenita enim pecorum secundum legem offeribilium, immolabantur, atque in usum sacerdotum venerunt. Primogenitum autem asini interficiebatur, vel ove commutabatur. Sed primogenita canum occidebantur, et ceterorum animalium primogenita pretio redimebantur. Et primitias ciborum nostrorum et libaminum, id est potuum, et decimam partem terræ nostræ, id est terræ nascentium, dabimus Levitis: qui sustentabantur decimis, sicut sacerdotes sacrificiis.",
+      "en": "[[10:35|And that we would bring the firstfruits of our land|Et ut afferremus primogenita terræ nostræ]], that is, that we would bring the first or earliest fruits of our fields to offer them to the Lord: as we read in Leviticus[[Lev 23:10||]] and Deuteronomy[[Deut 26:2||]]; [[10:35|and the firstfruits of all fruit of every tree|et primitiva fructus omnis ligni]], that is, the first fruits of the trees, which were to be offered to the Lord, [[10:36|And the firstborn of our sons|et primitiva filiorum nostrorum]]. For the firstborn of all the tribes of Israel, the tribe of Levi excepted, were offered to God in the temple, and at once redeemed for a price. For indeed, from the time when the Lord struck every firstborn in the land of Egypt, he sanctified to himself, that is, appointed to be offered, every firstborn of the children of Israel, both of men and of beasts, as we read in Exodus[[Ex 13:2||]]. [[10:36|and of our cattle|Et pecorum nostrorum]]. For the firstborn of the cattle that might be offered according to the law were sacrificed, and went to the use of the priests[[Num 18:17||]][[Num 18:18||]]. But the firstborn of an ass was killed, or exchanged for a sheep[[Ex 13:13||]]. The firstborn of dogs, however, were killed[[Deut 23:18||]] [the margin seems to read Deut. xxi, 13, which does not fit; perhaps Deut 23:18, which forbids offering the price of a dog in the house of the Lord], and the firstborn of the other animals were redeemed for a price[[Num 18:15||]]. [[10:37|And that we would bring the firstfruits of our meats, and of our libations|Et primitias ciborum nostrorum et libaminum]], that is, of drinks, [[10:37|and the tithes of our ground|et decimam partem terræ nostræ]], that is, of what springs from the ground, we will give [[10:37|to the Levites|Levitis]]: who were maintained by the tithes, as the priests were by the sacrifices."
+     },
+     {
+      "v": [
+       38,
+       38
+      ],
+      "t": "Erit autem sacerdos de filiis Aaron, cum Levitis in decimis Levitarum, id est, aliquis sacerdos ex semine Aaron natus aderit, dum Levitæ a populo accipiunt decimas; et Levitæ offerent decimam partem decimæ suæ. Levitæ namque solvebant decimam decimarum pontifici, id est decimam partem decimarum eis a populo præstitarum.",
+      "en": "[[10:38|And the priest the son of Aaron shall be with the Levites in the tithes of the Levites|Erit autem sacerdos de filiis Aaron, cum Levitis in decimis Levitarum]], that is, some priest born of the seed of Aaron shall be present when the Levites receive the tithes from the people[[Num 18:21||]]; [[10:38|and the Levites shall offer the tithe of their tithes|et Levitæ offerent decimam partem decimæ suæ]]. For the Levites paid the tithe of the tithes to the high priest[[Num 18:26||]][[Num 18:28||]], that is, the tenth part of the tithes given to them by the people."
+     }
+    ]
+   }
   ]
  }
 }

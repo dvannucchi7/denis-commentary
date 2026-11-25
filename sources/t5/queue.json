@@ -1057,10 +1057,11 @@
     265,
     266
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106070,
-   "claimed": "2026-11-25T06:10:58Z"
+   "claimed": "2026-11-25T06:10:58Z",
+   "note": "Printed pp. 255-256 (PDF 265-266). Translated without workers. Margin numerals mostly misread; resolved by sense: 9:38 and 8:18 (ref-only), Jos 9:21, 27 (margin 'Josue ix', numbers unclear), Lev 23:10 and Deut 26:2 for firstfruits, Num 18:15, 17-18, 21, 26, 28. Margin 'Deut. xxi, 13' beside the firstborn of dogs does not fit: given as Deut 23:18 with a note (check). Denis treats vv. 1-38, not v. 39."
   },
   {
    "id": "ezra-011",
