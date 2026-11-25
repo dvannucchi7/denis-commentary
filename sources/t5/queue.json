@@ -70,10 +70,11 @@
     47,
     55
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 100004,
-   "claimed": "2026-11-25T01:10:44Z"
+   "claimed": "2026-11-25T01:10:44Z",
+   "note": "Margin numerals much misread; reconstructed refs to check against scan: David consulting the Lord (1 Kings 23:2, 23:4, 30:8; 2 Kings 2:1, 5:19, 5:23, 21:1), Eliphaz's vision Job 4:12, Tobias's consolation Tob 11:20, 'Oratio justi penetrat' Ecclus 35:21 (wording differs), 'pleni dierum' Gen 25:8/35:29; 42:8 printed 'offeret' (margin variant 'offerte')."
   },
   {
    "id": "tobit-001",
