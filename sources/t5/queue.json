@@ -1416,9 +1416,10 @@
     383,
     385
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 101103
+   "order": 101103,
+   "claimed": "2026-11-25T02:55:53Z"
   },
   {
    "id": "i-maccabees-015-2-part1",
