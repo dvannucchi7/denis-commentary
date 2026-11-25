@@ -1721,10 +1721,11 @@
     419,
     422
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108114,
-   "claimed": "2026-11-25T06:33:20Z"
+   "claimed": "2026-11-25T06:33:20Z",
+   "note": "Printed pp. 409-412 (PDF 419-422). Translated without workers. OCR-garbled lemmata (1:1 'Zeatus', 1:2, 1:3 'folium ejus non defluet', 1:4 'Sed tanquam pulvis', 1:5) rebuilt from the Vulgate; at 1:5 Denis's gloss shows he reads 'consilio justorum' (noted). Margin numerals mostly misread, resolved by sense: Matt 4:6, 4:9, Is 11:2, Gen 3:12, John 8:29, 8:49-50, Mark 14:36 (margin Matt 26:39, noted), Is 55:11 with Is 45:23 (noted), John 3:34, 1 John 2:6, Ps 138:22, Matt 25:32, Luke 3:17, Matt 25:41, Mich 6:8, Job 34:4, 34:17. Guesses with notes: Matt 15:12 ('... th, 12'), John 6:52 (margin vi, 53), Heb 12:23 (margin 'Hebr. xii')."
   },
   {
    "id": "psalms-010",
