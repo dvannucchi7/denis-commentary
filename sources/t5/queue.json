@@ -1991,9 +1991,10 @@
     467,
     476
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108132
+   "order": 108132,
+   "claimed": "2026-11-25T06:56:03Z"
   },
   {
    "id": "psalms-029",
