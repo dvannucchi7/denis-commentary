@@ -1811,10 +1811,11 @@
     433,
     435
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108120,
-   "claimed": "2026-11-25T06:41:45Z"
+   "claimed": "2026-11-25T06:41:45Z",
+   "note": "Published (Psalm 3, allegorical exposition; printed pp. 423-425 assumed, PDF = p. + 10). Translated without workers. Margin numerals resolved by sense: Ps 40:10, Matt 9:15 ref-only (Denis's words nearer Mark 2:19: noted), John 13:27, Mark 2:7, Matt 11:19, John 10:20 ref-only, 1 Cor 11:3, Matt 3:16-17 ref-only, John 17:5, 17:1, Luke 6:12, Matt 26:44 ref-only, Ps 35:7, Matt 26:39, Luke 22:42, Heb 5:7, John 11:41-42, Rom 6:9, Acts 10:41, Matt 26:37, Mark 14:33, Luke 22:44, John 18:4, Ps 15:10."
   },
   {
    "id": "psalms-017",
