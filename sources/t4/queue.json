@@ -942,10 +942,11 @@
     673,
     682
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 62,
-   "claimed": "2026-11-25T00:34:45Z"
+   "claimed": "2026-11-25T00:34:45Z",
+   "note": "Saul/David margin notes in Gregory's passage (v. 30) unread: 1 Kings 15:17, 2 Kings 24:1/15/17 are guesses; v. 1 lemma OCR garbled"
   },
   {
    "id": "job-063",
