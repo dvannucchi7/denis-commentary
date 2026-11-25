@@ -577,10 +577,11 @@
     193,
     194
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105038,
-   "claimed": "2026-11-25T05:14:07Z"
+   "claimed": "2026-11-25T05:14:07Z",
+   "note": "Printed pp. 183-184 assumed (PDF = p. + 10). OCR garbled in places (4:1 'Quae quum audisset', 4:3 'In omnibus quoque provinciis, oppidis ac locis', 4:14 'et tu et domus tua peribitis'), read with the Vulgate. Denis reads 'pro cunctis Judaeis' (4:13) and 'domus tua' (4:14) (notes in text). Margin refs (ref-only): Job 1:20, Job 2:12 (margin 'ii, 12' partly unread); Jer 6:26 quoted (margin misread as 'Jer. xi, 3'). The paragraph on vv. 4-11 is tagged without v. 9. Check against scan."
   },
   {
    "id": "esther-005",
