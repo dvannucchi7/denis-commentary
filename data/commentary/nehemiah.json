@@ -542,6 +542,49 @@
      }
     ]
    }
+  ],
+  "7": [
+   {
+    "num": "VII",
+    "title": "Expositio capituli septimi: Postquam autem ædificatus est murus",
+    "title_en": "Exposition of the seventh chapter: Now after the wall was built",
+    "pages": "pp. 247–248",
+    "paras": [
+     {
+      "t": "Sententia hujus capituli quasi tota contenta est supra. Præmittitur tamen hic aliquid, quod ibi non legitur.",
+      "en": "The substance of this chapter is almost wholly contained above[[1 Esd 2:1||]]. Yet something is set first here which is not read there."
+     },
+     {
+      "v": [
+       1,
+       4
+      ],
+      "verses": [
+       1,
+       3,
+       4
+      ],
+      "t": "Postquam autem ædificatus est murus Jerusalem, prout præcedenti habetur capitulo, et posui valvas, id est portas seu januas, in portarum structuris seu in templo, et recensui, id est numeravi, janitores et cantores templi, et Levitas; et dixi: Non aperiantur portæ Jerusalem usque ad calorem solis, id est, quousque sol notabiliter super nostrum horizontem ascendat, ita quod calor ex reflexione radiorum solarium causetur in terra. Quumque adhuc adsisterent mihi viri, quibus hæc dixi, portæ Jerusalem clausæ sunt ante solis occasum, et oppilatæ, id est obturatæ ad insultum hostium repellendum. Nam pauci adhuc in Jerusalem morabantur. Et posui custodes ad vigilandum per noctes, secundum vices suas et ex opposito domorum suarum in muro. Et non erant domus ædificatæ ad sufficientiam.",
+      "en": "[[7:1|Now after the wall was built|Postquam autem ædificatus est murus]] of Jerusalem, as we have it in the preceding chapter[[2 Esd 6:15||]], [[7:1|and I had set up the doors|et posui valvas]], that is, the gates or doors, in the structures of the gates or in the temple, [[7:1|and numbered the porters and singing men, and Levites|et recensui janitores, et cantores, et Levitas]] of the temple; [[7:3|And I said to them|et dixi]]: [[7:3|Let not the gates of Jerusalem be opened till the sun be hot|Non aperiantur portæ Jerusalem usque ad calorem solis]], that is, until the sun has risen well above our horizon, so that heat is caused on the earth by the reflection of the sun's rays. [[7:3|And while they were yet standing by|Quumque adhuc adsisterent]] me, the men to whom I said this, [[7:3|the gates were shut|portæ Jerusalem clausæ sunt]] before sunset, [[7:3|and barred|et oppilatæ]], that is, blocked up to repel an assault of the enemy. For few as yet dwelt in Jerusalem. [[7:3|and I set watchmen|Et posui custodes]] to keep watch by night, [[7:3|every one by their courses, and every man over against his house|secundum vices suas et ex opposito domorum suarum]] on the wall. [[7:4|and the houses were not built|Et non erant domus ædificatæ]] in sufficient number."
+     },
+     {
+      "v": [
+       5,
+       6
+      ],
+      "t": "Deus autem dedit in corde meo, id est, inspiravit mihi ut facerem quod subditur: et congregavi optimates et magistratus et vulgus, ut recenserem eos, id est numerarem, sicque disponerem de populatione urbis Jerusalem; et inveni librum census, id est numerationis, eorum qui ascenderant primum, id est, cum Zorobabel de Babylonia redierunt in prima licentia a Cyro data, et inventum est scriptum in eo, id est in libro illo: Isti filii provinciæ qui ascenderunt de captivitate, etc. Ista verba scripta sunt ab Esdra, ibique exposita, eademque summa totius multitudinis hic et ibi exprimitur; sed quædam nomina variantur, quoniam multi eorum duo aut plura nomina habuerunt.",
+      "en": "[[7:5|But God had put in my heart|Deus autem dedit in corde meo]], that is, inspired me to do what follows: [[7:5|and I assembled the princes and magistrates, and common people|et congregavi optimates et magistratus et vulgus]], [[7:5|to number them|ut recenserem eos]], that is, to count them, and so to make arrangements for peopling the city of Jerusalem; [[7:5|and I found a book of the number of them who came up at first|et inveni librum census, id est numerationis, eorum qui ascenderant primum]], that is, who returned from Babylonia with Zorobabel under the first leave given by Cyrus, [[7:5|and therein it was found written|et inventum est scriptum in eo]], that is, in that book: [[7:6|These are the children of the province, who came up from the captivity|Isti filii provinciæ qui ascenderunt de captivitate]], etc. These words were written by Esdras[[1 Esd 2:1||]] and expounded there, and the same total of the whole multitude is given here and there; but some names vary, since many of them had two or more names."
+     },
+     {
+      "v": [
+       70,
+       70
+      ],
+      "t": "Nonnulli autem de principibus familiarum dederunt in opus. Hoc est quod supra scriptum est: Et de principibus patrum, quum ingrederentur templum Domini quod est in Jerusalem, sponte obtulerunt in domum Dei ad exstruendam eam in impensas operis auri solidos sexaginta millia, etc. Verumtamen quæ ibi dicuntur quasi in generali, hic specialius exprimuntur: et ita quantum ad particulares descriptiones, differentia invenitur inter verba hujus passus atque illius.",
+      "en": "[[7:70|And some of the heads of the families gave unto the work|Nonnulli autem de principibus familiarum dederunt in opus]]. This is what was written above: [[1 Esd 2:68|And some of the chief of the fathers, when they came to the temple of the Lord, which is in Jerusalem, offered freely to the house of the Lord to build it|Et de principibus patrum, quum ingrederentur templum Domini quod est in Jerusalem, sponte obtulerunt in domum Dei ad exstruendam eam]], [[1 Esd 2:69|they gave towards the expenses of the work|in impensas operis]] sixty thousand solids of gold, etc. Yet what is said there as it were in general is set out here more particularly: and so, as regards the particular descriptions, a difference is found between the words of this passage and of that."
+     }
+    ]
+   }
   ]
  }
 }

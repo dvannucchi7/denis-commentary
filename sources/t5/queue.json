@@ -1012,10 +1012,11 @@
     257,
     258
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106067,
-   "claimed": "2026-11-25T06:02:36Z"
+   "claimed": "2026-11-25T06:02:36Z",
+   "note": "Printed pp. 247-248 assumed (PDF = p. + 10). Margin notes on PDF 257 mostly unread; references given by sense: 1 Esd 2:1, 2 Esd 6:15, 1 Esd 2:68-69."
   },
   {
    "id": "ezra-008-2",
