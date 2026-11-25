@@ -906,10 +906,11 @@
     239,
     245
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106060,
-   "claimed": "2026-11-25T05:47:33Z"
+   "claimed": "2026-11-25T05:47:33Z",
+   "note": "Printed pp. 229-230 (PDF 239-240; PDF 241-244 blank or the 2 Esdras title, so their unread margins do not matter). Translated without workers. Margin numerals resolved by sense: Luke 18:13 (ref-only), Luke 4:23 (printed 'Luc. iv, 3'?), Mal 2:16 (printed 'Malach. ii'), Matt 19:8 ref-only for the bill of divorce (margin 'Matth. xs,', verse unread: check). Edition footnote 'Chisleus, Casleu' on Denis's 'Sileos' given as a translator's note. Denis reads 'discernere' at 10:4 (Vulgate 'decernere'): noted."
   },
   {
    "id": "ezra-001-2",
