@@ -369,10 +369,11 @@
     151,
     152
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104024,
-   "claimed": "2026-11-25T03:50:56Z"
+   "claimed": "2026-11-25T03:50:56Z",
+   "note": "Printed pp. 141-142 assumed (PDF = p. + 10). OCR garbled at 6:4-6 and the end of 6:9: the lemma words there ('dominus universae terrae. Tuncque gladius militiae meae transiet', 'vultus tuus, et pallor qui faciem tuam', 'ipse simul ultioni subjaceas', 'ad dominum suum') are restored from the Vulgate (notes in text). Margin: Ex 12:43, 48 (printed 'Exod. xii, 43, 48'), 2 Cor 1:11. Check against scan."
   },
   {
    "id": "judith-007",
