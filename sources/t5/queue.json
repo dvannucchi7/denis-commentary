@@ -997,10 +997,11 @@
     284,
     290
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101075,
-   "claimed": "2026-11-25T01:25:45Z"
+   "claimed": "2026-11-25T01:25:45Z",
+   "note": "Printed pp. 274-280 assumed (PDF = p. + 10). Margin numerals much misread; references worked out from the Latin, to check against the scan: Matt 12:2 (sabbath list, a guess), 2 Mach 6:11 (margin 'II Mach. vi'), 4 Kings 2:11, 1 Mach 9:18 (margin 'ix, 15'), Ps 25:1 (margin 'xxv, 4'). Footnote variants Joarim/Joarib (2:1) and peribit/periit (2:63) explained in notes."
   },
   {
    "id": "i-maccabees-003",
