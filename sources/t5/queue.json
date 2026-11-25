@@ -681,10 +681,11 @@
     204,
     205
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 105045,
-   "claimed": "2026-11-25T05:27:04Z"
+   "claimed": "2026-11-25T05:27:04Z",
+   "note": "Printed pp. 194-195 (PDF 204-205). Translated without workers. Latin restored from garbled OCR in 11:8 ('tenebrarum'; 'et ingens formido super terram') and 11:9 ('Conturbataque est gens justorum ... timentium mala sua'): check against scan. Margin numerals resolved by sense, all ref-only: Esth 10:5 ('Esther x, 5-13'), 2:6 ('Ibid. ii, 5, 6'), 10:7, 3:13 ('Esther iii'), 8:11 ('Ibid. viii'), 10:6, 8:15; 8:16 quoted ('visa est Judaeis lux nova oriri')."
   },
   {
    "id": "esther-012",
