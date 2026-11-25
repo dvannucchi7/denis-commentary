@@ -1992,10 +1992,11 @@
     467,
     476
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108132,
-   "claimed": "2026-11-25T06:56:03Z"
+   "claimed": "2026-11-25T06:56:03Z",
+   "note": "Printed pp. 457-466 (PDF 467-476, p. + 10 assumed). Two workers (split at v. 20). Margin readings resolved by sense, with notes: Wis 12:18 ('Sap. xi, 18'), Is 30:18 ('Is. xxx, 19'), John 20:30 + 21:25, Dan 7:25 (7:26 noted), Luke 1:33 ('Luc. i, 32'), Ps 50:6; unread notes taken as Matt 24:29, Amos 3:6, Num 21:33, Luke 21:34 (ref-only). Unreadable note beside 'versutia daemonum' left with a bracketed note; 'Zia. vii' read as 1 Tim 6:8 (ref-only, noted). A line may be missing at a column break after 'diriget eum in omnibus' (v. 26): check the scan. Closing moral paragraph tagged vv. 23, 24, 26 (it applies those lemmata). DR data slip: John 21:25 'the world itself. I think' should have a comma."
   },
   {
    "id": "psalms-029",
