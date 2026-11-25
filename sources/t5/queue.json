@@ -1840,9 +1840,10 @@
     437,
     440
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108122
+   "order": 108122,
+   "claimed": "2026-11-25T06:43:41Z"
   },
   {
    "id": "psalms-019",
