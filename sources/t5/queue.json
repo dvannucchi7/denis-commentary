@@ -1192,10 +1192,11 @@
     331,
     332
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101088,
-   "claimed": "2026-11-25T02:11:06Z"
+   "claimed": "2026-11-25T02:11:06Z",
+   "note": "Printed pp. 321-322 assumed (PDF = p. + 10). First word damaged in the scan ('orsi:'), read as 'Cursus' (noted in the text). Margin numerals misread: 'Num. xxxiv, 9, 6' taken as Num 34:6, 'Josue xiii, 3' as Jos 13:3 (both reference-only). Footnote '* regi' at 15:8 (Denis's text 'regia') noted. Denis reads Cedronem for Gedorem (15:39), vindicavimus (15:34). Check against scan."
   },
   {
    "id": "i-maccabees-016",
