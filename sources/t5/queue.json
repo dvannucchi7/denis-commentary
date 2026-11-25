@@ -428,9 +428,10 @@
     164,
     166
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 104028
+   "order": 104028,
+   "claimed": "2026-11-25T04:41:28Z"
   },
   {
    "id": "judith-011",
