@@ -861,10 +861,11 @@
     233,
     235
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106057,
-   "claimed": "2026-11-25T05:44:19Z"
+   "claimed": "2026-11-25T05:44:19Z",
+   "note": "Printed pp. 223-225 (PDF 233-235). Translated without workers. Latin restored from garbled OCR in 7:10 ('cor suum ut investigaret'), 7:12 ('Esdrae ... doctissimo salutem'), 7:14 ('missus es'): check against scan. Margin numerals resolved by sense: Jas 4:17 (read 'Jacob. iv, 17'), Tob 13:3-4 (quoted); ref-only Ex 28:1 (margin 'Exod.' only), 1 Par 6:3 (margin 'I Par. vi, 3-15'?), Esth 1:13-14, Ezech 45:11 (read 'xlv, 11')."
   },
   {
    "id": "ezra-008",
