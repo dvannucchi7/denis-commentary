@@ -1932,10 +1932,11 @@
     454,
     458
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108128,
-   "claimed": "2026-11-25T06:49:43Z"
+   "claimed": "2026-11-25T06:49:43Z",
+   "note": "Printed pp. 444-448 (PDF 454-458, p. + 10 assumed). Translated without workers. Margin notes resolved by sense: Is 52:13 ('/5.10,13'), Is 45:8, Matt 11:19 / John 10:20 / Luke 11:15, Luke 23:2, Luke 23:34, Cant 8:1-2, Wis 2:17-18 (ref-only), Ezech 21:3, 30:24, 32:10 (ref-only), Luke 11:15 and John 12:10-11 (ref-only), Matt 27:25, John 10:16. Beside Judas 'brother of men' the margin is half unread ('Matth. xxvi?', 'Id. xxviii?', 'Marc. iii, 34, 35'): given as Matt 28:10 + Mark 3:35, ref-only; Dave may check the scan. Margin cites St Thomas II-II q. 17 (noted)."
   },
   {
    "id": "psalms-025",
