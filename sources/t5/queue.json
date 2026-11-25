@@ -173,10 +173,11 @@
     118,
     119
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 103011,
-   "claimed": "2026-11-25T03:26:12Z"
+   "claimed": "2026-11-25T03:26:12Z",
+   "note": "Printed pp. 108-109 assumed (PDF = p. + 10). Chapter is 7 (chapter_guess said 8). Douay verse numbers of 7:3-7 differ from the Vulgate's; tags and lemmata follow the Douay. Margin numerals misread, resolved by sense: Gen 18:2 (margin unreadable, apparently 'Gen. xviii ... et seq.', ref-only, note), Gen 46:29 (printed 'Ibid. xlvi, 29'), Gen 24:33, Ecclus 26:3, Prov 19:14, Num 36:8 (verse number unreadable, note). Latin read as 'ex eisdem causis quibus Raguel' (OCR 'qua'). Check against scan."
   },
   {
    "id": "tobit-008",
