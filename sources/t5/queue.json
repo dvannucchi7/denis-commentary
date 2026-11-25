@@ -428,10 +428,11 @@
     164,
     166
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104028,
-   "claimed": "2026-11-25T04:41:28Z"
+   "claimed": "2026-11-25T04:41:28Z",
+   "note": "Printed pp. 154-156 assumed (PDF = p. + 10). OCR garbled at 10:8 ('omne consilium tui cordis sua virtute corroboret, et glorietur ... nomen tuum in numero sanctorum' read with the Vulgate; 'et glorietur' may be 'ut'; note in text). Denis reads 'ascopam' and 'lapates' with marginal variants 'ascoperam', 'palathas' (notes in text). Margin refs: Gen 38:14 (printed 'Gen. xxxvi, 14', ref-only), Is 3:20 (ref-only), Matt 18:7, Jdt 9:1 (printed 'Judith ix', ref-only), 3 Kings 22:15 (margin unreadable, seems 'III Reg. xxii, 12, 15'; note), Rom 13:1. Check against scan."
   },
   {
    "id": "judith-011",
