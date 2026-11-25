@@ -1326,10 +1326,11 @@
     369,
     371
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101097,
-   "claimed": "2026-11-25T02:43:25Z"
+   "claimed": "2026-11-25T02:43:25Z",
+   "note": "Printed pp. 359-361 assumed (PDF = p. + 10). Margin numerals much misread, resolved by sense: 2 Mach 5:22, 1 Mach 6:14, 2 Mach 9:29, 1 Mach 3:31, 3:38-39, 3:41, 4:6, 4:15, 5:34, 7:8, 11:44/48, Deut 20:2-4 (Denis quotes loosely). Unclear: opening note (1 Mach. iii?) and the note for Eleazar (tagged 1 Mach 2:5), with notes in text. Josephus's name for Joseph read 'Saphum' (unclear in OCR). Num 10:9 tagged without a margin note (Denis names Numbers). Check against scan."
   },
   {
    "id": "i-maccabees-009-2",
