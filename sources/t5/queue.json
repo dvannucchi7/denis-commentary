@@ -607,10 +607,11 @@
     196,
     198
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 105040,
-   "claimed": "2026-11-25T05:17:34Z"
+   "claimed": "2026-11-25T05:17:34Z",
+   "note": "Printed pp. 186-188 assumed (PDF = p. + 10). OCR garbled at 6:2 ('ventum est ad illum locum, ubi scriptum erat quomodo nuntiasset Mardochaeus insidias') and 6:12, read with the Vulgate (notes in text); 'solito maturius' read for OCR 'solito manius'. One word lost at PDF 197 right column, the Greek(?) etymon of 'tyrannus' ('a [...], quod est fortis'; OCR 'foris a «ico'): shown as [...] (needs the scan). Denis reads 'regis', 'sicut dixisti', 'uxori' with marginal variants 'regiis', 'ut locutus es', 'uxor ejus' (notes). Margin refs: Esth 5:5, 2:23 (ref-only), Esth 12:5, 12:6, 16:12-14, 8:15, Prov 21:30, Job 5:12 (margin misread as 'Jos'), and ref-only Gen 13:16, 15:5, 22:17, 28:14, Deut 1:10 (margin partly unreadable; note). Check against scan."
   },
   {
    "id": "esther-007",
