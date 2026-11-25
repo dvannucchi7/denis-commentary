@@ -310,10 +310,11 @@
     143,
     144
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 104020,
-   "claimed": "2026-11-25T03:45:18Z"
+   "claimed": "2026-11-25T03:45:18Z",
+   "note": "Published with gaps. Printed pp. 133-134 assumed (PDF = p. + 10). Unreadable OCR: PDF 143 left column, the line after 'ut defenderet se, id est,' and the last line of the column (before '...ciperent se parare'); PDF 143 right column, 'Quod dictum cum placuisset [...]' (reconstructed 'Quod dictum' and the opening 'Anno tertiodecimo regni Nabuchodonosor' from garbled lines and the title); PDF 144 left column top, two lines after 'Egredere' (the lemma 'adversus omne regnum occidentis' and gloss). Readings to check: 'multitudinem' (OCR 'multitudis') in 2:8 with Denis's gloss 'in, id est eum'; 'terrae Collon' (Vulgate Cellon) kept as OCR'd. Margins: Jdt 1:11 (printed 'Judith i, 11', ref-only), Is 57:20, Gen 2:14 (ref-only), Jdt 3:8."
   },
   {
    "id": "judith-003",
