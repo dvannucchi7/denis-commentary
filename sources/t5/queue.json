@@ -1027,10 +1027,11 @@
     258,
     260
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 106068,
-   "claimed": "2026-11-25T06:03:46Z"
+   "claimed": "2026-11-25T06:03:46Z",
+   "note": "Printed pp. 248-250 assumed (PDF = p. + 10). NEEDS SCAN: PDF 258 left column, 8:2 'Attulit ergo Esdras legem coram multitudine in die...' breaks off in the OCR ([...] in text). Garbled lemmata read with the Vulgate: 8:9 'Dixit autem Nehemias (ipse est Athersatha) et Esdras et Levitae interpretantes', 8:10 'qui non praeparaverunt sibi', 8:14 'praecepisse Dominum in manu Moysi' (notes in text). Margin refs resolved by sense: 2 Esd 3:15, Ecclus 3:31, Jer 32:41, Prov 8:31, Lev 23:34/43, 4 Kings 23:22, 2 Esd 10:32."
   },
   {
    "id": "ezra-009-2",
