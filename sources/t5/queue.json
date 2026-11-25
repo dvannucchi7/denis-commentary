@@ -415,10 +415,11 @@
     159,
     164
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 104027,
-   "claimed": "2026-11-25T05:58:20Z"
+   "claimed": "2026-11-25T05:58:20Z",
+   "note": "Printed pp. 149-154 (PDF 159-164). Translated by one worker; checked. OCR-damaged lemmata restored from the Vulgate and the sense (e.g. 9:8 'Respice castra Assyriorum nunc', 9:11 'Erige brachium tuum', 9:14 'Da mihi in animo constantiam...', 9:16 'Non enim in multitudine est virtus tua', 9:17 'Deus caelorum, creator aquarum, et Domine'): check against scan. 'octoginta annorum' kept as printed though Denis's own reckoning gives about 76 (noted). Margin numerals much misread, resolved by sense; guesses (ref-only): Gen 34:26 (Jerome), 34:12, 34:24, 4 Kings 17:6 and 25:1, Ex 10:1 (Pharao, margin illegible), Ex 20:2 and Deut 32:39 at the end. Possible DR slip at Jdt 9:11 ('their wrath' for Vulgate 'iracundia tua'), noted in the text."
   },
   {
    "id": "judith-010",
