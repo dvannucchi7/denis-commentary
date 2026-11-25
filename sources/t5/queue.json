@@ -2021,10 +2021,11 @@
     477,
     480
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 108134,
-   "claimed": "2026-11-25T06:58:49Z"
+   "claimed": "2026-11-25T06:58:49Z",
+   "note": "Printed pp. 467-470 (PDF 477-480). Translated without workers. Heading partly lost in the OCR, completed by the sense (article note). Denis reads 'Pluit' at 10:7 (noted). Margin numerals resolved by sense: Ps 130:1, Prov 25:27, 2 Thess 3:2, 2 Cor 10:17, Gal 6:3, 2 Cor 11:14-15, Prov 14:15, Ecclus 19:4, Acts 1:1, Wis 11:24, Eccles 8:11, 9:3 (margin 'Eccli'), Mal 3:13-14, Deut 8:2, 2 Tim 2:26, Prov 5:22, Matt 22:13, Wis 12:15-16, Gen 22:9, Osee 1:2. Margin 'Ejusdem loci expositio alia' is a side heading."
   },
   {
    "id": "psalms-031",
