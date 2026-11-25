@@ -2257,9 +2257,10 @@
     531,
     532
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
-   "order": 108150
+   "order": 108150,
+   "claimed": "2026-11-25T07:36:08Z"
   },
   {
    "id": "psalms-047",
