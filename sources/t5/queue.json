@@ -1341,10 +1341,11 @@
     371,
     373
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101098,
-   "claimed": "2026-11-25T02:44:46Z"
+   "claimed": "2026-11-25T02:44:46Z",
+   "note": "Printed pp. 361-363 assumed (PDF = p. + 10). Margin numerals much misread, resolved by sense (with notes): Jer 30:11 (printed x, 11), 1 Mach 6:1 (Elymais), Jdt 1:1 and 1 Esd 6:2 (Ecbatana), 1 Mach 6:14, 6:55, 6:56 (partly unread), 1 Mach 6:8, 6:63. OCR readings chosen: 'cælesti eo judicio', 'pessime ... nec ad salutem', 'Judæis ulcisceretur'; 'Elymaides', 'reversabatur' kept as printed. Check against scan."
   },
   {
    "id": "i-maccabees-010-2",
