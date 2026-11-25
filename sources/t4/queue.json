@@ -853,10 +853,11 @@
     637,
     641
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 56,
-   "claimed": "2026-11-25T00:04:41Z"
+   "claimed": "2026-11-25T00:04:41Z",
+   "note": "Published, but faint last lines are lost (PDF 638–639): v. 6 after 'ut usque ad pedum lotionem', and v. 11 after 'conspiciendo opera'; marked […]. Lemmata of vv. 12, 13, 16, 17 rebuilt from garbled OCR with the Vulgate. Margin 'I Par. xix' taken as 2 Par 19:7, 'II Reg. xix, 31' as 2 Kings 19:37 (noted); unread notes filled as Prov 24:11, Is 61:10, Rom 12:5, Rom 15:1, Matt 5:14, and Job 22:9 (reference-only, noted)."
   },
   {
    "id": "job-057",
