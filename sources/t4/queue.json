@@ -971,10 +971,11 @@
     687,
     694
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 64,
-   "claimed": "2026-11-25T00:41:32Z"
+   "claimed": "2026-11-25T00:41:32Z",
+   "note": "OCR lines lost in two places: one at the end of the v. 16 gloss (partly recovered from lines displaced to PDF 690: Hab 2:5 restored), and after Ezech 18:21-22 in the v. 17 gloss; v. 17 spiritual lemma garbled ('Causa […]'). Douay-Rheims data slips: Job 36:13 'prove' (for 'provoke'), Amos 4:7 'upon on city'."
   },
   {
    "id": "job-065-part1",
