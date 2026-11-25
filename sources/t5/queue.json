@@ -1162,10 +1162,11 @@
     325,
     328
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101086,
-   "claimed": "2026-11-25T02:03:26Z"
+   "claimed": "2026-11-25T02:03:26Z",
+   "note": "Printed pp. 315-318 assumed (PDF = p. + 10). Denis's text has 'Tu esto' (13:8), 'in arce' (13:11), 'bainem' with footnote 'bahem' (13:37): noted. Lemma at 13:44 rebuilt from garbled OCR word order. Check against scan."
   },
   {
    "id": "i-maccabees-014",
