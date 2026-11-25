@@ -1001,11 +1001,12 @@
     703,
     711
    ],
-   "status": "todo",
+   "status": "in-progress",
    "source": "ocr",
    "part": 2,
    "parts": 2,
-   "order": 66
+   "order": 66,
+   "claimed": "2026-11-25T00:45:27Z"
   }
  ],
  "pages_cut": 428,
