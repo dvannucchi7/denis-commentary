@@ -1057,10 +1057,11 @@
     302,
     305
    ],
-   "status": "in-progress",
+   "status": "needs-scan",
    "source": "ocr",
    "order": 101079,
-   "claimed": "2026-11-25T01:44:52Z"
+   "claimed": "2026-11-25T01:44:52Z",
+   "note": "Published with two gaps […] on PDF 302 (printed p. 292, assuming PDF−10): the end of the 6:7 lemma after 'et sanctifi-' (probably '…cationem, sicut prius, circumdederunt'), and the Job quotation before 'sunt, in ipso impletum est' (margin Job 22:16). Margins: 2 Mach 13:15 and 13:23 given for bare 'II Mach.' notes; footnote after 'Mauronem' unreadable."
   },
   {
    "id": "i-maccabees-007",
