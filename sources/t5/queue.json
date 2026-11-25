@@ -966,10 +966,11 @@
     251,
     253
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 106064,
-   "claimed": "2026-11-25T05:53:29Z"
+   "claimed": "2026-11-25T05:53:29Z",
+   "note": "Printed pp. 241-243 (PDF 251-253). Translated without workers. OCR garbled the lemma of 4:23 ('CÜ,orispnróvque tiat gn dahbutap and hapiisiitin'), restored from the Vulgate as 'Unusquisque tantum nudabatur ad baptismum'; 4:2 'Quid Judaei fucrunt imbecilles' read 'faciunt' (Vulgate): check both against the scan. An edition footnote mark after 'zelo justitiae' has no readable footnote. Denis reads 'sint vobis vices' (4:22, Vulgate 'nobis'): noted. Spiritual paragraph tagged vv. 13-18."
   },
   {
    "id": "ezra-005-2",
