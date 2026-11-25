@@ -1041,10 +1041,11 @@
     299,
     301
    ],
-   "status": "in-progress",
+   "status": "done",
    "source": "ocr",
    "order": 101078,
-   "claimed": "2026-11-25T01:40:56Z"
+   "claimed": "2026-11-25T01:40:56Z",
+   "note": "Printed pp. 289-291 assumed (PDF = p. + 10). Margin notes much misread; resolved as 1 Esd 4, 5; 2 Esd 2:10, 2:19, 4 (opening); Ex 17:8, Deut 25:18 (Amalecites); Num 10:9 was printed inline. Print reads filios for filias at 5:8 and the singular voluit/exiit at 5:67 (both noted). Check against scan."
   },
   {
    "id": "i-maccabees-006",
